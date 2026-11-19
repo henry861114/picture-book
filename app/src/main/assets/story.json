@@ -1,0 +1,259 @@
+{
+  "title": "Green Island",
+  "subtitle": "牛津阅读树 · Stage 9",
+  "pages": [
+    {
+      "image": "pages/page01.jpg",
+      "segments": [
+        {"en": "Mr Johnson took his class away for the week. They went to a big house called Seabay House.", "zh": "约翰逊老师带着全班同学外出度过一周。他们来到一座叫“西湾小屋”的大房子。"},
+        {"en": "Mrs May went too.", "zh": "梅老师也一起去了。"},
+        {"en": "The children were excited. Seabay House was near the sea and there were lots of interesting things to do.", "zh": "孩子们兴奋极了。西湾小屋靠海，还有很多有趣的事情可以做。"}
+      ]
+    },
+    {
+      "image": "pages/page02.jpg",
+      "segments": [
+        {"en": "Everyone unloaded the bus.", "zh": "大家把行李从公交车上卸下来。"},
+        {"en": "\"Some of these bags and cases are heavy,\" said Mr Johnson. \"We're only here for a week.\"", "zh": "“这些包和箱子有些很重，”约翰逊老师说，“我们只在这里待一周。”"},
+        {"en": "Mrs May found a toothbrush. \"Whose toothbrush is this?\" she asked.", "zh": "梅老师发现了一把牙刷。“这是谁的牙刷？”她问。"},
+        {"en": "\"Oh dear,\" said Biff. \"I think it's mine.\"", "zh": "“哎呀，”比夫说，“我想那是我的。”"}
+      ]
+    },
+    {
+      "image": "pages/page03.jpg",
+      "segments": [
+        {"en": "Mr Johnson showed the boys their room. \"You'll be sleeping in here,\" he said.", "zh": "约翰逊老师带男孩们去看他们的房间。“你们就睡在这里。”他说。"},
+        {"en": "\"I want the top bunk,\" shouted Chip. \"No, I want the top bunk,\" shouted Wilf.", "zh": "“我要上铺！”奇普喊道。“不行，我要上铺！”威尔夫喊道。"},
+        {"en": "Mr Johnson tossed a coin. \"Heads or tails?\" he said.", "zh": "约翰逊老师抛起一枚硬币。“正面还是反面？”他问。"}
+      ]
+    },
+    {
+      "image": "pages/page04.jpg",
+      "segments": [
+        {"en": "Mr Johnson gave the children a map. Then he took the children for a long walk. After a while they stopped for a rest.", "zh": "约翰逊老师给孩子们发了地图，然后带他们去长途散步。走了一会儿，他们停下来休息。"},
+        {"en": "The children looked at their maps. Mr Johnson showed them the places they could see.", "zh": "孩子们查看地图。约翰逊老师指给他们看周围能看到的那些地方。"},
+        {"en": "\"Your map's upside down, Biff,\" said Wilf.", "zh": "“比夫，你的地图拿倒了。”威尔夫说。"}
+      ]
+    },
+    {
+      "image": "pages/page05.jpg",
+      "segments": [
+        {"en": "Nadim pointed to a little island out at sea. \"What's that island called?\" he asked.", "zh": "纳迪姆指着海上的一个小岛。“那个岛叫什么名字？”他问。"},
+        {"en": "\"Look on your maps,\" said Mr Johnson. \"Who can tell me what the island is called?\"", "zh": "“看看你们的地图，”约翰逊老师说，“谁能告诉我这个岛叫什么？”"},
+        {"en": "Chip and Anneena knew. \"It's called Green Island,\" they said.", "zh": "奇普和安妮娜知道。“它叫绿岛。”他们说。"}
+      ]
+    },
+    {
+      "image": "pages/page06.jpg",
+      "segments": [
+        {"en": "Everyone was hungry after the long walk. When they got back it was time for supper.", "zh": "长途散步后，大家都饿了。回到住处时，正好到了晚饭时间。"},
+        {"en": "The children served the food, and then they helped wash up.", "zh": "孩子们帮忙分饭菜，然后又帮忙洗碗。"},
+        {"en": "\"I don't like washing up at home,\" said Wilf, \"but it's fun washing up here.\"", "zh": "“我在家不喜欢洗碗，”威尔夫说，“可在这里洗碗很有趣。”"}
+      ]
+    },
+    {
+      "image": "pages/page07.jpg",
+      "segments": [
+        {"en": "That night the children were tired but they couldn't sleep. Chip kept telling jokes and making silly noises.", "zh": "那天晚上，孩子们很累却睡不着。奇普不停地讲笑话、发出傻乎乎的声音。"},
+        {"en": "In the end, Mr Johnson came in. He was cross with Chip.", "zh": "最后，约翰逊老师走了进来。他对奇普很生气。"},
+        {"en": "\"I'll send you to bed at six o'clock tomorrow, if I hear any more noise.\"", "zh": "“如果我再听到吵闹声，明天六点就打发你上床睡觉。”"}
+      ]
+    },
+    {
+      "image": "pages/page08.jpg",
+      "segments": [
+        {"en": "The next day, the children did a beach study.", "zh": "第二天，孩子们进行海滩考察。"},
+        {"en": "Some children worked with Mr Johnson. They made squares on the beach and looked at everything in each square.", "zh": "一些孩子跟着约翰逊老师。他们在沙滩上画出方格，观察每个方格里的所有东西。"},
+        {"en": "Biff found a shell with a crab inside it. \"It's called a hermit crab,\" she said.", "zh": "比夫发现了一个里面有螃蟹的贝壳。“这叫寄居蟹。”她说。"}
+      ]
+    },
+    {
+      "image": "pages/page09.jpg",
+      "segments": [
+        {"en": "Some children worked with Mrs May. They looked carefully in all the rock pools.", "zh": "一些孩子跟着梅老师。他们仔细查看每一个岩石水洼。"},
+        {"en": "Nadim and Wilf caught a large crab. \"Look at this,\" they called.", "zh": "纳迪姆和威尔夫抓到一只大螃蟹。“快看这个！”他们喊道。"},
+        {"en": "Mrs May showed them how to hold the crab. \"We'll look at it, then we'll let it go,\" she said.", "zh": "梅老师教他们怎样拿螃蟹。“我们观察一下，然后就把它放走。”她说。"}
+      ]
+    },
+    {
+      "image": "pages/page10.jpg",
+      "segments": [
+        {"en": "Chip and Anneena found a seagull. It couldn't fly.", "zh": "奇普和安妮娜发现了一只海鸥。它飞不起来了。"},
+        {"en": "\"Oh dear!\" said Mr Johnson. \"It can't fly because it has oil on its feathers. Oil is hard to get off, so be careful, everyone. Mind you don't get oil on you.\"", "zh": "“哎呀！”约翰逊老师说，“它飞不了，是因为羽毛上沾了油。油很难洗掉，大家要小心，别让油沾到身上。”"},
+        {"en": "\"How do we get the oil off the seagull?\" asked Chip.", "zh": "“我们怎么把海鸥身上的油弄掉呢？”奇普问。"}
+      ]
+    },
+    {
+      "image": "pages/page11.jpg",
+      "segments": [
+        {"en": "Mr Johnson took the children to see Mrs Honey. \"If anyone can help the seagull, Mrs Honey can,\" said Mr Johnson.", "zh": "约翰逊老师带孩子们去见哈尼太太。“要是有人能帮这只海鸥，那一定是哈尼太太。”约翰逊老师说。"},
+        {"en": "\"This poor old gull needs a clean,\" said Mrs Honey. She looked at Anneena and Chip. \"And so do you,\" she said.", "zh": "“这只可怜的老海鸥需要洗个干净，”哈尼太太说。她看了看安妮娜和奇普，“你们俩也是。”"}
+      ]
+    },
+    {
+      "image": "pages/page12.jpg",
+      "segments": [
+        {"en": "\"Oil is terrible stuff,\" said Mrs Honey. \"You can see what it does to animals and birds if it spills into the sea.\"", "zh": "“油是很糟糕的东西，”哈尼太太说，“你能看到它一旦泄漏到海里，会对动物和鸟类造成什么伤害。”"},
+        {"en": "\"It is terrible,\" said Mrs May. \"I'm having trouble getting it off Chip and Anneena.\"", "zh": "“确实很糟糕，”梅老师说，“我费了好大劲才把它从奇普和安妮娜身上洗掉。”"},
+        {"en": "\"I feel really sorry for the seagull,\" said Chip.", "zh": "“我真为那只海鸥难过。”奇普说。"}
+      ]
+    },
+    {
+      "image": "pages/page13.jpg",
+      "segments": [
+        {"en": "\"What will happen to the seagull?\" asked Wilf.", "zh": "“那只海鸥会怎么样？”威尔夫问。"},
+        {"en": "\"Its feathers will be damaged,\" said Mrs Honey. \"So first we'll clean the oil off. Then we'll look after it for a week or two.\"", "zh": "“它的羽毛会受损，”哈尼太太说，“所以我们要先把油洗掉，然后照顾它一两周。”"},
+        {"en": "\"It has to get strong again, and its feathers have to get better. Then we'll let it go.\"", "zh": "“它得重新强壮起来，羽毛也要恢复。到那时我们就放它走。”"}
+      ]
+    },
+    {
+      "image": "pages/page14.jpg",
+      "segments": [
+        {"en": "Mrs Honey looked after all kinds of animals. She showed the children an otter. Then she gave it some fish.", "zh": "哈尼太太照顾各种各样的动物。她带孩子们看了一只水獭，然后喂它一些鱼。"},
+        {"en": "\"She's a sea-otter,\" she said. \"I call her Fiona. She was hurt by a boat. Now she's better, I'm going to let her go.\"", "zh": "“她是一只海獭，”她说，“我叫她菲奥娜。她被船弄伤了。现在她好多了，我打算放她回大海。”"}
+      ]
+    },
+    {
+      "image": "pages/page15.jpg",
+      "segments": [
+        {"en": "\"Sea-otters live on Green Island,\" said Mrs Honey. \"If you like, you can come to the island with me and watch me let Fiona go.\"", "zh": "“海獭生活在绿岛上，”哈尼太太说，“如果你们愿意，可以跟我一起去岛上，看我放菲奥娜回家。”"},
+        {"en": "Mrs Honey had a boat. \"There's room for everyone,\" she said. \"If we're lucky, we may see some more sea-otters.\"", "zh": "哈尼太太有一条船。“每个人都坐得下，”她说，“运气好的话，我们也许还能看到更多海獭。”"}
+      ]
+    },
+    {
+      "image": "pages/page16.jpg",
+      "segments": [
+        {"en": "The children went across to Green Island in the boat. Mrs Honey stopped a little way from the island.", "zh": "孩子们坐船来到绿岛。哈尼太太在离岛不远处停了下来。"},
+        {"en": "The children looked carefully. Suddenly Anneena pointed to some rocks.", "zh": "孩子们仔细张望。突然，安妮娜指向一些岩石。"},
+        {"en": "\"I can see another otter,\" she said. \"Look, everyone.\"", "zh": "“我看到另一只水獭了，”她说，“大家快看！”"}
+      ]
+    },
+    {
+      "image": "pages/page17.jpg",
+      "segments": [
+        {"en": "\"There aren't many sea-otters left!\" said Mrs May. \"So that was a wonderful thing to see.\"", "zh": "“剩下的海獭不多了！”梅老师说，“所以刚才那一幕真让人惊喜。”"},
+        {"en": "Mrs Honey let Fiona go. The otter dived into the sea and swam towards the rocks.", "zh": "哈尼太太把菲奥娜放走了。水獭潜进海里，朝岩石游去。"},
+        {"en": "\"Will Fiona be all right now?\" asked Wilf. \"I hope so,\" said Mrs Honey.", "zh": "“菲奥娜现在会没事吗？”威尔夫问。“希望如此。”哈尼太太说。"}
+      ]
+    },
+    {
+      "image": "pages/page18.jpg",
+      "segments": [
+        {"en": "Mrs Honey took the boat to the other side of the island. \"You can get out, and explore,\" she said.", "zh": "哈尼太太把船开到岛的另一边。“你们可以下船去探索。”她说。"},
+        {"en": "\"If you keep quiet, you will see all kinds of interesting sea birds.\"", "zh": "“如果你们保持安静，就会看到各种各样有趣的海鸟。”"},
+        {"en": "The children jumped out of the boat and went to look around the island.", "zh": "孩子们跳下船，去岛上四处看看。"}
+      ]
+    },
+    {
+      "image": "pages/page19.jpg",
+      "segments": [
+        {"en": "The children saw a small cave. They ran to see it.", "zh": "孩子们看到一个小洞穴，便跑过去看。"},
+        {"en": "\"I wonder if it has treasure in it,\" called Wilf. \"Maybe it's a secret tunnel,\" said Nadim. \"Maybe it leads to a secret computer base.\"", "zh": "“不知道里面有没有宝藏。”威尔夫喊道。“也许是一条秘密通道。”纳迪姆说。“也许通向一个秘密电脑基地。”"},
+        {"en": "But when they got to the cave, they found something else. In the cave were some drums.", "zh": "可当他们来到洞口，却发现别的东西。洞穴里有一些大桶。"}
+      ]
+    },
+    {
+      "image": "pages/page20.jpg",
+      "segments": [
+        {"en": "\"I don't like the look of this,\" said Mrs Honey. \"These drums have been dumped on Green Island. They are full of toxic waste.\"", "zh": "“我觉得这情形不对劲，”哈尼太太说，“这些桶被丢弃在绿岛上，里面装满了有毒废料。”"},
+        {"en": "\"Keep away from them, everyone,\" said Mr Johnson.", "zh": "“大家离它们远一点。”约翰逊老师说。"},
+        {"en": "\"Why would anyone want to dump them here?\" asked Biff.", "zh": "“为什么会有人想把它们丢在这里？”比夫问。"}
+      ]
+    },
+    {
+      "image": "pages/page21.jpg",
+      "segments": [
+        {"en": "\"It's hard to get rid of toxic waste,\" said Mrs May. \"It costs a lot of money to do it safely. So people dump it.\"", "zh": "“处理有毒废料很难，”梅老师说，“要安全处理得花很多钱，所以有人就把它随便丢弃。”"},
+        {"en": "\"We should tell the police,\" said Mr Johnson.", "zh": "“我们应该报警。”约翰逊老师说。"},
+        {"en": "\"These drums can't stay here,\" said Mrs Honey. \"They could do a lot of harm to the wildlife.\"", "zh": "“这些桶不能留在这里，”哈尼太太说，“它们会对野生动物造成很大伤害。”"}
+      ]
+    },
+    {
+      "image": "pages/page22.jpg",
+      "segments": [
+        {"en": "Suddenly, Chip and Wilf ran up to Mr Johnson. \"There's a boat coming to the island,\" said Chip. \"There are four people in it.\"", "zh": "突然，奇普和威尔夫跑到约翰逊老师身边。“有一艘船正朝岛上开来，”奇普说，“船上有四个人。”"},
+        {"en": "\"I don't like the sound of this,\" said Mr Johnson.", "zh": "“这事听起来不妙。”约翰逊老师说。"},
+        {"en": "\"Keep out of sight, everyone,\" said Mrs Honey. \"I want to see what these people are doing.\"", "zh": "“大家躲起来，别被看见，”哈尼太太说，“我想看看这些人在干什么。”"}
+      ]
+    },
+    {
+      "image": "pages/page23.jpg",
+      "segments": [
+        {"en": "The boat stopped at the island and four people got out. They lifted some drums out of the boat and began to carry them towards the cave.", "zh": "船在岛边停下，四个人下了船。他们从船里抬起一些桶，开始往洞穴搬。"},
+        {"en": "\"They're dumping more waste on the island,\" said Mrs Honey. \"I want everyone to run back to my boat. Don't make a sound. I have an idea.\"", "zh": "“他们正往岛上倾倒更多废料，”哈尼太太说，“大家快跑回我的船上，别出声。我有个主意。”"}
+      ]
+    },
+    {
+      "image": "pages/page24.jpg",
+      "segments": [
+        {"en": "The children did what Mrs Honey told them. They ran to the boat with Mrs May and climbed in.", "zh": "孩子们照哈尼太太说的做了。他们跟着梅老师跑向船，爬了上去。"},
+        {"en": "\"I hope the boat will start,\" said Mrs May. \"If it doesn't, I don't know what we shall do.\"", "zh": "“希望船能发动起来，”梅老师说，“要是发动不了，我真不知道该怎么办。”"},
+        {"en": "\"Do you think those people are dangerous?\" asked Chip.", "zh": "“你觉得那些人危险吗？”奇普问。"}
+      ]
+    },
+    {
+      "image": "pages/page25.jpg",
+      "segments": [
+        {"en": "Wilf and Chip pushed the boat out with the oars and Mrs May started the engine.", "zh": "威尔夫和奇普用桨把船撑离岸边，梅老师发动了引擎。"},
+        {"en": "\"So far, so good,\" said Mrs May. \"Let's hope Mrs Honey's idea works.\"", "zh": "“到目前为止一切顺利，”梅老师说，“希望哈尼太太的办法能奏效。”"},
+        {"en": "\"I hope Mrs Honey and Mr Johnson will be all right,\" said Wilf.", "zh": "“希望哈尼太太和约翰逊老师平安无事。”威尔夫说。"}
+      ]
+    },
+    {
+      "image": "pages/page26.jpg",
+      "segments": [
+        {"en": "Mrs Honey's idea worked. She and Mr Johnson had taken the other boat. The other people couldn't get off the island without it.", "zh": "哈尼太太的办法奏效了。她和约翰逊老师开走了另一艘船。没有那条船，那些人离不开这座岛。"},
+        {"en": "\"Hooray!\" shouted the children. \"They won't get off Green Island unless they swim all the way back!\"", "zh": "“万岁！”孩子们欢呼，“除非他们一路游回去，否则别想离开绿岛！”"}
+      ]
+    },
+    {
+      "image": "pages/page27.jpg",
+      "segments": [
+        {"en": "\"What are you doing with our boat?\" shouted a man. \"Bring it back!\"", "zh": "“你们拿我们的船干什么？”一个男人喊道，“把它还回来！”"},
+        {"en": "\"I'll get the police to bring it back,\" shouted Mrs Honey. \"You can tell them why you've dumped toxic waste on Green Island.\"", "zh": "“我会让警察把它送回来，”哈尼太太喊道，“你们可以告诉他们，为什么把有毒废料倒在绿岛上。”"},
+        {"en": "\"Grrr!\" said the man.", "zh": "“呃——！”那个男人气得直哼哼。"}
+      ]
+    },
+    {
+      "image": "pages/page28.jpg",
+      "segments": [
+        {"en": "The police took the people off the island.", "zh": "警察把那几个人带离了岛。"},
+        {"en": "\"Taking their boat was a brilliant idea,\" said Mr Johnson.", "zh": "“把他们的船开走真是个绝妙的主意。”约翰逊老师说。"},
+        {"en": "\"I'm glad we caught them,\" said Mrs Honey. \"And I'm glad you were with me. I couldn't have taken their boat by myself.\"", "zh": "“很高兴我们抓住了他们，”哈尼太太说，“也很高兴有你们在。我一个人可开不走他们的船。”"}
+      ]
+    },
+    {
+      "image": "pages/page29.jpg",
+      "segments": [
+        {"en": "\"What an adventure!\" said Mrs May.", "zh": "“真是一场冒险！”梅老师说。"},
+        {"en": "\"Look at those drums of toxic waste,\" said Wilf. \"I can't think why people would dump them where they could do so much harm.\"", "zh": "“看看那些有毒废料桶，”威尔夫说，“我真想不通，为什么会有人把它们丢在会造成这么大危害的地方。”"},
+        {"en": "\"I'm glad the otters will be safe on the island now,\" said Anneena.", "zh": "“很高兴现在水獭们在岛上安全了。”安妮娜说。"}
+      ]
+    },
+    {
+      "image": "pages/page30.jpg",
+      "segments": [
+        {"en": "At the end of the week, there was a party.", "zh": "一周快结束时，大家举办了一场聚会。"},
+        {"en": "Mrs May played her guitar and everyone sang songs.", "zh": "梅老师弹吉他，大家一起唱歌。"},
+        {"en": "Mrs Honey came. She told the children stories about some of the animals she had looked after.", "zh": "哈尼太太也来了。她给孩子们讲了一些她照顾过的动物的故事。"},
+        {"en": "\"But you have the best story to tell,\" she said. \"It isn't every school trip that becomes famous!\"", "zh": "“不过，你们才有最精彩的故事要讲，”她说，“可不是每次学校旅行都能出名的！”"}
+      ]
+    },
+    {
+      "image": "pages/page31.jpg",
+      "segments": [
+        {"en": "A photographer came. She made everyone stand in a group. Then she took a photograph.", "zh": "一位摄影师来了。她让大家站在一起，然后拍了一张照片。"},
+        {"en": "\"We're going to be in the newspaper,\" said Wilf. \"We are going to be famous.\"", "zh": "“我们要上报纸啦，”威尔夫说，“我们要出名了！”"},
+        {"en": "\"I've never been famous before,\" said Chip. \"I wonder what it feels like.\"", "zh": "“我以前从没出过名，”奇普说，“不知道那是什么感觉。”"}
+      ]
+    },
+    {
+      "image": "pages/page32.jpg",
+      "segments": [
+        {"en": "The next day the story of Green Island was in the newspaper. The children were excited.", "zh": "第二天，绿岛的故事登上了报纸。孩子们兴奋极了。"},
+        {"en": "\"I'm going to buy three newspapers,\" said Chip. \"One for me, one for Mum and Dad, and one for Gran.\"", "zh": "“我要买三份报纸，”奇普说，“一份给我，一份给爸爸妈妈，一份给奶奶。”"},
+        {"en": "\"Now I'm famous I don't feel any different,\" said Wilf.", "zh": "“现在我出名了，可我感觉没什么两样。”威尔夫说。"}
+      ]
+    }
+  ]
+}
