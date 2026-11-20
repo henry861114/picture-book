@@ -9,12 +9,9 @@ set -euo pipefail
 DST="$(cd "$(dirname "$0")" && pwd)"
 SRC="${1:-}"
 if [ -z "$SRC" ]; then
-    for cand in "$DST/../magic-tool-for-english" "$DST/../英语/GreenIslandAndroid"; do
-        if [ -d "$cand/app/src/main/assets/oxford/pdf" ]; then
-            SRC="$cand"
-            break
-        fi
-    done
+    if [ -d "$DST/../magic-tool-for-english/app/src/main/assets/oxford/pdf" ]; then
+        SRC="$DST/../magic-tool-for-english"
+    fi
 fi
 SRC="${SRC%/}"
 

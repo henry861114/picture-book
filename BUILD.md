@@ -12,7 +12,7 @@
 /Users/henry/code/app/magic-tool-for-english
 ```
 
-(备用源:`/Users/henry/code/app/英语/GreenIslandAndroid` 同样含全部资产。)
+(精调快照备份:`magic-tool-for-english/snapshots/`;原始音频备份:`/Users/henry/code/app/audio-archive/`。)
 
 ```bash
 cd /Users/henry/code/app/magic-tool-for-english
