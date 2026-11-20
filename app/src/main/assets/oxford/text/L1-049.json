@@ -1,0 +1,105 @@
+{
+  "id": "L1-049",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had a trumpet.",
+          "zh": "爸爸有一个小号。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had a drum.",
+          "zh": "Chip 有一个鼓。",
+          "startMs": 11000,
+          "endMs": 13100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 13450
+    },
+    {
+      "sentences": [
+        {
+          "en": "HAYDR Coo Trus in",
+          "zh": "HAYDR Coo Trus 在……里",
+          "startMs": 2370,
+          "endMs": 18990
+        }
+      ],
+      "startMs": 2370,
+      "endMs": 18990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a recorder.",
+          "zh": "Biff 有一个录音机。",
+          "startMs": 22000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 21850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [],
+      "startMs": 37893,
+      "endMs": 38807,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 38807,
+      "endMs": 39720,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 39720,
+      "endMs": 40634,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had a headache.",
+          "zh": "妈妈有一个头痛。",
+          "startMs": 54000,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 56450
+    },
+    {
+      "sentences": [],
+      "startMs": 57989,
+      "endMs": 58902,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 58902,
+      "endMs": 59815,
+      "illustrationOnly": true
+    }
+  ]
+}

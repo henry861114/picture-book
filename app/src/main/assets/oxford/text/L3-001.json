@@ -1,0 +1,225 @@
+{
+  "id": "L3-001",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had an idea.",
+          "zh": "Wilma 有一个主意。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children made six ducks.",
+          "zh": "这孩子们做六鸭。",
+          "startMs": 12000,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's have a duck race,\" said Wilma.",
+          "zh": "让我们有一个鸭速度竞赛， 说 Wilma。",
+          "startMs": 21000,
+          "endMs": 25100
+        }
+      ],
+      "startMs": 20850,
+      "endMs": 25450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum began the race.",
+          "zh": "妈妈开始这速度竞赛。",
+          "startMs": 31670,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 31520,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Drop the ducks in,\" said Mum.",
+          "zh": "掉下这鸭在……里， 说妈妈。",
+          "startMs": 33000,
+          "endMs": 36290
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 36640
+    },
+    {
+      "sentences": [
+        {
+          "en": "The ducks went down the stream.",
+          "zh": "这鸭去向下这溪流。",
+          "startMs": 42000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 48000,
+          "endMs": 49220
+        },
+        {
+          "en": "Wilma's duck sank.",
+          "zh": "Wilma 鸭 sank。",
+          "startMs": 49120,
+          "endMs": 58770
+        }
+      ],
+      "startMs": 47850,
+      "endMs": 59120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip's duck got stuck in the reeds.",
+          "zh": "Chip 鸭得到 stuck 在……里这芦苇。",
+          "startMs": 58000,
+          "endMs": 59600
+        }
+      ],
+      "startMs": 57850,
+      "endMs": 59950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff's duck got stuck in the weeds.",
+          "zh": "Biff 鸭得到 stuck 在……里这野草。",
+          "startMs": 63670,
+          "endMs": 66100
+        }
+      ],
+      "startMs": 63520,
+      "endMs": 66450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf's duck got stuck on a log.",
+          "zh": "Wilf 鸭得到 stuck 在……上一个原木。",
+          "startMs": 72670,
+          "endMs": 75100
+        }
+      ],
+      "startMs": 72520,
+      "endMs": 75450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it off with a stick,\" said Chip.",
+          "zh": "得到它离开和……一起一个枝条， 说 Chip。",
+          "startMs": 75000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper's duck went fast.",
+          "zh": "Kipper 鸭去快的。",
+          "startMs": 85000,
+          "endMs": 88100
+        }
+      ],
+      "startMs": 84850,
+      "endMs": 88450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It went past Dad's duck.",
+          "zh": "它去过爸爸鸭。",
+          "startMs": 88000,
+          "endMs": 91100
+        }
+      ],
+      "startMs": 87850,
+      "endMs": 91450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Two swans flew down.",
+          "zh": "二天鹅飞向下。",
+          "startMs": 97000,
+          "endMs": 100100
+        }
+      ],
+      "startMs": 96850,
+      "endMs": 100450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They landed on the ducks!",
+          "zh": "他们拥有大量土地的在……上这鸭！",
+          "startMs": 104000,
+          "endMs": 108100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 108450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Six soggy ducks,\" said Kipper.",
+          "zh": "六湿软的鸭， 说 Kipper。",
+          "startMs": 113110,
+          "endMs": 117100
+        }
+      ],
+      "startMs": 112960,
+      "endMs": 117450
+    },
+    {
+      "sentences": [],
+      "startMs": 121870,
+      "endMs": 122252,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 122370,
+      "endMs": 122252,
+      "illustrationOnly": true
+    }
+  ]
+}

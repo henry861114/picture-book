@@ -1,0 +1,213 @@
+{
+  "id": "L3-014",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted to make jam.",
+          "zh": "爸爸想要到做拥挤。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He picked some strawberries.",
+          "zh": "他挑选一些草莓。",
+          "startMs": 9000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 8850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were too small.",
+          "zh": "他们是也小的。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took everyone to the pick-your-own.",
+          "zh": "妈妈拿每个人到这自行采摘的。",
+          "startMs": 19860,
+          "endMs": 25710
+        },
+        {
+          "en": "To the donkeys",
+          "zh": "到这驴",
+          "startMs": 25710,
+          "endMs": 27810
+        }
+      ],
+      "startMs": 19860,
+      "endMs": 27810
+    },
+    {
+      "sentences": [
+        {
+          "en": "You can all help,\" said Dad.",
+          "zh": "你能全部帮助， 说爸爸。",
+          "startMs": 28030,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 27880,
+      "endMs": 31450
+    },
+    {
+      "sentences": [],
+      "startMs": 46920,
+      "endMs": 47720,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper put some in his pocket.",
+          "zh": "Kipper 放一些在……里他的衣袋。",
+          "startMs": 41000,
+          "endMs": 43100
+        }
+      ],
+      "startMs": 40850,
+      "endMs": 43450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip took the strawberries to the car.",
+          "zh": "Chip 拿这草莓到这汽车。",
+          "startMs": 48000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 47850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car was locked.",
+          "zh": "这汽车是锁。",
+          "startMs": 51000,
+          "endMs": 53100
+        }
+      ],
+      "startMs": 50850,
+      "endMs": 53450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He forgot about the strawberries.",
+          "zh": "他忘记关于这草莓。",
+          "startMs": 57030,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 56880,
+      "endMs": 60450
+    },
+    {
+      "sentences": [],
+      "startMs": 76508,
+      "endMs": 77308,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had an ice cream.",
+          "zh": "这孩子们有一个冰奶油。",
+          "startMs": 69000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 77000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car ran over the strawberries.",
+          "zh": "这汽车跑在……上方这草莓。",
+          "startMs": 87030,
+          "endMs": 90100
+        }
+      ],
+      "startMs": 86880,
+      "endMs": 90450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!\" said everyone.",
+          "zh": "哦不！ 说每个人。",
+          "startMs": 94000,
+          "endMs": 97100
+        }
+      ],
+      "startMs": 93850,
+      "endMs": 97450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Traffic jam!\" said Dad.",
+          "zh": "交通拥挤！ 说爸爸。",
+          "startMs": 104000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [],
+      "startMs": 113600,
+      "endMs": 114164,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 114164,
+      "endMs": 114463,
+      "illustrationOnly": true
+    }
+  ]
+}

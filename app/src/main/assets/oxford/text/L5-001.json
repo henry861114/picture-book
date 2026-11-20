@@ -1,0 +1,551 @@
+{
+  "id": "L5-001",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The box was by Chip's bed.",
+          "zh": "盒子在 Chip 的床边。",
+          "startMs": 3860,
+          "endMs": 6610
+        },
+        {
+          "en": "Something was glowing inside it.",
+          "zh": "盒子里有东西在发光。",
+          "startMs": 6640,
+          "endMs": 7760
+        },
+        {
+          "en": "\"It's magic!\"",
+          "zh": "太神奇了。",
+          "startMs": 19480,
+          "endMs": 21660
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 22010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the box.",
+          "zh": "Chip 看着盒子。",
+          "startMs": 21690,
+          "endMs": 23740
+        },
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 23740,
+          "endMs": 23940
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 22010,
+      "endMs": 24290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip ran into Biff's room.",
+          "zh": "Chip 跑进了 Biff 的房间。",
+          "startMs": 23940,
+          "endMs": 25580
+        },
+        {
+          "en": "\"Biff!\" \"Biff,\" he called.",
+          "zh": "“Biff！” “Biff，”他喊道。",
+          "startMs": 29370,
+          "endMs": 33900
+        },
+        {
+          "en": "\"Look at the box.\"",
+          "zh": "“看看这个盒子！”",
+          "startMs": 33930,
+          "endMs": 35650
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 24290,
+      "endMs": 36000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked at the box.",
+          "zh": "Biff 和 Chip 看了看盒子。",
+          "startMs": 36340,
+          "endMs": 42040
+        },
+        {
+          "en": "Something was glowing inside it.",
+          "zh": "盒子里有东西在发光。",
+          "startMs": 42820,
+          "endMs": 46850
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 36190,
+      "endMs": 47200
+    },
+    {
+      "sentences": [
+        {
+          "en": "They opened the box.",
+          "zh": "他们打开了盒子。",
+          "startMs": 46880,
+          "endMs": 50910
+        },
+        {
+          "en": "They looked inside.",
+          "zh": "他们往里面看。",
+          "startMs": 55340,
+          "endMs": 57440
+        },
+        {
+          "en": "\"It's magic!\" They said.",
+          "zh": "太神奇了。 他们说。",
+          "startMs": 58600,
+          "endMs": 61220
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 47200,
+      "endMs": 61570
+    },
+    {
+      "sentences": [
+        {
+          "en": "A key was in the box.",
+          "zh": "盒子里有一把钥匙。",
+          "startMs": 64340,
+          "endMs": 68400
+        },
+        {
+          "en": "The key was glowing. Said Biff.",
+          "zh": "钥匙在发光。 Biff 说道。",
+          "startMs": 68430,
+          "endMs": 78580
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 64190,
+      "endMs": 78930
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a magic key,' \" said Biff.",
+          "zh": "“这是一把魔法钥匙，”Biff 说。",
+          "startMs": 78610,
+          "endMs": 81320
+        },
+        {
+          "en": "She picked up the key and the magic began.",
+          "zh": "她拿起钥匙，魔法开始了。",
+          "startMs": 81320,
+          "endMs": 82760
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 78930,
+      "endMs": 83110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip got smaller and smaller and smaller.",
+          "zh": "Biff 和 Chip 变得越来越小。",
+          "startMs": 90340,
+          "endMs": 95600
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 90190,
+      "endMs": 95950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help!\" Said Biff.",
+          "zh": "哎呀，救命！ Biff 说道。",
+          "startMs": 96370,
+          "endMs": 102470
+        },
+        {
+          "en": "\"It's magic!\" Said Chip.",
+          "zh": "太神奇了。 Chip 说道。",
+          "startMs": 102500,
+          "endMs": 105760
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 96220,
+      "endMs": 106110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked at the room.",
+          "zh": "Biff 和 Chip 看了看房间。",
+          "startMs": 111340,
+          "endMs": 114740
+        },
+        {
+          "en": "Everything looked big.",
+          "zh": "所有东西看起来都很大。",
+          "startMs": 114860,
+          "endMs": 116960
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 111190,
+      "endMs": 117310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at my big slippers,\" said Biff.",
+          "zh": "“看看我的大拖鞋，”Biff 说。 Biff 说道。",
+          "startMs": 117480,
+          "endMs": 122580
+        },
+        {
+          "en": "\"Everything looks big.\"",
+          "zh": "“一切看起来都变大了！”",
+          "startMs": 123040,
+          "endMs": 124470
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 117330,
+      "endMs": 124820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip picked up a pencil.",
+          "zh": "Chip 拿起一支铅笔。",
+          "startMs": 129340,
+          "endMs": 131440
+        },
+        {
+          "en": "\"Look at this big pencil,\" he said.",
+          "zh": "“瞧瞧这支大铅笔，”他说。",
+          "startMs": 134480,
+          "endMs": 137450
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 129190,
+      "endMs": 137800
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 137480,
+          "endMs": 139310
+        },
+        {
+          "en": "Biff picked up a pen.",
+          "zh": "Biff 拿起一支钢笔。",
+          "startMs": 139340,
+          "endMs": 142440
+        },
+        {
+          "en": "\"Look at this big pen!\"",
+          "zh": "“瞧瞧这支大钢笔！”",
+          "startMs": 142470,
+          "endMs": 144800
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 137800,
+      "endMs": 145150
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 144830,
+          "endMs": 146480
+        },
+        {
+          "en": "They looked at the house.",
+          "zh": "他们看了看房子。",
+          "startMs": 148860,
+          "endMs": 152940
+        },
+        {
+          "en": "\"It looks like a big house!\"",
+          "zh": "它看起来像一座大房子。",
+          "startMs": 152970,
+          "endMs": 154070
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 145150,
+      "endMs": 154420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The windows were glowing.",
+          "zh": "窗户亮着光。",
+          "startMs": 154340,
+          "endMs": 156840
+        },
+        {
+          "en": "\"It's magic!\" Said Chip.",
+          "zh": "太神奇了。 Chip 说道。",
+          "startMs": 160750,
+          "endMs": 163480
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 154420,
+      "endMs": 163830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip ran to the house.",
+          "zh": "Biff 和 Chip 跑向房子。",
+          "startMs": 168850,
+          "endMs": 172800
+        },
+        {
+          "en": "They looked in the window.",
+          "zh": "他们往窗户里看。",
+          "startMs": 172830,
+          "endMs": 173050
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 168700,
+      "endMs": 173400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went to the door.",
+          "zh": "Biff 走到门前。",
+          "startMs": 173340,
+          "endMs": 175440
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 173400,
+      "endMs": 175790
+    },
+    {
+      "sentences": [
+        {
+          "en": "She pushed and pushed.",
+          "zh": "他们推着它，拉着它。",
+          "startMs": 178150,
+          "endMs": 180010
+        },
+        {
+          "en": "But she couldn't get in.",
+          "zh": "但他进不去。",
+          "startMs": 183340,
+          "endMs": 186280
+        },
+        {
+          "en": "They went to the window.",
+          "zh": "他们走到窗户边。",
+          "startMs": 189340,
+          "endMs": 192340
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 178000,
+      "endMs": 192690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip pulled and pulled.",
+          "zh": "Chip 拉啊拉。",
+          "startMs": 194340,
+          "endMs": 197440
+        },
+        {
+          "en": "But he couldn't get in.",
+          "zh": "但他进不去。",
+          "startMs": 200340,
+          "endMs": 203240
+        },
+        {
+          "en": "Something was coming.",
+          "zh": "“有东西过来了！”",
+          "startMs": 206920,
+          "endMs": 209500
+        },
+        {
+          "en": "Chip picked up the pen.",
+          "zh": "Chip 拿起笔。",
+          "startMs": 210480,
+          "endMs": 211580
+        },
+        {
+          "en": "\"Oh help!\" He said.",
+          "zh": "哎呀，救命！ 他说。",
+          "startMs": 211610,
+          "endMs": 214760
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 194190,
+      "endMs": 215110
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a little mouse.",
+          "zh": "那是一只小老鼠。",
+          "startMs": 220340,
+          "endMs": 222440
+        },
+        {
+          "en": "Biff and Chip looked at the mouse.",
+          "zh": "Biff 和 Chip 看着那只老鼠。",
+          "startMs": 223340,
+          "endMs": 226440
+        },
+        {
+          "en": "The mouse ran away.",
+          "zh": "老鼠跑掉了。",
+          "startMs": 226980,
+          "endMs": 229580
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 220190,
+      "endMs": 229930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Something was glowing.",
+          "zh": "有东西在发光。",
+          "startMs": 231910,
+          "endMs": 234010
+        },
+        {
+          "en": "It was the magic key.",
+          "zh": "那是魔法钥匙。",
+          "startMs": 236340,
+          "endMs": 238760
+        },
+        {
+          "en": "Biff picked it up.",
+          "zh": "Biff 捡起了钥匙。",
+          "startMs": 239190,
+          "endMs": 242290
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 231760,
+      "endMs": 242640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip got bigger and bigger and bigger.",
+          "zh": "Biff 和 Chip 变得越来越大。",
+          "startMs": 244340,
+          "endMs": 251240
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 244190,
+      "endMs": 251590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哎呀。 Biff 说道。",
+          "startMs": 251270,
+          "endMs": 255440
+        },
+        {
+          "en": "\"Oh help!\" Said Chip.",
+          "zh": "哎呀，救命！ Chip 说道。",
+          "startMs": 255440,
+          "endMs": 258580
+        },
+        {
+          "en": "\"It's the magic,\" they said.",
+          "zh": "“这是魔法，”他们说道。",
+          "startMs": 258610,
+          "endMs": 262350
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 251590,
+      "endMs": 262700
+    },
+    {
+      "sentences": [
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 262380,
+          "endMs": 262960
+        },
+        {
+          "en": "The magic was over.",
+          "zh": "魔法结束了。",
+          "startMs": 266340,
+          "endMs": 270440
+        },
+        {
+          "en": "\"What an adventure!\"",
+          "zh": "“真是一场冒险！”",
+          "startMs": 270470,
+          "endMs": 271850
+        },
+        {
+          "en": "Said Biff and Chip.",
+          "zh": "Biff 和 Chip 说道。",
+          "startMs": 271880,
+          "endMs": 273710
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 262700,
+      "endMs": 274060
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 274060,
+      "endMs": 274061
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 274061,
+      "endMs": 274062
+    }
+  ]
+}

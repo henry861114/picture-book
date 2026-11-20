@@ -1,0 +1,575 @@
+{
+  "id": "L5-014",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad went camping.",
+          "zh": "妈妈和爸爸去露营了。",
+          "startMs": 3860,
+          "endMs": 7080
+        },
+        {
+          "en": "They took the children.",
+          "zh": "她们带着孩子们一起去。",
+          "startMs": 7110,
+          "endMs": 9050
+        },
+        {
+          "en": "They went to a farm.",
+          "zh": "他们去了农场。",
+          "startMs": 9080,
+          "endMs": 10240
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 10590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad had a new tent.",
+          "zh": "妈妈和爸爸有一顶新帐篷。",
+          "startMs": 13170,
+          "endMs": 15470
+        },
+        {
+          "en": "They put it up.",
+          "zh": "他们把帐篷搭起来。",
+          "startMs": 21030,
+          "endMs": 21810
+        },
+        {
+          "en": "Wilf helped.",
+          "zh": "Wilf 帮忙搭帐篷。",
+          "startMs": 21810,
+          "endMs": 22010
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 13020,
+      "endMs": 22360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma got some water.",
+          "zh": "Wilma 去打了些水。",
+          "startMs": 26080,
+          "endMs": 28170
+        },
+        {
+          "en": "\"I like it here,\" she said.",
+          "zh": "“我喜欢这里，”她说。",
+          "startMs": 28200,
+          "endMs": 29990
+        },
+        {
+          "en": "\"I like camping.",
+          "zh": "“我喜欢露营。”",
+          "startMs": 29990,
+          "endMs": 30280
+        },
+        {
+          "en": "Mr Jones was the farmer.",
+          "zh": "先生",
+          "startMs": 30280,
+          "endMs": 32330
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 25930,
+      "endMs": 32680
+    },
+    {
+      "sentences": [
+        {
+          "en": "He had to milk the cows.",
+          "zh": "他得给奶牛挤奶。",
+          "startMs": 32330,
+          "endMs": 34670
+        },
+        {
+          "en": "\"Come and watch,\" he said.",
+          "zh": "“过来看看，”他说。",
+          "startMs": 40670,
+          "endMs": 42860
+        },
+        {
+          "en": "What a lot of cows, said Wilf.",
+          "zh": "“哇，好多奶牛啊！”Wilf 说道。",
+          "startMs": 42940,
+          "endMs": 49210
+        },
+        {
+          "en": "Mr Jones laughed.",
+          "zh": "先生",
+          "startMs": 49210,
+          "endMs": 51990
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 32680,
+      "endMs": 52340
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We milk them every day,\" he said.",
+          "zh": "“我们每天都给它们挤奶，”他说。",
+          "startMs": 54450,
+          "endMs": 57150
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 54300,
+      "endMs": 57500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted some milk.",
+          "zh": "妈妈想要一些牛奶。",
+          "startMs": 61750,
+          "endMs": 63090
+        },
+        {
+          "en": "She went to the farmhouse.",
+          "zh": "她去了农舍。",
+          "startMs": 64310,
+          "endMs": 66280
+        },
+        {
+          "en": "\"I want some eggs too,\" said Mum.",
+          "zh": "“我也想要一些鸡蛋，”妈妈说。",
+          "startMs": 66310,
+          "endMs": 68060
+        },
+        {
+          "en": "Mrs. Jones was expecting a baby.",
+          "zh": "太太。",
+          "startMs": 68060,
+          "endMs": 70820
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 61600,
+      "endMs": 71170
+    },
+    {
+      "sentences": [
+        {
+          "en": "She was expecting it soon.",
+          "zh": "她快要生了。",
+          "startMs": 70850,
+          "endMs": 72990
+        },
+        {
+          "en": "\"It may come today, \" she said.",
+          "zh": "“孩子可能今天就会出生，”她说。",
+          "startMs": 74750,
+          "endMs": 76970
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 71170,
+      "endMs": 77320
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad cooked supper.",
+          "zh": "爸爸做了晚饭。",
+          "startMs": 77050,
+          "endMs": 82810
+        },
+        {
+          "en": "\"I like it here,\" said Wilf.",
+          "zh": "“我喜欢这里，”Wilf 说。",
+          "startMs": 82930,
+          "endMs": 86170
+        },
+        {
+          "en": "\"It's fun in this tent.\" The wind blew.",
+          "zh": "“住在这个帐篷里很有趣。” 风吹了起来。",
+          "startMs": 86200,
+          "endMs": 107610
+        },
+        {
+          "en": "Everyone had to get up.",
+          "zh": "大家都不得不起来。",
+          "startMs": 107640,
+          "endMs": 108690
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 77320,
+      "endMs": 109040
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone went to bed but there was a storm.",
+          "zh": "大家都去睡觉了，但这时下起了暴风雨。",
+          "startMs": 108720,
+          "endMs": 112090
+        },
+        {
+          "en": "Nobody could sleep.",
+          "zh": "谁都睡不着。",
+          "startMs": 112090,
+          "endMs": 112290
+        },
+        {
+          "en": "The wind blew the tent down.",
+          "zh": "风把帐篷吹倒了。",
+          "startMs": 113050,
+          "endMs": 116330
+        },
+        {
+          "en": "They had to go to the farmhouse.",
+          "zh": "他们不得不去农舍。",
+          "startMs": 116360,
+          "endMs": 118380
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 109040,
+      "endMs": 118730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr. Jones called Mum.",
+          "zh": "先生",
+          "startMs": 122750,
+          "endMs": 125990
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 122600,
+      "endMs": 126340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs. Jones had to go to hospital.",
+          "zh": "太太。",
+          "startMs": 128890,
+          "endMs": 132530
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 128740,
+      "endMs": 132880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The baby is coming,\" he said.",
+          "zh": "“宝宝要出生了，”他说。",
+          "startMs": 132560,
+          "endMs": 134940
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 132880,
+      "endMs": 135290
+    },
+    {
+      "sentences": [
+        {
+          "en": "She got in the car.",
+          "zh": "她上了车。",
+          "startMs": 134940,
+          "endMs": 135140
+        },
+        {
+          "en": "Mum helped her.",
+          "zh": "妈妈帮了她。",
+          "startMs": 135140,
+          "endMs": 135990
+        },
+        {
+          "en": "The car couldn't get past.",
+          "zh": "汽车无法通过。",
+          "startMs": 150750,
+          "endMs": 158970
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 135290,
+      "endMs": 159320
+    },
+    {
+      "sentences": [
+        {
+          "en": "The storm got worse.",
+          "zh": "暴风雨变得更加猛烈。",
+          "startMs": 159000,
+          "endMs": 160720
+        },
+        {
+          "en": "The wind blew and blew.",
+          "zh": "风呼呼地吹着。",
+          "startMs": 160720,
+          "endMs": 160920
+        },
+        {
+          "en": "The wind blew a big tree down.",
+          "zh": "大风把一棵大树刮倒了。",
+          "startMs": 160920,
+          "endMs": 161120
+        },
+        {
+          "en": "Mr. And Mrs. Mr and Mrs Jones went back to the house.",
+          "zh": "先生",
+          "startMs": 167770,
+          "endMs": 169790
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 159320,
+      "endMs": 170140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr Jones called for help.",
+          "zh": "先生",
+          "startMs": 175040,
+          "endMs": 178200
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 174890,
+      "endMs": 178550
+    },
+    {
+      "sentences": [
+        {
+          "en": "He called the hospital.",
+          "zh": "他给医院打了电话。",
+          "startMs": 178200,
+          "endMs": 178400
+        },
+        {
+          "en": "A helicopter is coming, he said.",
+          "zh": "“一架直升机正飞过来，”他说。",
+          "startMs": 178400,
+          "endMs": 178600
+        },
+        {
+          "en": "Mr Jones pointed to a field.",
+          "zh": "先生",
+          "startMs": 186810,
+          "endMs": 189560
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 178550,
+      "endMs": 189910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The helicopter can land there, he said.",
+          "zh": "“直升机可以在那里降落，”他说。",
+          "startMs": 189560,
+          "endMs": 189760
+        },
+        {
+          "en": "Mr Jones got some bags.",
+          "zh": "先生",
+          "startMs": 189760,
+          "endMs": 190420
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 189910,
+      "endMs": 190770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped.",
+          "zh": "孩子们帮忙。",
+          "startMs": 190450,
+          "endMs": 191840
+        },
+        {
+          "en": "They got some big stones.",
+          "zh": "他们拿了一些大石头。",
+          "startMs": 191840,
+          "endMs": 193140
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 190770,
+      "endMs": 193490
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a big cross out of the bags.",
+          "zh": "他们用袋子搭成了一个大十字架。",
+          "startMs": 193170,
+          "endMs": 196150
+        },
+        {
+          "en": "They put stones on the bags.",
+          "zh": "他们在袋子上放了石头。",
+          "startMs": 196180,
+          "endMs": 198320
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 193490,
+      "endMs": 198670
+    },
+    {
+      "sentences": [
+        {
+          "en": "The helicopter came.",
+          "zh": "直升机来了。",
+          "startMs": 203060,
+          "endMs": 207430
+        },
+        {
+          "en": "It landed near the cross.",
+          "zh": "它降落在十字架附近。",
+          "startMs": 207460,
+          "endMs": 210970
+        },
+        {
+          "en": "\"At last!\" Said Mr Jones.",
+          "zh": "“终于来了！” Jo 说道。",
+          "startMs": 212890,
+          "endMs": 214390
+        },
+        {
+          "en": "Jones. Said Mr Jones.",
+          "zh": "Jones。 Jo 说道。",
+          "startMs": 218000,
+          "endMs": 221950
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 202910,
+      "endMs": 222300
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a doctor in the helicopter.",
+          "zh": "直升机上有一名医生。",
+          "startMs": 221980,
+          "endMs": 224690
+        },
+        {
+          "en": "\"Come on!\" Jones.",
+          "zh": "来吧。 Jones。",
+          "startMs": 224690,
+          "endMs": 224890
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 222300,
+      "endMs": 225240
+    },
+    {
+      "sentences": [
+        {
+          "en": "The doctor ran to the house but Mum came to the door.",
+          "zh": "医生跑向房子，但妈妈走到了门口。",
+          "startMs": 224890,
+          "endMs": 231150
+        },
+        {
+          "en": "She was laughing.",
+          "zh": "她在笑。",
+          "startMs": 231180,
+          "endMs": 232790
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 225240,
+      "endMs": 233140
+    },
+    {
+      "sentences": [
+        {
+          "en": "DoCTOR \"Too late!\" Said Mum.",
+          "zh": "医生“太晚了！”妈妈说。",
+          "startMs": 233890,
+          "endMs": 235990
+        },
+        {
+          "en": "\"Mrs Jones has had the baby.",
+          "zh": "太太。",
+          "startMs": 235990,
+          "endMs": 239060
+        },
+        {
+          "en": "She's had a baby boy.",
+          "zh": "她生了一个男孩。",
+          "startMs": 239350,
+          "endMs": 241990
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 233740,
+      "endMs": 242340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the baby.",
+          "zh": "所有人都看着这个宝宝。",
+          "startMs": 246440,
+          "endMs": 248160
+        },
+        {
+          "en": "\"He's very sweet,\" said Wilma.",
+          "zh": "“他真乖巧，”Wilma 说。 Wilma 说道。",
+          "startMs": 248190,
+          "endMs": 252450
+        },
+        {
+          "en": "\"Will he like camping?\"",
+          "zh": "“他会喜欢露营吗？”",
+          "startMs": 252480,
+          "endMs": 253970
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 246290,
+      "endMs": 254320
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 254320,
+      "endMs": 254321
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 254321,
+      "endMs": 254322
+    }
+  ]
+}

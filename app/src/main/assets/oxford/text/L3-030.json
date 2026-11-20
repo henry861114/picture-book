@@ -1,0 +1,226 @@
+{
+  "id": "L3-030",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 1670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip and the little monkey.",
+          "zh": "核和这小的猴子。",
+          "startMs": 1670,
+          "endMs": 4620
+        }
+      ],
+      "startMs": 1670,
+      "endMs": 4620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip was at the zoo.",
+          "zh": "核是在这动物园。",
+          "startMs": 3960,
+          "endMs": 10060
+        }
+      ],
+      "startMs": 3810,
+      "endMs": 10410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip's dad was a zoo-keeper.",
+          "zh": "核爸爸是一个动物园饲养员。",
+          "startMs": 9960,
+          "endMs": 12580
+        }
+      ],
+      "startMs": 9810,
+      "endMs": 12930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip helped her dad.",
+          "zh": "核帮助她爸爸。",
+          "startMs": 14960,
+          "endMs": 20060
+        }
+      ],
+      "startMs": 14810,
+      "endMs": 20410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at a little monkey. maT",
+          "zh": "他们看在一个小的猴子。 垫子",
+          "startMs": 19960,
+          "endMs": 25060
+        }
+      ],
+      "startMs": 19810,
+      "endMs": 25410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monkey was ill.",
+          "zh": "这猴子是有病的。",
+          "startMs": 24980,
+          "endMs": 32060
+        }
+      ],
+      "startMs": 24830,
+      "endMs": 32410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the monkey home.",
+          "zh": "他们拿这猴子家。",
+          "startMs": 31960,
+          "endMs": 38060
+        }
+      ],
+      "startMs": 31810,
+      "endMs": 38410
+    },
+    {
+      "sentences": [],
+      "startMs": 30520,
+      "endMs": 33033,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monkey got better.",
+          "zh": "这猴子得到更好的。",
+          "startMs": 37960,
+          "endMs": 41060
+        }
+      ],
+      "startMs": 37810,
+      "endMs": 41410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip played with it.",
+          "zh": "核玩和……一起它。",
+          "startMs": 40960,
+          "endMs": 47060
+        }
+      ],
+      "startMs": 40810,
+      "endMs": 47410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the monkey to the zoo.",
+          "zh": "他们拿这猴子到这动物园。",
+          "startMs": 46960,
+          "endMs": 51060
+        }
+      ],
+      "startMs": 46810,
+      "endMs": 51410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip cried and cried.",
+          "zh": "核哭和哭。",
+          "startMs": 50960,
+          "endMs": 55020
+        },
+        {
+          "en": "She wanted to keep the monkey.",
+          "zh": "她想要到保持这猴子。",
+          "startMs": 54920,
+          "endMs": 60060
+        }
+      ],
+      "startMs": 50810,
+      "endMs": 60410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the monkey house.",
+          "zh": "他们去到这猴子房子。",
+          "startMs": 59960,
+          "endMs": 64060
+        }
+      ],
+      "startMs": 59810,
+      "endMs": 64410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The little monkey ran to its mum.",
+          "zh": "这小的猴子跑到它的妈妈。",
+          "startMs": 63960,
+          "endMs": 70140
+        }
+      ],
+      "startMs": 63810,
+      "endMs": 70490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The little monkey jumped and jumped.",
+          "zh": "这小的猴子跳和跳。",
+          "startMs": 70960,
+          "endMs": 76060
+        }
+      ],
+      "startMs": 70810,
+      "endMs": 76410
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was happy.",
+          "zh": "它是快乐的。",
+          "startMs": 75960,
+          "endMs": 81060
+        }
+      ],
+      "startMs": 75810,
+      "endMs": 81410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Printed in China by Imago Pip was happy too.",
+          "zh": "印刷的在……里瓷由 Imago 核是快乐的也。",
+          "startMs": 80960,
+          "endMs": 86060
+        }
+      ],
+      "startMs": 80810,
+      "endMs": 86410
+    },
+    {
+      "sentences": [],
+      "startMs": 85060,
+      "endMs": 86270,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 86270,
+      "endMs": 86570,
+      "illustrationOnly": true
+    }
+  ]
+}

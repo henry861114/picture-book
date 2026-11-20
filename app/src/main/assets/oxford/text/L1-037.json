@@ -1,0 +1,171 @@
+{
+  "id": "L1-037",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had a box.",
+          "zh": "Chip 有一个盒子。",
+          "startMs": 0,
+          "endMs": 1780
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2130
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put sand in it.",
+          "zh": "他放沙在……里它。",
+          "startMs": 6000,
+          "endMs": 7860
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 8210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Pat it flat,\" he said.",
+          "zh": "轻拍它水平的， 他说。",
+          "startMs": 11680,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 11530,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had a box.",
+          "zh": "Kipper 有一个盒子。",
+          "startMs": 18800,
+          "endMs": 20660
+        }
+      ],
+      "startMs": 18650,
+      "endMs": 21010
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put sand in it.",
+          "zh": "他放沙在……里它。",
+          "startMs": 6000,
+          "endMs": 7860
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 8210
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a bucket.",
+          "zh": "Biff 有一个桶。",
+          "startMs": 29920,
+          "endMs": 30070
+        }
+      ],
+      "startMs": 29770,
+      "endMs": 30420
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put sand in it.",
+          "zh": "她放沙在……里它。",
+          "startMs": 29920,
+          "endMs": 33140
+        }
+      ],
+      "startMs": 29770,
+      "endMs": 33490
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff put the bucket on top.",
+          "zh": "Biff 放这桶在……上顶。",
+          "startMs": 40320,
+          "endMs": 42100
+        }
+      ],
+      "startMs": 40170,
+      "endMs": 42450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Good\"\" she said.",
+          "zh": "好的她说。",
+          "startMs": 45200,
+          "endMs": 46980
+        }
+      ],
+      "startMs": 45050,
+      "endMs": 47330
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a sandcastle.",
+          "zh": "它是一个沙堡。",
+          "startMs": 51520,
+          "endMs": 53060
+        }
+      ],
+      "startMs": 51370,
+      "endMs": 53410
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a good sandcastle.",
+          "zh": "它是一个好的沙堡。",
+          "startMs": 54880,
+          "endMs": 57700
+        }
+      ],
+      "startMs": 54730,
+      "endMs": 58050
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the best sandcastle.",
+          "zh": "它是这最好的沙堡。",
+          "startMs": 64400,
+          "endMs": 66980
+        }
+      ],
+      "startMs": 64250,
+      "endMs": 67330
+    },
+    {
+      "sentences": [],
+      "startMs": 72381,
+      "endMs": 72881,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 72881,
+      "endMs": 73022,
+      "illustrationOnly": true
+    }
+  ]
+}

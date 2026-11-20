@@ -1,0 +1,738 @@
+{
+  "id": "L7-010",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Gran's birthday, so she had come to stay the children gave Gran a present.",
+          "zh": "它是 Gran 生日， 所以她有来到停留。",
+          "startMs": 29,
+          "endMs": 5360
+        },
+        {
+          "en": "Happy birthday.",
+          "zh": "快乐的生日， 他们说。",
+          "startMs": 5390,
+          "endMs": 6450
+        },
+        {
+          "en": "They said thank you said Gran.",
+          "zh": "谢谢你， 说 Gran。",
+          "startMs": 11770,
+          "endMs": 14840
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 15190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad and Mum gave Gran a present.",
+          "zh": "爸爸和妈妈给 Gran 一个礼物。",
+          "startMs": 18740,
+          "endMs": 21160
+        },
+        {
+          "en": "It's a funny shape said Gran.",
+          "zh": "它是一个有趣的形状！ 说 Gran。",
+          "startMs": 21160,
+          "endMs": 21360
+        },
+        {
+          "en": "I Can't think what it can be the children laughed.",
+          "zh": "我不能想什么它能是。",
+          "startMs": 21730,
+          "endMs": 26380
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 18590,
+      "endMs": 26730
+    },
+    {
+      "sentences": [
+        {
+          "en": "We can said Kipper Gran was pleased with the present.",
+          "zh": "Gran 是请和……一起这礼物。",
+          "startMs": 28020,
+          "endMs": 33660
+        },
+        {
+          "en": "It was a Chinese vase.",
+          "zh": "它是一个中国的花瓶。",
+          "startMs": 33660,
+          "endMs": 35490
+        },
+        {
+          "en": "\"I hope you like it,\" said Mum.",
+          "zh": "我希望你喜欢它， 说妈妈。",
+          "startMs": 39390,
+          "endMs": 42200
+        },
+        {
+          "en": "\"It's beautiful,\" said Gran.",
+          "zh": "它是美丽的， 说 Gran。",
+          "startMs": 42260,
+          "endMs": 45440
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 27870,
+      "endMs": 45790
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put it in a safe place,\" said Dad.",
+          "zh": "放它在……里一个安全的地方， 说爸爸。",
+          "startMs": 49200,
+          "endMs": 52660
+        },
+        {
+          "en": "Gran had a surprise for everyone.",
+          "zh": "Gran 有一个意想不到的事物为了每个人。",
+          "startMs": 54620,
+          "endMs": 57100
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 49050,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had a box of fireworks She wanted a firework party.",
+          "zh": "她想要一个烟火聚会。",
+          "startMs": 61000,
+          "endMs": 65360
+        },
+        {
+          "en": "\"But I thought fireworks were dangerous,\" said Biff.",
+          "zh": "我想烟火是危险的， 说 Biff。",
+          "startMs": 66460,
+          "endMs": 69920
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 60850,
+      "endMs": 70270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Fireworks are Dangerous said Gran so children doesn't play with them Mum, and Gran got the fireworks ready.",
+          "zh": "",
+          "startMs": 70850,
+          "endMs": 79200
+        },
+        {
+          "en": "They were very careful the children stayed out of the way.",
+          "zh": "这孩子们停留出的这方式。",
+          "startMs": 79230,
+          "endMs": 83030
+        },
+        {
+          "en": "Nadim and Anneena came to the party everyone was excited Gran.",
+          "zh": "Nadim 和 Anneena 来到这聚会。",
+          "startMs": 85620,
+          "endMs": 92030
+        },
+        {
+          "en": "Gran let off a big firework.",
+          "zh": "Gran 让离开一个大的烟火。 说每个人。",
+          "startMs": 92060,
+          "endMs": 94890
+        },
+        {
+          "en": "Said everyone what a beautiful firework said Chip dogs don't like fireworks, so flop it.",
+          "zh": "什么一个美丽的烟火！ 说 Chip。",
+          "startMs": 101460,
+          "endMs": 110160
+        },
+        {
+          "en": "Said Chip dogs don't like fireworks, so Floppy stayed inside the house.",
+          "zh": "Floppy 停留里面这房子。",
+          "startMs": 110190,
+          "endMs": 113240
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 70700,
+      "endMs": 113590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a firework made a loud bang.",
+          "zh": "突然地， 一个烟火做一个大声的邦。",
+          "startMs": 114540,
+          "endMs": 117360
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 114390,
+      "endMs": 117710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't like this,\" thought Floppy, so he hid under a little table.",
+          "zh": "我不喜欢这个， 想 Floppy， 所以他 hid 在……下方一个小的桌子。",
+          "startMs": 120260,
+          "endMs": 125040
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 120110,
+      "endMs": 125390
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to have tea Mum had a surprise for Gran.",
+          "zh": "妈妈有一个意想不到的事物为了 Gran。",
+          "startMs": 133410,
+          "endMs": 137950
+        },
+        {
+          "en": "She had a birthday cake with lots of candles.",
+          "zh": "她有一个生日蛋糕和……一起许多的蜡烛。",
+          "startMs": 137980,
+          "endMs": 141690
+        },
+        {
+          "en": "Happy birthday, Gran said everyone Biff went into the front room to get her camera She saw Gran's vase on the floor the vase was broken.",
+          "zh": "",
+          "startMs": 142160,
+          "endMs": 154040
+        },
+        {
+          "en": "Oh, no said Biff.",
+          "zh": "哦不！ 说 Biff。",
+          "startMs": 156400,
+          "endMs": 159540
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 133260,
+      "endMs": 159890
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's room Biff showed them the broken vase.",
+          "zh": "这孩子们去到 Biff 房间。",
+          "startMs": 163920,
+          "endMs": 168980
+        },
+        {
+          "en": "Gran will be upset said Chip and so will Mum and Dad I hope we can mend it said Biff.",
+          "zh": "Gran 将是使苦恼， 说 Chip， 和所以将妈妈和爸爸。",
+          "startMs": 169320,
+          "endMs": 177420
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 163770,
+      "endMs": 177770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the key began to glow.",
+          "zh": "突然地， 这钥匙开始到光亮。",
+          "startMs": 178460,
+          "endMs": 180820
+        },
+        {
+          "en": "The magic took the children into a new adventure.",
+          "zh": "这魔法拿这孩子们进入一个新的冒险。",
+          "startMs": 182440,
+          "endMs": 186380
+        },
+        {
+          "en": "Oh, no said Biff I wanted to put the vase back downstairs.",
+          "zh": "我想要到放这花瓶回来在楼下！",
+          "startMs": 186510,
+          "endMs": 191460
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 178310,
+      "endMs": 191810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The.",
+          "zh": "两个都！",
+          "startMs": 191490,
+          "endMs": 192220
+        },
+        {
+          "en": "Magic took the children back in time it took them to China long ago Nadim knew where they were.",
+          "zh": "这魔法拿这孩子们到这海， 哪里那里是许多的船。",
+          "startMs": 200670,
+          "endMs": 208180
+        },
+        {
+          "en": "\"We are in the Forbidden City,\" he said.",
+          "zh": "我们是在……里这被禁止的城市， 他说。",
+          "startMs": 209380,
+          "endMs": 211650
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 191810,
+      "endMs": 212000
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said why is it called that?",
+          "zh": "为什么是它叫那个？ 问 Chip。",
+          "startMs": 211680,
+          "endMs": 214090
+        },
+        {
+          "en": "Asked Chip the Emperor lives here said Nadim He lives here with his family other people are not allowed to come here That is why it is called the Forbidden City.",
+          "zh": "",
+          "startMs": 214520,
+          "endMs": 226500
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 212000,
+      "endMs": 226850
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a fierce dog in the Forbidden City it didn't like Floppy the fierce dog growled and barked.",
+          "zh": "那里是一个凶猛的狗在……里这被禁止的城市。",
+          "startMs": 231640,
+          "endMs": 239740
+        },
+        {
+          "en": "But Floppy didn't want to fight.",
+          "zh": "这凶猛的狗低声吼叫和吠叫， 但是 Floppy 没有想要到打架。",
+          "startMs": 244090,
+          "endMs": 246780
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 231490,
+      "endMs": 247130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Stop it shouted Chip some women ran up and grabbed the dogs the children were worried.",
+          "zh": "一些女人们跑向上和抓住这狗。",
+          "startMs": 247390,
+          "endMs": 255040
+        },
+        {
+          "en": "Oh.",
+          "zh": "哦不！",
+          "startMs": 255040,
+          "endMs": 255240
+        },
+        {
+          "en": "\"Oh help!\" said Chip.",
+          "zh": "哦帮助！ 说 Chip。",
+          "startMs": 256860,
+          "endMs": 258960
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 247240,
+      "endMs": 259310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The women took the children and Floppy to the Emperor What are you doing in the Forbidden City?",
+          "zh": "这女人们拿这孩子们和 Floppy 到这皇帝。",
+          "startMs": 261880,
+          "endMs": 268980
+        },
+        {
+          "en": "\"People are not allowed in here.\"",
+          "zh": "人们是不允许在……里这里。",
+          "startMs": 269950,
+          "endMs": 272380
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 261730,
+      "endMs": 272730
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Emperor called his soldiers.",
+          "zh": "这皇帝叫他的士兵。",
+          "startMs": 273240,
+          "endMs": 275340
+        },
+        {
+          "en": "\"Put them in prison!\"",
+          "zh": "放他们在……里监狱！ 他喊。",
+          "startMs": 276340,
+          "endMs": 278220
+        },
+        {
+          "en": "\"That will teach them to come to the Forbidden City.\"",
+          "zh": "那个将教他们到来到这被禁止的城市。",
+          "startMs": 279800,
+          "endMs": 283310
+        },
+        {
+          "en": "\"I think we've upset him,\" said Biff.",
+          "zh": "我想我们已经使苦恼他， 说 Biff。",
+          "startMs": 284900,
+          "endMs": 287900
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 273090,
+      "endMs": 288250
+    },
+    {
+      "sentences": [],
+      "pdfPage": 19,
+      "startMs": 288250,
+      "endMs": 288251
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Emperor had two children They were twins and they looked exactly the same the twins spoke to the Emperor one of them pointed to the children the twins wanted to play with Kipper I.",
+          "zh": "",
+          "startMs": 291500,
+          "endMs": 304760
+        },
+        {
+          "en": "Will put you in prison tomorrow.",
+          "zh": "我将放你在……里监狱在明天， 说这皇帝。",
+          "startMs": 305750,
+          "endMs": 307900
+        },
+        {
+          "en": "Said the Emperor today you can play with the twins.",
+          "zh": "在今天你能玩和……一起这双胞胎之一。",
+          "startMs": 308770,
+          "endMs": 312960
+        },
+        {
+          "en": "\"Hooray,\" said the twins.",
+          "zh": "好耶， 说这双胞胎之一。",
+          "startMs": 315980,
+          "endMs": 318080
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 291350,
+      "endMs": 318430
+    },
+    {
+      "sentences": [
+        {
+          "en": "The twins had never played with other children.",
+          "zh": "这双胞胎之一有从不玩和……一起其他孩子们。",
+          "startMs": 320820,
+          "endMs": 324440
+        },
+        {
+          "en": "They didn't know how to play football.",
+          "zh": "他们没有知道如何到玩足球运动。",
+          "startMs": 324600,
+          "endMs": 329160
+        },
+        {
+          "en": "One of the twins kicked Nadim.",
+          "zh": "一的这双胞胎之一踢 Nadim。",
+          "startMs": 329190,
+          "endMs": 330640
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 320670,
+      "endMs": 330990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Nadim that was my leg.",
+          "zh": "那个是我的腿。",
+          "startMs": 331960,
+          "endMs": 336300
+        },
+        {
+          "en": "Suddenly, the ball rolled away and fell down a grating.",
+          "zh": "突然地， 这球使滚动离开和落下向下一个格栅。",
+          "startMs": 336330,
+          "endMs": 338880
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 331810,
+      "endMs": 339230
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said the twins now the ball is lost both the twins began to cry.",
+          "zh": "两个都这双胞胎之一开始到哭。",
+          "startMs": 341390,
+          "endMs": 349100
+        },
+        {
+          "en": "Biff and Chip pulled up the grading Nadim could see some steps.",
+          "zh": "Biff 和 Chip 拉向上这格栅。",
+          "startMs": 355140,
+          "endMs": 358480
+        },
+        {
+          "en": "He began to go down them.",
+          "zh": "他开始到去向下他们。",
+          "startMs": 360520,
+          "endMs": 362660
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 341240,
+      "endMs": 363010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yeah said Biff we don't want the Emperor to put us in prison.",
+          "zh": "我们不想要这皇帝到放我们在……里监狱。",
+          "startMs": 365990,
+          "endMs": 370480
+        },
+        {
+          "en": "Nadim went into a big cellar.",
+          "zh": "Nadim 去进入一个大的地窖。",
+          "startMs": 371940,
+          "endMs": 373520
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 365840,
+      "endMs": 373870
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was full of cobwebs and dust Nadim called the others Look at these giant vases.",
+          "zh": "",
+          "startMs": 374680,
+          "endMs": 381060
+        },
+        {
+          "en": "He said they look like Brans vase.",
+          "zh": "他们看喜欢 Gran 花瓶。",
+          "startMs": 381090,
+          "endMs": 383760
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 374530,
+      "endMs": 384110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some people came into the cellar they were the Emperor's servants they didn't like the Emperor.",
+          "zh": "",
+          "startMs": 388150,
+          "endMs": 395240
+        },
+        {
+          "en": "They had barrels of gunpowder, because they wanted to blow up the palace.",
+          "zh": "他们有桶的火药， 因为他们想要到吹向上这宫。",
+          "startMs": 395760,
+          "endMs": 400860
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 388000,
+      "endMs": 401210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were frightened they hid inside the vases the people didn't see them We'll come back and blow up the palace tonight said a man.",
+          "zh": "我们会来回来和吹向上这宫今夜， 说一个男人。",
+          "startMs": 403420,
+          "endMs": 414600
+        },
+        {
+          "en": "The children ran to the Emperor they told him about the gunpowder under the palace.",
+          "zh": "他们告诉他关于这火药在……下方这宫。",
+          "startMs": 418520,
+          "endMs": 424260
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 403270,
+      "endMs": 424610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some people want to blow up the palace tonight They said that night the people came back the Emperor's soldiers were waiting The Emperor was pleased with the children.",
+          "zh": "",
+          "startMs": 425000,
+          "endMs": 438080
+        },
+        {
+          "en": "\"I won't put you in prison now,\" he said.",
+          "zh": "我不会放你在……里监狱现在， 他说。",
+          "startMs": 438440,
+          "endMs": 441190
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 424850,
+      "endMs": 441540
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 441390,
+          "endMs": 443050
+        },
+        {
+          "en": "The Emperor had a big firework party there were lots and lots of fireworks they lit up the sky.",
+          "zh": "那里是许多和许多的烟火。",
+          "startMs": 445280,
+          "endMs": 452380
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 441540,
+      "endMs": 452730
+    },
+    {
+      "sentences": [
+        {
+          "en": "And.",
+          "zh": "",
+          "startMs": 455400,
+          "endMs": 457200
+        },
+        {
+          "en": "Everyone gasped when the fireworks went off Biff thought of gran.",
+          "zh": "每个人喘气当……时这烟火去离开。",
+          "startMs": 460550,
+          "endMs": 465640
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 455250,
+      "endMs": 465990
+    },
+    {
+      "sentences": [
+        {
+          "en": "I wish she was here She thought grand would love all these fireworks She'd love this adventure.",
+          "zh": "Gran 会爱全部这些烟火。",
+          "startMs": 465670,
+          "endMs": 474080
+        },
+        {
+          "en": "The Emperor wanted to give the children a present Biff had a good idea she asked for one of the big vases.",
+          "zh": "这皇帝想要到给这孩子们一个礼物。",
+          "startMs": 477290,
+          "endMs": 485020
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 486300,
+          "endMs": 489020
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 465990,
+      "endMs": 489370
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children home it took the giant vase too, but now the vase was quite small.",
+          "zh": "这魔法拿这孩子们到这海， 哪里那里是许多的船。",
+          "startMs": 498320,
+          "endMs": 507860
+        },
+        {
+          "en": "\"It looks exactly the same as Gran's vase,\" said Chip.",
+          "zh": "它看确切地这同样的像 Gran 花瓶， 说 Chip。",
+          "startMs": 507890,
+          "endMs": 511220
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 498170,
+      "endMs": 511570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the vases.",
+          "zh": "这孩子们看在这花瓶。",
+          "startMs": 515290,
+          "endMs": 517340
+        },
+        {
+          "en": "Said Biff they are quite the same after all The new vase has Chinese writing on it.",
+          "zh": "这新的花瓶有中国的写在……上它。",
+          "startMs": 518220,
+          "endMs": 524430
+        },
+        {
+          "en": "Do you think Gran will notice?\"",
+          "zh": "做你想 Gran 将布告？",
+          "startMs": 525190,
+          "endMs": 526890
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 515140,
+      "endMs": 527240
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 527240,
+      "endMs": 527241
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 527241,
+      "endMs": 527242
+    }
+  ]
+}

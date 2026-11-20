@@ -1,0 +1,593 @@
+{
+  "id": "L5-012",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Heliday Mum and Gran went on holiday.",
+          "zh": "妈妈和 Gran 去度假了。",
+          "startMs": 4000,
+          "endMs": 9730
+        },
+        {
+          "en": "They went to Scotland.",
+          "zh": "她们去了苏格兰。",
+          "startMs": 9760,
+          "endMs": 12170
+        },
+        {
+          "en": "They took the children.",
+          "zh": "她们带着孩子们一起去。",
+          "startMs": 12630,
+          "endMs": 15730
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3850,
+      "endMs": 16080
+    },
+    {
+      "sentences": [
+        {
+          "en": "They stayed in a cottage.",
+          "zh": "她们住在一间乡村小屋里。",
+          "startMs": 19630,
+          "endMs": 22730
+        },
+        {
+          "en": "The cottage was by a lake.",
+          "zh": "小屋坐落在湖边。",
+          "startMs": 22760,
+          "endMs": 25730
+        },
+        {
+          "en": "It had a boat. Said the children.",
+          "zh": "那里有一艘船。 孩子们说道。",
+          "startMs": 25760,
+          "endMs": 27730
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 19480,
+      "endMs": 28080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I like it here,\" said Biff.",
+          "zh": "“我喜欢这里，”Biff 说。",
+          "startMs": 27760,
+          "endMs": 30730
+        },
+        {
+          "en": "\"We can go sailing.\" \"And fishing.\" Said Kipper.",
+          "zh": "“我们可以去航海。” “还有钓鱼。” Kipper 说道。",
+          "startMs": 30760,
+          "endMs": 35790
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 28080,
+      "endMs": 36140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone had a good time.",
+          "zh": "大家都玩得很开心。",
+          "startMs": 40860,
+          "endMs": 42590
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 40710,
+      "endMs": 42940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Kipper went fishing.",
+          "zh": "Biff 和 Kipper 去钓鱼了。",
+          "startMs": 44160,
+          "endMs": 48110
+        },
+        {
+          "en": "Gran and Chip painted a picture.",
+          "zh": "Gran 和 Chip 画了一幅画。",
+          "startMs": 57810,
+          "endMs": 60170
+        },
+        {
+          "en": "Mum sat in the sun and read a book.",
+          "zh": "妈妈坐在阳光下看书。",
+          "startMs": 60490,
+          "endMs": 64350
+        },
+        {
+          "en": "\"Ah, this is fun,\" She said.",
+          "zh": "“啊，这真有意思。”",
+          "startMs": 64490,
+          "endMs": 69700
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 44010,
+      "endMs": 70050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at Gran's picture.",
+          "zh": "大家都看了 Gran 画的画。",
+          "startMs": 76110,
+          "endMs": 78490
+        },
+        {
+          "en": "\"Oh Gran!\" Said Chip.",
+          "zh": "“哎呀，格兰德。” Chip 说道。",
+          "startMs": 79630,
+          "endMs": 82730
+        },
+        {
+          "en": "She had painted a monster.",
+          "zh": "她画了一只怪物。",
+          "startMs": 82760,
+          "endMs": 85190
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 75960,
+      "endMs": 85540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip Kipper looked at the monster.",
+          "zh": "Chip 和 Kipper 看着这只怪物。",
+          "startMs": 85660,
+          "endMs": 88730
+        },
+        {
+          "en": "Gran laughed.",
+          "zh": "Gran 笑了。",
+          "startMs": 88760,
+          "endMs": 90730
+        },
+        {
+          "en": "\"There's no such thing,\" She said.",
+          "zh": "“根本没有那回事。”",
+          "startMs": 93930,
+          "endMs": 97090
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 85540,
+      "endMs": 97440
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went shopping.",
+          "zh": "妈妈去购物了。",
+          "startMs": 110960,
+          "endMs": 113350
+        },
+        {
+          "en": "She took Kipper.",
+          "zh": "她带着 Kipper 一起去。",
+          "startMs": 113410,
+          "endMs": 115210
+        },
+        {
+          "en": "Biff and Chip stayed with Gran.",
+          "zh": "Biff 和 Chip 和 Gran 待在一起。",
+          "startMs": 115520,
+          "endMs": 117990
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 110810,
+      "endMs": 118340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked at the shops.",
+          "zh": "妈妈看了看商店。",
+          "startMs": 121490,
+          "endMs": 124590
+        },
+        {
+          "en": "\"Let's get Dad a postcard,\" she said.",
+          "zh": "“我们给爸爸买一张明信片吧。”",
+          "startMs": 124620,
+          "endMs": 128470
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 121340,
+      "endMs": 128820
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 128500,
+          "endMs": 129730
+        },
+        {
+          "en": "Kipper went into her shop.",
+          "zh": "Kipper 走进了一家商店。",
+          "startMs": 135490,
+          "endMs": 138590
+        },
+        {
+          "en": "\"I want a monster for me and a postcard for Dad,\" he said.",
+          "zh": "“我想给自己买一个怪物，给爸爸买一张明信片，”他说。",
+          "startMs": 138620,
+          "endMs": 144000
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 128820,
+      "endMs": 144350
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 144030,
+          "endMs": 144590
+        },
+        {
+          "en": "Royal Kipper posted the card to Dad.",
+          "zh": "Kipper 把明信片寄给了爸爸。",
+          "startMs": 147630,
+          "endMs": 150730
+        },
+        {
+          "en": "\"I wish Dad was here,\" he said.",
+          "zh": "“我希望爸爸在这里，”他说。",
+          "startMs": 150760,
+          "endMs": 153380
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 144350,
+      "endMs": 153730
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 153420,
+          "endMs": 155240
+        },
+        {
+          "en": "Gran wanted to play a joke on Mum.",
+          "zh": "Gran 想跟妈妈开个玩笑。",
+          "startMs": 159530,
+          "endMs": 162590
+        },
+        {
+          "en": "\"Let's make a monster,\" she said.",
+          "zh": "“我们来做一个怪物吧，”她说。",
+          "startMs": 163660,
+          "endMs": 167130
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 153730,
+      "endMs": 167480
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 167160,
+          "endMs": 168990
+        },
+        {
+          "en": "\"I don't get it,\" said Biff.",
+          "zh": "“我不明白，”Biff 说。 Biff 说道。",
+          "startMs": 177630,
+          "endMs": 180730
+        },
+        {
+          "en": "\"Wait and see,\" said Gran.",
+          "zh": "“等着瞧吧，”Gran 说。 Gran 说道。",
+          "startMs": 180730,
+          "endMs": 184730
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 167480,
+      "endMs": 185080
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put the monster in the lake.",
+          "zh": "他们把怪物放进了湖里。",
+          "startMs": 198490,
+          "endMs": 203670
+        },
+        {
+          "en": "It made the children laugh.",
+          "zh": "“它逗得孩子们哈哈大笑。”",
+          "startMs": 203700,
+          "endMs": 206570
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 198340,
+      "endMs": 206920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks brilliant!\" Said Chip.",
+          "zh": "“看起来很棒。” Chip 说道。",
+          "startMs": 207630,
+          "endMs": 210730
+        },
+        {
+          "en": "\"What a good joke,\" said Biff.",
+          "zh": "“真是一个好笑话，”Biff 说。 Biff 说道。",
+          "startMs": 210760,
+          "endMs": 213730
+        },
+        {
+          "en": "\"What a good joke to play on Mum.\"",
+          "zh": "“跟妈妈开个玩笑真好。”",
+          "startMs": 213760,
+          "endMs": 217730
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 207480,
+      "endMs": 218080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Kipper came back.",
+          "zh": "妈妈和 Kipper 回来了。",
+          "startMs": 225830,
+          "endMs": 228930
+        },
+        {
+          "en": "Gran pulled the rope.",
+          "zh": "Gran 拉了拉绳子。",
+          "startMs": 229490,
+          "endMs": 231590
+        },
+        {
+          "en": "The monster went across the lake.",
+          "zh": "怪物游过了湖。",
+          "startMs": 232790,
+          "endMs": 235590
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 225680,
+      "endMs": 235940
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"A real monster,\" Said Kipper.",
+          "zh": "“一个真正的怪物！” Kipper 说道。",
+          "startMs": 237490,
+          "endMs": 240590
+        },
+        {
+          "en": "\"I don't believe it,\" said Mum.",
+          "zh": "“我不相信，”妈妈说。",
+          "startMs": 240630,
+          "endMs": 244730
+        },
+        {
+          "en": "\"There's no such thing.",
+          "zh": "“根本没有那回事。”",
+          "startMs": 244760,
+          "endMs": 246990
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 237340,
+      "endMs": 247340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some people saw Gran's monster.",
+          "zh": "有些人看到了 Gran 的怪物。",
+          "startMs": 254830,
+          "endMs": 258930
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 254680,
+      "endMs": 259280
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were amazed.",
+          "zh": "他们很惊讶。",
+          "startMs": 258960,
+          "endMs": 261470
+        },
+        {
+          "en": "They took photographs.",
+          "zh": "他们拍了照片。",
+          "startMs": 261500,
+          "endMs": 261730
+        },
+        {
+          "en": "The children watched television.",
+          "zh": "孩子们在看电视。",
+          "startMs": 265490,
+          "endMs": 268790
+        },
+        {
+          "en": "\"Gran's monster!\" Said Chip.",
+          "zh": "“格兰的怪物，” Chip 说道。",
+          "startMs": 268820,
+          "endMs": 271890
+        },
+        {
+          "en": "\"Oh no!\" Groaned Biff.",
+          "zh": "哎呀。 Biff 呻吟道。",
+          "startMs": 271920,
+          "endMs": 275850
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 259280,
+      "endMs": 276200
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day lots of people came.",
+          "zh": "第二天，来了很多人。",
+          "startMs": 281000,
+          "endMs": 285730
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 280850,
+      "endMs": 286080
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were lots and lots and lots of people.",
+          "zh": "来的人非常非常多。",
+          "startMs": 286630,
+          "endMs": 290730
+        },
+        {
+          "en": "They wanted to see the monster.",
+          "zh": "他们想看看怪物。",
+          "startMs": 292890,
+          "endMs": 296830
+        },
+        {
+          "en": "\"Oh Gran!\" Said Mum.",
+          "zh": "“哎呀，格兰德。” 妈妈说道。",
+          "startMs": 296830,
+          "endMs": 297030
+        },
+        {
+          "en": "\"Now look what you've done.\"",
+          "zh": "“瞧瞧你都干了些什么。”",
+          "startMs": 300890,
+          "endMs": 302590
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 286480,
+      "endMs": 302940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran told everyone about the monster.",
+          "zh": "Gran 把妖怪的事告诉了大家。",
+          "startMs": 306000,
+          "endMs": 312730
+        },
+        {
+          "en": "\"It was just a joke,\" she said.",
+          "zh": "“那只是个玩笑，”她说。",
+          "startMs": 316630,
+          "endMs": 319260
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 305850,
+      "endMs": 319610
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man from the television came.",
+          "zh": "一个电视台的人来了。",
+          "startMs": 319290,
+          "endMs": 320930
+        },
+        {
+          "en": "Mum was cross with Gran but everyone laughed.",
+          "zh": "妈妈对 Gran 很生气，但大家都笑了。",
+          "startMs": 321490,
+          "endMs": 326560
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 319610,
+      "endMs": 326910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"A monster?\" she said.",
+          "zh": "“怪物？”她说。",
+          "startMs": 326560,
+          "endMs": 326760
+        },
+        {
+          "en": "Gran was sorry.",
+          "zh": "Gran 很抱歉。",
+          "startMs": 334000,
+          "endMs": 336730
+        },
+        {
+          "en": "\"A monster?\" She said.",
+          "zh": "“一个怪物，” 她说。",
+          "startMs": 336760,
+          "endMs": 339750
+        },
+        {
+          "en": "\"There's no such thing.\"",
+          "zh": "“根本没有那回事。”",
+          "startMs": 339990,
+          "endMs": 342470
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 326910,
+      "endMs": 342820
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 342820,
+      "endMs": 342821
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 342821,
+      "endMs": 342822
+    }
+  ]
+}

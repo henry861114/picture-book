@@ -1,0 +1,791 @@
+{
+  "id": "L6-008",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4694,
+        0.471
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted to help Mum.",
+          "zh": "Biff 想尝尝新果酱。",
+          "startMs": 4000,
+          "endMs": 6810
+        },
+        {
+          "en": "So Mum gave her a job.",
+          "zh": "“Biff 想帮妈妈，所以妈妈给她安排了一项工作。”",
+          "startMs": 6840,
+          "endMs": 8810
+        },
+        {
+          "en": "\"Pick up the apples so I can cut the grass,\" Said Mum.",
+          "zh": "“把苹果捡起来，这样我就可以割草了。” 妈妈说道。",
+          "startMs": 9710,
+          "endMs": 13810
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4694,
+        0.0,
+        1.0,
+        0.471
+      ],
+      "startMs": 3850,
+      "endMs": 14160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff picked up an apple.",
+          "zh": "Biff 挑选向上一个苹果。",
+          "startMs": 17570,
+          "endMs": 19470
+        },
+        {
+          "en": "\"Yuck!\" \"Yuk!\" she said.",
+          "zh": "“真恶心！” 她说。",
+          "startMs": 20580,
+          "endMs": 22670
+        },
+        {
+          "en": "\"Some of the apples are bad.\"",
+          "zh": "“有些苹果坏了。”",
+          "startMs": 22740,
+          "endMs": 24670
+        },
+        {
+          "en": "She didn't pick up the rotten ones.",
+          "zh": "她没有捡起烂苹果。",
+          "startMs": 25710,
+          "endMs": 27810
+        },
+        {
+          "en": "Mum made Biff an apple.",
+          "zh": "“妈妈让 Bif 捡起所有烂苹果。”",
+          "startMs": 27810,
+          "endMs": 28010
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.471,
+        0.4813,
+        1.0
+      ],
+      "startMs": 17420,
+      "endMs": 28360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum made Biff pick up all the rotten apples.",
+          "zh": "“妈妈让 Bif 捡起所有烂苹果。”",
+          "startMs": 28010,
+          "endMs": 30810
+        },
+        {
+          "en": "\"Put them in the box,\" said Mum.",
+          "zh": "“把它们放进箱子里。” 妈妈说道。",
+          "startMs": 31710,
+          "endMs": 33810
+        },
+        {
+          "en": "\"This is a rotten job,\" said Biff.",
+          "zh": "“这是一件糟糕的工作。”",
+          "startMs": 34710,
+          "endMs": 36460
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4813,
+        0.471,
+        1.0,
+        1.0
+      ],
+      "startMs": 28360,
+      "endMs": 36810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "Biff 说道。",
+          "startMs": 36460,
+          "endMs": 37810
+        },
+        {
+          "en": "Biff put the box of apples by the dustbin.",
+          "zh": "Biff 把一箱苹果放在垃圾桶旁边。",
+          "startMs": 42630,
+          "endMs": 45350
+        },
+        {
+          "en": "\"Yuck!",
+          "zh": "“真恶心！”",
+          "startMs": 45710,
+          "endMs": 46950
+        },
+        {
+          "en": "Rotten apples!\" She said.",
+          "zh": "烂苹果！” 她说。",
+          "startMs": 46950,
+          "endMs": 50810
+        },
+        {
+          "en": "Kipper was excited.",
+          "zh": "Kipper 很兴奋。",
+          "startMs": 51570,
+          "endMs": 53990
+        },
+        {
+          "en": "\"Come and see this!\" He said.",
+          "zh": "“过来看看这个。” 他说。",
+          "startMs": 56740,
+          "endMs": 58810
+        },
+        {
+          "en": "\"What is it?\" Asked Biff.",
+          "zh": "“这是什么？” Biff 问道。",
+          "startMs": 59710,
+          "endMs": 61810
+        },
+        {
+          "en": "\"Come and see this!\" Said Kipper.",
+          "zh": "“过来看看这个。” Kipper 说道。",
+          "startMs": 61840,
+          "endMs": 63810
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4757
+      ],
+      "startMs": 36810,
+      "endMs": 64160
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man with a horse and cart came down the street.",
+          "zh": "一个赶着马车的人沿着街道过来。",
+          "startMs": 72580,
+          "endMs": 77110
+        },
+        {
+          "en": "The man stopped outside the house.",
+          "zh": "那个人在房子外面停了下来。",
+          "startMs": 77140,
+          "endMs": 79810
+        },
+        {
+          "en": "\"It's Harry Smith,\" Said Chip.",
+          "zh": "Harry Smith 说道。 Chip 说道。",
+          "startMs": 80570,
+          "endMs": 83670
+        },
+        {
+          "en": "Everyone liked Harry Smith.",
+          "zh": "大家都喜欢哈里·史密斯。",
+          "startMs": 84890,
+          "endMs": 86580
+        },
+        {
+          "en": "He made people laugh.",
+          "zh": "他能让人们发笑。",
+          "startMs": 86610,
+          "endMs": 88670
+        },
+        {
+          "en": "He wore a top hat and a red coat.",
+          "zh": "他戴着一顶高顶礼帽，穿着一件红色外套。",
+          "startMs": 88700,
+          "endMs": 91670
+        },
+        {
+          "en": "He sold things from his cart.",
+          "zh": "他从自己的手推车上卖东西。",
+          "startMs": 91730,
+          "endMs": 93670
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4757,
+        1.0,
+        1.0
+      ],
+      "startMs": 72430,
+      "endMs": 94020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Harry Smith rang a bell.",
+          "zh": "哈里·史密斯摇着铃铛。",
+          "startMs": 97680,
+          "endMs": 99670
+        },
+        {
+          "en": "\"Come and see this!\" He said.",
+          "zh": "“过来看看这个。” 他说。",
+          "startMs": 102710,
+          "endMs": 105810
+        },
+        {
+          "en": "\"I've got some birds going cheap.\"",
+          "zh": "“我这儿有几只鸟，很便宜。”",
+          "startMs": 105840,
+          "endMs": 108570
+        },
+        {
+          "en": "Biff and Chip laughed.",
+          "zh": "Biff 和 Chip 笑。",
+          "startMs": 108600,
+          "endMs": 110670
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        0.4919,
+        0.4773
+      ],
+      "startMs": 97530,
+      "endMs": 111020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum bought some logs.",
+          "zh": "妈妈买了一些木柴。",
+          "startMs": 113830,
+          "endMs": 115930
+        },
+        {
+          "en": "The logs were heavy.",
+          "zh": "木柴很重。",
+          "startMs": 115960,
+          "endMs": 117670
+        },
+        {
+          "en": "Harry Smith helped Mum to carry them.",
+          "zh": "Harry Smith 帮妈妈把木柴搬回家。",
+          "startMs": 117770,
+          "endMs": 121670
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.4919,
+        0.0,
+        1.0,
+        0.4773
+      ],
+      "startMs": 113680,
+      "endMs": 122020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the horse.",
+          "zh": "Biff 看在这马。",
+          "startMs": 128730,
+          "endMs": 130670
+        },
+        {
+          "en": "\"Can we give the horse an apple?\" She asked.",
+          "zh": "“我们可以给马一个苹果吗？” 她问道。",
+          "startMs": 130700,
+          "endMs": 134030
+        },
+        {
+          "en": "\"Yes!\" Said Harry Smith.",
+          "zh": "“可以！” Harry Smith 说道。",
+          "startMs": 134060,
+          "endMs": 136790
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4773,
+        0.4874,
+        1.0
+      ],
+      "startMs": 128580,
+      "endMs": 137140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff picked up an apple.",
+          "zh": "Biff 挑选向上一个苹果。",
+          "startMs": 137570,
+          "endMs": 139990
+        },
+        {
+          "en": "She held she asked it out.",
+          "zh": "她拿着她问它出。",
+          "startMs": 140020,
+          "endMs": 140810
+        },
+        {
+          "en": "The horse took it with its big teeth.",
+          "zh": "马用它的大牙咬住了苹果。",
+          "startMs": 140840,
+          "endMs": 144090
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.4874,
+        0.4773,
+        1.0,
+        1.0
+      ],
+      "startMs": 137420,
+      "endMs": 144440
+    },
+    {
+      "sentences": [
+        {
+          "en": "The horse saw the box of apples.",
+          "zh": "马看到了那箱苹果。",
+          "startMs": 152570,
+          "endMs": 156030
+        },
+        {
+          "en": "It began to eat them.",
+          "zh": "它开始吃苹果。",
+          "startMs": 156060,
+          "endMs": 157590
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "“哎呀，不好了。” Biff 说道。",
+          "startMs": 157730,
+          "endMs": 159670
+        },
+        {
+          "en": "\"It's eating all the bad ones!\"",
+          "zh": "“它在吃掉所有坏苹果。”",
+          "startMs": 159700,
+          "endMs": 162390
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        0.5176,
+        0.4766
+      ],
+      "startMs": 152420,
+      "endMs": 162740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff told Harry Smith about the horse.",
+          "zh": "Biff 把马的事情告诉了哈里·史密斯。",
+          "startMs": 163570,
+          "endMs": 166950
+        },
+        {
+          "en": "Harry laughed.",
+          "zh": "哈利笑了。",
+          "startMs": 166980,
+          "endMs": 167810
+        },
+        {
+          "en": "\"I didn't know she liked rotten apples,\" He said.",
+          "zh": "“我不知道她喜欢烂苹果！” 他说。",
+          "startMs": 167840,
+          "endMs": 173000
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.5176,
+        0.0,
+        1.0,
+        0.4766
+      ],
+      "startMs": 163420,
+      "endMs": 173350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Supplier Biff looked in the box.",
+          "zh": "Biff 看在……里这盒子。",
+          "startMs": 175710,
+          "endMs": 177810
+        },
+        {
+          "en": "It was empty.",
+          "zh": "箱子是空的。",
+          "startMs": 177840,
+          "endMs": 179670
+        },
+        {
+          "en": "All the apples had gone.",
+          "zh": "所有的苹果都不见了。",
+          "startMs": 179700,
+          "endMs": 181670
+        },
+        {
+          "en": "\"What a greedy horse!\" Said Biff.",
+          "zh": "“真是一匹贪吃的马！” Biff 说道。",
+          "startMs": 181700,
+          "endMs": 185710
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4766,
+        0.5252,
+        1.0
+      ],
+      "startMs": 175560,
+      "endMs": 186060
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was The children wanted a ride.",
+          "zh": "它是这孩子们想要一个骑。 空的。",
+          "startMs": 185740,
+          "endMs": 188810
+        },
+        {
+          "en": "\"Jump up!\" Called Harry Smith.",
+          "zh": "“跳上来！” 哈里·史密斯喊道。",
+          "startMs": 188840,
+          "endMs": 192490
+        },
+        {
+          "en": "The children climbed on the cart.",
+          "zh": "孩子们爬上了马车。",
+          "startMs": 192520,
+          "endMs": 196670
+        },
+        {
+          "en": "\"Hold on!\" Said Harry.",
+          "zh": "“抓紧！” 哈利说道。",
+          "startMs": 196700,
+          "endMs": 198420
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.5252,
+        0.4766,
+        1.0,
+        1.0
+      ],
+      "startMs": 186060,
+      "endMs": 198770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The horse began to run.",
+          "zh": "马开始跑起来。",
+          "startMs": 198570,
+          "endMs": 201990
+        },
+        {
+          "en": "Smith pulled the reins.",
+          "zh": "铁匠拉这缰绳。",
+          "startMs": 205000,
+          "endMs": 206670
+        },
+        {
+          "en": "\"Slow down!\"",
+          "zh": "“慢点！”",
+          "startMs": 206710,
+          "endMs": 208870
+        },
+        {
+          "en": "\"Slow down!\" he shouted.",
+          "zh": "慢的向下！ 他喊。",
+          "startMs": 208900,
+          "endMs": 210810
+        },
+        {
+          "en": "But the horse went faster and \"Help!\"",
+          "zh": "但马跑得越来越快。",
+          "startMs": 210840,
+          "endMs": 213510
+        },
+        {
+          "en": "Harry The horse ran down the street.",
+          "zh": "马在街上跑了起来。",
+          "startMs": 214710,
+          "endMs": 216810
+        },
+        {
+          "en": "\"Slow down!\" Shouted Harry Smith.",
+          "zh": "“慢点！” 哈利·史密斯喊道。",
+          "startMs": 218020,
+          "endMs": 222670
+        },
+        {
+          "en": "\"Stop!\" Shouted Mum.",
+          "zh": "“停下！” 妈妈喊道。",
+          "startMs": 222700,
+          "endMs": 223810
+        },
+        {
+          "en": "\"Help!\" Shouted the children.",
+          "zh": "“救命！” 孩子们喊道。",
+          "startMs": 223840,
+          "endMs": 227700
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4783
+      ],
+      "startMs": 198770,
+      "endMs": 228050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The horse wouldn't stop.",
+          "zh": "马不停下来。",
+          "startMs": 233570,
+          "endMs": 235670
+        },
+        {
+          "en": "It ran and ran.",
+          "zh": "它不停地跑。",
+          "startMs": 236570,
+          "endMs": 237670
+        },
+        {
+          "en": "Mum ran after it.",
+          "zh": "妈妈追着它跑。",
+          "startMs": 238770,
+          "endMs": 239990
+        },
+        {
+          "en": "Smith pulled the reins.",
+          "zh": "铁匠拉这缰绳。",
+          "startMs": 243730,
+          "endMs": 246010
+        },
+        {
+          "en": "It ran and It ran into a car park.",
+          "zh": "它跑和它跑进入一个汽车公园。 跑。",
+          "startMs": 246040,
+          "endMs": 248810
+        },
+        {
+          "en": "\"Look out!\" Shouted Harry Smith.",
+          "zh": "“小心！” 哈利·史密斯喊道。",
+          "startMs": 249600,
+          "endMs": 253580
+        },
+        {
+          "en": "The horse began to sway.",
+          "zh": "马开始摇晃起来。",
+          "startMs": 253610,
+          "endMs": 255930
+        },
+        {
+          "en": "It made a funny noise.",
+          "zh": "它发出奇怪的声音。",
+          "startMs": 255960,
+          "endMs": 257670
+        },
+        {
+          "en": "The horse went slower and slower.",
+          "zh": "马越走越慢。",
+          "startMs": 264570,
+          "endMs": 268170
+        },
+        {
+          "en": "Suddenly, it stopped.",
+          "zh": "突然，它停了下来。",
+          "startMs": 269710,
+          "endMs": 272810
+        },
+        {
+          "en": "Then it sat down and went to sleep.",
+          "zh": "然后它坐了下来，睡着了。",
+          "startMs": 275570,
+          "endMs": 279670
+        },
+        {
+          "en": "Harry Smith and the children climbed off the cart.",
+          "zh": "哈里·史密斯和孩子们从马车上爬了下来。",
+          "startMs": 279850,
+          "endMs": 282790
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4783,
+        1.0,
+        1.0
+      ],
+      "startMs": 233420,
+      "endMs": 283140
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The horse is drunk,\" said Mum.",
+          "zh": "这马是喝， 说妈妈。",
+          "startMs": 282820,
+          "endMs": 286810
+        },
+        {
+          "en": "\"Why is it drunk?\" Asked Biff.",
+          "zh": "“它为什么喝醉了？” Biff 问道。",
+          "startMs": 286840,
+          "endMs": 289670
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.468
+      ],
+      "startMs": 283140,
+      "endMs": 290020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Harry Smith looked at the horse.",
+          "zh": "哈里·史密斯看着那匹马。",
+          "startMs": 292570,
+          "endMs": 296670
+        },
+        {
+          "en": "\"The rotten apples made the horse drunk!\" He said.",
+          "zh": "“是烂苹果让马喝醉了！” 他说。",
+          "startMs": 296700,
+          "endMs": 299990
+        },
+        {
+          "en": "Biff was sorry.",
+          "zh": "Biff 很抱歉。",
+          "startMs": 300020,
+          "endMs": 301810
+        },
+        {
+          "en": "Harry Smith laughed.",
+          "zh": "哈里·史密斯笑了。",
+          "startMs": 301840,
+          "endMs": 303670
+        },
+        {
+          "en": "He didn't mind.",
+          "zh": "他并不介意。",
+          "startMs": 305900,
+          "endMs": 307670
+        },
+        {
+          "en": "People came to see the horse.",
+          "zh": "人们来看马。",
+          "startMs": 307700,
+          "endMs": 310060
+        },
+        {
+          "en": "They bought things from the cart.",
+          "zh": "他们从马车上买了东西。",
+          "startMs": 310090,
+          "endMs": 311670
+        },
+        {
+          "en": "He gave the children a present.",
+          "zh": "他给孩子们送了礼物。",
+          "startMs": 325830,
+          "endMs": 327710
+        },
+        {
+          "en": "\"Biff's rotten apples did me a good turn!\" He said.",
+          "zh": "Bif 的烂苹果帮了我一个大忙。 他说。",
+          "startMs": 327740,
+          "endMs": 332950
+        },
+        {
+          "en": "The End.",
+          "zh": "门开了。",
+          "startMs": 332980,
+          "endMs": 334040
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.468,
+        1.0,
+        1.0
+      ],
+      "startMs": 292420,
+      "endMs": 334390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Harry Smith sold everything.",
+          "zh": "Harry Smith 把所有东西都卖掉了。",
+          "startMs": 334040,
+          "endMs": 334240
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5734,
+        1.0
+      ],
+      "startMs": 334390,
+      "endMs": 334590
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5734,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 334590,
+      "endMs": 334591
+    }
+  ]
+}

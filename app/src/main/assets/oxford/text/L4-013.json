@@ -1,0 +1,327 @@
+{
+  "id": "L4-013",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a boat.",
+          "zh": "爸爸得到一个船。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone sat in the boat.",
+          "zh": "每个人坐在……里这船。",
+          "startMs": 6000,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad pushed the boat out.",
+          "zh": "爸爸推这船出。",
+          "startMs": 14000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 10960,
+          "endMs": 11449
+        },
+        {
+          "en": "Dad was stuck.",
+          "zh": "爸爸是 stuck。",
+          "startMs": 11449,
+          "endMs": 12590
+        }
+      ],
+      "startMs": 10960,
+      "endMs": 12590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum pulled Dad.",
+          "zh": "妈妈拉爸爸。",
+          "startMs": 0,
+          "endMs": 540
+        },
+        {
+          "en": "Wilma pushed the boat.",
+          "zh": "Wilma 推这船。",
+          "startMs": 15090,
+          "endMs": 19910
+        }
+      ],
+      "startMs": 0,
+      "endMs": 20260
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went down the river.",
+          "zh": "他们去向下这河。",
+          "startMs": 18577,
+          "endMs": 21785
+        },
+        {
+          "en": "Nobody got wet.",
+          "zh": "没有人得到湿的。",
+          "startMs": 21785,
+          "endMs": 23710
+        }
+      ],
+      "startMs": 18577,
+      "endMs": 23710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good job!\" said Mum.",
+          "zh": "什么一个好的工作！ 说妈妈。",
+          "startMs": 23710,
+          "endMs": 29620
+        }
+      ],
+      "startMs": 23710,
+      "endMs": 29620
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a picnic.",
+          "zh": "他们有一个野餐。",
+          "startMs": 29620,
+          "endMs": 30540
+        }
+      ],
+      "startMs": 29620,
+      "endMs": 30540
+    },
+    {
+      "sentences": [
+        {
+          "en": "It began to rain.",
+          "zh": "它开始到雨。",
+          "startMs": 30540,
+          "endMs": 33715
+        },
+        {
+          "en": "But nobody got wet.",
+          "zh": "但是没有人得到湿的。",
+          "startMs": 33715,
+          "endMs": 37264
+        }
+      ],
+      "startMs": 30540,
+      "endMs": 37264
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boat floated away.",
+          "zh": "这船浮离开。",
+          "startMs": 25740,
+          "endMs": 28990
+        }
+      ],
+      "startMs": 25590,
+      "endMs": 29340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!\" gasped Mum.",
+          "zh": "哦不！ 喘气妈妈。",
+          "startMs": 31000,
+          "endMs": 33090
+        },
+        {
+          "en": "\"Help me get the boat.\"",
+          "zh": "帮助我得到这船。",
+          "startMs": 44600,
+          "endMs": 47100
+        }
+      ],
+      "startMs": 30850,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum pulled the boat in.",
+          "zh": "妈妈拉这船在……里。",
+          "startMs": 37470,
+          "endMs": 47100
+        }
+      ],
+      "startMs": 37320,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "JOLLI \"Don't let me fall in,\" said Mum.",
+          "zh": "JOLLI 不让我落下在……里， 说妈妈。",
+          "startMs": 51140,
+          "endMs": 56370
+        }
+      ],
+      "startMs": 51140,
+      "endMs": 56370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum didn't get wet.",
+          "zh": "妈妈没有得到湿的。",
+          "startMs": 56370,
+          "endMs": 59267
+        }
+      ],
+      "startMs": 56370,
+      "endMs": 59267
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Nobody got wet,\" said Dad.",
+          "zh": "没有人得到湿的， 说爸爸。",
+          "startMs": 59267,
+          "endMs": 64453
+        },
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 64453,
+          "endMs": 68870
+        }
+      ],
+      "startMs": 59267,
+      "endMs": 68870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 68870,
+          "endMs": 69587
+        },
+        {
+          "en": "Everyone got wet!",
+          "zh": "每个人得到湿的！",
+          "startMs": 69587,
+          "endMs": 71620
+        }
+      ],
+      "startMs": 68870,
+      "endMs": 71620
+    },
+    {
+      "sentences": [
+        {
+          "en": "They nearly got wet To help understanding.",
+          "zh": "他们几乎得到湿的到帮助理解。",
+          "startMs": 71620,
+          "endMs": 77942
+        },
+        {
+          "en": "• Find a picture where someone nearly got wet.",
+          "zh": "• 找到一个图画哪里某人几乎得到湿的。",
+          "startMs": 77942,
+          "endMs": 84865
+        },
+        {
+          "en": "Talk about what happened.",
+          "zh": "谈话关于什么发生。",
+          "startMs": 84865,
+          "endMs": 88628
+        },
+        {
+          "en": "Say what stopped them getting wet.",
+          "zh": "说什么停他们得到湿的。",
+          "startMs": 88628,
+          "endMs": 93746
+        },
+        {
+          "en": "• Ask children to find a page where someone nearly gets wet and say what happened.",
+          "zh": "• 问孩子们到找到一个页哪里某人几乎得到湿的和说什么发生。",
+          "startMs": 93746,
+          "endMs": 106088
+        },
+        {
+          "en": "Have two turns each.",
+          "zh": "有二转动每个。",
+          "startMs": 106088,
+          "endMs": 109098
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 109098,
+          "endMs": 117677
+        },
+        {
+          "en": "• Find 'boat' and 'float' on page 10.",
+          "zh": "• 找到 '船' 和 '浮' 在……上页 10。",
+          "startMs": 117677,
+          "endMs": 123246
+        },
+        {
+          "en": "Change the beginning letters to 'c', 'g', 'm\", and 'st', to make new words.",
+          "zh": "嫦这开始信到 '第三'， '音'， '米， 和 'st'， 到做新的单词。",
+          "startMs": 123246,
+          "endMs": 134535
+        },
+        {
+          "en": "• Find 'pulled' and 'pushed' in the story.",
+          "zh": "• 找到 '拉' 和 '推' 在……里这故事。",
+          "startMs": 134535,
+          "endMs": 140857
+        },
+        {
+          "en": "Ask children to close their eyes and practise spelling the words.",
+          "zh": "问孩子们到关上他们的眼睛和练习拼写这单词。",
+          "startMs": 140857,
+          "endMs": 150640
+        }
+      ],
+      "startMs": 71620,
+      "endMs": 150640
+    },
+    {
+      "sentences": [],
+      "startMs": 150640,
+      "endMs": 151348,
+      "illustrationOnly": true
+    }
+  ]
+}

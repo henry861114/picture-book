@@ -1,0 +1,105 @@
+{
+  "id": "L1-018",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The frying pan,",
+          "zh": "这油煎扳，",
+          "startMs": 0,
+          "endMs": 5740
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6090
+    },
+    {
+      "sentences": [
+        {
+          "en": "the flour,",
+          "zh": "这面粉，",
+          "startMs": 5640,
+          "endMs": 10790
+        }
+      ],
+      "startMs": 5490,
+      "endMs": 11140
+    },
+    {
+      "sentences": [
+        {
+          "en": "the eggs,",
+          "zh": "这鸡蛋，",
+          "startMs": 10690,
+          "endMs": 18750
+        }
+      ],
+      "startMs": 10540,
+      "endMs": 19100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Milk the milk,",
+          "zh": "牛奶这牛奶，",
+          "startMs": 18990,
+          "endMs": 22440
+        }
+      ],
+      "startMs": 18840,
+      "endMs": 22790
+    },
+    {
+      "sentences": [
+        {
+          "en": "the butter,",
+          "zh": "这黄油，",
+          "startMs": 19990,
+          "endMs": 27910
+        }
+      ],
+      "startMs": 19840,
+      "endMs": 28260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The frying pan, the flour, the eggs, the milk, the butter, the pancake,.",
+          "zh": "这油煎扳， 这面粉， 这鸡蛋， 这牛奶， 这黄油， 这薄煎饼，。",
+          "startMs": 1080,
+          "endMs": 28750
+        }
+      ],
+      "startMs": 930,
+      "endMs": 29100
+    },
+    {
+      "sentences": [],
+      "startMs": 35167,
+      "endMs": 35967,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pancake Race the pancake race.",
+          "zh": "薄煎饼速度竞赛这薄煎饼速度竞赛。",
+          "startMs": 28060,
+          "endMs": 36750
+        }
+      ],
+      "startMs": 27910,
+      "endMs": 37100
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "L3-021",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went to the swimming pool.",
+          "zh": "Kipper 去到这游泳池塘。",
+          "startMs": 0,
+          "endMs": 11070
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum took him.",
+          "zh": "Wilma 妈妈拿他。",
+          "startMs": 3989,
+          "endMs": 6550
+        },
+        {
+          "en": "LOST Goldfish NOTICE TO VISITORS last see Safety rules FIT EEP SLUB",
+          "zh": "丢失金鱼布告到 VISITORS 最后的看见安全规则健康的 EEP SLUB",
+          "startMs": 6550,
+          "endMs": 14719
+        }
+      ],
+      "startMs": 3989,
+      "endMs": 14719
+    },
+    {
+      "sentences": [
+        {
+          "en": "She took Biff and Chip, too.",
+          "zh": "她拿 Biff 和 Chip， 也。",
+          "startMs": 20970,
+          "endMs": 25070
+        }
+      ],
+      "startMs": 20820,
+      "endMs": 25420
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a new pool.",
+          "zh": "它是一个新的池塘。",
+          "startMs": 25700,
+          "endMs": 35070
+        }
+      ],
+      "startMs": 25550,
+      "endMs": 35420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to swim.",
+          "zh": "每个人想要到游泳。",
+          "startMs": 20265,
+          "endMs": 23159
+        }
+      ],
+      "startMs": 20265,
+      "endMs": 23159
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked for his trunks.",
+          "zh": "Kipper 看为了他的树干。",
+          "startMs": 23159,
+          "endMs": 26655
+        }
+      ],
+      "startMs": 23159,
+      "endMs": 26655
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't find them.",
+          "zh": "他不能找到他们。",
+          "startMs": 26655,
+          "endMs": 29308
+        }
+      ],
+      "startMs": 26655,
+      "endMs": 29308
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper couldn't go in the pool.",
+          "zh": "Kipper 不能去在……里这池塘。",
+          "startMs": 29308,
+          "endMs": 33619
+        },
+        {
+          "en": "Staff only",
+          "zh": "全体职员只有",
+          "startMs": 33619,
+          "endMs": 35010
+        }
+      ],
+      "startMs": 29308,
+      "endMs": 35010
+    },
+    {
+      "sentences": [
+        {
+          "en": "No shorts No underpants No cut-off-jeans to be worn in the pool Please shower before swimming \"Sorry,\" said the man.",
+          "zh": "不短的不内裤不 cut-off-jeans 到是穿在……里这池塘请展示在……之前游泳对不起， 说这男人。",
+          "startMs": 35010,
+          "endMs": 56060
+        }
+      ],
+      "startMs": 35010,
+      "endMs": 56060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum was in the water.",
+          "zh": "Wilma 妈妈是在……里这水。",
+          "startMs": 56060,
+          "endMs": 56860
+        }
+      ],
+      "startMs": 56060,
+      "endMs": 56860
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh dear,\" she said.",
+          "zh": "哦亲爱的， 她说。",
+          "startMs": 56860,
+          "endMs": 57660
+        }
+      ],
+      "startMs": 56860,
+      "endMs": 57660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper to a shop.",
+          "zh": "Kipper 到一个商店。",
+          "startMs": 57660,
+          "endMs": 58227
+        },
+        {
+          "en": "Swith |",
+          "zh": "Swith |",
+          "startMs": 58227,
+          "endMs": 58460
+        }
+      ],
+      "startMs": 57660,
+      "endMs": 58460
+    },
+    {
+      "sentences": [
+        {
+          "en": "She bought him new trunks.",
+          "zh": "她买他新的树干。",
+          "startMs": 58460,
+          "endMs": 60294
+        }
+      ],
+      "startMs": 58460,
+      "endMs": 60294
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went back to the pool.",
+          "zh": "他们去回来到这池塘。",
+          "startMs": 60294,
+          "endMs": 63840
+        }
+      ],
+      "startMs": 60294,
+      "endMs": 63840
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Kipper.",
+          "zh": "哦不！ 说 Kipper。",
+          "startMs": 75270,
+          "endMs": 84070
+        }
+      ],
+      "startMs": 75120,
+      "endMs": 84420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I put them on at home,\" he said.",
+          "zh": "我放他们在……上在家， 他说。",
+          "startMs": 66081,
+          "endMs": 70060
+        }
+      ],
+      "startMs": 66081,
+      "endMs": 70060
+    },
+    {
+      "sentences": [
+        {
+          "en": "This helps children to notice words that are spelt with 'oo.",
+          "zh": "这个帮助孩子们到布告单词那个是 spelt 和……一起 'oo。",
+          "startMs": 70060,
+          "endMs": 77028
+        },
+        {
+          "en": "• Find a word in the story that has 'oo' in it.",
+          "zh": "• 找到一个单词在……里这故事那个有 'oo' 在……里它。",
+          "startMs": 77028,
+          "endMs": 82486
+        },
+        {
+          "en": "Ask the child to read the word and then think of a rhyming word to go with it, e.",
+          "zh": "问这孩子到读这单词和然后想的一个押韵单词到去和……一起它， 呃。",
+          "startMs": 82486,
+          "endMs": 91892
+        },
+        {
+          "en": "'pool\", 'cool\".",
+          "zh": "'池塘， '凉的。",
+          "startMs": 91892,
+          "endMs": 93634
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 93634,
+          "endMs": 100254
+        },
+        {
+          "en": "Find the longest sentence in the story.",
+          "zh": "找到这长的句子在……里这故事。",
+          "startMs": 100254,
+          "endMs": 104783
+        },
+        {
+          "en": "How many words does it have?",
+          "zh": "如何许多单词做它有？",
+          "startMs": 104783,
+          "endMs": 108034
+        },
+        {
+          "en": "Help the child to use the pictures to retell the story in his/her own words.",
+          "zh": "帮助这孩子到使用这图画到复述这故事在……里他的/她自己的单词。",
+          "startMs": 108034,
+          "endMs": 116860
+        }
+      ],
+      "startMs": 70060,
+      "endMs": 116860
+    },
+    {
+      "sentences": [],
+      "startMs": 116860,
+      "endMs": 119613,
+      "illustrationOnly": true
+    }
+  ]
+}

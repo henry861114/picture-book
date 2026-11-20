@@ -1,0 +1,195 @@
+{
+  "id": "L2-001",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted a party.",
+          "zh": "Kipper 想要一个聚会。",
+          "startMs": 0,
+          "endMs": 2250
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody wanted to come.",
+          "zh": "没有人想要到来。",
+          "startMs": 9150,
+          "endMs": 12250
+        }
+      ],
+      "startMs": 9000,
+      "endMs": 12600
+    },
+    {
+      "sentences": [],
+      "startMs": 11990,
+      "endMs": 13090,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He got his toys.",
+          "zh": "他得到他的玩具。",
+          "startMs": 17360,
+          "endMs": 19250
+        }
+      ],
+      "startMs": 17210,
+      "endMs": 19600
+    },
+    {
+      "sentences": [],
+      "startMs": 21570,
+      "endMs": 22370,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted a cake.",
+          "zh": "他想要一个蛋糕。",
+          "startMs": 26150,
+          "endMs": 28250
+        }
+      ],
+      "startMs": 26000,
+      "endMs": 28600
+    },
+    {
+      "sentences": [],
+      "startMs": 31020,
+      "endMs": 31860,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in cornflakes.",
+          "zh": "他放在……里脆玉米片。",
+          "startMs": 32150,
+          "endMs": 35250
+        }
+      ],
+      "startMs": 32000,
+      "endMs": 35600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in tomato sauce.",
+          "zh": "他放在……里番茄调味汁。",
+          "startMs": 40150,
+          "endMs": 43250
+        }
+      ],
+      "startMs": 40000,
+      "endMs": 43600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in milk.",
+          "zh": "他放在……里牛奶。",
+          "startMs": 49150,
+          "endMs": 51250
+        }
+      ],
+      "startMs": 49000,
+      "endMs": 51600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in jam.",
+          "zh": "他放在……里拥挤。",
+          "startMs": 57150,
+          "endMs": 59250
+        }
+      ],
+      "startMs": 57000,
+      "endMs": 59600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in sugar.",
+          "zh": "他放在……里糖。",
+          "startMs": 64150,
+          "endMs": 67250
+        }
+      ],
+      "startMs": 64000,
+      "endMs": 67600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put in baked beans.",
+          "zh": "他放在……里烘烤的豆。",
+          "startMs": 73150,
+          "endMs": 75250
+        }
+      ],
+      "startMs": 73000,
+      "endMs": 75600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was cross.",
+          "zh": "妈妈是叉形。",
+          "startMs": 85790,
+          "endMs": 88250
+        }
+      ],
+      "startMs": 85640,
+      "endMs": 88600
+    },
+    {
+      "sentences": [],
+      "startMs": 91910,
+      "endMs": 95752,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was sorry.",
+          "zh": "Kipper 是对不起。",
+          "startMs": 98890,
+          "endMs": 100250
+        }
+      ],
+      "startMs": 98740,
+      "endMs": 100600
+    },
+    {
+      "sentences": [],
+      "startMs": 105140,
+      "endMs": 105580,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 105640,
+      "endMs": 105580,
+      "illustrationOnly": true
+    }
+  ]
+}

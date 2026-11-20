@@ -1,0 +1,118 @@
+{
+  "id": "L1-003",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look Out!",
+          "zh": "看出！",
+          "startMs": 0,
+          "endMs": 350
+        }
+      ],
+      "startMs": 0,
+      "endMs": 700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wheeled the road ripper and put on his crash helmet.",
+          "zh": "Kipper 车轮这路 ripper 和放在……上他的锵锵作响头盔。",
+          "startMs": 8670,
+          "endMs": 15770
+        }
+      ],
+      "startMs": 8520,
+      "endMs": 16120
+    },
+    {
+      "sentences": [
+        {
+          "en": "So excited!",
+          "zh": "所以兴奋的！",
+          "startMs": 15670,
+          "endMs": 18530
+        },
+        {
+          "en": "Lookout, Kipper!",
+          "zh": "Lookout， Kipper！",
+          "startMs": 18430,
+          "endMs": 22770
+        },
+        {
+          "en": "Kipper crushed some of mom's flowers and woke the neighbor's cat.",
+          "zh": "Kipper 压坏一些的 mom's 花和醒来这 neighbor's 猫。",
+          "startMs": 22670,
+          "endMs": 27770
+        },
+        {
+          "en": "Hey, Kipper!",
+          "zh": "嗨， Kipper！",
+          "startMs": 28400,
+          "endMs": 34160
+        },
+        {
+          "en": "Lookout!",
+          "zh": "Lookout！",
+          "startMs": 34060,
+          "endMs": 38770
+        }
+      ],
+      "startMs": 15520,
+      "endMs": 39120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper whizzed round the side of the house and screeched onto the lawn.",
+          "zh": "Kipper 飕飕飞过圆形的这私德的这房子和 screeched onto 这 lawn。",
+          "startMs": 57154,
+          "endMs": 73688
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 73688,
+          "endMs": 75085
+        },
+        {
+          "en": "Hey!",
+          "zh": "嗨！",
+          "startMs": 75085,
+          "endMs": 76017
+        },
+        {
+          "en": "Lookout!",
+          "zh": "Lookout！",
+          "startMs": 76017,
+          "endMs": 77880
+        }
+      ],
+      "startMs": 57154,
+      "endMs": 77880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look Out!",
+          "zh": "看出！",
+          "startMs": 77880,
+          "endMs": 82852
+        },
+        {
+          "en": "Stop",
+          "zh": "停",
+          "startMs": 82852,
+          "endMs": 85062
+        }
+      ],
+      "startMs": 77880,
+      "endMs": 85062
+    }
+  ]
+}

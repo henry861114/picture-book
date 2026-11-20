@@ -1,0 +1,575 @@
+{
+  "id": "L5-008",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were in the cellar.",
+          "zh": "孩子们在地下室里。",
+          "startMs": 29,
+          "endMs": 7060
+        },
+        {
+          "en": "They wanted to find a secret tunnel.",
+          "zh": "他们想找到一条秘密隧道。",
+          "startMs": 7320,
+          "endMs": 11020
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 11370
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked everywhere.",
+          "zh": "孩子们到处找。",
+          "startMs": 12320,
+          "endMs": 17980
+        },
+        {
+          "en": "They tapped on the floor.",
+          "zh": "他们敲了敲地板。",
+          "startMs": 18320,
+          "endMs": 22420
+        },
+        {
+          "en": "They tapped on the walls.",
+          "zh": "他们敲了敲墙壁。",
+          "startMs": 22450,
+          "endMs": 25420
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 12170,
+      "endMs": 25770
+    },
+    {
+      "sentences": [
+        {
+          "en": "But there was no secret tunnel.",
+          "zh": "但没有找到秘密通道。",
+          "startMs": 26490,
+          "endMs": 30230
+        },
+        {
+          "en": "\"It's no good,\" said Biff.",
+          "zh": "“不行啊，”Biff 说。 Biff 说道。",
+          "startMs": 31460,
+          "endMs": 38560
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 26340,
+      "endMs": 38910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ran to the cellar.",
+          "zh": "Kipper 跑向地窖。",
+          "startMs": 38590,
+          "endMs": 41120
+        },
+        {
+          "en": "He had the magic key.",
+          "zh": "他拿着魔法钥匙。",
+          "startMs": 43320,
+          "endMs": 46420
+        },
+        {
+          "en": "The key was glowing.",
+          "zh": "钥匙在发光。",
+          "startMs": 46680,
+          "endMs": 48710
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 38910,
+      "endMs": 49060
+    },
+    {
+      "sentences": [
+        {
+          "en": "They ran to Biff's bedroom.",
+          "zh": "他们跑到了 Biff 的卧室。",
+          "startMs": 52050,
+          "endMs": 54300
+        },
+        {
+          "en": "\"Come on!\" Called Kipper.",
+          "zh": "来吧。 Kipper 喊道。",
+          "startMs": 57320,
+          "endMs": 60740
+        },
+        {
+          "en": "\"It's time for a magic adventure.\"",
+          "zh": "“是时候踏上魔法冒险之旅了。”",
+          "startMs": 61420,
+          "endMs": 64130
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 51900,
+      "endMs": 64480
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them underground.",
+          "zh": "魔法把她们带到了地下。",
+          "startMs": 76320,
+          "endMs": 79860
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 76170,
+      "endMs": 80210
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were in a big tunnel.",
+          "zh": "他们身处一条大隧道里。",
+          "startMs": 81110,
+          "endMs": 83560
+        },
+        {
+          "en": "Ani Wilma picked up a lamp.",
+          "zh": "Wilma 拿起一盏灯。",
+          "startMs": 84450,
+          "endMs": 87560
+        },
+        {
+          "en": "\"Come on,\" She said.",
+          "zh": "来吧。",
+          "startMs": 87590,
+          "endMs": 91040
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 80960,
+      "endMs": 91390
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's go!\"",
+          "zh": "“我们走吧。”",
+          "startMs": 91070,
+          "endMs": 91850
+        },
+        {
+          "en": "There were elves in the tunnel, but they were shy.",
+          "zh": "隧道里有小精灵。",
+          "startMs": 95320,
+          "endMs": 101240
+        },
+        {
+          "en": "\"Oh no!\"",
+          "zh": "哎呀。",
+          "startMs": 101320,
+          "endMs": 103420
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 91390,
+      "endMs": 103770
+    },
+    {
+      "sentences": [
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 103450,
+          "endMs": 105310
+        },
+        {
+          "en": "\"Children!\"",
+          "zh": "“孩子们！”",
+          "startMs": 105830,
+          "endMs": 107410
+        },
+        {
+          "en": "The children went down the tunnel.",
+          "zh": "孩子们走进了隧道。",
+          "startMs": 107440,
+          "endMs": 111460
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 103770,
+      "endMs": 111810
+    },
+    {
+      "sentences": [
+        {
+          "en": "They didn't see the elves.",
+          "zh": "他们没有看到小精灵。",
+          "startMs": 111490,
+          "endMs": 115600
+        },
+        {
+          "en": "\"This way,\" Said Wilma.",
+          "zh": "“这边。” Wilma 说道。",
+          "startMs": 115630,
+          "endMs": 117600
+        },
+        {
+          "en": "The children came to a big cave.",
+          "zh": "孩子们来到一个大洞穴。",
+          "startMs": 128320,
+          "endMs": 133620
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 111810,
+      "endMs": 133970
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Wow!\" said Biff.",
+          "zh": "“哇！”Biff 说道。",
+          "startMs": 133620,
+          "endMs": 137560
+        },
+        {
+          "en": "The elves looked at the children.",
+          "zh": "小精灵们看着孩子们。",
+          "startMs": 137590,
+          "endMs": 140420
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 133970,
+      "endMs": 140770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh dear!\" Said the elves.",
+          "zh": "哎呀。 小精灵们说道。",
+          "startMs": 140460,
+          "endMs": 144560
+        },
+        {
+          "en": "\"Oh dear!\"",
+          "zh": "哎呀。",
+          "startMs": 144590,
+          "endMs": 147580
+        },
+        {
+          "en": "The cave had an echo.",
+          "zh": "山洞里有回声。",
+          "startMs": 153320,
+          "endMs": 156420
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 140770,
+      "endMs": 156770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Whoa!\" Called Kipper.",
+          "zh": "“哇！” Kipper 喊道。",
+          "startMs": 156450,
+          "endMs": 160560
+        },
+        {
+          "en": "\"Whoooooaa!\" went the echo.",
+          "zh": "回声说道。",
+          "startMs": 164460,
+          "endMs": 167530
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 156770,
+      "endMs": 167880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Whoa!\" \"Whoooooaa!\" went Kipper.",
+          "zh": "“哇！” Kipper 也这么叫。",
+          "startMs": 167530,
+          "endMs": 171560
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 167880,
+      "endMs": 171910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elves laughed.",
+          "zh": "小精灵们笑了。",
+          "startMs": 171590,
+          "endMs": 173420
+        },
+        {
+          "en": "They laughed and laughed.",
+          "zh": "他们笑啊笑啊。",
+          "startMs": 177870,
+          "endMs": 180290
+        },
+        {
+          "en": "The elves came out.",
+          "zh": "小精灵们出来了。",
+          "startMs": 187320,
+          "endMs": 189420
+        },
+        {
+          "en": "They ran to say hello.",
+          "zh": "他们跑过来打招呼。",
+          "startMs": 189450,
+          "endMs": 192020
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 171910,
+      "endMs": 192370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Whoa!\" \"Whoooooaa!\" they went.",
+          "zh": "“哇！” “他们想干什么？”",
+          "startMs": 192460,
+          "endMs": 197560
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 192370,
+      "endMs": 197910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Whoa!\" Went the echo.",
+          "zh": "“哇！” 回声说道。",
+          "startMs": 197730,
+          "endMs": 202080
+        },
+        {
+          "en": "And everyone laughed.",
+          "zh": "大家都笑了。",
+          "startMs": 202190,
+          "endMs": 203980
+        },
+        {
+          "en": "The elves were sad.",
+          "zh": "小精灵们很伤心。",
+          "startMs": 212320,
+          "endMs": 215420
+        },
+        {
+          "en": "They had no work.",
+          "zh": "他们没有活干。",
+          "startMs": 216390,
+          "endMs": 219710
+        },
+        {
+          "en": "\"Can you help?\" Said the elves.",
+          "zh": "“你能帮忙吗？” 小精灵们说道。",
+          "startMs": 219740,
+          "endMs": 222480
+        },
+        {
+          "en": "\"Our gold has run out.",
+          "zh": "“我们的金子用完了。",
+          "startMs": 222510,
+          "endMs": 225420
+        },
+        {
+          "en": "We don't know what to do.\"",
+          "zh": "我们不知道该怎么办。”",
+          "startMs": 225450,
+          "endMs": 229410
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 197910,
+      "endMs": 229760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had a good idea.",
+          "zh": "Wilma 有个好主意。",
+          "startMs": 230630,
+          "endMs": 234550
+        },
+        {
+          "en": "She told the elves what it was.",
+          "zh": "她把这个想法告诉了小精灵们。",
+          "startMs": 236590,
+          "endMs": 238690
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 230480,
+      "endMs": 239040
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elves liked Wilma's idea.",
+          "zh": "小精灵们喜欢 Wilma 的主意。",
+          "startMs": 238720,
+          "endMs": 245420
+        },
+        {
+          "en": "They painted some signs.",
+          "zh": "他们画了一些标志。",
+          "startMs": 250860,
+          "endMs": 254400
+        },
+        {
+          "en": "The children helped.",
+          "zh": "孩子们帮忙。",
+          "startMs": 264460,
+          "endMs": 267560
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 239040,
+      "endMs": 267910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elves put lights in the caves.",
+          "zh": "小精灵们在洞穴里装上了灯。",
+          "startMs": 267590,
+          "endMs": 270300
+        },
+        {
+          "en": "The cave looked beautiful.",
+          "zh": "洞穴看起来很漂亮。",
+          "startMs": 270300,
+          "endMs": 270500
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 267910,
+      "endMs": 270850
+    },
+    {
+      "sentences": [
+        {
+          "en": "People came to see them.",
+          "zh": "人们前来参观。",
+          "startMs": 271920,
+          "endMs": 275540
+        },
+        {
+          "en": "The elves were happy.",
+          "zh": "小精灵们很高兴。",
+          "startMs": 275570,
+          "endMs": 277240
+        },
+        {
+          "en": "The elves were busy.",
+          "zh": "小精灵们很忙。",
+          "startMs": 286320,
+          "endMs": 288420
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 271770,
+      "endMs": 288770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Thanks to the children,\" they said.",
+          "zh": "“多亏了孩子们，”他们说。",
+          "startMs": 289430,
+          "endMs": 291560
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 289280,
+      "endMs": 291910
+    },
+    {
+      "sentences": [
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 291670,
+          "endMs": 292720
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 293320,
+          "endMs": 296220
+        },
+        {
+          "en": "It was time to go home.",
+          "zh": "该回家了。",
+          "startMs": 299870,
+          "endMs": 302770
+        },
+        {
+          "en": "\"What an adventure!\" Said Wil.",
+          "zh": "“真是一场冒险！” 威尔说道。",
+          "startMs": 316320,
+          "endMs": 319780
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 291910,
+      "endMs": 320130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I have a good idea!\" Said Chip.",
+          "zh": "“好主意！” Chip 说道。",
+          "startMs": 320320,
+          "endMs": 324420
+        },
+        {
+          "en": "\"What do you think?\"",
+          "zh": "“你觉得怎么样？”",
+          "startMs": 325360,
+          "endMs": 327460
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 320170,
+      "endMs": 327810
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 327810,
+      "endMs": 327811
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 327811,
+      "endMs": 327812
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "L1-054",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted a pet.",
+          "zh": "每个人想要一个宠物。",
+          "startMs": 0,
+          "endMs": 7550
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted a rat.",
+          "zh": "Chip 想要一个老鼠。",
+          "startMs": 7450,
+          "endMs": 14550
+        }
+      ],
+      "startMs": 7300,
+      "endMs": 14900
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Oh no!' said everyone.",
+          "zh": "'哦不！' 说每个人。",
+          "startMs": 14450,
+          "endMs": 21550
+        }
+      ],
+      "startMs": 14300,
+      "endMs": 21900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted a spider.",
+          "zh": "Biff 想要一个蜘蛛。",
+          "startMs": 21450,
+          "endMs": 28550
+        }
+      ],
+      "startMs": 21300,
+      "endMs": 28900
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Oh no!' said everyone.",
+          "zh": "'哦不！' 说每个人。",
+          "startMs": 14450,
+          "endMs": 21550
+        }
+      ],
+      "startMs": 14300,
+      "endMs": 21900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted a snake.",
+          "zh": "Kipper 想要一个蛇。",
+          "startMs": 38450,
+          "endMs": 43550
+        }
+      ],
+      "startMs": 38300,
+      "endMs": 43900
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Oh no!' said everyone.",
+          "zh": "'哦不！' 说每个人。",
+          "startMs": 28880,
+          "endMs": 38550
+        }
+      ],
+      "startMs": 28730,
+      "endMs": 38900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted a goldfish.",
+          "zh": "每个人想要一个金鱼。",
+          "startMs": 49890,
+          "endMs": 58550
+        }
+      ],
+      "startMs": 49740,
+      "endMs": 58567
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "L1-038",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy had a bone.",
+          "zh": "Floppy 有一个骨头。",
+          "startMs": 0,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A dog took the bone.",
+          "zh": "一个狗拿这骨头。",
+          "startMs": 12000,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran after the dog.",
+          "zh": "Floppy 跑在……之后这狗。",
+          "startMs": 20000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come back!\" said Mum.",
+          "zh": "来回来！ 说妈妈。",
+          "startMs": 30000,
+          "endMs": 30610
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 30960
+    },
+    {
+      "sentences": [
+        {
+          "en": "She ran after Floppy.",
+          "zh": "她跑在……之后 Floppy。",
+          "startMs": 30510,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 30360,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come back,\" said Dad.",
+          "zh": "来回来， 说爸爸。",
+          "startMs": 46000,
+          "endMs": 46460
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 46810
+    },
+    {
+      "sentences": [
+        {
+          "en": "He ran after Mum.",
+          "zh": "他跑在……之后妈妈。",
+          "startMs": 46360,
+          "endMs": 52100
+        }
+      ],
+      "startMs": 46210,
+      "endMs": 52450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come back!\"",
+          "zh": "来回来！",
+          "startMs": 46000,
+          "endMs": 46150
+        },
+        {
+          "en": "Biff and Chip.",
+          "zh": "Biff 和 Chip。",
+          "startMs": 60170,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [],
+      "startMs": 72010,
+      "endMs": 72810,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dog stopped.",
+          "zh": "这狗停。",
+          "startMs": 73000,
+          "endMs": 76100
+        }
+      ],
+      "startMs": 72850,
+      "endMs": 76450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A big dog took the bone.",
+          "zh": "一个大的狗拿这骨头。",
+          "startMs": 76000,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The big dog ate the bone.",
+          "zh": "这大的狗吃这骨头。",
+          "startMs": 86590,
+          "endMs": 99606
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 99606,
+          "endMs": 102730
+        }
+      ],
+      "startMs": 86590,
+      "endMs": 102730
+    },
+    {
+      "sentences": [],
+      "startMs": 102730,
+      "endMs": 103126,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 103230,
+      "endMs": 103126,
+      "illustrationOnly": true
+    }
+  ]
+}

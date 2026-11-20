@@ -1,0 +1,363 @@
+{
+  "id": "L3-005",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was playing football.",
+          "zh": "爸爸是玩足球运动。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [],
+      "startMs": 3295,
+      "endMs": 4095,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go on Dad!\" called Chip.",
+          "zh": "去在……上爸爸！ 叫 Chip。",
+          "startMs": 4095,
+          "endMs": 6964
+        },
+        {
+          "en": "\"Kick it!\"",
+          "zh": "踢它！",
+          "startMs": 6964,
+          "endMs": 8112
+        }
+      ],
+      "startMs": 4095,
+      "endMs": 8112
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad fell over in the mud.",
+          "zh": "爸爸落下在……上方在……里这淤泥。",
+          "startMs": 8112,
+          "endMs": 11472
+        },
+        {
+          "en": "Splat!",
+          "zh": "啪嗒声！",
+          "startMs": 11472,
+          "endMs": 12278
+        }
+      ],
+      "startMs": 8112,
+      "endMs": 12278
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Bad luck, Dad!\" said Biff.",
+          "zh": "坏的运气， 爸爸！ 说 Biff。",
+          "startMs": 12278,
+          "endMs": 15870
+        }
+      ],
+      "startMs": 12278,
+      "endMs": 15870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh Dad,\" said Mum.",
+          "zh": "哦爸爸， 说妈妈。",
+          "startMs": 15870,
+          "endMs": 19836
+        },
+        {
+          "en": "\"What a mess.\"",
+          "zh": "什么一个脏乱。",
+          "startMs": 19836,
+          "endMs": 22920
+        }
+      ],
+      "startMs": 15870,
+      "endMs": 22920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want a bath,\" said Dad.",
+          "zh": "我想要一个洗澡， 说爸爸。",
+          "startMs": 22920,
+          "endMs": 23720
+        }
+      ],
+      "startMs": 22920,
+      "endMs": 23720
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went up to the bathroom.",
+          "zh": "爸爸去向上到这浴室。",
+          "startMs": 23720,
+          "endMs": 28890
+        }
+      ],
+      "startMs": 23720,
+      "endMs": 28890
+    },
+    {
+      "sentences": [
+        {
+          "en": "He ran a bath.",
+          "zh": "他跑一个洗澡。",
+          "startMs": 28890,
+          "endMs": 29890
+        }
+      ],
+      "startMs": 28890,
+      "endMs": 29890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad came down.",
+          "zh": "爸爸来向下。",
+          "startMs": 23000,
+          "endMs": 23150
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 23500
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was football on TV.",
+          "zh": "那里是足球运动在……上电视。",
+          "startMs": 30764,
+          "endMs": 34019
+        }
+      ],
+      "startMs": 30764,
+      "endMs": 34019
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at the football.",
+          "zh": "爸爸看在这足球运动。",
+          "startMs": 23000,
+          "endMs": 32320
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 32670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go on!\" he called.",
+          "zh": "去在……上！ 他叫。",
+          "startMs": 23000,
+          "endMs": 23150
+        },
+        {
+          "en": "\"Kick it!\"",
+          "zh": "踢它！",
+          "startMs": 25210,
+          "endMs": 27100
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 27450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad forgot the bath.",
+          "zh": "爸爸忘记这洗澡。",
+          "startMs": 40360,
+          "endMs": 45274
+        },
+        {
+          "en": "Drip!",
+          "zh": "滴下！",
+          "startMs": 45274,
+          "endMs": 46503
+        },
+        {
+          "en": "Drop!",
+          "zh": "掉下！",
+          "startMs": 46503,
+          "endMs": 47731
+        },
+        {
+          "en": "Drip!",
+          "zh": "滴下！",
+          "startMs": 47731,
+          "endMs": 48960
+        }
+      ],
+      "startMs": 40360,
+      "endMs": 48960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Plop!",
+          "zh": "扑通声！",
+          "startMs": 48960,
+          "endMs": 49502
+        },
+        {
+          "en": "Plop!",
+          "zh": "扑通声！",
+          "startMs": 49502,
+          "endMs": 50043
+        },
+        {
+          "en": "Splat!",
+          "zh": "啪嗒声！",
+          "startMs": 50043,
+          "endMs": 50693
+        },
+        {
+          "en": "\"What was that?\" said Dad.",
+          "zh": "什么是那个？ 说爸爸。",
+          "startMs": 50693,
+          "endMs": 53510
+        }
+      ],
+      "startMs": 48960,
+      "endMs": 53510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splash!",
+          "zh": "溅泼声！",
+          "startMs": 53510,
+          "endMs": 54104
+        },
+        {
+          "en": "\"Oh no,\" said Dad.",
+          "zh": "哦不， 说爸爸。",
+          "startMs": 54104,
+          "endMs": 55630
+        }
+      ],
+      "startMs": 53510,
+      "endMs": 55630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who said it?",
+          "zh": "谁说它？",
+          "startMs": 55630,
+          "endMs": 57215
+        },
+        {
+          "en": "To help the child find parts of the story where the characters are speaking.",
+          "zh": "到帮助这孩子找到部分的这故事哪里这性格是说。",
+          "startMs": 57215,
+          "endMs": 67255
+        },
+        {
+          "en": "Without showing the child, choose a page where someone is speaking.",
+          "zh": "没有展示这孩子， 选择一个页哪里某人是说。",
+          "startMs": 67255,
+          "endMs": 76107
+        },
+        {
+          "en": "Read what he/she said, e.",
+          "zh": "读什么他/她说， 呃。",
+          "startMs": 76107,
+          "endMs": 79409
+        },
+        {
+          "en": "\"What was that?\"",
+          "zh": "什么是那个？",
+          "startMs": 79409,
+          "endMs": 81523
+        },
+        {
+          "en": "(page 15).",
+          "zh": "(页 15)。",
+          "startMs": 81523,
+          "endMs": 82844
+        },
+        {
+          "en": "Ask the child to find the page and find out who said it.",
+          "zh": "问这孩子到找到这页和找到出谁说它。",
+          "startMs": 82844,
+          "endMs": 90242
+        },
+        {
+          "en": "Then let the child ask you to find out who said something else.",
+          "zh": "然后让这孩子问你到找到出谁说某物其他。",
+          "startMs": 90242,
+          "endMs": 98565
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 98565,
+          "endMs": 102396
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 102396,
+          "endMs": 109926
+        },
+        {
+          "en": "Take it in turns to read what each person says in the story.",
+          "zh": "拿它在……里转动到读什么每个人说在……里这故事。",
+          "startMs": 109926,
+          "endMs": 117852
+        },
+        {
+          "en": "Remind the child that he/she should read only the text inside the speech marks.",
+          "zh": "提醒这孩子那个他/她应该读只有这文本里面这说话能力斑点。",
+          "startMs": 117852,
+          "endMs": 128289
+        },
+        {
+          "en": "Ask the child to draw a picture from the story, then put in a speech bubble next to a character.",
+          "zh": "问这孩子到画一个图画从这故事， 然后放在……里一个说话能力泡泡下一个到一个性格。",
+          "startMs": 128289,
+          "endMs": 140971
+        },
+        {
+          "en": "Then, in the bubble, help the child to write what the person said.",
+          "zh": "然后， 在……里这泡泡， 帮助这孩子到写什么这人说。",
+          "startMs": 140971,
+          "endMs": 149690
+        }
+      ],
+      "startMs": 55630,
+      "endMs": 149690
+    },
+    {
+      "sentences": [],
+      "startMs": 149690,
+      "endMs": 150146,
+      "illustrationOnly": true
+    }
+  ]
+}

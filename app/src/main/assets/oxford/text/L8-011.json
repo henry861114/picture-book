@@ -1,0 +1,1261 @@
+{
+  "id": "L8-011",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "It had been raining for days.",
+          "zh": "它有是雨为了一天。",
+          "startMs": 0,
+          "endMs": 5070
+        },
+        {
+          "en": "\"All this rain,\" said Biff.",
+          "zh": "全部这个雨， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 5070,
+          "endMs": 8130
+        },
+        {
+          "en": "\"I wish it would stop.\"",
+          "zh": "我希望它会停。",
+          "startMs": 8130,
+          "endMs": 11070
+        },
+        {
+          "en": "\"I'm taking Floppy for a walk,\" said Mum.",
+          "zh": "Floppy 为了一个走， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 11070,
+          "endMs": 14890
+        },
+        {
+          "en": "\"Who wants to come?\"",
+          "zh": "谁想要到来？",
+          "startMs": 14890,
+          "endMs": 17070
+        },
+        {
+          "en": "Biff and Chip looked at her.",
+          "zh": "Biff 和 Chip 看在她。",
+          "startMs": 17070,
+          "endMs": 20070
+        },
+        {
+          "en": "\"Not us!\" They said.",
+          "zh": "不！ 不我们！ 他们说。",
+          "startMs": 20070,
+          "endMs": 22070
+        },
+        {
+          "en": "\"It's raining!\"",
+          "zh": "它是雨！",
+          "startMs": 22070,
+          "endMs": 27070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 27420
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the end, Biff said she would go with Mum.",
+          "zh": "在……里这末尾， Biff 说她会去和……一起妈妈。",
+          "startMs": 27070,
+          "endMs": 34070
+        },
+        {
+          "en": "They went into the park.",
+          "zh": "他们去进入这公园。",
+          "startMs": 34070,
+          "endMs": 36070
+        },
+        {
+          "en": "It was not much fun in the rain.",
+          "zh": "它是不许多乐趣在……里这雨。",
+          "startMs": 36070,
+          "endMs": 39070
+        },
+        {
+          "en": "\"Look at Floppy,\" said Mum.",
+          "zh": "看在 Floppy， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 39070,
+          "endMs": 42130
+        },
+        {
+          "en": "\"He can't help getting muddy.",
+          "zh": "他不能帮助得到泥泞的。",
+          "startMs": 42130,
+          "endMs": 44070
+        },
+        {
+          "en": "The ground is so wet and squelchy.\"",
+          "zh": "这地面是所以湿的和松软的。",
+          "startMs": 44070,
+          "endMs": 48070
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 27420,
+      "endMs": 48420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Mum walked across the park.",
+          "zh": "Biff 和妈妈走穿过这公园。",
+          "startMs": 48070,
+          "endMs": 51070
+        },
+        {
+          "en": "They wanted to cross the little bridge, but the stream had flooded.",
+          "zh": "他们想要到叉形这小的桥梁， 但是这溪流有洪水。",
+          "startMs": 51070,
+          "endMs": 57070
+        },
+        {
+          "en": "\"I've never seen it this high,\" Said Mum.",
+          "zh": "T've 从不看见它这个高的， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 57070,
+          "endMs": 61070
+        },
+        {
+          "en": "Biff was excited.",
+          "zh": "Biff 是兴奋的。",
+          "startMs": 61070,
+          "endMs": 63070
+        },
+        {
+          "en": "\"Oh look!\" She said.",
+          "zh": "哦看！ 她说。",
+          "startMs": 63070,
+          "endMs": 66070
+        },
+        {
+          "en": "\"The bridge is under water.\"",
+          "zh": "这桥梁是在……下方水。",
+          "startMs": 66070,
+          "endMs": 69070
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 48420,
+      "endMs": 69420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff began to wade across the bridge, but Mum called her back.",
+          "zh": "Biff 开始到趟水穿过这桥梁， 但是妈妈叫她回来。",
+          "startMs": 71970,
+          "endMs": 77070
+        },
+        {
+          "en": "\"It's not a good idea,\" said Mum.",
+          "zh": "它是不一个好的主意， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 77070,
+          "endMs": 81070
+        },
+        {
+          "en": "\"The stream is flowing really fast and you can't see the edge of it.",
+          "zh": "这溪流是流畅的真的快的和你不能看见这边缘的它。",
+          "startMs": 81070,
+          "endMs": 86070
+        },
+        {
+          "en": "What if you slipped in?\" Said Biff.",
+          "zh": "什么如果你滑倒在……里？ 哇！ 说 Biff。",
+          "startMs": 86070,
+          "endMs": 94070
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 71820,
+      "endMs": 94420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"If it goes on raining, the water will flood across the park,\" said Biff.",
+          "zh": "如果它去在……上雨， 这水将洪水穿过这公园， 说 Biff。",
+          "startMs": 94070,
+          "endMs": 94270
+        },
+        {
+          "en": "Mum looked thoughtful.",
+          "zh": "妈妈看沉思的。",
+          "startMs": 94270,
+          "endMs": 96070
+        },
+        {
+          "en": "\"I hope the rain stops,\" she said.",
+          "zh": "我希望这雨停， 她说。",
+          "startMs": 96070,
+          "endMs": 99070
+        },
+        {
+          "en": "\"We don't want the flood to get as far as our house.\"",
+          "zh": "我们不想要这洪水到得到像远像我们的房子。",
+          "startMs": 99070,
+          "endMs": 104070
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 94420,
+      "endMs": 104420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next morning, when Biff and Chip were at school, it was still raining.",
+          "zh": "这下一个早晨， 当……时 Biff 和 Chip 是在学校， 它是仍然雨。",
+          "startMs": 107000,
+          "endMs": 113070
+        },
+        {
+          "en": "The children couldn't go out to play.",
+          "zh": "这孩子们不能去出到玩。",
+          "startMs": 113070,
+          "endMs": 116070
+        },
+        {
+          "en": "\"Another wet playtime,\" sighed Chip.",
+          "zh": "另一个湿的游戏时间， 叹气 Chip。",
+          "startMs": 116070,
+          "endMs": 119890
+        },
+        {
+          "en": "\"I wish it would stop raining.\" \"So do I,\" sighed Mrs May, too.",
+          "zh": "我希望它会停雨。 不做它。",
+          "startMs": 119890,
+          "endMs": 127070
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 106850,
+      "endMs": 127420
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the afternoon it stopped raining.",
+          "zh": "在……里这下午它停雨。",
+          "startMs": 127070,
+          "endMs": 131070
+        },
+        {
+          "en": "\"Hooray!",
+          "zh": "",
+          "startMs": 131070,
+          "endMs": 131970
+        },
+        {
+          "en": "Now we can play football,\" said Wilf.",
+          "zh": "现在我们能玩足球运动， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 131970,
+          "endMs": 135070
+        },
+        {
+          "en": "But there were big puddles on the field.",
+          "zh": "但是那里是大的水洼在……上这田地。",
+          "startMs": 135070,
+          "endMs": 139070
+        },
+        {
+          "en": "\"I'm sorry,\" said Mrs May.",
+          "zh": "我是对不起， 说这男人。",
+          "startMs": 139070,
+          "endMs": 142130
+        },
+        {
+          "en": "\"We can't play football today.",
+          "zh": "我们不能玩足球运动在今天。",
+          "startMs": 142130,
+          "endMs": 145350
+        },
+        {
+          "en": "The ground is too wet.\"",
+          "zh": "这地面是也湿的。",
+          "startMs": 145350,
+          "endMs": 147070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 127420,
+      "endMs": 147420
+    },
+    {
+      "sentences": [
+        {
+          "en": "That evening,.",
+          "zh": "那是使人十分惊奇的。",
+          "startMs": 149970,
+          "endMs": 150070
+        },
+        {
+          "en": "That evening Biff, Chip and Kipper were watching television.",
+          "zh": "那个晚上 Biff， Chip 和 Kipper 是手表电视。",
+          "startMs": 150070,
+          "endMs": 155070
+        },
+        {
+          "en": "The weather forecast came on.",
+          "zh": "这天气天气预报来在……上。",
+          "startMs": 155070,
+          "endMs": 158130
+        },
+        {
+          "en": "Some bad storms were coming, with a lot more rain.",
+          "zh": "一些坏的暴风雨是来， 和……一起一个许多更多雨。",
+          "startMs": 158130,
+          "endMs": 162070
+        },
+        {
+          "en": "\"Not more rain!\" Sighed Chip.",
+          "zh": "不更多雨！ 叹气 Chip。 我得到它， 说 Chip。",
+          "startMs": 162070,
+          "endMs": 166070
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 149820,
+      "endMs": 166420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The storm came in the middle of the night.",
+          "zh": "这暴风雨来在……里这中间的这夜晚。",
+          "startMs": 166070,
+          "endMs": 169070
+        },
+        {
+          "en": "The rain beat on the roof of the house and it lashed against the windows.",
+          "zh": "这雨击打在……上这屋顶的这房子和它睫毛紧靠着这窗户。",
+          "startMs": 169070,
+          "endMs": 174070
+        },
+        {
+          "en": "It was so loud that Biff and Chip couldn't sleep.",
+          "zh": "它是所以大声的那个 Biff 和 Chip 不能睡觉。",
+          "startMs": 174070,
+          "endMs": 179070
+        },
+        {
+          "en": "Mum brought them a hot drink.",
+          "zh": "妈妈带来他们一个热的喝。",
+          "startMs": 179070,
+          "endMs": 182070
+        },
+        {
+          "en": "\"Poor Floppy,\" Said Biff.",
+          "zh": "哦 Floppy！ 哇！ 说 Biff。",
+          "startMs": 182070,
+          "endMs": 185130
+        },
+        {
+          "en": "\"He hates this.\"",
+          "zh": "他帽子这个。",
+          "startMs": 185130,
+          "endMs": 187070
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 166420,
+      "endMs": 187420
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the morning, Dad took Floppy for a walk.",
+          "zh": "在……里这早晨， 爸爸拿 Floppy 为了一个走。",
+          "startMs": 191000,
+          "endMs": 195070
+        },
+        {
+          "en": "Chip went with him.",
+          "zh": "Chip 去和……一起他。",
+          "startMs": 195070,
+          "endMs": 197070
+        },
+        {
+          "en": "When they got to the park, Chip gasped.",
+          "zh": "当……时他们得到到这公园， Chip 喘气。",
+          "startMs": 197070,
+          "endMs": 201070
+        },
+        {
+          "en": "The park was flooded.",
+          "zh": "这公园是洪水。",
+          "startMs": 201070,
+          "endMs": 203070
+        },
+        {
+          "en": "It was like a giant lake.",
+          "zh": "它是喜欢一个巨人拉客。",
+          "startMs": 203070,
+          "endMs": 206070
+        },
+        {
+          "en": "Chip thought the floods were fun.",
+          "zh": "Chip 想这洪水是乐趣。",
+          "startMs": 206070,
+          "endMs": 209070
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 190850,
+      "endMs": 209420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked worried.",
+          "zh": "爸爸看发愁的。",
+          "startMs": 209070,
+          "endMs": 211070
+        },
+        {
+          "en": "\"I don't like the look of this,\" he said.",
+          "zh": "我不喜欢这看的这个， 他说。",
+          "startMs": 211070,
+          "endMs": 214070
+        },
+        {
+          "en": "\"We don't want the water to get as far as our house.\"",
+          "zh": "我们不想要这水到得到像远像我们的房子。",
+          "startMs": 214070,
+          "endMs": 218070
+        },
+        {
+          "en": "Chip grinned at Dad.",
+          "zh": "Chip 露齿而笑在爸爸。",
+          "startMs": 218470,
+          "endMs": 221100
+        },
+        {
+          "en": "\"It couldn't go that far,\" he said.",
+          "zh": "它不能去那个远， 他说。",
+          "startMs": 221100,
+          "endMs": 222000
+        },
+        {
+          "en": "\"Could it?\"",
+          "zh": "能它？",
+          "startMs": 222000,
+          "endMs": 224070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 209420,
+      "endMs": 224420
+    },
+    {
+      "sentences": [
+        {
+          "en": "But it didn't stop raining, and the floods grew worse.",
+          "zh": "但是它没有停雨， 和这洪水 grew 更坏的。",
+          "startMs": 226970,
+          "endMs": 232070
+        },
+        {
+          "en": "The water reached the edge of the park.",
+          "zh": "这水到达这边缘的这公园。",
+          "startMs": 232070,
+          "endMs": 235070
+        },
+        {
+          "en": "Then it began to creep up the road.",
+          "zh": "然后它开始到悄悄行进向上这路。",
+          "startMs": 235070,
+          "endMs": 238070
+        },
+        {
+          "en": "It came through the fence and flooded the end of the garden.",
+          "zh": "它来穿过这分册和洪水这末尾的这花园。",
+          "startMs": 238070,
+          "endMs": 243070
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 226820,
+      "endMs": 243420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The road near Wilf and Wilma's house was flooded.",
+          "zh": "这路在……附近 Wilf 和 Wilma 房子是洪水。",
+          "startMs": 243070,
+          "endMs": 248070
+        },
+        {
+          "en": "The children watched the cars going through the flood.",
+          "zh": "这孩子们手表这汽车去穿过这洪水。",
+          "startMs": 248070,
+          "endMs": 252070
+        },
+        {
+          "en": "One car had broken down and was stuck in the middle.",
+          "zh": "一汽车有打破向下和是 stuck 在……里这中间。",
+          "startMs": 252070,
+          "endMs": 257070
+        },
+        {
+          "en": "That day,.",
+          "zh": "那是好的。",
+          "startMs": 259970,
+          "endMs": 260070
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 243420,
+      "endMs": 260420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The school was closed.",
+          "zh": "那个一天， 这学校是关上。",
+          "startMs": 260070,
+          "endMs": 263070
+        },
+        {
+          "en": "The hall was flooded and there was no heating.",
+          "zh": "这门厅是洪水和那里是不暖气设备。",
+          "startMs": 263070,
+          "endMs": 267070
+        },
+        {
+          "en": "\"What are we going to do all day?\" Asked Wilf.",
+          "zh": "什么是我们去到做全部一天？ 问 Wilf。 为什么？ 问 Biff。",
+          "startMs": 267070,
+          "endMs": 273020
+        },
+        {
+          "en": "\"I'm sorry,\" Said Mrs. May.",
+          "zh": "我是对不起， 说这男人。 Wilf， 说先生约翰逊。",
+          "startMs": 273020,
+          "endMs": 273420
+        },
+        {
+          "en": "\"We can't open the school today.\"",
+          "zh": "我们不能打开这学校在今天。",
+          "startMs": 273420,
+          "endMs": 276070
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 260420,
+      "endMs": 276420
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the children got home, they saw a lorry in the street.",
+          "zh": "当……时这孩子们得到家， 他们看见一个卡车在……里这街道。",
+          "startMs": 277970,
+          "endMs": 282070
+        },
+        {
+          "en": "It was loaded with sandbags.",
+          "zh": "它是装载和……一起沙袋。",
+          "startMs": 282070,
+          "endMs": 285070
+        },
+        {
+          "en": "People were taking the sandbags to their houses.",
+          "zh": "人们是拿这沙袋到他们的房子。",
+          "startMs": 285070,
+          "endMs": 289070
+        },
+        {
+          "en": "\"We need you all to help,\" said Mum.",
+          "zh": "我们必须你全部到帮助， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 289070,
+          "endMs": 293070
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 277820,
+      "endMs": 293420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip helped to carry the sandbags.",
+          "zh": "Biff 和 Chip 帮助到搬运这沙袋。",
+          "startMs": 296000,
+          "endMs": 299070
+        },
+        {
+          "en": "They were very heavy.",
+          "zh": "他们是非常重的。",
+          "startMs": 299070,
+          "endMs": 302070
+        },
+        {
+          "en": "Dad put them in front of the doors.",
+          "zh": "爸爸放他们在……里前面的这门。",
+          "startMs": 302070,
+          "endMs": 305070
+        },
+        {
+          "en": "\"I just hope the water doesn't come up this far,\" said Dad.",
+          "zh": "我刚刚希望这水不来向上这个远， 说爸爸。 Kipper， 说爸爸。",
+          "startMs": 305070,
+          "endMs": 310070
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 295850,
+      "endMs": 310420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked upset.",
+          "zh": "妈妈看使苦恼。",
+          "startMs": 310070,
+          "endMs": 312070
+        },
+        {
+          "en": "\"The floods may get worse,\" she said.",
+          "zh": "这洪水梅得到更坏的， 她说。",
+          "startMs": 312070,
+          "endMs": 316070
+        },
+        {
+          "en": "\"So there's only one thing to do.\"",
+          "zh": "所以有只有一东西到做。",
+          "startMs": 316070,
+          "endMs": 319070
+        },
+        {
+          "en": "She picked up a chair.",
+          "zh": "她挑选向上一个椅子。",
+          "startMs": 319070,
+          "endMs": 321070
+        },
+        {
+          "en": "\"We'll have to take things upstairs,\" said Mum.",
+          "zh": "我们会有到拿东西在楼上， 说妈妈。",
+          "startMs": 321070,
+          "endMs": 324840
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 310420,
+      "endMs": 325190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Mum.",
+          "zh": "我们是， 说妈妈。",
+          "startMs": 324840,
+          "endMs": 326070
+        },
+        {
+          "en": "They all began to carry things upstairs.",
+          "zh": "他们全部开始到搬运东西在楼上。",
+          "startMs": 327970,
+          "endMs": 332070
+        },
+        {
+          "en": "It was hard work and Kipper began to get worried.",
+          "zh": "它是困难的工作和 Kipper 开始到得到发愁的。",
+          "startMs": 332070,
+          "endMs": 336070
+        },
+        {
+          "en": "\"What will happen if the water floods into my bedroom?\" He asked.",
+          "zh": "什么将发生如果这水洪水进入我的卧室？ 他问。 他追赶它！",
+          "startMs": 336070,
+          "endMs": 342070
+        },
+        {
+          "en": "\"Don't worry,\" Said Biff.",
+          "zh": "不担心， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 342070,
+          "endMs": 345130
+        },
+        {
+          "en": "\"It won't.\"",
+          "zh": "它不会。",
+          "startMs": 345130,
+          "endMs": 346070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 325190,
+      "endMs": 346420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some things were too big and heavy to carry upstairs.",
+          "zh": "一些东西是也大的和重的到搬运在楼上。",
+          "startMs": 346230,
+          "endMs": 351070
+        },
+        {
+          "en": "\"What shall we do with the sofa?\" Asked Dad.",
+          "zh": "什么将我们做和……一起这长沙发？ 问爸爸。",
+          "startMs": 351070,
+          "endMs": 355070
+        },
+        {
+          "en": "Mum had a good idea.",
+          "zh": "妈妈有一个好的主意。",
+          "startMs": 355070,
+          "endMs": 357070
+        },
+        {
+          "en": "She got a folding table.",
+          "zh": "她得到一个可折叠的桌子。",
+          "startMs": 357070,
+          "endMs": 359070
+        },
+        {
+          "en": "\"We can put the sofa up on this,\" she said.",
+          "zh": "我们能放这长沙发向上在……上这个， 她说。",
+          "startMs": 359070,
+          "endMs": 362680
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 346420,
+      "endMs": 363030
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "Biff， 他说。",
+          "startMs": 362680,
+          "endMs": 364070
+        },
+        {
+          "en": "It rained in the night.",
+          "zh": "它雨在……里这夜晚。",
+          "startMs": 368970,
+          "endMs": 371070
+        },
+        {
+          "en": "Dad couldn't sleep.",
+          "zh": "爸爸不能睡觉。",
+          "startMs": 371070,
+          "endMs": 373070
+        },
+        {
+          "en": "He was too worried about the flood.",
+          "zh": "他是也发愁的关于这洪水。",
+          "startMs": 373070,
+          "endMs": 376070
+        },
+        {
+          "en": "Then he heard the sound of water.",
+          "zh": "然后他听见这声音的水。",
+          "startMs": 376070,
+          "endMs": 379070
+        },
+        {
+          "en": "He went downstairs and looked.",
+          "zh": "他去在楼下和看。",
+          "startMs": 379070,
+          "endMs": 381070
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 381070,
+          "endMs": 383070
+        },
+        {
+          "en": "The flood water had come in.",
+          "zh": "这洪水水有来在……里。",
+          "startMs": 383070,
+          "endMs": 386070
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 363030,
+      "endMs": 386420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone woke up.",
+          "zh": "每个人醒来向上。",
+          "startMs": 386070,
+          "endMs": 388070
+        },
+        {
+          "en": "The lights didn't work, so Mum lit a lamp.",
+          "zh": "这轻的没有工作， 所以妈妈 lit 一个灯。",
+          "startMs": 388070,
+          "endMs": 392070
+        },
+        {
+          "en": "They all looked downstairs.",
+          "zh": "他们全部看在楼下。",
+          "startMs": 392070,
+          "endMs": 394070
+        },
+        {
+          "en": "The hall was full of water.",
+          "zh": "这门厅是满的的水。",
+          "startMs": 394070,
+          "endMs": 397070
+        },
+        {
+          "en": "\"This is terrible,\" said Chip.",
+          "zh": "这个是可怕的， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 397070,
+          "endMs": 400070
+        },
+        {
+          "en": "\"Lots of houses must be flooded.\"",
+          "zh": "许多的房子必须是洪水。",
+          "startMs": 400070,
+          "endMs": 403070
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 386420,
+      "endMs": 403420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, Biff, Chip and Kipper looked out of the window.",
+          "zh": "这下一个一天， Biff， Chip 和 Kipper 看出的这窗户。",
+          "startMs": 406970,
+          "endMs": 412070
+        },
+        {
+          "en": "The whole street was flooded.",
+          "zh": "这全部的街道是洪水。",
+          "startMs": 412070,
+          "endMs": 415070
+        },
+        {
+          "en": "\"I can't believe it,\" said Kipper.",
+          "zh": "我不能相信它， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 415070,
+          "endMs": 419070
+        },
+        {
+          "en": "\"It looks like a river.\" \"It's amazing,\" Said Biff.",
+          "zh": "它看喜欢一个河。 那是使人十分惊奇的。 哇！ 说 Biff。",
+          "startMs": 419070,
+          "endMs": 425070
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 406820,
+      "endMs": 425420
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man paddled past in a canoe.",
+          "zh": "一个男人短桨过在……里一个独木舟。",
+          "startMs": 425070,
+          "endMs": 428070
+        },
+        {
+          "en": "It looked funny to see a canoe in the street.",
+          "zh": "它看有趣的到看见一个独木舟在……里这街道。",
+          "startMs": 428070,
+          "endMs": 431070
+        },
+        {
+          "en": "The man shouted up to them.",
+          "zh": "这男人喊向上到他们。",
+          "startMs": 431070,
+          "endMs": 434070
+        },
+        {
+          "en": "\"Are you all right?\" He asked.",
+          "zh": "是你全部正确的？ 他问。 他追赶它！",
+          "startMs": 434070,
+          "endMs": 437070
+        },
+        {
+          "en": "\"Yes, thank you,\" Chip called back.",
+          "zh": "谢谢你， Gran。 是谢谢你， Chip 叫回来。",
+          "startMs": 437070,
+          "endMs": 440070
+        },
+        {
+          "en": "\"But we wish the flood would go away.\"",
+          "zh": "但是我们希望这洪水会去离开。",
+          "startMs": 440070,
+          "endMs": 443070
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 425420,
+      "endMs": 443420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some fire officers came to the street.",
+          "zh": "一些火军官来到这街道。",
+          "startMs": 445970,
+          "endMs": 449070
+        },
+        {
+          "en": "They wore big, long boots.",
+          "zh": "他们穿大的， 长的靴子。",
+          "startMs": 449070,
+          "endMs": 452070
+        },
+        {
+          "en": "\"Can we take you to somewhere warm and dry?\"",
+          "zh": "能我们拿你到在某处温暖的和干的？ 问一个火军官。",
+          "startMs": 452070,
+          "endMs": 455130
+        },
+        {
+          "en": "Asked a fire officer.",
+          "zh": "为什么？ 问 Biff。",
+          "startMs": 455130,
+          "endMs": 457070
+        },
+        {
+          "en": "\"Yes, please,\" Said Mum.",
+          "zh": "是请， 说妈妈。",
+          "startMs": 457070,
+          "endMs": 460070
+        },
+        {
+          "en": "\"I don't think we can stay here.\"",
+          "zh": "我不想我们能停留这里。",
+          "startMs": 460070,
+          "endMs": 463070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 445820,
+      "endMs": 463420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The fire officers brought a dinghy to the front door.",
+          "zh": "这火军官带来一个小舢板到这前面门。",
+          "startMs": 463070,
+          "endMs": 467070
+        },
+        {
+          "en": "Everyone got in.",
+          "zh": "每个人得到在……里。",
+          "startMs": 467070,
+          "endMs": 469070
+        },
+        {
+          "en": "Dad carried Floppy.",
+          "zh": "爸爸搬运 Floppy。",
+          "startMs": 469070,
+          "endMs": 471070
+        },
+        {
+          "en": "\"I never thought we'd sail up our street in a boat,\" said Chip.",
+          "zh": "我从不想 we'd 帆向上我们的街道在……里一个船， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 471070,
+          "endMs": 476070
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 463420,
+      "endMs": 476420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma were in their house.",
+          "zh": "Wilf 和 Wilma 是在……里他们的房子。",
+          "startMs": 479970,
+          "endMs": 483070
+        },
+        {
+          "en": "They were looking out of the window.",
+          "zh": "他们是看出的这窗户。",
+          "startMs": 483070,
+          "endMs": 485070
+        },
+        {
+          "en": "Biff, Chip and Kipper waved at them.",
+          "zh": "Biff， Chip 和 Kipper 波浪在他们。",
+          "startMs": 485070,
+          "endMs": 489070
+        },
+        {
+          "en": "\"You can come and rescue us, next,\" called Wilma.",
+          "zh": "你能来和解救我们， 下一个， 叫 Wilma。 帮助！ 叫 Kamar。",
+          "startMs": 489070,
+          "endMs": 494070
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 479820,
+      "endMs": 494420
+    },
+    {
+      "sentences": [
+        {
+          "en": "A cat was stuck on a fence.",
+          "zh": "一个猫是 stuck 在……上一个分册。",
+          "startMs": 494070,
+          "endMs": 497070
+        },
+        {
+          "en": "The fire officer stopped the dinghy.",
+          "zh": "这火军官停这小舢板。",
+          "startMs": 497070,
+          "endMs": 500070
+        },
+        {
+          "en": "Dad rescued it and gave it to Mum.",
+          "zh": "爸爸解救它和给它到妈妈。",
+          "startMs": 500070,
+          "endMs": 503070
+        },
+        {
+          "en": "Floppy looked at the cat, but he didn't even bark.",
+          "zh": "Floppy 看在这猫， 但是他没有竟然吠叫。",
+          "startMs": 503070,
+          "endMs": 507070
+        },
+        {
+          "en": "\"He is being a good dog,\" said Kipper.",
+          "zh": "他是正在一个好的狗， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 507070,
+          "endMs": 511070
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 494420,
+      "endMs": 511420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to a hall in the town.",
+          "zh": "他们去到一个门厅在……里这城镇。",
+          "startMs": 515410,
+          "endMs": 518070
+        },
+        {
+          "en": "A lot of people were there.",
+          "zh": "一个许多的人们是那里。",
+          "startMs": 518070,
+          "endMs": 520070
+        },
+        {
+          "en": "Wilf and Wilma came in with their mum and dad.",
+          "zh": "Wilf 和 Wilma 来在……里和……一起他们的妈妈和爸爸。",
+          "startMs": 520070,
+          "endMs": 524070
+        },
+        {
+          "en": "Biff showed Wilma the rescued cat.",
+          "zh": "Biff 展示 Wilma 这解救猫。",
+          "startMs": 524070,
+          "endMs": 527070
+        },
+        {
+          "en": "\"Poor little thing,\" said Wilma.",
+          "zh": "贫穷的小的东西， 说 Wilma。 所以是我们， 说 Wilma。 哦不！ 说 Wilf。",
+          "startMs": 527070,
+          "endMs": 534070
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 515260,
+      "endMs": 534420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We may have to stay here tonight,\" said Wilf.",
+          "zh": "我们梅有到停留这里今夜， 说 Wilf。",
+          "startMs": 534070,
+          "endMs": 534270
+        },
+        {
+          "en": "\"We can't go back home to sleep.\" Kipper was upset.",
+          "zh": "我们不能去回来家到睡觉。 Kipper 是使苦恼。",
+          "startMs": 534270,
+          "endMs": 538070
+        },
+        {
+          "en": "There were too many people in the hall.",
+          "zh": "那里是也许多人们在……里这门厅。",
+          "startMs": 538070,
+          "endMs": 541070
+        },
+        {
+          "en": "He didn't want to sleep there.",
+          "zh": "他没有想要到睡觉那里。",
+          "startMs": 541070,
+          "endMs": 544070
+        },
+        {
+          "en": "\"I want to go home,\" he said.",
+          "zh": "我想要到去家， 他说。",
+          "startMs": 544070,
+          "endMs": 546550
+        },
+        {
+          "en": "She said.",
+          "zh": "Biff， 他说。",
+          "startMs": 546550,
+          "endMs": 548070
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 534420,
+      "endMs": 548420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Later in the day, Gran came to the hall.",
+          "zh": "后来在……里这一天， Gran 来到这门厅。",
+          "startMs": 551970,
+          "endMs": 556070
+        },
+        {
+          "en": "\"You can all stay with me until the flood goes down,\" she said.",
+          "zh": "你能全部停留和……一起我直到这洪水去向下， 她说。",
+          "startMs": 556070,
+          "endMs": 562070
+        },
+        {
+          "en": "The children were pleased.",
+          "zh": "这孩子们是请。",
+          "startMs": 562070,
+          "endMs": 564070
+        },
+        {
+          "en": "\"It will be fun staying with Gran,\" said Kipper.",
+          "zh": "它将是乐趣停留和……一起 Gran， 说 Kipper。",
+          "startMs": 564070,
+          "endMs": 566820
+        },
+        {
+          "en": "\"Thank you Gran,\" said Kipper.",
+          "zh": "谢谢你， Gran。",
+          "startMs": 567970,
+          "endMs": 570270
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 551820,
+      "endMs": 570620
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the floods were over they went back home.",
+          "zh": "当……时这洪水是在……上方他们去回来家。",
+          "startMs": 572000,
+          "endMs": 575070
+        },
+        {
+          "en": "They gasped when they saw the house.",
+          "zh": "他们喘气当……时他们看见这房子。",
+          "startMs": 575070,
+          "endMs": 578070
+        },
+        {
+          "en": "The floors were covered in mud.",
+          "zh": "这地板是有顶棚的在……里淤泥。",
+          "startMs": 578070,
+          "endMs": 581070
+        },
+        {
+          "en": "\"What a mess!\" Said Kipper.",
+          "zh": "什么一个脏乱！ 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 581070,
+          "endMs": 584070
+        },
+        {
+          "en": "\"I hate it.\" \"Never mind,\" said Dad.",
+          "zh": "我憎恶它。 从不头脑， 说爸爸。",
+          "startMs": 584070,
+          "endMs": 592070
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 571850,
+      "endMs": 592420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Bad things like this happen sometimes.\"",
+          "zh": "坏的东西喜欢这个发生有时。",
+          "startMs": 592070,
+          "endMs": 595070
+        },
+        {
+          "en": "He gave the children a big hug.",
+          "zh": "他给这孩子们一个大的拥抱。",
+          "startMs": 595070,
+          "endMs": 598070
+        },
+        {
+          "en": "Then he gave them some mops and brooms.",
+          "zh": "然后他给他们一些拖把和扫帚。",
+          "startMs": 598070,
+          "endMs": 601070
+        },
+        {
+          "en": "\"And what's more important than all this mud?",
+          "zh": "和是什么更多重要的比全部这个淤泥？",
+          "startMs": 601070,
+          "endMs": 604070
+        },
+        {
+          "en": "\"We are,\" Said Mum.",
+          "zh": "我们是， 说妈妈。",
+          "startMs": 604070,
+          "endMs": 607070
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 592420,
+      "endMs": 607420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 607420,
+      "endMs": 607421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 607421,
+      "endMs": 607422
+    }
+  ]
+}

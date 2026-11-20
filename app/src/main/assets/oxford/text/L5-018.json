@@ -1,0 +1,551 @@
+{
+  "id": "L5-018",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Life-jackets Bargain Mum and Dad went to a car boot sale.",
+          "zh": "妈妈和爸爸去参加了一场汽车后备箱跳蚤市场。",
+          "startMs": 4140,
+          "endMs": 8250
+        },
+        {
+          "en": "They took the children.",
+          "zh": "她们带着孩子们一起去。",
+          "startMs": 8280,
+          "endMs": 8910
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3990,
+      "endMs": 9260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked at a dinghy.",
+          "zh": "妈妈看中了一艘小艇。",
+          "startMs": 13510,
+          "endMs": 15800
+        },
+        {
+          "en": "She called Dad.",
+          "zh": "她叫了爸爸一声。",
+          "startMs": 15830,
+          "endMs": 16650
+        },
+        {
+          "en": "Dad looked at the dinghy.",
+          "zh": "爸爸看了看那艘小艇。",
+          "startMs": 16680,
+          "endMs": 17870
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 13360,
+      "endMs": 18220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" Asked Dad.",
+          "zh": "“这是什么？” 爸爸问道。",
+          "startMs": 17900,
+          "endMs": 19750
+        },
+        {
+          "en": "\"It's a dinghy,\" said Mum.",
+          "zh": "“这是一艘小艇，”妈妈说。 妈妈说道。",
+          "startMs": 20650,
+          "endMs": 24750
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 18220,
+      "endMs": 25100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted the dinghy.",
+          "zh": "妈妈想要那艘小艇。",
+          "startMs": 25770,
+          "endMs": 27640
+        },
+        {
+          "en": "She called the children.",
+          "zh": "她叫来了孩子们。",
+          "startMs": 28400,
+          "endMs": 29940
+        },
+        {
+          "en": "\"Look at this,\" she said.",
+          "zh": "“你看这个，”她说。",
+          "startMs": 29940,
+          "endMs": 33370
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 25620,
+      "endMs": 33720
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the dinghy.",
+          "zh": "孩子们看了看小艇。",
+          "startMs": 33400,
+          "endMs": 35780
+        },
+        {
+          "en": "\"What is it?\" They asked.",
+          "zh": "“这是什么？” 他们问道。",
+          "startMs": 35780,
+          "endMs": 38810
+        },
+        {
+          "en": "\"It's a dinghy,\" Said Mum.",
+          "zh": "“这是一艘小艇！” 妈妈说道。",
+          "startMs": 38980,
+          "endMs": 41640
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 33720,
+      "endMs": 41990
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the dinghy home.",
+          "zh": "他们把小艇带回了家。",
+          "startMs": 44510,
+          "endMs": 48410
+        },
+        {
+          "en": "Dad pumped it up but it went down again.",
+          "zh": "爸爸给它充了气，但它又瘪下去了。",
+          "startMs": 56650,
+          "endMs": 56750
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 44360,
+      "endMs": 57100
+    },
+    {
+      "sentences": [
+        {
+          "en": "SoF Mum mended the dinghy.",
+          "zh": "妈妈修好了小艇。",
+          "startMs": 60650,
+          "endMs": 63660
+        },
+        {
+          "en": "She put a patch on it.",
+          "zh": "她在上面贴了一块补丁。",
+          "startMs": 63690,
+          "endMs": 67040
+        },
+        {
+          "en": "The children helped.",
+          "zh": "孩子们帮忙。",
+          "startMs": 67070,
+          "endMs": 68460
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 60500,
+      "endMs": 68810
+    },
+    {
+      "sentences": [
+        {
+          "en": "THEa Dad put the dinghy on the car.",
+          "zh": "爸爸把小艇放到了车上。",
+          "startMs": 69650,
+          "endMs": 71300
+        },
+        {
+          "en": "They took a picnic and went to the river.",
+          "zh": "他们带着野餐用品去了河边。",
+          "startMs": 73460,
+          "endMs": 75640
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 69500,
+      "endMs": 75990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Weir Dad looked at the river.",
+          "zh": "爸爸看着河。",
+          "startMs": 77890,
+          "endMs": 80190
+        },
+        {
+          "en": "He pointed at the weir.",
+          "zh": "他指着堰。",
+          "startMs": 80220,
+          "endMs": 81750
+        },
+        {
+          "en": "\"The weir is dangerous,\" he said.",
+          "zh": "“堰很危险，”他说。",
+          "startMs": 85650,
+          "endMs": 88930
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 77740,
+      "endMs": 89280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad had a good idea.",
+          "zh": "妈妈和爸爸想出了一个好主意。",
+          "startMs": 91510,
+          "endMs": 94610
+        },
+        {
+          "en": "\"Let's put everything in the dinghy.",
+          "zh": "“我们把所有东西都放在小艇上吧。",
+          "startMs": 94640,
+          "endMs": 98220
+        },
+        {
+          "en": "Everyone can help,\" they said.",
+          "zh": "“每个人都可以帮忙，”他们说。",
+          "startMs": 98700,
+          "endMs": 102750
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 91360,
+      "endMs": 103100
+    },
+    {
+      "sentences": [
+        {
+          "en": "They found a good spot for the picnic.",
+          "zh": "他们找到了一处适合野餐的好地方。",
+          "startMs": 104120,
+          "endMs": 107170
+        },
+        {
+          "en": "The children paddled the dinghy.",
+          "zh": "孩子们划着小艇。",
+          "startMs": 107200,
+          "endMs": 110750
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 103970,
+      "endMs": 111100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time for the picnic.",
+          "zh": "该野餐了。",
+          "startMs": 113650,
+          "endMs": 114280
+        },
+        {
+          "en": "Mum and Dad put the rug down and got the picnic out.",
+          "zh": "妈妈和爸爸铺好毯子，拿出野餐食物。",
+          "startMs": 116680,
+          "endMs": 120160
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 113500,
+      "endMs": 120510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran out of the water.",
+          "zh": "Floppy 从水里跑了出来。",
+          "startMs": 121840,
+          "endMs": 124170
+        },
+        {
+          "en": "He shook water over Dad.",
+          "zh": "他把水甩到爸爸身上。",
+          "startMs": 124200,
+          "endMs": 125080
+        },
+        {
+          "en": "\"Go away, Floppy!\" Said Dad.",
+          "zh": "“走开，Floppy。” 爸爸说道。",
+          "startMs": 129110,
+          "endMs": 133750
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 121690,
+      "endMs": 134100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Miam The river was busy.",
+          "zh": "河上很热闹。",
+          "startMs": 135880,
+          "endMs": 137770
+        },
+        {
+          "en": "Biff and Chip watched the boats go by.",
+          "zh": "Biff 和 Chip 看着船只驶过。",
+          "startMs": 137800,
+          "endMs": 140360
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 135730,
+      "endMs": 140710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff liked the big boats.",
+          "zh": "Biff 喜欢大船。",
+          "startMs": 155650,
+          "endMs": 155750
+        },
+        {
+          "en": "\"I wish we could go on a big boat,\" she said.",
+          "zh": "“我希望我们能坐上一艘大船，”她说。",
+          "startMs": 155750,
+          "endMs": 156150
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 155500,
+      "endMs": 156500
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "该回家了。",
+          "startMs": 157540,
+          "endMs": 159640
+        },
+        {
+          "en": "\"What a good day!\" Said Dad.",
+          "zh": "真美好的一天！” 爸爸说道。",
+          "startMs": 159920,
+          "endMs": 163180
+        },
+        {
+          "en": "\"It was a good picnic.\" \"Look,\" \"Look!\" said Biff.",
+          "zh": "“这是一次愉快的野餐。” “看！”",
+          "startMs": 163280,
+          "endMs": 167750
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 157390,
+      "endMs": 168100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There is nobody on that boat\" \"My boat is in danger,\" Called the lady.",
+          "zh": "“那艘船上一个人都没有！”",
+          "startMs": 167810,
+          "endMs": 177610
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 168100,
+      "endMs": 177960
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help!",
+          "zh": "“救命！”",
+          "startMs": 178020,
+          "endMs": 179120
+        },
+        {
+          "en": "Get my boat!\"",
+          "zh": "把我的船弄过来！”",
+          "startMs": 179150,
+          "endMs": 181020
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 177960,
+      "endMs": 181370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put the dinghy in the river.",
+          "zh": "妈妈把小艇放进了河里。",
+          "startMs": 184540,
+          "endMs": 187080
+        },
+        {
+          "en": "She paddled to the boat.",
+          "zh": "她划着桨向那艘船驶去。",
+          "startMs": 187110,
+          "endMs": 188820
+        },
+        {
+          "en": "\"Be careful!\" Called everyone.",
+          "zh": "“小心！” 叫了所有人。",
+          "startMs": 188850,
+          "endMs": 192600
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 184390,
+      "endMs": 192950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum climbed onto the boat.",
+          "zh": "妈妈爬上了船。",
+          "startMs": 199650,
+          "endMs": 199750
+        },
+        {
+          "en": "She started the engine.",
+          "zh": "她发动了引擎。",
+          "startMs": 201100,
+          "endMs": 204350
+        },
+        {
+          "en": "She was just in time.",
+          "zh": "她来得正好。",
+          "startMs": 204380,
+          "endMs": 206120
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 199500,
+      "endMs": 206470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum brought the boat back.",
+          "zh": "妈妈把船划回来了。",
+          "startMs": 206150,
+          "endMs": 207900
+        },
+        {
+          "en": "\"Hooray!\" Everyone shouted.",
+          "zh": "“太棒了！” 大家大声喊道。",
+          "startMs": 215650,
+          "endMs": 216350
+        },
+        {
+          "en": "\"Mum to the rescue!\" Said Kipper.",
+          "zh": "“妈妈来救场啦！” Kipper 说道。",
+          "startMs": 220110,
+          "endMs": 224210
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 206470,
+      "endMs": 224560
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad let go of the dinghy rope.",
+          "zh": "爸爸松开了小艇的绳子。",
+          "startMs": 228650,
+          "endMs": 228780
+        },
+        {
+          "en": "The dinghy went over the weir.",
+          "zh": "小艇越过了拦河坝。",
+          "startMs": 231320,
+          "endMs": 233240
+        },
+        {
+          "en": "\"Oh no!\" Said everyone.",
+          "zh": "哎呀。 大家都这么说。",
+          "startMs": 233270,
+          "endMs": 237360
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 228500,
+      "endMs": 237710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The lady had an idea.",
+          "zh": "“这位女士想出了一个好主意。”",
+          "startMs": 238970,
+          "endMs": 240780
+        },
+        {
+          "en": "\"I will lend you my boat to say thank you,\" she said.",
+          "zh": "“我会把我的船借给你们，以表达我的谢意。”她说。",
+          "startMs": 240810,
+          "endMs": 245550
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 238820,
+      "endMs": 245900
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family had a holiday on the boat.",
+          "zh": "一家人在船上度过了假期。",
+          "startMs": 249510,
+          "endMs": 252010
+        },
+        {
+          "en": "\"Thanks to the dinghy,\" said Mum.",
+          "zh": "“多亏了那艘小艇，”妈妈说。 妈妈说道。",
+          "startMs": 253910,
+          "endMs": 261750
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 249360,
+      "endMs": 262100
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 262100,
+      "endMs": 262101
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 262101,
+      "endMs": 262102
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "L3-027",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Roy had a budgie.",
+          "zh": "Roy 有一个 budgie。",
+          "startMs": 0,
+          "endMs": 3420
+        },
+        {
+          "en": "He called it Joey.",
+          "zh": "他叫它幼袋鼠。",
+          "startMs": 3320,
+          "endMs": 9530
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joey flew outside.",
+          "zh": "幼袋鼠飞外面。",
+          "startMs": 9560,
+          "endMs": 14530
+        }
+      ],
+      "startMs": 9410,
+      "endMs": 14880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Roy.",
+          "zh": "哦不！ 说 Roy。",
+          "startMs": 14430,
+          "endMs": 21530
+        }
+      ],
+      "startMs": 14280,
+      "endMs": 21880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Roy couldn't get Joey.",
+          "zh": "Roy 不能得到幼袋鼠。",
+          "startMs": 21430,
+          "endMs": 27220
+        }
+      ],
+      "startMs": 21280,
+      "endMs": 27570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joey flew away.",
+          "zh": "幼袋鼠飞离开。",
+          "startMs": 27120,
+          "endMs": 32530
+        }
+      ],
+      "startMs": 26970,
+      "endMs": 32880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Roy went to the wood.",
+          "zh": "Roy 去到这木头。",
+          "startMs": 33240,
+          "endMs": 38190
+        }
+      ],
+      "startMs": 33090,
+      "endMs": 38540
+    },
+    {
+      "sentences": [
+        {
+          "en": "He looked for Joey.",
+          "zh": "他看为了幼袋鼠。",
+          "startMs": 38090,
+          "endMs": 42530
+        }
+      ],
+      "startMs": 37940,
+      "endMs": 42880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Roy couldn't see Joey.",
+          "zh": "Roy 不能看见幼袋鼠。",
+          "startMs": 42430,
+          "endMs": 48110
+        }
+      ],
+      "startMs": 42280,
+      "endMs": 48460
+    },
+    {
+      "sentences": [
+        {
+          "en": "An ostrich was in the wood.",
+          "zh": "一个鸵鸟是在……里这木头。",
+          "startMs": 48010,
+          "endMs": 54530
+        }
+      ],
+      "startMs": 47860,
+      "endMs": 54880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Roy looked at the ostrich.",
+          "zh": "Roy 看在这鸵鸟。",
+          "startMs": 55320,
+          "endMs": 66530
+        }
+      ],
+      "startMs": 55170,
+      "endMs": 66880
+    },
+    {
+      "sentences": [
+        {
+          "en": "The ostrich looked at Roy.",
+          "zh": "这鸵鸟看在 Roy。",
+          "startMs": 66430,
+          "endMs": 66580
+        }
+      ],
+      "startMs": 66280,
+      "endMs": 66930
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw the zoo-keeper.",
+          "zh": "他们看见这动物园饲养员。",
+          "startMs": 66430,
+          "endMs": 67870
+        },
+        {
+          "en": "The zoo-keeper had a budgie.",
+          "zh": "这动物园饲养员有一个 budgie。",
+          "startMs": 69430,
+          "endMs": 77530
+        }
+      ],
+      "startMs": 66280,
+      "endMs": 77880
+    },
+    {
+      "sentences": [],
+      "startMs": 69490,
+      "endMs": 70290,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's my ostrich,\" said the zoo-keeper.",
+          "zh": "它是我的鸵鸟， 说这动物园饲养员。",
+          "startMs": 77560,
+          "endMs": 80810
+        }
+      ],
+      "startMs": 77410,
+      "endMs": 81160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's my budgie, said Roy.",
+          "zh": "它是我的 budgie， 说 Roy。",
+          "startMs": 82430,
+          "endMs": 89530
+        }
+      ],
+      "startMs": 82280,
+      "endMs": 89880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Thanks,\" they said Printed in China by Imago",
+          "zh": "谢谢， 他们说印刷的在……里瓷由 Imago",
+          "startMs": 84160,
+          "endMs": 93740
+        }
+      ],
+      "startMs": 84160,
+      "endMs": 93740
+    },
+    {
+      "sentences": [],
+      "startMs": 93740,
+      "endMs": 95276,
+      "illustrationOnly": true
+    }
+  ]
+}

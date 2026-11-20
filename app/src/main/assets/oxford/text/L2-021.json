@@ -1,0 +1,213 @@
+{
+  "id": "L2-021",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at this,\" said Biff.",
+          "zh": "看在这个， 说 Biff。",
+          "startMs": 0,
+          "endMs": 22990
+        }
+      ],
+      "startMs": 0,
+      "endMs": 23340
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had a crab in her hand.",
+          "zh": "她有一个蟹在……里她手。",
+          "startMs": 12560,
+          "endMs": 13800
+        }
+      ],
+      "startMs": 12410,
+      "endMs": 14150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put it back,\" said Chip.",
+          "zh": "放它回来， 说 Chip。",
+          "startMs": 13700,
+          "endMs": 18580
+        }
+      ],
+      "startMs": 13550,
+      "endMs": 18930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff put the crab back.",
+          "zh": "Biff 放这蟹回来。",
+          "startMs": 22840,
+          "endMs": 24940
+        }
+      ],
+      "startMs": 22690,
+      "endMs": 25290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's look on the sand,\" said Dad.",
+          "zh": "让我们看在……上这沙， 说爸爸。",
+          "startMs": 28630,
+          "endMs": 31460
+        }
+      ],
+      "startMs": 28480,
+      "endMs": 31810
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and see this,\" said Chip.",
+          "zh": "来和看见这个， 说 Chip。",
+          "startMs": 35960,
+          "endMs": 38730
+        }
+      ],
+      "startMs": 35810,
+      "endMs": 39080
+    },
+    {
+      "sentences": [
+        {
+          "en": "He had a net.",
+          "zh": "他有一个网。",
+          "startMs": 38630,
+          "endMs": 41060
+        }
+      ],
+      "startMs": 38480,
+      "endMs": 41410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and see this,\" said Mum.",
+          "zh": "来和看见这个， 说妈妈。",
+          "startMs": 35960,
+          "endMs": 37640
+        }
+      ],
+      "startMs": 35810,
+      "endMs": 37990
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had a bit of wood.",
+          "zh": "她有一个一小块的木头。",
+          "startMs": 46570,
+          "endMs": 51020
+        }
+      ],
+      "startMs": 46420,
+      "endMs": 51370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at this shell,\" said Kipper.",
+          "zh": "看在这个蛋壳， 说 Kipper。",
+          "startMs": 56860,
+          "endMs": 60090
+        }
+      ],
+      "startMs": 56710,
+      "endMs": 60440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is the best of all.\"",
+          "zh": "这个是这最好的的全部。",
+          "startMs": 59990,
+          "endMs": 62460
+        }
+      ],
+      "startMs": 59840,
+      "endMs": 62810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The shell had legs.",
+          "zh": "这蛋壳有腿。",
+          "startMs": 67580,
+          "endMs": 69720
+        }
+      ],
+      "startMs": 67430,
+      "endMs": 70070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Kipper.",
+          "zh": "哦不！ 说 Kipper。",
+          "startMs": 69620,
+          "endMs": 73830
+        },
+        {
+          "en": "\"What is it?\"",
+          "zh": "什么是它？",
+          "startMs": 73730,
+          "endMs": 74940
+        }
+      ],
+      "startMs": 69470,
+      "endMs": 75290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a hermit crab,\" said Dad.",
+          "zh": "它是一个隐士蟹， 说爸爸。",
+          "startMs": 79680,
+          "endMs": 83020
+        }
+      ],
+      "startMs": 79530,
+      "endMs": 83370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a crab that lives in a shell.\"",
+          "zh": "它是一个蟹那个住在……里一个蛋壳。",
+          "startMs": 82920,
+          "endMs": 85580
+        }
+      ],
+      "startMs": 82770,
+      "endMs": 85930
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put it back,\" said Kipper.",
+          "zh": "放它回来， 说 Kipper。",
+          "startMs": 88900,
+          "endMs": 94060
+        }
+      ],
+      "startMs": 88750,
+      "endMs": 94410
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "L2-012",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Kipper's birthday.",
+          "zh": "它是 Kipper 生日。",
+          "startMs": 0,
+          "endMs": 5410
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted a party.",
+          "zh": "Kipper 想要一个聚会。",
+          "startMs": 9650,
+          "endMs": 13883
+        },
+        {
+          "en": "Come to Please Saturda party",
+          "zh": "来到请 Saturda 聚会",
+          "startMs": 13883,
+          "endMs": 19270
+        }
+      ],
+      "startMs": 9650,
+      "endMs": 19270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to come.",
+          "zh": "每个人想要到来。",
+          "startMs": 12310,
+          "endMs": 14410
+        }
+      ],
+      "startMs": 12160,
+      "endMs": 14760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff put up balloons.",
+          "zh": "Biff 放向上气球。",
+          "startMs": 20310,
+          "endMs": 22410
+        },
+        {
+          "en": "Birthday Kipper",
+          "zh": "生日 Kipper",
+          "startMs": 47990,
+          "endMs": 49910
+        }
+      ],
+      "startMs": 20160,
+      "endMs": 50260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum made a cake.",
+          "zh": "妈妈做一个蛋糕。",
+          "startMs": 24310,
+          "endMs": 25910
+        }
+      ],
+      "startMs": 24160,
+      "endMs": 26260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad took a sandwich.",
+          "zh": "爸爸拿一个三明治。",
+          "startMs": 30810,
+          "endMs": 34910
+        }
+      ],
+      "startMs": 30660,
+      "endMs": 35260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Stop it,\" said Mum.",
+          "zh": "停它， 说妈妈。",
+          "startMs": 35810,
+          "endMs": 38570
+        }
+      ],
+      "startMs": 35660,
+      "endMs": 38920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone came to the party.",
+          "zh": "每个人来到这聚会。",
+          "startMs": 44810,
+          "endMs": 46910
+        }
+      ],
+      "startMs": 44660,
+      "endMs": 47260
+    },
+    {
+      "sentences": [],
+      "startMs": 56770,
+      "endMs": 57570,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 57570,
+      "endMs": 58370,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "HAPPY BIRTHDAY, Birthda dent!",
+          "zh": "快乐的生日， Birthda dent！",
+          "startMs": 47810,
+          "endMs": 49910
+        },
+        {
+          "en": "Kipper put the television on.",
+          "zh": "Kipper 放这电视在……上。",
+          "startMs": 60310,
+          "endMs": 62910
+        }
+      ],
+      "startMs": 47660,
+      "endMs": 63260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted a party.",
+          "zh": "Kipper 想要一个聚会。",
+          "startMs": 60310,
+          "endMs": 96910
+        }
+      ],
+      "startMs": 60160,
+      "endMs": 97260
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\"",
+          "zh": "哦不！",
+          "startMs": 75310,
+          "endMs": 75460
+        },
+        {
+          "en": "Mum, \"What a mess!\"",
+          "zh": "妈妈， 什么一个脏乱！",
+          "startMs": 78310,
+          "endMs": 79910
+        }
+      ],
+      "startMs": 75160,
+      "endMs": 80260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played with the bubbles.",
+          "zh": "这孩子们玩和……一起这泡泡。",
+          "startMs": 83810,
+          "endMs": 86410
+        }
+      ],
+      "startMs": 83660,
+      "endMs": 86760
+    },
+    {
+      "sentences": [],
+      "startMs": 94130,
+      "endMs": 94930,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good party!\" everyone said.",
+          "zh": "什么一个好的聚会！ 每个人说。",
+          "startMs": 90810,
+          "endMs": 98910
+        }
+      ],
+      "startMs": 90660,
+      "endMs": 99260
+    },
+    {
+      "sentences": [],
+      "startMs": 103215,
+      "endMs": 103715,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 103715,
+      "endMs": 103727,
+      "illustrationOnly": true
+    }
+  ]
+}

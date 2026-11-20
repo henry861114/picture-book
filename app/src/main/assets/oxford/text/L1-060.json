@@ -1,0 +1,123 @@
+{
+  "id": "L1-060",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted some sugar.",
+          "zh": "Chip 想要一些糖。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went to the supermarket.",
+          "zh": "他去到这超市。",
+          "startMs": 5840,
+          "endMs": 7940
+        }
+      ],
+      "startMs": 5690,
+      "endMs": 8290
+    },
+    {
+      "sentences": [
+        {
+          "en": "He got some crisps.",
+          "zh": "他得到一些薯片。",
+          "startMs": 10680,
+          "endMs": 12780
+        }
+      ],
+      "startMs": 10530,
+      "endMs": 13130
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went to the shop.",
+          "zh": "他去到这商店。",
+          "startMs": 16360,
+          "endMs": 17180
+        }
+      ],
+      "startMs": 16210,
+      "endMs": 17530
+    },
+    {
+      "sentences": [
+        {
+          "en": "He got a comic.",
+          "zh": "他得到一个漫画。",
+          "startMs": 17080,
+          "endMs": 20440
+        }
+      ],
+      "startMs": 16930,
+      "endMs": 20790
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went to the market.",
+          "zh": "他去到这市场。",
+          "startMs": 25640,
+          "endMs": 27540
+        }
+      ],
+      "startMs": 25490,
+      "endMs": 27890
+    },
+    {
+      "sentences": [
+        {
+          "en": "He got a ball.",
+          "zh": "他得到一个球。",
+          "startMs": 27440,
+          "endMs": 29020
+        }
+      ],
+      "startMs": 27290,
+      "endMs": 29370
+    },
+    {
+      "sentences": [
+        {
+          "en": "He forgot the sugar.",
+          "zh": "他忘记这糖。",
+          "startMs": 33880,
+          "endMs": 35980
+        }
+      ],
+      "startMs": 33730,
+      "endMs": 36330
+    },
+    {
+      "sentences": [],
+      "startMs": 41018,
+      "endMs": 41518,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 41518,
+      "endMs": 41574,
+      "illustrationOnly": true
+    }
+  ]
+}

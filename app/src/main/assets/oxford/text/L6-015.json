@@ -1,0 +1,694 @@
+{
+  "id": "L6-015",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4964,
+        0.4935
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"These children stole the crown,\" said Lord Kent.",
+          "zh": "[音乐]“这些孩子偷了王冠，”",
+          "startMs": 29,
+          "endMs": 4140
+        },
+        {
+          "en": "\"Throw them in prison.\" Stop, said Henry.",
+          "zh": "“把他关进监狱！” 亨利说道。",
+          "startMs": 4170,
+          "endMs": 8240
+        },
+        {
+          "en": "\"I don't think they stole my crown.\"",
+          "zh": "“我觉得它不值钱。”",
+          "startMs": 8270,
+          "endMs": 10980
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4964,
+        0.0,
+        1.0,
+        0.4935
+      ],
+      "startMs": 1,
+      "endMs": 11330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Henry spoke to the guards.",
+          "zh": "她对那位男士说道。",
+          "startMs": 14290,
+          "endMs": 16360
+        },
+        {
+          "en": "Who has been in this room today?",
+          "zh": "",
+          "startMs": 16640,
+          "endMs": 18320
+        },
+        {
+          "en": "He asked.",
+          "zh": "他问。",
+          "startMs": 19030,
+          "endMs": 19990
+        },
+        {
+          "en": "You and Lord Kent, said a guard.",
+          "zh": "一名卫兵说道。",
+          "startMs": 20840,
+          "endMs": 23920
+        },
+        {
+          "en": "Nobody could have taken it out of this room, said the other guard.",
+          "zh": "没有人能从这里把它拿走。”",
+          "startMs": 24180,
+          "endMs": 29320
+        },
+        {
+          "en": "\"We search everyone.\"",
+          "zh": "大家都这么说。",
+          "startMs": 29350,
+          "endMs": 30520
+        },
+        {
+          "en": "\"The children took it,\" said Lord Kent.",
+          "zh": "那个是一个好的礼物， 说君主 Kent。",
+          "startMs": 31640,
+          "endMs": 35120
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4935,
+        1.0,
+        1.0
+      ],
+      "startMs": 14140,
+      "endMs": 35470
+    },
+    {
+      "sentences": [
+        {
+          "en": "We didn't take it, said Beth, and nobody else could get in from the outside.",
+          "zh": "它没有人其他能得到在……里从这是一个打破箭。",
+          "startMs": 42520,
+          "endMs": 50180
+        },
+        {
+          "en": "Chip saw something on the floor.",
+          "zh": "我们没有拿它， 说 Biff， 和 Chip 看见某物在……上这地板。",
+          "startMs": 50210,
+          "endMs": 52430
+        },
+        {
+          "en": "It was a broken arrow.",
+          "zh": "这是一则关于卡丁车比赛的通知。",
+          "startMs": 52460,
+          "endMs": 54620
+        },
+        {
+          "en": "He asked Henry to lend him the magnifying glass.",
+          "zh": "他问 Henry 到外面。 借出他这放大玻璃。",
+          "startMs": 54660,
+          "endMs": 59180
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4737
+      ],
+      "startMs": 42370,
+      "endMs": 59530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Someone tied string to the window, said Chip.",
+          "zh": "某人租给雇工的细绳到这窗户， 某人是在……里这个房间。",
+          "startMs": 62280,
+          "endMs": 66320
+        },
+        {
+          "en": "I think I know how the crown was stolen.",
+          "zh": "Biff 扔这王冠到 Henry。",
+          "startMs": 66350,
+          "endMs": 68960
+        },
+        {
+          "en": "Someone was in this room, then someone outside the castle shot an arrow through the window.",
+          "zh": "我想我知道如何这王冠某人外面这城堡射击一个租给雇工的到它。 箭穿过这窗户。",
+          "startMs": 70700,
+          "endMs": 80140
+        },
+        {
+          "en": "It had string tied to it.",
+          "zh": "它有细绳",
+          "startMs": 80170,
+          "endMs": 82020
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4737,
+        1.0,
+        1.0
+      ],
+      "startMs": 62130,
+      "endMs": 82370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The person in the room put the string through the crown.",
+          "zh": "这人在……里这房间放这细绳穿过这王冠。",
+          "startMs": 85190,
+          "endMs": 89540
+        },
+        {
+          "en": "Then they tied the string round this bar in the window.",
+          "zh": "这人在……里这房间放这细绳穿过这王冠。",
+          "startMs": 89640,
+          "endMs": 95740
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        0.5014,
+        0.4624
+      ],
+      "startMs": 85040,
+      "endMs": 96090
+    },
+    {
+      "sentences": [
+        {
+          "en": "The crown slid down the string.",
+          "zh": "然后他们租给雇工的这这王冠滑行向下这细绳。",
+          "startMs": 95770,
+          "endMs": 101400
+        },
+        {
+          "en": "The person in the room untied the string and left.",
+          "zh": "然后细绳圆形的这个长条在……里这窗户。 这人在……里这房间解开这细绳和离开。",
+          "startMs": 101430,
+          "endMs": 105900
+        },
+        {
+          "en": "It was easy.\"",
+          "zh": "它是容易的。",
+          "startMs": 105930,
+          "endMs": 111880
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.5014,
+        0.0,
+        1.0,
+        0.4624
+      ],
+      "startMs": 96090,
+      "endMs": 112230
+    },
+    {
+      "sentences": [
+        {
+          "en": "I know who stole the crown, said Henry.",
+          "zh": "我知道谁 stole 这王冠， 说停我正在这国王。",
+          "startMs": 111910,
+          "endMs": 115820
+        },
+        {
+          "en": "You Lord Kent, you want to stop me being the king.",
+          "zh": "",
+          "startMs": 116110,
+          "endMs": 120880
+        },
+        {
+          "en": "Suddenly, Lord Kent ran off.",
+          "zh": "突然地， 君主 Kent 跑离开。",
+          "startMs": 121020,
+          "endMs": 124800
+        },
+        {
+          "en": "He shouted.",
+          "zh": "他大喊道。",
+          "startMs": 126220,
+          "endMs": 127180
+        },
+        {
+          "en": "You will not be king, I will.",
+          "zh": "你将不是国王。",
+          "startMs": 127640,
+          "endMs": 129720
+        },
+        {
+          "en": "You have lost the crown.\"",
+          "zh": "你有丢失这王冠。",
+          "startMs": 130100,
+          "endMs": 132200
+        },
+        {
+          "en": "Catch him, shouted Henry, don't let him get away.",
+          "zh": "抓住他！ 喊 Henry。",
+          "startMs": 132340,
+          "endMs": 137440
+        },
+        {
+          "en": "Throw him in prison, shouted Henry.",
+          "zh": "“把他关进监狱！”",
+          "startMs": 151670,
+          "endMs": 155880
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4624,
+        1.0,
+        1.0
+      ],
+      "startMs": 112230,
+      "endMs": 156230
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip grabbed Lord Kent's cloak and pulled him over.",
+          "zh": "Biff 和 Chip 抓住君主 Kent's 披风和拉他在……上方。",
+          "startMs": 155910,
+          "endMs": 159940
+        },
+        {
+          "en": "Henry ran out of the castle.",
+          "zh": "Henry 跑出的这城堡。",
+          "startMs": 159940,
+          "endMs": 160140
+        },
+        {
+          "en": "He called to Biff and Chip.",
+          "zh": "她给了 Biff 和 Chip 一个。",
+          "startMs": 160140,
+          "endMs": 162040
+        },
+        {
+          "en": "\"We have to get my crown back.\"",
+          "zh": "我们有到得到我的王冠回来。",
+          "startMs": 162070,
+          "endMs": 163800
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4601
+      ],
+      "startMs": 156230,
+      "endMs": 164150
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly Henry stopped running.",
+          "zh": "突然地， Henry 停跑。",
+          "startMs": 172020,
+          "endMs": 174920
+        },
+        {
+          "en": "Two men were searching for something in the grass.",
+          "zh": "",
+          "startMs": 175720,
+          "endMs": 178360
+        },
+        {
+          "en": "Get down, hissed Henry, don't let them see us.",
+          "zh": "“别让他们看见我们。”",
+          "startMs": 178820,
+          "endMs": 184920
+        },
+        {
+          "en": "What are they looking for, asked Biff.",
+          "zh": "什么是他们看为了？ 问 Biff。",
+          "startMs": 184950,
+          "endMs": 190760
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4601,
+        1.0,
+        1.0
+      ],
+      "startMs": 171870,
+      "endMs": 191110
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The One man took the crown out of a bag.",
+          "zh": "这一男人拿这王冠出的一个包。",
+          "startMs": 190790,
+          "endMs": 196400
+        },
+        {
+          "en": "\"This is bad news,\" he said.",
+          "zh": "这个是坏的新的， 他说。",
+          "startMs": 196430,
+          "endMs": 199740
+        },
+        {
+          "en": "Biggest jewel in the crown is missing.\"",
+          "zh": "“王冠不见了，”",
+          "startMs": 199770,
+          "endMs": 202400
+        },
+        {
+          "en": "\"We must find it,\" said the other man.",
+          "zh": "我们必须找到它， 说这其他男人。 大的宝石在……里这王冠是小姐。",
+          "startMs": 202760,
+          "endMs": 206520
+        },
+        {
+          "en": "\"Lord Kent will think we have stolen it.\"",
+          "zh": "君主 Kent 将想我们有 stolen 它。",
+          "startMs": 206550,
+          "endMs": 209360
+        },
+        {
+          "en": "\"It must be here, \" said the first man.",
+          "zh": "它必须是这里， 说这第一男人。",
+          "startMs": 209620,
+          "endMs": 213060
+        },
+        {
+          "en": "\"I hope it didn't fall in the moat.\"",
+          "zh": "我希望它没有落下在……里这护城河。 玻璃珠子。",
+          "startMs": 213180,
+          "endMs": 215520
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4819
+      ],
+      "startMs": 191110,
+      "endMs": 215870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had an idea.",
+          "zh": "Chip 有了一个主意。",
+          "startMs": 220870,
+          "endMs": 223260
+        },
+        {
+          "en": "In his pocket was a glass bead.",
+          "zh": "[音乐]“这是一颗玻璃珠。”",
+          "startMs": 223290,
+          "endMs": 225260
+        },
+        {
+          "en": "Is this the jewel, he asked.",
+          "zh": "这宝石是许多是这个这宝石？ 他问。",
+          "startMs": 228310,
+          "endMs": 231160
+        },
+        {
+          "en": "No, said Henry, the jewel is much bigger.",
+          "zh": "",
+          "startMs": 231480,
+          "endMs": 237900
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4819,
+        0.4871,
+        1.0
+      ],
+      "startMs": 220720,
+      "endMs": 238250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Give Biff the magnifying glass, Henry, said Chip.",
+          "zh": "在……里他的衣袋是一个给 Biff 这放大玻璃， Henry， 不， 说 Henry。",
+          "startMs": 237930,
+          "endMs": 241660
+        },
+        {
+          "en": "He asked. said Chip, \"and stay where you are.\"",
+          "zh": "Chip， 和停留哪里你是。",
+          "startMs": 241780,
+          "endMs": 244580
+        },
+        {
+          "en": "Biff and Chip went up to the men.",
+          "zh": "Biff 和 Chip 去向上到这男人们。 大的。",
+          "startMs": 244610,
+          "endMs": 248140
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4871,
+        0.4819,
+        1.0,
+        1.0
+      ],
+      "startMs": 238250,
+      "endMs": 248490
+    },
+    {
+      "sentences": [
+        {
+          "en": "Are you looking for this big jewel, she said.",
+          "zh": "这是你看为了这个大的宝石？ 男人们弯曲的向下到得到它。",
+          "startMs": 257980,
+          "endMs": 261640
+        },
+        {
+          "en": "Biff held the magnifying glass over the bead.",
+          "zh": "Biff 拿着这放大玻璃在……上方这珠子。",
+          "startMs": 261670,
+          "endMs": 264710
+        },
+        {
+          "en": "\"We have just found it.\"",
+          "zh": "我们有刚刚找到它。",
+          "startMs": 264710,
+          "endMs": 264910
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        0.4973,
+        0.4639
+      ],
+      "startMs": 257830,
+      "endMs": 265260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, Biff dropped the bead.",
+          "zh": "突然地， Biff 掉下这珠子。",
+          "startMs": 265230,
+          "endMs": 269540
+        },
+        {
+          "en": "Men bent down to get it.",
+          "zh": "“别淋湿了。”",
+          "startMs": 269940,
+          "endMs": 272000
+        },
+        {
+          "en": "The crown and Chip pushed the men into the moat.",
+          "zh": "Chip 推这男人们进入这护城河。",
+          "startMs": 272500,
+          "endMs": 285960
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.4973,
+        0.0,
+        1.0,
+        0.4639
+      ],
+      "startMs": 265260,
+      "endMs": 286310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff threw the crown to Henry.",
+          "zh": "Biff 扔这王冠到 Henry。",
+          "startMs": 285990,
+          "endMs": 289660
+        },
+        {
+          "en": "Don't drop it, yelled Chip.",
+          "zh": "不掉下它！ 叫喊 Chip。",
+          "startMs": 289690,
+          "endMs": 292320
+        },
+        {
+          "en": "You can be king after all!",
+          "zh": "你能是国王在……之后全部！",
+          "startMs": 293250,
+          "endMs": 295200
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4639,
+        0.5068,
+        1.0
+      ],
+      "startMs": 286310,
+      "endMs": 295550
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm glad I'm not a king,\" said Chip.",
+          "zh": "我是高兴的我是不一个国王， 说 Chip。",
+          "startMs": 300110,
+          "endMs": 302900
+        },
+        {
+          "en": "\"You just can't trust anyone.\"",
+          "zh": "你刚刚不能相信任何人。",
+          "startMs": 303510,
+          "endMs": 305560
+        },
+        {
+          "en": "\"But you can trust the magic key,\" said Biff.",
+          "zh": "但是你能相信这魔法钥匙， 说 Biff。",
+          "startMs": 305590,
+          "endMs": 309420
+        },
+        {
+          "en": "It's gluing.",
+          "zh": "它是发光的。",
+          "startMs": 309650,
+          "endMs": 311140
+        },
+        {
+          "en": "Who knows, said Biff.",
+          "zh": "“哎呀，不好了！”Biff 说道。",
+          "startMs": 332880,
+          "endMs": 335260
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.5068,
+        0.4639,
+        1.0,
+        1.0
+      ],
+      "startMs": 299960,
+      "endMs": 335610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Henry was just a boy,\" said Chip.",
+          "zh": "然后是 stolen。 说 Chip。",
+          "startMs": 335290,
+          "endMs": 338000
+        },
+        {
+          "en": "\"l wonder if he was king for a long time?\"",
+          "zh": "Wilma 在……下方这水为了一个长的时间。",
+          "startMs": 338000,
+          "endMs": 338200
+        },
+        {
+          "en": "\"I wonder if he found that missing jewel?\"",
+          "zh": "“我真想知道这位王子是谁？”",
+          "startMs": 338200,
+          "endMs": 338400
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5658,
+        0.4621
+      ],
+      "startMs": 335610,
+      "endMs": 338750
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5658,
+        0.0,
+        1.0,
+        0.4621
+      ],
+      "startMs": 338750,
+      "endMs": 338751
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.4621,
+        0.5379,
+        1.0
+      ],
+      "startMs": 338751,
+      "endMs": 338752
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5379,
+        0.4621,
+        1.0,
+        1.0
+      ],
+      "startMs": 338752,
+      "endMs": 338753
+    }
+  ]
+}

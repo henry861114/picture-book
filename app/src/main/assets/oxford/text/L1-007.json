@@ -1,0 +1,202 @@
+{
+  "id": "L1-007",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Playing football in the garden led to too much trouble.",
+          "zh": "玩足球运动在……里这花园 led 到也许多问题。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "What's out Chip?",
+          "zh": "是什么出 Chip？",
+          "startMs": 4620,
+          "endMs": 7311
+        },
+        {
+          "en": "Uh-oh.",
+          "zh": "Uh-oh。",
+          "startMs": 7311,
+          "endMs": 8320
+        },
+        {
+          "en": "Hey you too, Chevy Dad.",
+          "zh": "嗨你也， Chevy 爸爸。",
+          "startMs": 8320,
+          "endMs": 12189
+        },
+        {
+          "en": "Biff and Chip decided to play badminton.",
+          "zh": "Biff 和 Chip 决定到玩 badminton。",
+          "startMs": 12189,
+          "endMs": 18917
+        },
+        {
+          "en": "Here we go.",
+          "zh": "这里我们去。",
+          "startMs": 18917,
+          "endMs": 20767
+        },
+        {
+          "en": "Oh boy.",
+          "zh": "哦男孩。",
+          "startMs": 20767,
+          "endMs": 21944
+        },
+        {
+          "en": "Oh no.",
+          "zh": "哦不。",
+          "startMs": 21944,
+          "endMs": 22953
+        },
+        {
+          "en": "Growned Biff.",
+          "zh": "成熟的 Biff。",
+          "startMs": 22953,
+          "endMs": 25140
+        }
+      ],
+      "startMs": 4620,
+      "endMs": 25140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Phew.",
+          "zh": "哦。",
+          "startMs": 25000,
+          "endMs": 26100
+        },
+        {
+          "en": "Biff remembered that there was a tiny cricket bat in the shed.",
+          "zh": "Biff 记得那个那里是一个极小的蟋蟀球板在……里这她。",
+          "startMs": 30000,
+          "endMs": 34100
+        },
+        {
+          "en": "Let's play French cricket.",
+          "zh": "让我们玩法国的蟋蟀。",
+          "startMs": 35000,
+          "endMs": 36100
+        },
+        {
+          "en": "Alright, you go first.",
+          "zh": "Alright， 你去第一。",
+          "startMs": 37000,
+          "endMs": 38100
+        },
+        {
+          "en": "Said Chip.",
+          "zh": "说 Chip。",
+          "startMs": 39000,
+          "endMs": 40100
+        },
+        {
+          "en": "Oh no.",
+          "zh": "哦不。",
+          "startMs": 41000,
+          "endMs": 42100
+        }
+      ],
+      "startMs": 24850,
+      "endMs": 42450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a surprise for Biff and Chip.",
+          "zh": "爸爸得到一个意想不到的事物为了 Biff 和 Chip。",
+          "startMs": 47000,
+          "endMs": 47940
+        },
+        {
+          "en": "He brought a swing ball.",
+          "zh": "他带来一个摆动球。",
+          "startMs": 47840,
+          "endMs": 52100
+        },
+        {
+          "en": "It's called a swing ball.",
+          "zh": "它是叫一个摆动球。",
+          "startMs": 53000,
+          "endMs": 54860
+        },
+        {
+          "en": "Said Dad.",
+          "zh": "说爸爸。",
+          "startMs": 54760,
+          "endMs": 56100
+        },
+        {
+          "en": "We can play a swing ball.",
+          "zh": "我们能玩一个摆动球。",
+          "startMs": 57180,
+          "endMs": 59100
+        }
+      ],
+      "startMs": 46850,
+      "endMs": 59450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip played a swing ball in the garden.",
+          "zh": "Biff 和 Chip 玩一个摆动球在……里这花园。",
+          "startMs": 64000,
+          "endMs": 67100
+        },
+        {
+          "en": "It's brilliant.",
+          "zh": "它是明亮的。",
+          "startMs": 67000,
+          "endMs": 68460
+        },
+        {
+          "en": "Said Chip.",
+          "zh": "说 Chip。",
+          "startMs": 68360,
+          "endMs": 69100
+        },
+        {
+          "en": "Yes it is.",
+          "zh": "是它是。",
+          "startMs": 70000,
+          "endMs": 71100
+        },
+        {
+          "en": "Hurry up you two.",
+          "zh": "急忙向上你二。",
+          "startMs": 72000,
+          "endMs": 72700
+        },
+        {
+          "en": "Dad and I want to have a go.",
+          "zh": "爸爸和我想要到有一个去。",
+          "startMs": 72600,
+          "endMs": 75100
+        },
+        {
+          "en": "Mom said.",
+          "zh": "Mom 说。",
+          "startMs": 76000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 63850,
+      "endMs": 77450
+    }
+  ]
+}

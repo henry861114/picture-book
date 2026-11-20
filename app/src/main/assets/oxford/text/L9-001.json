@@ -1,0 +1,1321 @@
+{
+  "id": "L9-001",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr. Johnson took his class away for the week.",
+          "zh": "",
+          "startMs": 0,
+          "endMs": 300
+        },
+        {
+          "en": "They went to a big house called Seabay House.",
+          "zh": "他们去到一个大的房子叫西湾房子。",
+          "startMs": 300,
+          "endMs": 7100
+        },
+        {
+          "en": "Mrs May went too.",
+          "zh": "太太梅。",
+          "startMs": 8000,
+          "endMs": 9340
+        },
+        {
+          "en": "The children were excited.",
+          "zh": "这孩子们是兴奋的。",
+          "startMs": 9340,
+          "endMs": 12100
+        },
+        {
+          "en": "Seabay House was near the sea and there were lots of interesting things to do.",
+          "zh": "西湾房子是在……附近这海和那里是许多的有趣的东西到做。",
+          "startMs": 13000,
+          "endMs": 18100
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone unloaded the bus.",
+          "zh": "每个人卸下这公共汽车。",
+          "startMs": 22580,
+          "endMs": 24270
+        },
+        {
+          "en": "\"Some of these bags and cases are heavy,\" said Mr Johnson.",
+          "zh": "一些的这些包和箱子是重的， 说先生约翰逊。 ， 说 Chip。",
+          "startMs": 24270,
+          "endMs": 29150
+        },
+        {
+          "en": "\"We're only here for a week.\" Mrs May found a toothbrush.",
+          "zh": "我们是只有这里为了一个星期。 太太梅。",
+          "startMs": 29150,
+          "endMs": 34090
+        },
+        {
+          "en": "\"Whose toothbrush is this?\" She asked.",
+          "zh": "谁的牙刷是这个？ 她问。 她是乐趣。",
+          "startMs": 34090,
+          "endMs": 38100
+        },
+        {
+          "en": "\"Oh, dear,\" Said Biff.",
+          "zh": "哦亲爱的！ ， 说 Biff。",
+          "startMs": 38100,
+          "endMs": 40150
+        },
+        {
+          "en": "\"I think it's mine.\"",
+          "zh": "我想它是我的。",
+          "startMs": 40150,
+          "endMs": 42100
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 22430,
+      "endMs": 42450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr Johnson showed the boys their room.",
+          "zh": "",
+          "startMs": 43030,
+          "endMs": 46590
+        },
+        {
+          "en": "\"You'll be sleeping in here,\" he said.",
+          "zh": "你会是睡觉在……里这里， 他说。",
+          "startMs": 46590,
+          "endMs": 49890
+        },
+        {
+          "en": "\"I want the top bunk,\" shouted Chip.",
+          "zh": "我想要这顶床铺， 喊 Chip。 ， 说 Chip。",
+          "startMs": 49890,
+          "endMs": 53100
+        },
+        {
+          "en": "\"No, I want the top bunk,\" shouted Wilf.",
+          "zh": "不， 我想要这顶床铺， 喊 Wilf。 哦帮助！ 喊 Wilf。",
+          "startMs": 54000,
+          "endMs": 57250
+        },
+        {
+          "en": "Mr Johnson tossed a coin.",
+          "zh": "",
+          "startMs": 57250,
+          "endMs": 59150
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 42880,
+      "endMs": 59500
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Heads or Tails?\" He said.",
+          "zh": "正面或者反面？ 他说。",
+          "startMs": 59150,
+          "endMs": 62100
+        },
+        {
+          "en": "Mr Johnson gave the children a map.",
+          "zh": "",
+          "startMs": 66000,
+          "endMs": 69290
+        },
+        {
+          "en": "Then he took the children for a long walk.",
+          "zh": "然后他拿这孩子们为了一个长的走。",
+          "startMs": 69290,
+          "endMs": 72100
+        },
+        {
+          "en": "After a while they stopped for a rest.",
+          "zh": "在……之后一个当……的时候他们停为了一个休息。",
+          "startMs": 73030,
+          "endMs": 75090
+        },
+        {
+          "en": "The children looked at their maps.",
+          "zh": "这孩子们看在他们的地图。",
+          "startMs": 75090,
+          "endMs": 78150
+        },
+        {
+          "en": "Mr Johnson showed them the places they could see.",
+          "zh": "",
+          "startMs": 78150,
+          "endMs": 81100
+        },
+        {
+          "en": "\"Your map's upside down, Biff,\" said Wilf.",
+          "zh": "你的地图上下颠倒向下， Biff， 说 Wilf。",
+          "startMs": 82000,
+          "endMs": 83940
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 59500,
+      "endMs": 84290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Wilf.",
+          "zh": "不， 说 Wilf。",
+          "startMs": 83940,
+          "endMs": 85100
+        },
+        {
+          "en": "Nadim pointed to a little island out at sea.",
+          "zh": "Nadim 尖的到一个小的岛屿出在海。",
+          "startMs": 87000,
+          "endMs": 90120
+        },
+        {
+          "en": "\"What's that island called?\" He asked.",
+          "zh": "是什么那个岛屿叫？ 他问。 这承载停。",
+          "startMs": 90120,
+          "endMs": 93100
+        },
+        {
+          "en": "\"Look on your maps,\" said Mr Johnson.",
+          "zh": "看在……上你的地图， 说先生约翰逊。 ， 说 Chip。",
+          "startMs": 94000,
+          "endMs": 96090
+        },
+        {
+          "en": "\"Who can tell me what the island is called?\"",
+          "zh": "谁能告诉我什么这岛屿是叫？",
+          "startMs": 96090,
+          "endMs": 99150
+        },
+        {
+          "en": "Chip and Anneena knew.",
+          "zh": "Chip 和 Anneena 知道。",
+          "startMs": 99150,
+          "endMs": 101100
+        },
+        {
+          "en": "\"It's called Green Island,\" they said.",
+          "zh": "它是叫绿色的岛屿， 他们说。",
+          "startMs": 102030,
+          "endMs": 104110
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 84290,
+      "endMs": 104460
+    },
+    {
+      "sentences": [
+        {
+          "en": "They said.",
+          "zh": "再见， 他们说。",
+          "startMs": 104110,
+          "endMs": 105100
+        },
+        {
+          "en": "Everyone was hungry after the long walk.",
+          "zh": "每个人是令人振作的， 所以没有人看见这男孩落下在……里。",
+          "startMs": 112000,
+          "endMs": 115290
+        },
+        {
+          "en": "When they got back it was time for supper.",
+          "zh": "当……时他们得到回来它是时间为了晚饭。",
+          "startMs": 115290,
+          "endMs": 118100
+        },
+        {
+          "en": "The children served the food, and then they helped wash up.",
+          "zh": "这孩子们伺候这食物， 和然后他们帮助洗向上。",
+          "startMs": 119000,
+          "endMs": 122100
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 104460,
+      "endMs": 122450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't like washing up at home,\" Said Wilf.",
+          "zh": "我不喜欢正在向上这里。 不， 说 Wilf。",
+          "startMs": 123000,
+          "endMs": 126250
+        },
+        {
+          "en": "\"But it's fun washing up here.\"",
+          "zh": "我不喜欢洗向上在家， 说 Wilf， 但是它是乐趣洗向上这里。",
+          "startMs": 126250,
+          "endMs": 129100
+        },
+        {
+          "en": "That night the children were tired but they couldn't sleep.",
+          "zh": "那个夜晚这孩子们是累的但是他们不能睡觉。",
+          "startMs": 131030,
+          "endMs": 134290
+        },
+        {
+          "en": "Chip kept telling jokes and making silly noises.",
+          "zh": "Chip 保持告诉笑话和做傻的噪音。",
+          "startMs": 134290,
+          "endMs": 138100
+        },
+        {
+          "en": "In the end, Mr Johnson came in.",
+          "zh": "在……里这末尾， 先生约翰逊来在……里。",
+          "startMs": 139000,
+          "endMs": 139690
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 122850,
+      "endMs": 140040
+    },
+    {
+      "sentences": [
+        {
+          "en": "Johnson came in.",
+          "zh": "在……里这末尾， 先生约翰逊来在……里。",
+          "startMs": 139690,
+          "endMs": 141090
+        },
+        {
+          "en": "He was cross with Chip.",
+          "zh": "他是叉形和……一起 Chip。",
+          "startMs": 141090,
+          "endMs": 143100
+        },
+        {
+          "en": "\"I'll send you to bed at six o'clock tomorrow, if I hear any more noise.\"",
+          "zh": "",
+          "startMs": 144000,
+          "endMs": 149100
+        },
+        {
+          "en": "The next day, the children did a beach study.",
+          "zh": "这下一个一天， 这孩子们做一个海滩学习。",
+          "startMs": 154000,
+          "endMs": 157290
+        },
+        {
+          "en": "Some children worked with Mr Johnson.",
+          "zh": "一些孩子们工作和……一起先生约翰逊。",
+          "startMs": 157290,
+          "endMs": 160100
+        },
+        {
+          "en": "They made squares on the beach and looked at everything in each square.",
+          "zh": "他们做正方形在……上这海滩和看在一切在……里每个正方形。",
+          "startMs": 161030,
+          "endMs": 165100
+        },
+        {
+          "en": "Biff found a shell with a crab inside it.",
+          "zh": "Biff 找到一个蛋壳和……一起一个蟹里面它。",
+          "startMs": 166000,
+          "endMs": 168100
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 140040,
+      "endMs": 168450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's called a hermit crab,\" she said.",
+          "zh": "它是叫一个隐士蟹， 她说。",
+          "startMs": 169000,
+          "endMs": 172100
+        },
+        {
+          "en": "Some children worked with Mrs May.",
+          "zh": "一些孩子们工作和……一起太太梅。",
+          "startMs": 174000,
+          "endMs": 176090
+        },
+        {
+          "en": "They looked carefully in all the rock pools.",
+          "zh": "他们看小心地在……里全部这岩石池塘。",
+          "startMs": 176090,
+          "endMs": 179100
+        },
+        {
+          "en": "Nadim and Wilf caught a large crab.",
+          "zh": "Nadim 和 Wilf 抓住一个大的蟹。",
+          "startMs": 180000,
+          "endMs": 182100
+        },
+        {
+          "en": "\"Look at this,\" they called.",
+          "zh": "看在这个， 他们叫。",
+          "startMs": 183000,
+          "endMs": 185100
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 168850,
+      "endMs": 185450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May showed them how to hold the crab.",
+          "zh": "太太梅。",
+          "startMs": 186000,
+          "endMs": 188100
+        },
+        {
+          "en": "\"We'll look at it.",
+          "zh": "然后我们会让它去。",
+          "startMs": 189030,
+          "endMs": 190670
+        },
+        {
+          "en": "Then we'll let it go,\" She said.",
+          "zh": "然后我们会让它去。 我看见， 他说。",
+          "startMs": 190670,
+          "endMs": 193100
+        },
+        {
+          "en": "Chip and Anneena found a seagull.",
+          "zh": "Chip 和 Anneena 找到一个海鸥。",
+          "startMs": 197000,
+          "endMs": 199100
+        },
+        {
+          "en": "It couldn't fly.",
+          "zh": "它不能飞。",
+          "startMs": 199100,
+          "endMs": 201100
+        },
+        {
+          "en": "\"Oh dear!\" Said Mr Johnson.",
+          "zh": "哦亲爱的！ 是， 说先生约翰逊。",
+          "startMs": 202000,
+          "endMs": 204090
+        },
+        {
+          "en": "\"It can't fly because it has oil on its feathers.",
+          "zh": "它不能飞因为它有石油在……上它的羽毛。",
+          "startMs": 204090,
+          "endMs": 208100
+        },
+        {
+          "en": "Oil is hard to get off, so be careful, everyone.",
+          "zh": "石油是困难的到得到离开， 所以是谨慎的， 每个人。",
+          "startMs": 209000,
+          "endMs": 211710
+        },
+        {
+          "en": "Mind you don't get oil on you.\"",
+          "zh": "头脑你不得到石油在……上你。",
+          "startMs": 211710,
+          "endMs": 214100
+        },
+        {
+          "en": "\"How do we get the oil off the seagull?\"",
+          "zh": "如何做我们得到这石油离开这海鸥？ 问 Chip。",
+          "startMs": 215000,
+          "endMs": 217020
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 185850,
+      "endMs": 217370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Chip. Mr. Johnson took the children to see Mrs. Honey.",
+          "zh": "， 说 Chip。",
+          "startMs": 217020,
+          "endMs": 222100
+        },
+        {
+          "en": "\"If anyone can help the seagull, Mrs. Honey can,\" Said Mr Johnson.",
+          "zh": "",
+          "startMs": 223000,
+          "endMs": 226290
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 217370,
+      "endMs": 226640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Johnson.",
+          "zh": "先生约翰逊。",
+          "startMs": 226290,
+          "endMs": 227100
+        },
+        {
+          "en": "\"This poor old gull needs a clean,\" said Mrs Honey.",
+          "zh": "这个贫穷的旧的海鸥必须一个打扫， 说太太哈尼。 是， 说先生约翰逊。",
+          "startMs": 228000,
+          "endMs": 232100
+        },
+        {
+          "en": "She looked at Anneena and Chip.",
+          "zh": "她看在 Anneena 和 Chip。",
+          "startMs": 233000,
+          "endMs": 234100
+        },
+        {
+          "en": "\"And so do you,\" she said.",
+          "zh": "和所以做你， 她说。",
+          "startMs": 235000,
+          "endMs": 236670
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 226640,
+      "endMs": 237020
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "我看见， 他说。",
+          "startMs": 236670,
+          "endMs": 238100
+        },
+        {
+          "en": "\"Oil is terrible stuff,\" Said Mrs. Honey.",
+          "zh": "这个是可怕的！ 说 Chip。",
+          "startMs": 242000,
+          "endMs": 245100
+        },
+        {
+          "en": "\"You can see what it does to animals and birds if it spills into the sea.\" \"It is terrible,\" Said Mrs. May.",
+          "zh": "你能看见什么它做到动物和鸟如果它溢出进入这海。 它是可怕的， 说太太梅。 是， 说先生约翰逊。",
+          "startMs": 246030,
+          "endMs": 255100
+        },
+        {
+          "en": "\"I'm having trouble getting it off Chip and Anneena.\"",
+          "zh": "",
+          "startMs": 256000,
+          "endMs": 258100
+        },
+        {
+          "en": "\"I feel really sorry for the seagull,\" said Chip.",
+          "zh": "我感觉真的对不起为了这海鸥， 说 Chip。 ， 说 Chip。",
+          "startMs": 259000,
+          "endMs": 262100
+        },
+        {
+          "en": "\"What will happen to the seagull?\"",
+          "zh": "什么将发生到这海鸥？ 问 Wilf。",
+          "startMs": 263000,
+          "endMs": 264930
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 237020,
+      "endMs": 265280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Wilf.",
+          "zh": "不， 说 Wilf。",
+          "startMs": 264930,
+          "endMs": 266100
+        },
+        {
+          "en": "\"Its feathers will be damaged,\" said Mrs Honey.",
+          "zh": "这些鼓不能停留这里， 说太太哈尼。 是， 说先生约翰逊。",
+          "startMs": 267000,
+          "endMs": 270100
+        },
+        {
+          "en": "\"So first we'll clean the oil off.",
+          "zh": "所以第一我们会打扫这石油离开。",
+          "startMs": 271030,
+          "endMs": 273220
+        },
+        {
+          "en": "Then we'll look after it for a week or two.",
+          "zh": "然后我们会看在……之后它为了一个星期或者二。",
+          "startMs": 273220,
+          "endMs": 276100
+        },
+        {
+          "en": "It has to get strong again, and its feathers have to get better.",
+          "zh": "它有到得到强壮的再一次， 和它的羽毛有到得到更好的。",
+          "startMs": 277000,
+          "endMs": 281100
+        },
+        {
+          "en": "Then we'll let it go.\" Mrs Honey looked after all kinds of animals.",
+          "zh": "然后我们会让它去。 太太梅。",
+          "startMs": 281100,
+          "endMs": 290100
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 265280,
+      "endMs": 290450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She showed the children an otter.",
+          "zh": "她展示这孩子们一个水獭。",
+          "startMs": 291000,
+          "endMs": 292100
+        },
+        {
+          "en": "Then she gave it some fish.",
+          "zh": "然后她给它一些鱼。",
+          "startMs": 292100,
+          "endMs": 294100
+        },
+        {
+          "en": "\"She's a sea-otter,\" she said.",
+          "zh": "她是一个海獭， 她说。",
+          "startMs": 295000,
+          "endMs": 297100
+        },
+        {
+          "en": "\"I call her Fiona.",
+          "zh": "我叫她菲奥娜。",
+          "startMs": 298030,
+          "endMs": 299640
+        },
+        {
+          "en": "She was hurt by a boat.",
+          "zh": "她是受伤由一个船。",
+          "startMs": 299640,
+          "endMs": 301270
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 290850,
+      "endMs": 301620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Now she's better.",
+          "zh": "现在她是更好的， 我是去到让她去。",
+          "startMs": 301270,
+          "endMs": 302100
+        },
+        {
+          "en": "I'm going to let her go.\"",
+          "zh": "现在她是更好的， 我是去到让她去。",
+          "startMs": 302100,
+          "endMs": 304100
+        },
+        {
+          "en": "\"Sea otters live on Green Island,\" Honey.",
+          "zh": "«这些鼓有是垃圾场在……上绿色的岛屿。 太太哈尼。",
+          "startMs": 305000,
+          "endMs": 309100
+        },
+        {
+          "en": "\"If you like, you can come to the island with me and watch me let Fiona go.\" Mrs Honey had a boat.",
+          "zh": "如果你喜欢， 你能来到这岛屿和……一起我和手表我让菲奥娜去。 太太梅。",
+          "startMs": 310000,
+          "endMs": 317100
+        },
+        {
+          "en": "\"There's room for everyone,\" she said.",
+          "zh": "有房间为了每个人， 她说。",
+          "startMs": 318000,
+          "endMs": 319230
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 301620,
+      "endMs": 319580
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Mrs May. She said.",
+          "zh": "太太梅。 我看见， 他说。",
+          "startMs": 319230,
+          "endMs": 320100
+        },
+        {
+          "en": "\"If we're lucky, we may see some more sea otters.\"",
+          "zh": "如果我们是幸运的， 我们梅看见一些更多海獭。",
+          "startMs": 321000,
+          "endMs": 324100
+        },
+        {
+          "en": "The children went across to Green Island in the boat.",
+          "zh": "这孩子们去穿过到绿色的岛屿在……里这船。",
+          "startMs": 328030,
+          "endMs": 331100
+        },
+        {
+          "en": "Mrs Honey stopped a little way from the island.",
+          "zh": "太太梅。",
+          "startMs": 332000,
+          "endMs": 335100
+        },
+        {
+          "en": "The children looked carefully.",
+          "zh": "这孩子们看小心地。",
+          "startMs": 336000,
+          "endMs": 337100
+        },
+        {
+          "en": "Suddenly Anneena pointed to some rocks.",
+          "zh": "突然地 Anneena 尖的到一些岩石。",
+          "startMs": 337100,
+          "endMs": 341100
+        },
+        {
+          "en": "\"I can see another otter,\" she said.",
+          "zh": "我能看见另一个水獭， 她说。",
+          "startMs": 342000,
+          "endMs": 344100
+        },
+        {
+          "en": "\"Look, everyone.\"",
+          "zh": "看， 每个人。",
+          "startMs": 345000,
+          "endMs": 346100
+        },
+        {
+          "en": "Celine \"There aren't many sea-otters left!\" Said Mrs May.",
+          "zh": "那里不是许多海獭离开！ 太太梅。",
+          "startMs": 346100,
+          "endMs": 349710
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 319580,
+      "endMs": 350060
+    },
+    {
+      "sentences": [
+        {
+          "en": "May.",
+          "zh": "太太梅。",
+          "startMs": 349710,
+          "endMs": 350100
+        },
+        {
+          "en": "\"So that was a wonderful thing to see.\" Mrs Honey let Fiona go.",
+          "zh": "所以那个是一个精彩的东西到看见。 太太梅。",
+          "startMs": 351000,
+          "endMs": 356060
+        },
+        {
+          "en": "The otter dived into the sea and swam towards the rocks.",
+          "zh": "这水獭跳水进入这海和游泳向这岩石。",
+          "startMs": 356060,
+          "endMs": 360100
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 350060,
+      "endMs": 360450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Will Fiona be all right now?\" Asked Wolf.",
+          "zh": "将菲奥娜是全部正确的现在？ 问 Wilf。",
+          "startMs": 361000,
+          "endMs": 364100
+        },
+        {
+          "en": "\"I hope so,\" Said Mrs. Honey.",
+          "zh": "题额这绳索在……上。 是， 说先生约翰逊。",
+          "startMs": 365000,
+          "endMs": 368100
+        },
+        {
+          "en": "Mrs. Beeline Mrs Honey took the boat to the other side of the island.",
+          "zh": "太太梅。",
+          "startMs": 371000,
+          "endMs": 375100
+        },
+        {
+          "en": "\"You can get out, and explore,\" she said.",
+          "zh": "你能得到出， 和勘察， 她说。",
+          "startMs": 376000,
+          "endMs": 378100
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 360850,
+      "endMs": 378450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"If you keep quiet, you will see all kinds of interesting sea birds.\"",
+          "zh": "如果你保持安静的， 你将看见全部友善的的有趣的海鸟。",
+          "startMs": 379000,
+          "endMs": 383100
+        },
+        {
+          "en": "The children jumped out of the boat and went to look around the island.",
+          "zh": "这孩子们跳出的这船和去到看在……周围这岛屿。",
+          "startMs": 384030,
+          "endMs": 387100
+        },
+        {
+          "en": "The children saw a small cave.",
+          "zh": "这孩子们看见一个小的洞穴。",
+          "startMs": 388000,
+          "endMs": 390090
+        },
+        {
+          "en": "They ran to see it.",
+          "zh": "他们跑到看见它。",
+          "startMs": 390090,
+          "endMs": 392100
+        },
+        {
+          "en": "\"I wonder if it has treasure in it,\" called Wilf.",
+          "zh": "我惊奇如果它有宝藏在……里它， 叫 Wilf。 哦不！ 叫 Wilf。",
+          "startMs": 393000,
+          "endMs": 396100
+        },
+        {
+          "en": "\"Maybe it's a secret tunnel,\" said Nadim.",
+          "zh": "也许它是一个秘密隧道， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 397000,
+          "endMs": 399100
+        },
+        {
+          "en": "\"Maybe it leads to a secret computer base.\"",
+          "zh": "也许它为到一个秘密电脑底部。",
+          "startMs": 400000,
+          "endMs": 403100
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 378850,
+      "endMs": 403450
+    },
+    {
+      "sentences": [
+        {
+          "en": "But when they got to the cave, they found something else.",
+          "zh": "但是当……时他们得到到这洞穴， 他们找到某物其他。",
+          "startMs": 404000,
+          "endMs": 407100
+        },
+        {
+          "en": "In the cave were some drums.",
+          "zh": "在……里这洞穴是一些鼓。",
+          "startMs": 408000,
+          "endMs": 409100
+        },
+        {
+          "en": "\"I don't like the look of this,\" said Mrs Honey.",
+          "zh": "我不喜欢这看的这个， 说太太哈尼。 是， 说先生约翰逊。",
+          "startMs": 415000,
+          "endMs": 418100
+        },
+        {
+          "en": "«These drums have been dumped on Green Island.",
+          "zh": "«这些鼓有是垃圾场在……上绿色的岛屿。",
+          "startMs": 419000,
+          "endMs": 421070
+        },
+        {
+          "en": "They are full of toxic waste.\"",
+          "zh": "他们是满的的有毒的浪费。",
+          "startMs": 421070,
+          "endMs": 423100
+        },
+        {
+          "en": "\"Keep away from them, everyone,\" said Mr Johnson.",
+          "zh": "太太哈尼能， 说先生约翰逊。 ， 说 Chip。",
+          "startMs": 424000,
+          "endMs": 428100
+        },
+        {
+          "en": "\"Why would anyone want to dump them here?\" Asked Biff.",
+          "zh": "为什么会任何人想要到垃圾场他们这里？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 429000,
+          "endMs": 432100
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 403850,
+      "endMs": 432450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's hard to get rid of toxic waste,\" Said Mrs. May.",
+          "zh": "他们是满的的有毒的浪费。 是， 说先生约翰逊。",
+          "startMs": 433000,
+          "endMs": 437100
+        },
+        {
+          "en": "\"It costs a lot of money to do it safely, so people dump it.\"",
+          "zh": "它花费一个许多的钱到做它平安地。",
+          "startMs": 438000,
+          "endMs": 442100
+        },
+        {
+          "en": "\"We should tell the police,\" said Mr Johnson.",
+          "zh": "我们应该告诉这警察部门， 说先生约翰逊。 ， 说 Chip。",
+          "startMs": 443030,
+          "endMs": 445100
+        },
+        {
+          "en": "\"These drums can't stay here,\" said Mrs Honey.",
+          "zh": "这些鼓不能停留这里， 说太太哈尼。 是， 说先生约翰逊。",
+          "startMs": 446000,
+          "endMs": 449100
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 432850,
+      "endMs": 449450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"They could do a lot of harm to the wildlife.\"",
+          "zh": "他们能做一个许多的损害到这野生动物。",
+          "startMs": 450000,
+          "endMs": 452100
+        },
+        {
+          "en": "Suddenly, Chip and Wolf ran up to Mr. Johnson.",
+          "zh": "突然地， Chip 和 Wilf 跑向上到先生约翰逊。",
+          "startMs": 458000,
+          "endMs": 461100
+        },
+        {
+          "en": "\"There's a boat coming to the island,\" said Chip.",
+          "zh": "有一个船来到这岛屿， 说 Chip。 ， 说 Chip。",
+          "startMs": 462000,
+          "endMs": 464100
+        },
+        {
+          "en": "\"There are four people in it.\"",
+          "zh": "那里是四人们在……里它。",
+          "startMs": 465000,
+          "endMs": 466100
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 449850,
+      "endMs": 466450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't like the sound of this,\" Said Mr. Johnson.",
+          "zh": "我不喜欢这看的这个。 ， 说 Chip。",
+          "startMs": 467000,
+          "endMs": 470100
+        },
+        {
+          "en": "\"Keep out of sight, everyone,\" Said Mrs. Honey.",
+          "zh": "但是保持出的视力。 是， 说先生约翰逊。",
+          "startMs": 471030,
+          "endMs": 474100
+        },
+        {
+          "en": "\"I want to see what these people are doing.\"",
+          "zh": "我想要到看见什么这些人们是做。",
+          "startMs": 475000,
+          "endMs": 477100
+        },
+        {
+          "en": "The boat stopped at the island and four people got out.",
+          "zh": "这船停在这岛屿和四人们得到出。",
+          "startMs": 478000,
+          "endMs": 480100
+        },
+        {
+          "en": "They lifted some drums out of the boat and began to carry them towards the cave.",
+          "zh": "他们拿起一些鼓出的这船和开始到搬运他们向这洞穴。",
+          "startMs": 481000,
+          "endMs": 486100
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 466850,
+      "endMs": 486450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"They're dumping more waste on the island,\" Said Mrs. Honey.",
+          "zh": "他们是这罚款在……里这陆地。 是， 说先生约翰逊。",
+          "startMs": 487000,
+          "endMs": 490100
+        },
+        {
+          "en": "\"I want everyone to run back to my boat.",
+          "zh": "我想要每个人到跑回来到我的船。",
+          "startMs": 491000,
+          "endMs": 493090
+        },
+        {
+          "en": "Don't make a sound.",
+          "zh": "不做一个声音。",
+          "startMs": 493090,
+          "endMs": 495250
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 486850,
+      "endMs": 495600
+    },
+    {
+      "sentences": [
+        {
+          "en": "I have an idea.\"",
+          "zh": "我有一个主意。",
+          "startMs": 495250,
+          "endMs": 497100
+        },
+        {
+          "en": "The children did what Mrs. Honey told them.",
+          "zh": "这孩子们做什么太太哈尼告诉他们。",
+          "startMs": 501030,
+          "endMs": 503100
+        },
+        {
+          "en": "They ran to the boat with Mrs. May and climbed in.",
+          "zh": "他们跑到这船和……一起太太梅和爬在……里。",
+          "startMs": 504000,
+          "endMs": 507100
+        },
+        {
+          "en": "\"I hope the boat will start,\" Said Mrs. May.",
+          "zh": "我希望这船将开始， 说太太梅。 是， 说先生约翰逊。",
+          "startMs": 508000,
+          "endMs": 511100
+        },
+        {
+          "en": "\"If it doesn't, I don't know what we shall do.\"",
+          "zh": "我不知道什么我们将做。",
+          "startMs": 512000,
+          "endMs": 514100
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 495600,
+      "endMs": 514450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Do you think those people are dangerous?\" Asked Chip.",
+          "zh": "做你想那些人们是危险的？ 问 Chip。 ， 说 Chip。",
+          "startMs": 515000,
+          "endMs": 518100
+        },
+        {
+          "en": "Wolf and Chip pushed the boat out with the oars and Mrs. May started the engine.",
+          "zh": "Wilf 和 Chip 推这船出和……一起这桨和太太梅开始这发动机。",
+          "startMs": 519000,
+          "endMs": 523100
+        },
+        {
+          "en": "\"So far, so good,\" Said Mrs. May.",
+          "zh": "是， 说先生约翰逊。",
+          "startMs": 524000,
+          "endMs": 527100
+        },
+        {
+          "en": "\"Let's hope Mrs. Honey's idea works.\" \"I hope Mrs. Honey and Mr. Johnson will be all right,\" Said Wolf.",
+          "zh": "",
+          "startMs": 528000,
+          "endMs": 535100
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 514850,
+      "endMs": 535450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs. Honey's idea worked.",
+          "zh": "太太梅。",
+          "startMs": 539000,
+          "endMs": 541100
+        },
+        {
+          "en": "She and Mr. Johnson had taken the other boat.",
+          "zh": "她是听见我。",
+          "startMs": 542000,
+          "endMs": 544100
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 538850,
+      "endMs": 544450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The other people couldn't get off the island without it.",
+          "zh": "这其他人们不能得到离开这岛屿没有它。 喊这孩子们。",
+          "startMs": 545000,
+          "endMs": 548100
+        },
+        {
+          "en": "\"Hooray!\" Shouted the children.",
+          "zh": "它是一个门道。 一的这孩子们。",
+          "startMs": 549000,
+          "endMs": 552100
+        },
+        {
+          "en": "\"They won't get off Green Island unless they swim all the way back.\"",
+          "zh": "他们不会得到离开绿色的岛屿除非他们游泳全部这方式回来！",
+          "startMs": 553000,
+          "endMs": 557100
+        },
+        {
+          "en": "\"What are you doing with our boat?\" Shouted a man.",
+          "zh": "什么是你做和……一起我们的船？ 喊一个男人。 哦不！ 喊一个男人。",
+          "startMs": 558030,
+          "endMs": 561100
+        },
+        {
+          "en": "\"Bring it back!\"",
+          "zh": "带来它回来！",
+          "startMs": 562000,
+          "endMs": 563100
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 544850,
+      "endMs": 563450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'll get the police to bring it back,\" Shouted Mrs. Honey.",
+          "zh": "带来它回来！ Gran！ 喊妈妈。",
+          "startMs": 564000,
+          "endMs": 567100
+        },
+        {
+          "en": "\"You can tell them why you've dumped toxic waste on Green Island.\" \"Grrr!\" Said the man.",
+          "zh": "你能告诉他们为什么你已经垃圾场有毒的浪费在……上绿色的岛屿。 说这男人。 什么一个狗！",
+          "startMs": 568000,
+          "endMs": 574100
+        },
+        {
+          "en": "The police took the people off the island.",
+          "zh": "这警察部门拿这人们离开这岛屿。",
+          "startMs": 579000,
+          "endMs": 581100
+        },
+        {
+          "en": "\"Taking their boat was a brilliant idea,\" Said Mr. Johnson.",
+          "zh": "我们奶酪是一个明亮的主意。 ， 说 Chip。",
+          "startMs": 582000,
+          "endMs": 585100
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 563850,
+      "endMs": 585450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm glad we caught them,\" Said Mrs. Honey.",
+          "zh": "我是所以聪明的， 笑这男人。 是， 说先生约翰逊。",
+          "startMs": 586030,
+          "endMs": 589100
+        },
+        {
+          "en": "\"And I'm glad you were with me.",
+          "zh": "和我是高兴的你是和……一起我。",
+          "startMs": 590000,
+          "endMs": 591100
+        },
+        {
+          "en": "I couldn't have taken their boat by myself.\" \"What an adventure!\" Said Mrs. May.",
+          "zh": "我不能有拿他们的船由我自己。 什么一个冒险！ 是， 说先生约翰逊。",
+          "startMs": 591100,
+          "endMs": 598100
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 585880,
+      "endMs": 598450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at those drums of toxic waste,\" Said Wolf.",
+          "zh": "看在那些鼓的有毒的浪费， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 599000,
+          "endMs": 602100
+        },
+        {
+          "en": "\"I can't think why people would dump them where they could do so much harm.\"",
+          "zh": "我不能想为什么人们会垃圾场他们哪里他们能做所以许多损害。",
+          "startMs": 603000,
+          "endMs": 606100
+        },
+        {
+          "en": "\"I'm glad the otters will be safe on the island now,\" Said Anneena.",
+          "zh": "我是高兴的这水獭将是安全的在……上这岛屿现在， 说 Anneena。 哦亲爱的， 说 Anneena。",
+          "startMs": 607000,
+          "endMs": 612100
+        },
+        {
+          "en": "At the end of the week, there was a party.",
+          "zh": "在这末尾的这星期， 那里是一个聚会。",
+          "startMs": 616030,
+          "endMs": 618100
+        },
+        {
+          "en": "Mrs. May played her guitar, and everyone sang songs.",
+          "zh": "太太梅。",
+          "startMs": 619000,
+          "endMs": 622100
+        },
+        {
+          "en": "Mrs. Honey came.",
+          "zh": "太太梅。",
+          "startMs": 623000,
+          "endMs": 624100
+        },
+        {
+          "en": "She told the children stories about some of the animals she had looked after.",
+          "zh": "她告诉这孩子们故事关于一些的这动物她有看在……之后。",
+          "startMs": 625000,
+          "endMs": 629100
+        },
+        {
+          "en": "\"But you have the best story to tell,\" She said.",
+          "zh": "但是你有这最好的故事到告诉， 她说。 我看见， 他说。",
+          "startMs": 630000,
+          "endMs": 633100
+        },
+        {
+          "en": "\"It isn't every school trip that becomes famous.\" A photographer came.",
+          "zh": "它不是每个学校旅行那个成为著名的！ 一个摄影师来。",
+          "startMs": 634000,
+          "endMs": 639100
+        },
+        {
+          "en": "She made everyone stand in a group.",
+          "zh": "她做每个人站在……里一个群。",
+          "startMs": 640000,
+          "endMs": 642100
+        },
+        {
+          "en": "Then she took a photograph.",
+          "zh": "然后她拿一个照片。",
+          "startMs": 643000,
+          "endMs": 644100
+        },
+        {
+          "en": "\"We are going to be in the newspaper,\" Said Wolf.",
+          "zh": "我们是去到是在……里这报纸， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 645030,
+          "endMs": 647100
+        },
+        {
+          "en": "\"We are going to be famous.\"",
+          "zh": "我们是去到是著名的。",
+          "startMs": 648000,
+          "endMs": 649100
+        },
+        {
+          "en": "\"I've never been famous before,\" said Chip.",
+          "zh": "我已经从不是著名的在……之前， 说 Chip。 ， 说 Chip。",
+          "startMs": 650000,
+          "endMs": 653100
+        },
+        {
+          "en": "\"I wonder what it feels like.\"",
+          "zh": "我惊奇什么它感觉喜欢。",
+          "startMs": 654000,
+          "endMs": 655100
+        },
+        {
+          "en": "The next day, the story of Green Island was in the newspaper.",
+          "zh": "这孩子们去穿过到绿色的岛屿在……里这船。",
+          "startMs": 660000,
+          "endMs": 663100
+        },
+        {
+          "en": "The children were excited.",
+          "zh": "这孩子们是兴奋的。",
+          "startMs": 664000,
+          "endMs": 665100
+        },
+        {
+          "en": "\"I'm going to buy three newspapers,\" said Chip.",
+          "zh": "我是去到买三报纸， 说 Chip。 ， 说 Chip。",
+          "startMs": 666000,
+          "endMs": 669100
+        },
+        {
+          "en": "\"One for me, one for Mum and Dad, and one for Gran.\"",
+          "zh": "一为了我， 一为了妈妈和爸爸， 和一为了 Gran。",
+          "startMs": 670000,
+          "endMs": 673100
+        },
+        {
+          "en": "\"Now I'm famous, and I don't feel any different,\" Said Wolf.",
+          "zh": "我不感觉任何不同的， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 674030,
+          "endMs": 678100
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 598850,
+      "endMs": 678450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 678450,
+      "endMs": 678451
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 678451,
+      "endMs": 678452
+    }
+  ]
+}

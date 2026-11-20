@@ -1,0 +1,231 @@
+{
+  "id": "L4-015",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 840
+    },
+    {
+      "sentences": [],
+      "startMs": 840,
+      "endMs": 1640
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was sports day.",
+          "zh": "它是运动一天。",
+          "startMs": 1640,
+          "endMs": 8820
+        }
+      ],
+      "startMs": 1640,
+      "endMs": 8820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was in the long jump.",
+          "zh": "Wilma 是在……里这长的跳。",
+          "startMs": 8820,
+          "endMs": 19380
+        }
+      ],
+      "startMs": 8820,
+      "endMs": 19380
+    },
+    {
+      "sentences": [],
+      "startMs": 19380,
+      "endMs": 21500,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Chip were in a race.",
+          "zh": "Wilf 和 Chip 是在……里一个速度竞赛。",
+          "startMs": 21500,
+          "endMs": 37406
+        },
+        {
+          "en": "They came second.",
+          "zh": "他们来第二。",
+          "startMs": 37406,
+          "endMs": 46730
+        }
+      ],
+      "startMs": 21500,
+      "endMs": 46730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pack A.",
+          "zh": "盒一个。",
+          "startMs": 46730,
+          "endMs": 47574
+        },
+        {
+          "en": "Poor Old Mum.",
+          "zh": "贫穷的旧的妈妈。",
+          "startMs": 47574,
+          "endMs": 49142
+        }
+      ],
+      "startMs": 46730,
+      "endMs": 49142
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was in the egg and spoon race.",
+          "zh": "爸爸是在……里这鸡蛋和勺子速度竞赛。",
+          "startMs": 49142,
+          "endMs": 63720
+        },
+        {
+          "en": "He came third.",
+          "zh": "他来第三。",
+          "startMs": 63720,
+          "endMs": 69723
+        }
+      ],
+      "startMs": 49142,
+      "endMs": 69723
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad,\" shouted Wilf.",
+          "zh": "爸爸， 喊 Wilf。",
+          "startMs": 83960,
+          "endMs": 84420
+        }
+      ],
+      "startMs": 83810,
+      "endMs": 84770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was in a race.",
+          "zh": "妈妈是在……里一个速度竞赛。",
+          "startMs": 71170,
+          "endMs": 72060
+        }
+      ],
+      "startMs": 71020,
+      "endMs": 72410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Wilma.",
+          "zh": "哦不！ 说 Wilma。",
+          "startMs": 107960,
+          "endMs": 111060
+        }
+      ],
+      "startMs": 107810,
+      "endMs": 111410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum came last.",
+          "zh": "妈妈来最后的。",
+          "startMs": 99960,
+          "endMs": 100430
+        }
+      ],
+      "startMs": 99810,
+      "endMs": 100780
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum,\" said Wilf.",
+          "zh": "妈妈， 说 Wilf。",
+          "startMs": 119030,
+          "endMs": 120420
+        }
+      ],
+      "startMs": 118880,
+      "endMs": 120770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was disappointed.",
+          "zh": "妈妈是失望的。",
+          "startMs": 129320,
+          "endMs": 132060
+        }
+      ],
+      "startMs": 129170,
+      "endMs": 132410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a shame!\" said Dad.",
+          "zh": "什么一个羞愧感！ 说爸爸。",
+          "startMs": 132960,
+          "endMs": 137060
+        }
+      ],
+      "startMs": 132810,
+      "endMs": 137410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad put a blindfold on Mum.",
+          "zh": "爸爸放一个眼罩在……上妈妈。",
+          "startMs": 139960,
+          "endMs": 144060
+        }
+      ],
+      "startMs": 139810,
+      "endMs": 144410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma had a surprise.",
+          "zh": "Wilf 和 Wilma 有一个意想不到的事物。",
+          "startMs": 144490,
+          "endMs": 147060
+        }
+      ],
+      "startMs": 144340,
+      "endMs": 147410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum RUMMER Mum You're the tops \"Good old Mum,\" said everyone.",
+          "zh": "妈妈朗姆酒妈妈你是这顶好的旧的妈妈， 说每个人。",
+          "startMs": 142940,
+          "endMs": 155060
+        }
+      ],
+      "startMs": 142790,
+      "endMs": 155410
+    },
+    {
+      "sentences": [],
+      "startMs": 172870,
+      "endMs": 175567,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 175567,
+      "endMs": 175987,
+      "illustrationOnly": true
+    }
+  ]
+}

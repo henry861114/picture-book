@@ -1,0 +1,399 @@
+{
+  "id": "L4-017",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "A DER VIDEO Dad bought a camcorder.",
+          "zh": "一个 DER 录像爸爸买一个便携式摄像机。",
+          "startMs": 0,
+          "endMs": 3280
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3280
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had a race.",
+          "zh": "这孩子们有一个速度竞赛。",
+          "startMs": 3280,
+          "endMs": 11922
+        },
+        {
+          "en": "Dad made a video.",
+          "zh": "爸爸做一个录像。",
+          "startMs": 11922,
+          "endMs": 18044
+        }
+      ],
+      "startMs": 3280,
+      "endMs": 18044
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Smile everyone,\" said Dad.",
+          "zh": "微笑每个人， 说爸爸。",
+          "startMs": 18044,
+          "endMs": 24413
+        }
+      ],
+      "startMs": 18044,
+      "endMs": 24413
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went to the sports day.",
+          "zh": "爸爸去到这运动一天。",
+          "startMs": 24413,
+          "endMs": 30924
+        },
+        {
+          "en": "He took the camcorder.",
+          "zh": "他拿这便携式摄像机。",
+          "startMs": 30924,
+          "endMs": 36230
+        }
+      ],
+      "startMs": 24413,
+      "endMs": 36230
+    },
+    {
+      "sentences": [
+        {
+          "en": "He made a video of Wilma.",
+          "zh": "他做一个录像的 Wilma。",
+          "startMs": 45400,
+          "endMs": 47940
+        }
+      ],
+      "startMs": 45250,
+      "endMs": 48290
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Jo's wedding.",
+          "zh": "它是 Jo's 婚礼。",
+          "startMs": 40410,
+          "endMs": 45526
+        },
+        {
+          "en": "Dad took the camcorder.",
+          "zh": "爸爸拿这便携式摄像机。",
+          "startMs": 45526,
+          "endMs": 51410
+        }
+      ],
+      "startMs": 40410,
+      "endMs": 51410
+    },
+    {
+      "sentences": [
+        {
+          "en": "He made a video of the wedding.",
+          "zh": "他做一个录像的这婚礼。",
+          "startMs": 63180,
+          "endMs": 67370
+        }
+      ],
+      "startMs": 63030,
+      "endMs": 67720
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum Mum and and Da Dard Dad 10 Yearson : It was Mum and Dad's anniversary.",
+          "zh": "妈妈妈妈和和 Da Dard 爸爸 10 Yearson： 它是妈妈和爸爸 anniversary。",
+          "startMs": 44840,
+          "endMs": 87940
+        },
+        {
+          "en": "Wilma wanted to make a video.",
+          "zh": "Wilma 想要到做一个录像。",
+          "startMs": 87840,
+          "endMs": 91940
+        }
+      ],
+      "startMs": 44690,
+      "endMs": 92290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad showed Wilma the camcorder.",
+          "zh": "爸爸展示 Wilma 这便携式摄像机。",
+          "startMs": 92130,
+          "endMs": 93580
+        },
+        {
+          "en": "\"It's easy,\" he said.",
+          "zh": "它是容易的， 他说。",
+          "startMs": 94840,
+          "endMs": 102940
+        }
+      ],
+      "startMs": 91980,
+      "endMs": 103290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma made the video.",
+          "zh": "Wilma 做这录像。",
+          "startMs": 102840,
+          "endMs": 105940
+        },
+        {
+          "en": "\"It's easy,\" she said.",
+          "zh": "它是容易的， 她说。",
+          "startMs": 105840,
+          "endMs": 108940
+        }
+      ],
+      "startMs": 102690,
+      "endMs": 109290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Smile please!\" said Wilf.",
+          "zh": "微笑请！ 说 Wilf。",
+          "startMs": 108840,
+          "endMs": 115940
+        }
+      ],
+      "startMs": 108690,
+      "endMs": 116290
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children watched the race.",
+          "zh": "这孩子们手表这速度竞赛。",
+          "startMs": 115840,
+          "endMs": 118940
+        },
+        {
+          "en": "They saw the sports day.",
+          "zh": "他们看见这运动一天。",
+          "startMs": 119180,
+          "endMs": 121940
+        }
+      ],
+      "startMs": 115690,
+      "endMs": 122290
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at Jo's wedding.",
+          "zh": "他们看在 Jo's 婚礼。",
+          "startMs": 121840,
+          "endMs": 125940
+        },
+        {
+          "en": "They laughed at Wilma's video.",
+          "zh": "他们笑在 Wilma 录像。",
+          "startMs": 125840,
+          "endMs": 132940
+        }
+      ],
+      "startMs": 121690,
+      "endMs": 133290
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the tree house.",
+          "zh": "他们去到这树房子。",
+          "startMs": 132840,
+          "endMs": 135940
+        },
+        {
+          "en": "Wilma wanted to make a video.",
+          "zh": "Wilma 想要到做一个录像。",
+          "startMs": 135840,
+          "endMs": 139940
+        }
+      ],
+      "startMs": 132690,
+      "endMs": 140290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad let her use the camcorder.",
+          "zh": "爸爸让她使用这便携式摄像机。",
+          "startMs": 159200,
+          "endMs": 160880
+        }
+      ],
+      "startMs": 159200,
+      "endMs": 160880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma made the video.",
+          "zh": "Wilma 做这录像。",
+          "startMs": 147180,
+          "endMs": 149940
+        },
+        {
+          "en": "She saw two men.",
+          "zh": "她看见二男人们。",
+          "startMs": 149840,
+          "endMs": 155940
+        }
+      ],
+      "startMs": 147030,
+      "endMs": 156290
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were burglars.",
+          "zh": "他们是入室盗贼。",
+          "startMs": 162960,
+          "endMs": 188850
+        }
+      ],
+      "startMs": 162810,
+      "endMs": 189200
+    },
+    {
+      "sentences": [
+        {
+          "en": "The burglars were running away.",
+          "zh": "这入室盗贼是跑离开。",
+          "startMs": 161840,
+          "endMs": 164940
+        },
+        {
+          "en": "Wilma made a video of them.",
+          "zh": "Wilma 做一个录像的他们。",
+          "startMs": 164840,
+          "endMs": 170940
+        }
+      ],
+      "startMs": 161690,
+      "endMs": 171290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Call the police,\" she shouted.",
+          "zh": "叫这警察部门， 她喊。",
+          "startMs": 172630,
+          "endMs": 179940
+        }
+      ],
+      "startMs": 172480,
+      "endMs": 180290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got the phone.",
+          "zh": "爸爸得到这电话。",
+          "startMs": 185870,
+          "endMs": 187210
+        },
+        {
+          "en": "He phoned the police.",
+          "zh": "他电话这警察部门。",
+          "startMs": 201180,
+          "endMs": 202050
+        }
+      ],
+      "startMs": 185720,
+      "endMs": 202400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma got the burglars on video.",
+          "zh": "Wilma 得到这入室盗贼在……上录像。",
+          "startMs": 187110,
+          "endMs": 190940
+        }
+      ],
+      "startMs": 186960,
+      "endMs": 191290
+    },
+    {
+      "sentences": [
+        {
+          "en": "The police came.",
+          "zh": "这警察部门来。",
+          "startMs": 201180,
+          "endMs": 202940
+        },
+        {
+          "en": "They looked at the video.",
+          "zh": "他们看在这录像。",
+          "startMs": 202840,
+          "endMs": 204940
+        }
+      ],
+      "startMs": 201030,
+      "endMs": 205290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Well done!\" they said.",
+          "zh": "好做完！ 他们说。",
+          "startMs": 224180,
+          "endMs": 227991
+        }
+      ],
+      "startMs": 224180,
+      "endMs": 227991
+    },
+    {
+      "sentences": [
+        {
+          "en": "The police caught the burglars.",
+          "zh": "这警察部门抓住这入室盗贼。",
+          "startMs": 212660,
+          "endMs": 219940
+        },
+        {
+          "en": "Wilma,\" said Dad.",
+          "zh": "Wilma， 说爸爸。",
+          "startMs": 220830,
+          "endMs": 226940
+        }
+      ],
+      "startMs": 212510,
+      "endMs": 227290
+    },
+    {
+      "sentences": [],
+      "startMs": 236900,
+      "endMs": 239722,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 239722,
+      "endMs": 240022,
+      "illustrationOnly": true
+    }
+  ]
+}

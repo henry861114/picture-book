@@ -1,0 +1,105 @@
+{
+  "id": "L1-052",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car was stuck.",
+          "zh": "这汽车是 stuck。",
+          "startMs": 0,
+          "endMs": 14590
+        }
+      ],
+      "startMs": 0,
+      "endMs": 14940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum pushed it.",
+          "zh": "妈妈推它。",
+          "startMs": 14490,
+          "endMs": 19590
+        }
+      ],
+      "startMs": 14340,
+      "endMs": 19940
+    },
+    {
+      "sentences": [],
+      "startMs": 23950,
+      "endMs": 25310,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip pushed it.",
+          "zh": "Biff 和 Chip 推它。",
+          "startMs": 19490,
+          "endMs": 27590
+        }
+      ],
+      "startMs": 19340,
+      "endMs": 27940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum pulled it.",
+          "zh": "妈妈拉它。",
+          "startMs": 38110,
+          "endMs": 41590
+        }
+      ],
+      "startMs": 37960,
+      "endMs": 41940
+    },
+    {
+      "sentences": [],
+      "startMs": 53695,
+      "endMs": 54495,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 54495,
+      "endMs": 55295,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 55490,
+          "endMs": 60590
+        }
+      ],
+      "startMs": 55340,
+      "endMs": 60940
+    },
+    {
+      "sentences": [],
+      "startMs": 59799,
+      "endMs": 60599,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 60599,
+      "endMs": 61324,
+      "illustrationOnly": true
+    }
+  ]
+}

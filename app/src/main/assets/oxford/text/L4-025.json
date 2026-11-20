@@ -1,0 +1,297 @@
+{
+  "id": "L4-025",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put some tables outside.",
+          "zh": "这孩子们放一些桌子外面。",
+          "startMs": 0,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They wanted to help Children in Need.",
+          "zh": "他们想要到帮助孩子们在……里必须。",
+          "startMs": 11000,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Help Children Chip made a poster.",
+          "zh": "帮助孩子们 Chip 做一个海报。",
+          "startMs": 11000,
+          "endMs": 15980
+        },
+        {
+          "en": "It said, \"Help Children in Need\".",
+          "zh": "它说， 帮助孩子们在……里必须。",
+          "startMs": 15880,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Help :Children: In Biff and Nadim had some plants.",
+          "zh": "帮助：孩子们： 在……里 Biff 和 Nadim 有一些植物。",
+          "startMs": 11000,
+          "endMs": 26100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 26450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper and Wilma had some clothes.",
+          "zh": "Kipper 和 Wilma 有一些衣服。",
+          "startMs": 26030,
+          "endMs": 29100
+        },
+        {
+          "en": "Wilf had some books.",
+          "zh": "Wilf 有一些书。",
+          "startMs": 29000,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 25880,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena had a good idea.",
+          "zh": "Anneena 有一个好的主意。",
+          "startMs": 35000,
+          "endMs": 37100
+        },
+        {
+          "en": "She invented a game.",
+          "zh": "她发明一个游戏。",
+          "startMs": 38000,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 34850,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at Anneena's game.",
+          "zh": "爸爸看在 Anneena 游戏。",
+          "startMs": 40000,
+          "endMs": 43100
+        },
+        {
+          "en": "\"Let me have a go,\" he said.",
+          "zh": "让我有一个去， 他说。",
+          "startMs": 43000,
+          "endMs": 46100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 46450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man put Dad's jacket on.",
+          "zh": "一个男人放爸爸夹克在……上。",
+          "startMs": 50000,
+          "endMs": 52100
+        },
+        {
+          "en": "\"It's a good fit,\" he said.",
+          "zh": "它是一个好的健康的， 他说。",
+          "startMs": 55030,
+          "endMs": 58100
+        }
+      ],
+      "startMs": 49850,
+      "endMs": 58450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's five pounds,\" said Wilma.",
+          "zh": "它是五磅， 说 Wilma。",
+          "startMs": 58000,
+          "endMs": 61100
+        },
+        {
+          "en": "The man bought the jacket.",
+          "zh": "这男人买这夹克。",
+          "startMs": 61000,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 57850,
+      "endMs": 63450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked for his jacket.",
+          "zh": "爸爸看为了他的夹克。",
+          "startMs": 67000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 66850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Wilma.",
+          "zh": "哦不！ 说 Wilma。",
+          "startMs": 70000,
+          "endMs": 72100
+        },
+        {
+          "en": "\"I'm sorry.",
+          "zh": "我是对不起。",
+          "startMs": 72000,
+          "endMs": 73360
+        },
+        {
+          "en": "A man bought it.\"",
+          "zh": "一个男人买它。",
+          "startMs": 73260,
+          "endMs": 75100
+        }
+      ],
+      "startMs": 69850,
+      "endMs": 75450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad ran after the man.",
+          "zh": "爸爸跑在……之后这男人。",
+          "startMs": 79000,
+          "endMs": 81100
+        },
+        {
+          "en": "\"Stop!\" he called.",
+          "zh": "停！ 他叫。",
+          "startMs": 82000,
+          "endMs": 85100
+        },
+        {
+          "en": "\"That's my jacket.\"",
+          "zh": "那是我的夹克。",
+          "startMs": 85000,
+          "endMs": 86100
+        }
+      ],
+      "startMs": 78850,
+      "endMs": 86450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, it's my jacket,\" said the man.",
+          "zh": "不， 它是我的夹克， 说这男人。",
+          "startMs": 88000,
+          "endMs": 92100
+        },
+        {
+          "en": "\"Give me ten pounds for it.\"",
+          "zh": "给我十磅为了它。",
+          "startMs": 92000,
+          "endMs": 94100
+        }
+      ],
+      "startMs": 87850,
+      "endMs": 94450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no,\" said Dad.",
+          "zh": "哦不， 说爸爸。",
+          "startMs": 99000,
+          "endMs": 101100
+        },
+        {
+          "en": "He gave the man ten pounds.",
+          "zh": "他给这男人十磅。",
+          "startMs": 101000,
+          "endMs": 104100
+        }
+      ],
+      "startMs": 98850,
+      "endMs": 104450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man gave the jacket to Dad.",
+          "zh": "这男人给这夹克到爸爸。",
+          "startMs": 104000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man gave Wilma ten pounds.",
+          "zh": "这男人给 Wilma 十磅。",
+          "startMs": 112030,
+          "endMs": 115100
+        },
+        {
+          "en": "\"It's for Children in Need,\" he said.",
+          "zh": "它是为了孩子们在……里必须， 他说。",
+          "startMs": 115000,
+          "endMs": 118100
+        }
+      ],
+      "startMs": 111880,
+      "endMs": 118450
+    },
+    {
+      "sentences": [],
+      "startMs": 124550,
+      "endMs": 125266,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 125266,
+      "endMs": 125565,
+      "illustrationOnly": true
+    }
+  ]
+}

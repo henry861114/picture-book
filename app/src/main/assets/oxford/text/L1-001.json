@@ -1,0 +1,148 @@
+{
+  "id": "L1-001",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Kipper's first day at school.",
+          "zh": "它是 Kipper 第一一天在学校。",
+          "startMs": 0,
+          "endMs": 1700
+        },
+        {
+          "en": "He held on to the gate post.",
+          "zh": "他拿着在……上到这大门柱。",
+          "startMs": 1600,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hmm...",
+          "zh": "Hmm。。。",
+          "startMs": 6000,
+          "endMs": 7740
+        },
+        {
+          "en": "I don't want to go.",
+          "zh": "我不想要到去。",
+          "startMs": 7640,
+          "endMs": 10100
+        },
+        {
+          "en": "Come on, Kipper.",
+          "zh": "来在……上， Kipper。",
+          "startMs": 10000,
+          "endMs": 12100
+        },
+        {
+          "en": "Kipper was shy.",
+          "zh": "Kipper 是害羞的。",
+          "startMs": 16000,
+          "endMs": 16150
+        },
+        {
+          "en": "He hid in the cloak room.",
+          "zh": "他 hid 在……里这披风房间。",
+          "startMs": 16000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come on, Kipper.",
+          "zh": "来在……上， Kipper。",
+          "startMs": 19000,
+          "endMs": 20910
+        },
+        {
+          "en": "Come and play with us.",
+          "zh": "来和玩和……一起我们。",
+          "startMs": 20810,
+          "endMs": 23100
+        },
+        {
+          "en": "Kipper played in the home corner.",
+          "zh": "Kipper 玩在……里这家角。",
+          "startMs": 27080,
+          "endMs": 30100
+        },
+        {
+          "en": "Come and play in the home corner, Kipper.",
+          "zh": "来和玩在……里这家角， Kipper。",
+          "startMs": 30000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper cooked a lego stew.",
+          "zh": "Kipper 做饭一个 lego 炖菜。",
+          "startMs": 37000,
+          "endMs": 39100
+        },
+        {
+          "en": "This is fun.",
+          "zh": "这个是乐趣。",
+          "startMs": 43000,
+          "endMs": 45100
+        },
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 49000,
+          "endMs": 51160
+        },
+        {
+          "en": "Kipper held on to the gate post.",
+          "zh": "Kipper 拿着在……上到这大门柱。",
+          "startMs": 51060,
+          "endMs": 53100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 53450
+    },
+    {
+      "sentences": [
+        {
+          "en": "I don't want to go.",
+          "zh": "我不想要到去。",
+          "startMs": 53000,
+          "endMs": 55100
+        },
+        {
+          "en": "Send Kipper.",
+          "zh": "发送 Kipper。",
+          "startMs": 55440,
+          "endMs": 57100
+        },
+        {
+          "en": "Come on, Kipper.",
+          "zh": "来在……上， Kipper。",
+          "startMs": 57000,
+          "endMs": 59100
+        }
+      ],
+      "startMs": 52850,
+      "endMs": 59450
+    }
+  ]
+}

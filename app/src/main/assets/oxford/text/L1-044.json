@@ -1,0 +1,153 @@
+{
+  "id": "L1-044",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see my teddy bear?",
+          "zh": "能你看见我的泰迪熊承载？",
+          "startMs": 0,
+          "endMs": 8220
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see my dog?",
+          "zh": "能你看见我的狗？",
+          "startMs": 14280,
+          "endMs": 15900
+        }
+      ],
+      "startMs": 14130,
+      "endMs": 16250
+    },
+    {
+      "sentences": [],
+      "startMs": 3330,
+      "endMs": 4130,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see my picture of a big, red frog?",
+          "zh": "能你看见我的图画的一个大的， 红色的青蛙？",
+          "startMs": 4130,
+          "endMs": 5839
+        }
+      ],
+      "startMs": 4130,
+      "endMs": 5839
+    },
+    {
+      "sentences": [],
+      "startMs": 5839,
+      "endMs": 6639,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "You can see my tiger, if you look in the tree.",
+          "zh": "你能看见我的泰格， 如果你看在……里这树。",
+          "startMs": 6639,
+          "endMs": 9128
+        }
+      ],
+      "startMs": 6639,
+      "endMs": 9128
+    },
+    {
+      "sentences": [
+        {
+          "en": "Are you looking?",
+          "zh": "是你看？",
+          "startMs": 1720,
+          "endMs": 2710
+        }
+      ],
+      "startMs": 1570,
+      "endMs": 3060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see me?",
+          "zh": "能你看见我？",
+          "startMs": 0,
+          "endMs": 3680
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4030
+    },
+    {
+      "sentences": [
+        {
+          "en": "• Ask your child to name the other things they can see in each picture.",
+          "zh": "• 问你的孩子到名字这其他东西他们能看见在……里每个图画。",
+          "startMs": 11298,
+          "endMs": 15599
+        },
+        {
+          "en": "• Help your child label some of the objects with sticky notes.",
+          "zh": "• 帮助你的孩子标签一些的这物品和……一起黏糊糊的不。",
+          "startMs": 15599,
+          "endMs": 19355
+        },
+        {
+          "en": "First published 2003 For inspirational support plus TEACHERS: This edition published 2011 free resources and eBooks ISEN 978-0-19-848091-4 book is prohibited.",
+          "zh": "第一出版 2003 为了鼓舞人心的支持加老师： 这个一版印刷数出版 2011 自由的资源和电子书 ISEN 978-0-19-848091-4 书是禁止。",
+          "startMs": 19355,
+          "endMs": 28927
+        },
+        {
+          "en": "All rights reserved.",
+          "zh": "全部正确的矜持的。",
+          "startMs": 28927,
+          "endMs": 30139
+        },
+        {
+          "en": "Help your child's reading grown in sustainable forests.",
+          "zh": "帮助你的孩子读成熟的在……里能维持的森林。",
+          "startMs": 30139,
+          "endMs": 33471
+        },
+        {
+          "en": "The manufacturing natural, recyclable product made from wood with essential tips, fun activities and free eBooks process conforms to the environmental regulations of the country of origin.",
+          "zh": "这制造业正常的， 可回收利用的产品做从木头和……一起完全必要的尖端， 乐趣活跃和自由的电子书过程遵从到这环境的规定的这国家的产地。",
+          "startMs": 33471,
+          "endMs": 44860
+        }
+      ],
+      "startMs": 11298,
+      "endMs": 44860
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see me?",
+          "zh": "能你看见我？",
+          "startMs": 45080,
+          "endMs": 51340
+        }
+      ],
+      "startMs": 44930,
+      "endMs": 51469
+    }
+  ]
+}

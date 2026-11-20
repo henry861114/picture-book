@@ -1,0 +1,183 @@
+{
+  "id": "L2-019",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children fed the hens.",
+          "zh": "这孩子们 fed 这母鸡。",
+          "startMs": 0,
+          "endMs": 5180
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5530
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked for eggs.",
+          "zh": "他们看为了鸡蛋。",
+          "startMs": 7650,
+          "endMs": 15750
+        }
+      ],
+      "startMs": 7500,
+      "endMs": 16100
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put the eggs in a box.",
+          "zh": "他们放这鸡蛋在……里一个盒子。",
+          "startMs": 15650,
+          "endMs": 19750
+        }
+      ],
+      "startMs": 15500,
+      "endMs": 20100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有一个主意。",
+          "startMs": 29920,
+          "endMs": 31750
+        }
+      ],
+      "startMs": 29770,
+      "endMs": 32100
+    },
+    {
+      "sentences": [],
+      "startMs": 27705,
+      "endMs": 28505,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went on looking.",
+          "zh": "Kipper 去在……上看。",
+          "startMs": 36650,
+          "endMs": 39750
+        }
+      ],
+      "startMs": 36500,
+      "endMs": 40100
+    },
+    {
+      "sentences": [],
+      "startMs": 35176,
+      "endMs": 35976,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at this egg,\" said Kipper.",
+          "zh": "看在这个鸡蛋， 说 Kipper。",
+          "startMs": 44650,
+          "endMs": 48750
+        }
+      ],
+      "startMs": 44500,
+      "endMs": 49100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is too big.\"",
+          "zh": "这个是也大的。",
+          "startMs": 49350,
+          "endMs": 51750
+        }
+      ],
+      "startMs": 49200,
+      "endMs": 52100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked at the hen.",
+          "zh": "Kipper 看在这痕。",
+          "startMs": 55650,
+          "endMs": 56680
+        }
+      ],
+      "startMs": 55500,
+      "endMs": 57030
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is too big for you,\" he said.",
+          "zh": "这个是也大的为了你， 他说。",
+          "startMs": 58680,
+          "endMs": 62750
+        }
+      ],
+      "startMs": 58530,
+      "endMs": 63100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and see this,\" said Dad.",
+          "zh": "来和看见这个， 说爸爸。",
+          "startMs": 65650,
+          "endMs": 69750
+        }
+      ],
+      "startMs": 65500,
+      "endMs": 70100
+    },
+    {
+      "sentences": [],
+      "startMs": 79066,
+      "endMs": 79866,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is too big for you\" said Mum.",
+          "zh": "这个是也大的为了你说妈妈。",
+          "startMs": 74650,
+          "endMs": 79750
+        }
+      ],
+      "startMs": 74500,
+      "endMs": 80100
+    },
+    {
+      "sentences": [],
+      "startMs": 90272,
+      "endMs": 91072,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is too big for me,\" said Dad.",
+          "zh": "这个是也大的为了我， 说爸爸。",
+          "startMs": 88680,
+          "endMs": 92750
+        }
+      ],
+      "startMs": 88530,
+      "endMs": 93100
+    }
+  ]
+}

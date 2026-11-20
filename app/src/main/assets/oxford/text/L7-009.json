@@ -1,0 +1,876 @@
+{
+  "id": "L7-009",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum had a charm bracelet.",
+          "zh": "Wilma 妈妈有一个魅力手镯。",
+          "startMs": 0,
+          "endMs": 2130
+        },
+        {
+          "en": "It was made of gold The bracelet had ten charms on it.",
+          "zh": "这手镯有十魅力在……上它。",
+          "startMs": 6030,
+          "endMs": 10740
+        },
+        {
+          "en": "The charms were made of gold too.",
+          "zh": "这魅力是做的黄金也。",
+          "startMs": 10770,
+          "endMs": 12600
+        },
+        {
+          "en": "\"It's a beautiful bracelet,\" said Chip.",
+          "zh": "它是一个美丽的手镯， 说 Chip。",
+          "startMs": 13500,
+          "endMs": 16180
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 16530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum was washing her hands at the sink.",
+          "zh": "Wilma 妈妈是洗她手在这下沉。",
+          "startMs": 19920,
+          "endMs": 22860
+        },
+        {
+          "en": "She had the bracelet on one of the charms fell off the bracelet and.",
+          "zh": "一的这魅力落下离开这手镯， 和它去向下这插头洞。",
+          "startMs": 23130,
+          "endMs": 28020
+        },
+        {
+          "en": "It went down the plug hole Wilma's Mum was very upset.",
+          "zh": "Wilma 妈妈是非常使苦恼。",
+          "startMs": 28050,
+          "endMs": 30800
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 19770,
+      "endMs": 31150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I hope I can get the charm out of the plug hole,\" she said.",
+          "zh": "我希望我能得到这魅力出的这插头洞， 她说。",
+          "startMs": 34560,
+          "endMs": 38440
+        },
+        {
+          "en": "Chip ran and got his mum.",
+          "zh": "Chip 跑和得到他的妈妈。",
+          "startMs": 38470,
+          "endMs": 41120
+        },
+        {
+          "en": "\"She can get the charm out,\" he said.",
+          "zh": "她能得到这魅力出， 他说。",
+          "startMs": 42000,
+          "endMs": 43880
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 34410,
+      "endMs": 44230
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 43880,
+          "endMs": 44080
+        },
+        {
+          "en": "Mum put a plastic bowl under the sink.",
+          "zh": "妈妈放一个塑料碗在……下方这下沉。",
+          "startMs": 48660,
+          "endMs": 51100
+        },
+        {
+          "en": "Everyone got the charm out of the plastic bowl.",
+          "zh": "每个人看出的这窗户。",
+          "startMs": 51130,
+          "endMs": 54500
+        },
+        {
+          "en": "He got the charm out of the plastic bowl He looked in the bowl.",
+          "zh": "我希望我能得到这魅力出的这插头洞， 她说。",
+          "startMs": 54500,
+          "endMs": 57340
+        },
+        {
+          "en": "There's the charm said Mum Yuck, said Wilma.",
+          "zh": "有这魅力， 说妈妈。",
+          "startMs": 57370,
+          "endMs": 61840
+        },
+        {
+          "en": "\"It's got dirt on it.\"",
+          "zh": "它是得到尘垢在……上它。",
+          "startMs": 61870,
+          "endMs": 63080
+        },
+        {
+          "en": "Wilma's mum was glad to get it back.",
+          "zh": "Wilma 妈妈是高兴的到得到它回来。",
+          "startMs": 63110,
+          "endMs": 65610
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 44230,
+      "endMs": 65960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum found something else Yuck, she said look what I found.",
+          "zh": "妈妈找到某物其他。 她说。",
+          "startMs": 65640,
+          "endMs": 71440
+        },
+        {
+          "en": "It was Wilf's old chewing gum What a place to stick old chewing gum said Wilma's Mum.",
+          "zh": "什么一个地方到枝条旧的咀嚼牙龈！ 说 Wilma 妈妈。",
+          "startMs": 71470,
+          "endMs": 78140
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 65960,
+      "endMs": 78490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's bedroom.",
+          "zh": "这孩子们去到 Biff 卧室。",
+          "startMs": 83330,
+          "endMs": 85850
+        },
+        {
+          "en": "Wilf had three packets of chewing gum.",
+          "zh": "Wilf 有三盒的咀嚼牙龈。",
+          "startMs": 85880,
+          "endMs": 88130
+        },
+        {
+          "en": "He gave some gum to Chip This is my bedroom said Biff.",
+          "zh": "他给一些牙龈到 Chip。",
+          "startMs": 88160,
+          "endMs": 92740
+        },
+        {
+          "en": "So mind where you put the old chewing gum.",
+          "zh": "这个是我的卧室， 说 Biff， 所以头脑哪里你放这旧的咀嚼牙龈。",
+          "startMs": 93320,
+          "endMs": 95940
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 83180,
+      "endMs": 96290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 97070,
+          "endMs": 99620
+        },
+        {
+          "en": "The magic took the children on a new adventure.",
+          "zh": "这魔法拿这孩子们在……上一个新的冒险。",
+          "startMs": 101440,
+          "endMs": 104960
+        },
+        {
+          "en": "\"I don't know what to do with my old chewing gum.\" The.",
+          "zh": "我不知道什么到做和……一起我的旧的咀嚼牙龈。 两个都！",
+          "startMs": 106600,
+          "endMs": 109720
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 96920,
+      "endMs": 110070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children back in time.",
+          "zh": "这魔法拿这孩子们回来在……里时间。",
+          "startMs": 116970,
+          "endMs": 119240
+        },
+        {
+          "en": "It took them to a river.",
+          "zh": "它拿他们到一个河。",
+          "startMs": 119270,
+          "endMs": 148780
+        },
+        {
+          "en": "A boy and a girl were looking for something in the water.",
+          "zh": "一个男孩和一个女孩是看为了某物在……里这水。",
+          "startMs": 148810,
+          "endMs": 153170
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 116820,
+      "endMs": 153520
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boy and the girl had big pans.",
+          "zh": "这男孩和这女孩有大的有柄平底锅。",
+          "startMs": 153170,
+          "endMs": 153370
+        },
+        {
+          "en": "They scooped up little stones from the river.",
+          "zh": "他们勺向上小的石块从这河。",
+          "startMs": 153370,
+          "endMs": 153570
+        },
+        {
+          "en": "Then they looked for tiny bits of gold in the bottom of the pans.",
+          "zh": "然后他们看为了极小的一小块的黄金在……里这底部的这有柄平底锅。",
+          "startMs": 153570,
+          "endMs": 153770
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 153520,
+      "endMs": 154120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boy and girl got angry when they saw the children.",
+          "zh": "这男孩和女孩得到生气的当……时他们看见这孩子们。",
+          "startMs": 153770,
+          "endMs": 153970
+        },
+        {
+          "en": "They didn't want them to look for gold This is our bit of river.",
+          "zh": "他们没有想要他们到看为了黄金。",
+          "startMs": 153970,
+          "endMs": 154170
+        },
+        {
+          "en": "\"Go and look for gold somewhere else!\"",
+          "zh": "去和看为了黄金在某处其他！",
+          "startMs": 155120,
+          "endMs": 156960
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 154120,
+      "endMs": 157310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf gave the boy and girl some gum.",
+          "zh": "Wilf 给这男孩和女孩一些牙龈。",
+          "startMs": 157940,
+          "endMs": 159690
+        },
+        {
+          "en": "They hadn't seen chewing gum before.",
+          "zh": "他们没有看见咀嚼牙龈在……之前。",
+          "startMs": 160970,
+          "endMs": 162790
+        },
+        {
+          "en": "They didn't know what to do with it You just chew it said Wilf.",
+          "zh": "他们没有知道什么到做和……一起它。",
+          "startMs": 162820,
+          "endMs": 167840
+        },
+        {
+          "en": "\"Chew it, but don't swallow it.\"",
+          "zh": "咀嚼它， 但是不吞下它。",
+          "startMs": 168490,
+          "endMs": 170100
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 157790,
+      "endMs": 170450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Boy was called Luke and the girl was called Alice They lived in the hut by the river Alice and Luke looked for gold every day.",
+          "zh": "这男孩是叫 Luke 和这女孩是叫 Alice。",
+          "startMs": 173360,
+          "endMs": 185080
+        },
+        {
+          "en": "It was a hard life.",
+          "zh": "它是一个困难的生命。",
+          "startMs": 185110,
+          "endMs": 186560
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 173210,
+      "endMs": 186910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family hadn't found any gold, and Luke and Alice were always hungry.",
+          "zh": "这家庭没有找到任何黄金， 和 Luke 和 Alice 是总是饿的。",
+          "startMs": 187160,
+          "endMs": 192060
+        },
+        {
+          "en": "\"Looking for gold is hard,\" said Luke.",
+          "zh": "看为了黄金是困难的， 说 Luke。",
+          "startMs": 192880,
+          "endMs": 195380
+        },
+        {
+          "en": "\"Do you want to help us?\"",
+          "zh": "做你想要到帮助我们？",
+          "startMs": 195770,
+          "endMs": 197540
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 187010,
+      "endMs": 197890
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped look for gold.",
+          "zh": "这孩子们帮助看为了黄金。",
+          "startMs": 203340,
+          "endMs": 203440
+        },
+        {
+          "en": "Wilf and Biff helped Luke's father.",
+          "zh": "Wilf 和 Biff 帮助 Luke's 爸爸。",
+          "startMs": 203440,
+          "endMs": 206190
+        },
+        {
+          "en": "Wilma and Chip helped Alice and Luke.",
+          "zh": "Wilma 和 Chip 帮助 Alice 和 Luke。",
+          "startMs": 208490,
+          "endMs": 210510
+        },
+        {
+          "en": "\"I'm glad I brought the gum,\" said Wilf.",
+          "zh": "我带来这牙龈， 说 Wilf。",
+          "startMs": 214740,
+          "endMs": 216410
+        },
+        {
+          "en": "\"This is hard work.\"",
+          "zh": "这个是困难的工作。",
+          "startMs": 217580,
+          "endMs": 219230
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 203190,
+      "endMs": 219580
+    },
+    {
+      "sentences": [],
+      "pdfPage": 16,
+      "startMs": 219580,
+      "endMs": 219581
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was cold in the river and the children soon got tired We do this every day said Luke and we still haven't found any gold.",
+          "zh": "我们做这个每个一天， 说 Luke， 和我们仍然没有找到任何黄金。",
+          "startMs": 222800,
+          "endMs": 231980
+        },
+        {
+          "en": "Suddenly, Luke's father shouted.",
+          "zh": "突然地， Luke's 爸爸喊。",
+          "startMs": 237500,
+          "endMs": 239020
+        },
+        {
+          "en": "\"Gold!\" He yelled.",
+          "zh": "好的。 黄金！ 他叫喊。",
+          "startMs": 244920,
+          "endMs": 247270
+        },
+        {
+          "en": "We found gold!",
+          "zh": "我们已经找到黄金。",
+          "startMs": 247300,
+          "endMs": 248690
+        },
+        {
+          "en": "He picked up a big nugget of gold and jumped up and down.",
+          "zh": "他挑选向上一个大的天然贵重金属块的黄金和跳向上和向下。",
+          "startMs": 248690,
+          "endMs": 248890
+        },
+        {
+          "en": "Everyone ran to see.",
+          "zh": "每个人跑到看见。",
+          "startMs": 249350,
+          "endMs": 251090
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 222650,
+      "endMs": 251440
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the gold nugget.",
+          "zh": "每个人看在这黄金天然贵重金属块。",
+          "startMs": 254640,
+          "endMs": 257140
+        },
+        {
+          "en": "It felt heavy and cold.",
+          "zh": "它感觉重的和冷的。 喊 Luke's 妈妈。",
+          "startMs": 257850,
+          "endMs": 259360
+        },
+        {
+          "en": "\"Hooray!\" Shouted Luke's mother.",
+          "zh": "这食物是准备好的。 它感觉重的和冷的。 喊 Luke's 妈妈。",
+          "startMs": 260180,
+          "endMs": 263220
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 254490,
+      "endMs": 263570
+    },
+    {
+      "sentences": [
+        {
+          "en": "We found gold! Shouted Luke's mother.",
+          "zh": "我们已经找到黄金。 它感觉重的和冷的。 喊 Luke's 妈妈。",
+          "startMs": 263220,
+          "endMs": 263490
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 263570,
+      "endMs": 263840
+    },
+    {
+      "sentences": [
+        {
+          "en": "We have found gold at last.",
+          "zh": "我们有找到黄金在最后的， 她说。",
+          "startMs": 263520,
+          "endMs": 265750
+        },
+        {
+          "en": "She said I thought we'd never find any.",
+          "zh": "我想 we'd 从不找到任何。",
+          "startMs": 265780,
+          "endMs": 268540
+        },
+        {
+          "en": "The children went to town with Luke's mother and father Luke and Alice were excited We can sell the gold they said and we can buy some food.",
+          "zh": "这孩子们去到城镇和……一起 Luke's 妈妈和爸爸。",
+          "startMs": 277100,
+          "endMs": 288160
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 263840,
+      "endMs": 288510
+    },
+    {
+      "sentences": [
+        {
+          "en": "We can buy new clothes said Luke's mother and a new spade Said Luke's father and some chewing gum said Luke.",
+          "zh": "我们能买新的衣服， 说 Luke's 妈妈。",
+          "startMs": 289720,
+          "endMs": 299300
+        },
+        {
+          "en": "\"What's chewing gum?\" Asked Luke's father.",
+          "zh": "它是 Wilf 旧的咀嚼牙龈。 哦不！ 说 Luke's 爸爸。",
+          "startMs": 299330,
+          "endMs": 302360
+        },
+        {
+          "en": "Some men were waiting in the road.",
+          "zh": "一些男人们是等在……里这路。",
+          "startMs": 306280,
+          "endMs": 308880
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 289570,
+      "endMs": 309230
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh, no Said Luke's father robbers.",
+          "zh": "哦不！ 说 Luke's 爸爸。",
+          "startMs": 308910,
+          "endMs": 312480
+        },
+        {
+          "en": "They will steal our gold nugget.",
+          "zh": "他们将偷我们的黄金天然贵重金属块。",
+          "startMs": 312510,
+          "endMs": 315100
+        },
+        {
+          "en": "What shall we do?\"",
+          "zh": "什么将我们做？",
+          "startMs": 315130,
+          "endMs": 316870
+        },
+        {
+          "en": "Wilf had an idea.",
+          "zh": "Wilf 有一个主意。",
+          "startMs": 316960,
+          "endMs": 318830
+        },
+        {
+          "en": "He spoke to all the children.",
+          "zh": "他说到全部这孩子们。",
+          "startMs": 318860,
+          "endMs": 321080
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 309230,
+      "endMs": 321430
+    },
+    {
+      "sentences": [
+        {
+          "en": "Give me your chewing gum He said give me all the old chewing gum and give me the gold nugget.",
+          "zh": "给我全部这旧的咀嚼牙龈， 和给我这黄金天然贵重金属块。",
+          "startMs": 321110,
+          "endMs": 327040
+        },
+        {
+          "en": "The robbers wanted gold and money.",
+          "zh": "这强盗想要黄金和钱。",
+          "startMs": 331000,
+          "endMs": 333100
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 321430,
+      "endMs": 333450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But we're just a poor family,\" said Luke's father.",
+          "zh": "但是我们是刚刚一个贫穷的家庭， 说 Luke's 爸爸。",
+          "startMs": 334320,
+          "endMs": 338180
+        },
+        {
+          "en": "We haven't got any money and we haven't found any gold The robbers looked everywhere.",
+          "zh": "我们没有得到任何钱和我们没有找到任何黄金。",
+          "startMs": 338210,
+          "endMs": 344710
+        },
+        {
+          "en": "They searched everyone We're only children said Alice.",
+          "zh": "我们是只有孩子们， 说 Alice。",
+          "startMs": 346760,
+          "endMs": 353580
+        },
+        {
+          "en": "\"We haven't got any gold and we haven't got any money.\"",
+          "zh": "我们没有得到任何黄金和我们没有得到任何钱。",
+          "startMs": 353610,
+          "endMs": 357530
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 334170,
+      "endMs": 357880
+    },
+    {
+      "sentences": [
+        {
+          "en": "The robbers couldn't find the gold they let everyone go.",
+          "zh": "这强盗不能找到这黄金。",
+          "startMs": 362800,
+          "endMs": 367060
+        },
+        {
+          "en": "\"Hooray,\" said Luke.",
+          "zh": "好耶， 说 Luke。",
+          "startMs": 368240,
+          "endMs": 370340
+        },
+        {
+          "en": "\"Wilf's chewing gum saved the gold.\"",
+          "zh": "Wilf 咀嚼牙龈挽救这黄金。",
+          "startMs": 370370,
+          "endMs": 372320
+        },
+        {
+          "en": "\"Is that chewing gum?\"",
+          "zh": "是那个咀嚼牙龈？ 问 Luke's 爸爸。",
+          "startMs": 373100,
+          "endMs": 375200
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 362650,
+      "endMs": 375550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Luke's father Luke's father and mother got some money for the gold I can have a new dress said Alice and I can have new boots said Luke.",
+          "zh": "",
+          "startMs": 375230,
+          "endMs": 387060
+        },
+        {
+          "en": "Luke's father bought a new cart.",
+          "zh": "~ 美国兵 GROCERIE WHOLESA 零售 Luke's 爸爸买一个新的大车。",
+          "startMs": 391180,
+          "endMs": 391560
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 375550,
+      "endMs": 391910
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was bigger than the old one We made a new cart said Luke.",
+          "zh": "它是大的比这旧的一。",
+          "startMs": 392780,
+          "endMs": 397420
+        },
+        {
+          "en": "\"There is so much to take home.\"",
+          "zh": "那里是所以许多到拿家。",
+          "startMs": 398700,
+          "endMs": 400500
+        },
+        {
+          "en": "The children helped them put everything on the cart.",
+          "zh": "这孩子们帮助他们放一切在……上这大车。",
+          "startMs": 401280,
+          "endMs": 404460
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 392630,
+      "endMs": 404810
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is hard work too,\" said Biff.",
+          "zh": "这个是困难的工作也， 说 Biff。",
+          "startMs": 407620,
+          "endMs": 408680
+        },
+        {
+          "en": "\"These magic adventures are not all fun.\"",
+          "zh": "这些魔法冒险是不全部乐趣。",
+          "startMs": 413640,
+          "endMs": 416940
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 407470,
+      "endMs": 417290
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all went back to the river.",
+          "zh": "他们全部去回来到这河。",
+          "startMs": 418860,
+          "endMs": 418990
+        },
+        {
+          "en": "The family put on the new clothes Wilma and Biff looked for gold.",
+          "zh": "这家庭放在……上这新的衣服。",
+          "startMs": 424140,
+          "endMs": 429850
+        },
+        {
+          "en": "\"I hope we find some,\" said Wilma.",
+          "zh": "我希望我们找到一些， 说 Wilma。",
+          "startMs": 429880,
+          "endMs": 432570
+        },
+        {
+          "en": "\"T'd love to find a gold nugget.\"",
+          "zh": "T'd 爱到找到一个黄金天然贵重金属块。",
+          "startMs": 432600,
+          "endMs": 434640
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 418710,
+      "endMs": 434990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, Biff saw a little yellow speck in the pan.",
+          "zh": "突然地， Biff 看见一个小的黄色的斑点在……里这扳。",
+          "startMs": 435960,
+          "endMs": 439510
+        },
+        {
+          "en": "She had found some gold.",
+          "zh": "她有找到一些黄金。",
+          "startMs": 439510,
+          "endMs": 439710
+        },
+        {
+          "en": "\"It's very small,\" she said.",
+          "zh": "它是非常小的， 她说。",
+          "startMs": 442220,
+          "endMs": 443580
+        },
+        {
+          "en": "Just then, the magic key began to glow.",
+          "zh": "刚刚然后这魔法钥匙开始到光亮。",
+          "startMs": 445420,
+          "endMs": 448160
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 435810,
+      "endMs": 448510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children home Biff looked at the gold.",
+          "zh": "这魔法拿这孩子们到一个时间长的以前。",
+          "startMs": 455360,
+          "endMs": 462340
+        },
+        {
+          "en": "\"It looks really tiny, now,\" she said.",
+          "zh": "它看真的极小的， 现在， 她说。",
+          "startMs": 462870,
+          "endMs": 463230
+        },
+        {
+          "en": "It looks like a speck of dust suddenly Chip sneezed.",
+          "zh": "它看喜欢一个斑点的灰尘！",
+          "startMs": 464420,
+          "endMs": 467690
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 455210,
+      "endMs": 468040
+    },
+    {
+      "sentences": [
+        {
+          "en": "The speck of gold blew out of Biff's hand.",
+          "zh": "这斑点的黄金 blew 出的 Biff 手。",
+          "startMs": 469740,
+          "endMs": 472910
+        },
+        {
+          "en": "It blew onto the carpet Did you see where it went? Asked Biff.",
+          "zh": "它 blew 在……上到这地毯。 谁是你？ 问 Biff。",
+          "startMs": 476680,
+          "endMs": 481250
+        },
+        {
+          "en": "Oh, no, sorry, said Chip.",
+          "zh": "对不起！ 说 Chip。",
+          "startMs": 481770,
+          "endMs": 484400
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 469590,
+      "endMs": 484750
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked and looked.",
+          "zh": "这孩子们看和看。",
+          "startMs": 484400,
+          "endMs": 486030
+        },
+        {
+          "en": "They couldn't find the little speck of gold I don't think we ever will, said Biff.",
+          "zh": "他们不能找到这小的斑点的黄金。",
+          "startMs": 486060,
+          "endMs": 492570
+        },
+        {
+          "en": "\"Oh no!\" Said everyone.",
+          "zh": "哦不！ Gran， 说每个人。",
+          "startMs": 496470,
+          "endMs": 500800
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 484750,
+      "endMs": 501150
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 501150,
+      "endMs": 501151
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 501151,
+      "endMs": 501152
+    }
+  ]
+}

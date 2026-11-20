@@ -1,0 +1,636 @@
+{
+  "id": "L6-010",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "It was Christmas Eve.",
+          "zh": "那天是平安夜。",
+          "startMs": 3960,
+          "endMs": 7360
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 3810,
+      "endMs": 7710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were excited.",
+          "zh": "孩子们很兴奋。",
+          "startMs": 7360,
+          "endMs": 7560
+        },
+        {
+          "en": "But Mum was hot and Dad was cross.",
+          "zh": "孩子们很兴奋，但妈妈觉得很热，爸爸很生气。",
+          "startMs": 7840,
+          "endMs": 11920
+        },
+        {
+          "en": "\"Christmas is hard work,\" said Dad.",
+          "zh": "“过圣诞节很辛苦，”爸爸说。",
+          "startMs": 12690,
+          "endMs": 19790
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 7710,
+      "endMs": 20140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad put up some decorations.",
+          "zh": "爸爸挂了一些装饰品。",
+          "startMs": 24860,
+          "endMs": 27460
+        },
+        {
+          "en": "He wanted the children to help, but they didn't want to.",
+          "zh": "他想要这孩子们到帮助， 但是他们没有想要到。",
+          "startMs": 27490,
+          "endMs": 30810
+        },
+        {
+          "en": "They were watching television.",
+          "zh": "他们正在看电视。",
+          "startMs": 30840,
+          "endMs": 32930
+        },
+        {
+          "en": "\"Oh,\" Dad turned off the television.",
+          "zh": "“哎呀！”",
+          "startMs": 38690,
+          "endMs": 40900
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 24710,
+      "endMs": 41250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh!\" said Kipper.",
+          "zh": "哦！ 说 Kipper。",
+          "startMs": 40900,
+          "endMs": 41100
+        },
+        {
+          "en": "\"We were watching a good program.\"",
+          "zh": "“我们正在看一个好节目。”",
+          "startMs": 41100,
+          "endMs": 43880
+        },
+        {
+          "en": "\"It's time to help,\" said Dad.",
+          "zh": "它是时间到帮助， 说爸爸。 爸爸说道。",
+          "startMs": 44690,
+          "endMs": 48790
+        },
+        {
+          "en": "Just then,.",
+          "zh": "正好赶上。",
+          "startMs": 50000,
+          "endMs": 50810
+        },
+        {
+          "en": "Wilf and Wilma came.",
+          "zh": "Wilf 和 Wilma 来。",
+          "startMs": 51570,
+          "endMs": 52930
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 41250,
+      "endMs": 53280
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had presents for Biff, Chip and Kipper.",
+          "zh": "他们给 Biff、Chip 和 Kipper 带了礼物。",
+          "startMs": 52960,
+          "endMs": 56810
+        },
+        {
+          "en": "\"We can help later,\" said Chip.",
+          "zh": "我们能帮助后来， 说 Chip。 Chip 说道。",
+          "startMs": 57690,
+          "endMs": 59790
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 53280,
+      "endMs": 60140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had presents for Wilf and Wilma.",
+          "zh": "Biff 和 Chip 也给 Wilf 和 Wilma 准备了礼物。",
+          "startMs": 59820,
+          "endMs": 63750
+        },
+        {
+          "en": "\"Don't open them until tomorrow,\" said Biff.",
+          "zh": "不打开他们直到在明天， 说 Biff。 Biff 说道。",
+          "startMs": 65690,
+          "endMs": 71790
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 60140,
+      "endMs": 72140
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 72550,
+          "endMs": 76650
+        },
+        {
+          "en": "\"It's time for a magic adventure,\" said Chip.",
+          "zh": "它是时间为了一个魔法冒险， 说 Chip。 Chip 说道。",
+          "startMs": 78720,
+          "endMs": 82780
+        },
+        {
+          "en": "\"I hope it's a Christmas adventure.\"",
+          "zh": "“我希望这是一次圣诞节的冒险。”",
+          "startMs": 82810,
+          "endMs": 84640
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 72400,
+      "endMs": 84990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key took the children to the land of Father Christmas.",
+          "zh": "魔法钥匙把孩子们带到了圣诞老人的国度。",
+          "startMs": 97690,
+          "endMs": 101890
+        },
+        {
+          "en": "\"Hey,\" \"Hooray!\" said Wilf.",
+          "zh": "“嘿！” 太太梅！ 说 Wilf。",
+          "startMs": 102720,
+          "endMs": 105150
+        },
+        {
+          "en": "\"We can tell Father Christmas what to bring us.\"",
+          "zh": "“我们可以告诉圣诞老人要给我们带什么。”",
+          "startMs": 105180,
+          "endMs": 107650
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 97540,
+      "endMs": 108000
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were excited.",
+          "zh": "孩子们很兴奋。",
+          "startMs": 111550,
+          "endMs": 113650
+        },
+        {
+          "en": "They all wanted special presents.",
+          "zh": "他们都想要特别的礼物。",
+          "startMs": 113680,
+          "endMs": 116790
+        },
+        {
+          "en": "\"I want a new bike,\" said Kipper.",
+          "zh": "我想要一个新的自行车， 说 Kipper。 Kipper 说道。",
+          "startMs": 117550,
+          "endMs": 120650
+        },
+        {
+          "en": "\"I want a new skateboard,\" said Biff.",
+          "zh": "我想要一个新的滑板， 说 Biff。",
+          "startMs": 120690,
+          "endMs": 122780
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 111400,
+      "endMs": 123130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "Biff 说道。",
+          "startMs": 122810,
+          "endMs": 123790
+        },
+        {
+          "en": "The children rang the doorbell.",
+          "zh": "孩子们按了门铃。",
+          "startMs": 124550,
+          "endMs": 128650
+        },
+        {
+          "en": "They rang and rang, but nobody came to the door.",
+          "zh": "他们按了又按，但没有人来开门。",
+          "startMs": 131850,
+          "endMs": 135770
+        },
+        {
+          "en": "\"That's funny!\" Said Chip.",
+          "zh": "“真奇怪。” Chip 说道。",
+          "startMs": 136640,
+          "endMs": 139050
+        },
+        {
+          "en": "The children looked for Father Christmas, but he was not there.",
+          "zh": "孩子们找圣诞老人，但他不在那里。",
+          "startMs": 142550,
+          "endMs": 146850
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 123130,
+      "endMs": 147200
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was nobody there.",
+          "zh": "那里一个人也没有。",
+          "startMs": 147740,
+          "endMs": 148930
+        },
+        {
+          "en": "\"Where is everyone?\" Asked Wilma.",
+          "zh": "“大家都去哪儿了？” Wilma 问道。",
+          "startMs": 149920,
+          "endMs": 152950
+        },
+        {
+          "en": "The children were disappointed. Said Chip.",
+          "zh": "孩子们很失望。 Chip 说道。",
+          "startMs": 153690,
+          "endMs": 159330
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 147590,
+      "endMs": 159680
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's not fair,\" said Chip.",
+          "zh": "它是不公正的， 说 Chip。",
+          "startMs": 159360,
+          "endMs": 161410
+        },
+        {
+          "en": "\"I wanted to ask Father Christmas for a computer.\" Said Kipper.",
+          "zh": "“我想向圣诞老人要一台电脑。” Kipper 说道。",
+          "startMs": 161410,
+          "endMs": 165750
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 159680,
+      "endMs": 166100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked for Father Christmas.",
+          "zh": "孩子们去找圣诞老人。",
+          "startMs": 166550,
+          "endMs": 169650
+        },
+        {
+          "en": "They came to his house.",
+          "zh": "他们来到了圣诞老人的家。",
+          "startMs": 169680,
+          "endMs": 171650
+        },
+        {
+          "en": "\"Maybe he's in here,\" said Kipper.",
+          "zh": "也许他是在……里这里， 说 Kipper。",
+          "startMs": 172690,
+          "endMs": 174460
+        },
+        {
+          "en": "The children went inside. Said Wilf.",
+          "zh": "孩子们走进了教室。 Wilf 说道。",
+          "startMs": 174490,
+          "endMs": 185980
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 166400,
+      "endMs": 186330
+    },
+    {
+      "sentences": [
+        {
+          "en": "An old man was asleep in a chair.",
+          "zh": "一位老人睡在椅子上。",
+          "startMs": 186010,
+          "endMs": 189050
+        },
+        {
+          "en": "\"It's Father Christmas,\" said Wilf.",
+          "zh": "它是爸爸圣诞节， 说 Wilf。",
+          "startMs": 189580,
+          "endMs": 192660
+        },
+        {
+          "en": "\"Why is he asleep in a chair?\" She said.",
+          "zh": "“他怎么睡在椅子上？” 她说。",
+          "startMs": 192690,
+          "endMs": 199040
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 186330,
+      "endMs": 199390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the date.",
+          "zh": "Biff 看了看日期。",
+          "startMs": 199040,
+          "endMs": 199790
+        },
+        {
+          "en": "\"It's the 25th of December,\" she said.",
+          "zh": "它是这 25钍的十二月， 她说。",
+          "startMs": 200690,
+          "endMs": 202720
+        },
+        {
+          "en": "\"Father Christmas must be tired.",
+          "zh": "“圣诞老人一定很累了。",
+          "startMs": 204400,
+          "endMs": 206910
+        },
+        {
+          "en": "He's been at work all night.\"",
+          "zh": "他忙活了一整晚。”",
+          "startMs": 206940,
+          "endMs": 208790
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 199390,
+      "endMs": 209140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, Father Christmas woke up.",
+          "zh": "圣诞老人突然醒了。",
+          "startMs": 209690,
+          "endMs": 212790
+        },
+        {
+          "en": "\"What are you doing here?\" He asked.",
+          "zh": "“你们在这里干什么？” 他问。",
+          "startMs": 213720,
+          "endMs": 216790
+        },
+        {
+          "en": "\"It's Christmas Day.",
+          "zh": "“今天是圣诞节。",
+          "startMs": 217690,
+          "endMs": 219090
+        },
+        {
+          "en": "Did I forget to call at your house?\"",
+          "zh": "我忘了去你家了吗？”",
+          "startMs": 220200,
+          "endMs": 223070
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 209540,
+      "endMs": 223420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Father Christmas hadn't put up his decorations.",
+          "zh": "圣诞老人还没挂上装饰品。",
+          "startMs": 226970,
+          "endMs": 230650
+        },
+        {
+          "en": "\"I've been too busy.",
+          "zh": "我已经是也忙碌的。",
+          "startMs": 230690,
+          "endMs": 232000
+        },
+        {
+          "en": "It's the same every year,\" he said.",
+          "zh": "它是这同样的每个年， 他说。",
+          "startMs": 232030,
+          "endMs": 235790
+        },
+        {
+          "en": "Father Christmas had no Christmas dinner.",
+          "zh": "圣诞老人没有吃圣诞晚餐。",
+          "startMs": 237670,
+          "endMs": 240950
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 226820,
+      "endMs": 241300
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I didn't have time,\" he said.",
+          "zh": "我没有有时间， 他说。",
+          "startMs": 241720,
+          "endMs": 245640
+        },
+        {
+          "en": "\"Children want so many presents.\"",
+          "zh": "“孩子们想要很多礼物。”",
+          "startMs": 245670,
+          "endMs": 247650
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 241570,
+      "endMs": 248000
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were sorry for Father Christmas.",
+          "zh": "孩子们为圣诞老人感到难过。",
+          "startMs": 252550,
+          "endMs": 255490
+        },
+        {
+          "en": "They found a Christmas tree and put it up.",
+          "zh": "他们找到了一棵圣诞树，把它立了起来。",
+          "startMs": 255890,
+          "endMs": 258650
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 252400,
+      "endMs": 259000
+    },
+    {
+      "sentences": [
+        {
+          "en": "They found some decorations and put them up.",
+          "zh": "他们找到了一些装饰品，把它们挂了起来。",
+          "startMs": 259690,
+          "endMs": 262790
+        },
+        {
+          "en": "\"I haven't had decorations up for years,\" said Father Christmas.",
+          "zh": "我没有有装饰品向上为了年， 说爸爸圣诞节。 圣诞老人说道。",
+          "startMs": 265720,
+          "endMs": 271790
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 259540,
+      "endMs": 272140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Chip made some strawberry jam sandwiches.",
+          "zh": "Wilma 和 Chip 做了几份草莓酱三明治。",
+          "startMs": 275550,
+          "endMs": 279650
+        },
+        {
+          "en": "Father Christmas found some lemonade and some crackers.",
+          "zh": "圣诞老人找到了一些柠檬汁和一些饼干。",
+          "startMs": 280550,
+          "endMs": 284770
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 275400,
+      "endMs": 285120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Father Christmas put on his red coat.",
+          "zh": "圣诞老人穿上了他的红色外套。",
+          "startMs": 286140,
+          "endMs": 288650
+        },
+        {
+          "en": "\"Ho, ho, ho!\" Ho!\" he laughed.",
+          "zh": "“哎呀，不好了。” 钬！ 他笑。",
+          "startMs": 292720,
+          "endMs": 295790
+        },
+        {
+          "en": "Everyone cheered.",
+          "zh": "大家都欢呼起来。”",
+          "startMs": 295820,
+          "endMs": 297790
+        },
+        {
+          "en": "\"Thank you,\" \"Most children just want things, but you've given me a good Christmas.\" \"Happy Christmas!\" Said everyone.",
+          "zh": "“谢谢你。”",
+          "startMs": 301690,
+          "endMs": 313770
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 285990,
+      "endMs": 314120
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Goodbye,\" \"Goodbye,\" said Father Christmas.",
+          "zh": "“再见。”",
+          "startMs": 321830,
+          "endMs": 324850
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 321680,
+      "endMs": 325200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Just then, the key began to glow.",
+          "zh": "“就在这时，钥匙开始发光。”",
+          "startMs": 324850,
+          "endMs": 325050
+        },
+        {
+          "en": "\"Goodbye,\" said Father Christmas.",
+          "zh": "再见， 说爸爸圣诞节。",
+          "startMs": 325050,
+          "endMs": 325600
+        },
+        {
+          "en": "\"Thank you for everything.\"",
+          "zh": "“谢谢你所做的一切。”",
+          "startMs": 325890,
+          "endMs": 327650
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 325200,
+      "endMs": 328000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Calite The magic took the children home.",
+          "zh": "魔法把孩子们带回了家。",
+          "startMs": 339690,
+          "endMs": 342790
+        },
+        {
+          "en": "It was Christmas Eve again.",
+          "zh": "又是平安夜了。",
+          "startMs": 342820,
+          "endMs": 344650
+        },
+        {
+          "en": "\"What else can we do to help?\" Asked Chip.",
+          "zh": "“我们还能做些什么来帮忙？”Chip 问道。",
+          "startMs": 345870,
+          "endMs": 349680
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 339540,
+      "endMs": 350030
+    },
+    {
+      "sentences": [],
+      "pdfPage": 25,
+      "startMs": 350030,
+      "endMs": 350031
+    }
+  ]
+}

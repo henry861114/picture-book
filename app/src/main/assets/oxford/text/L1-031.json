@@ -1,0 +1,147 @@
+{
+  "id": "L1-031",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dogs like to play.",
+          "zh": "狗喜欢到玩。",
+          "startMs": 0,
+          "endMs": 2100
+        },
+        {
+          "en": "Dogs like to play.",
+          "zh": "狗喜欢到玩。",
+          "startMs": 6240,
+          "endMs": 6560
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6910
+    },
+    {
+      "sentences": [
+        {
+          "en": "They like to walk.",
+          "zh": "他们喜欢到走。",
+          "startMs": 6240,
+          "endMs": 10820
+        },
+        {
+          "en": "They like to walk.",
+          "zh": "他们喜欢到走。",
+          "startMs": 19000,
+          "endMs": 19320
+        }
+      ],
+      "startMs": 6090,
+      "endMs": 19670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy likes to walk.",
+          "zh": "Floppy 喜欢到走。",
+          "startMs": 8400,
+          "endMs": 10820
+        }
+      ],
+      "startMs": 8250,
+      "endMs": 11170
+    },
+    {
+      "sentences": [
+        {
+          "en": "They like to sleep.",
+          "zh": "他们喜欢到睡觉。",
+          "startMs": 6240,
+          "endMs": 23940
+        },
+        {
+          "en": "They like to sleep.",
+          "zh": "他们喜欢到睡觉。",
+          "startMs": 28400,
+          "endMs": 28970
+        }
+      ],
+      "startMs": 6090,
+      "endMs": 29320
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy likes to sleep.",
+          "zh": "Floppy 喜欢到睡觉。",
+          "startMs": 21980,
+          "endMs": 23940
+        }
+      ],
+      "startMs": 21830,
+      "endMs": 24290
+    },
+    {
+      "sentences": [
+        {
+          "en": "They like to run.",
+          "zh": "他们喜欢到跑。",
+          "startMs": 28400,
+          "endMs": 30660
+        },
+        {
+          "en": "They like to run.",
+          "zh": "他们喜欢到跑。",
+          "startMs": 31900,
+          "endMs": 32700
+        }
+      ],
+      "startMs": 28250,
+      "endMs": 33050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy likes to run.",
+          "zh": "Floppy 喜欢到跑。",
+          "startMs": 30560,
+          "endMs": 32700
+        }
+      ],
+      "startMs": 30410,
+      "endMs": 33050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy hates this.",
+          "zh": "Floppy 帽子这个。",
+          "startMs": 42960,
+          "endMs": 45060
+        }
+      ],
+      "startMs": 42810,
+      "endMs": 45410
+    },
+    {
+      "sentences": [],
+      "startMs": 55350,
+      "endMs": 55960,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 55960,
+      "endMs": 56260,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "L3-022",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone went to the school fair.",
+          "zh": "每个人去到这学校公正的。",
+          "startMs": 0,
+          "endMs": 6540
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma wanted a book.",
+          "zh": "Wilma 想要一个书。",
+          "startMs": 7966,
+          "endMs": 13154
+        },
+        {
+          "en": "The Arrow MAX OMILLION HOME Spycatcher PrEtE MADE EAS (only just) 24c Reading FUNT Collection",
+          "zh": "这箭马克斯 OMILLION 家 Spycatcher PrEtE 做 EAS (只有刚刚) 24第三读 FUNT 收集",
+          "startMs": 13154,
+          "endMs": 37281
+        }
+      ],
+      "startMs": 7966,
+      "endMs": 37281
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs.",
+          "zh": "太太。",
+          "startMs": 37281,
+          "endMs": 38344
+        },
+        {
+          "en": "Her dad bought it for her.",
+          "zh": "她爸爸买它为了她。",
+          "startMs": 38344,
+          "endMs": 45253
+        }
+      ],
+      "startMs": 37281,
+      "endMs": 45253
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf kicked the ball.",
+          "zh": "Wilf 踢这球。",
+          "startMs": 45253,
+          "endMs": 50653
+        }
+      ],
+      "startMs": 45253,
+      "endMs": 50653
+    },
+    {
+      "sentences": [
+        {
+          "en": "He won a goldfish.",
+          "zh": "他赢一个金鱼。",
+          "startMs": 43440,
+          "endMs": 44100
+        }
+      ],
+      "startMs": 43290,
+      "endMs": 44450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted to win a teddy.",
+          "zh": "爸爸想要到赢一个泰迪熊。",
+          "startMs": 55281,
+          "endMs": 61967
+        }
+      ],
+      "startMs": 55281,
+      "endMs": 61967
+    },
+    {
+      "sentences": [
+        {
+          "en": "He had to hit a bull's-eye.",
+          "zh": "他有到击一个 bull's-eye。",
+          "startMs": 61967,
+          "endMs": 68910
+        }
+      ],
+      "startMs": 61967,
+      "endMs": 68910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got cross.",
+          "zh": "爸爸得到叉形。",
+          "startMs": 74440,
+          "endMs": 84540
+        }
+      ],
+      "startMs": 74290,
+      "endMs": 84890
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't hit the bull's-eye.",
+          "zh": "他不能击这 bull's-eye。",
+          "startMs": 72510,
+          "endMs": 80482
+        }
+      ],
+      "startMs": 72510,
+      "endMs": 80482
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was in the gym display.",
+          "zh": "Wilma 是在……里这体操馆陈列品。",
+          "startMs": 80482,
+          "endMs": 87939
+        }
+      ],
+      "startMs": 80482,
+      "endMs": 87939
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Dad forgot to watch her.",
+          "zh": "Wilf 和爸爸忘记到手表她。",
+          "startMs": 74440,
+          "endMs": 76540
+        }
+      ],
+      "startMs": 74290,
+      "endMs": 76890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was cross.",
+          "zh": "Wilma 是叉形。",
+          "startMs": 82440,
+          "endMs": 84540
+        }
+      ],
+      "startMs": 82290,
+      "endMs": 84890
+    },
+    {
+      "sentences": [
+        {
+          "en": "You forgot to watch,\" she said.",
+          "zh": "你忘记到手表， 她说。",
+          "startMs": 86580,
+          "endMs": 89540
+        }
+      ],
+      "startMs": 86430,
+      "endMs": 89890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma had a fight.",
+          "zh": "Wilf 和 Wilma 有一个打架。",
+          "startMs": 94440,
+          "endMs": 96540
+        }
+      ],
+      "startMs": 94290,
+      "endMs": 96890
+    },
+    {
+      "sentences": [
+        {
+          "en": "They bumped into Dad.",
+          "zh": "他们撞进入爸爸。",
+          "startMs": 101440,
+          "endMs": 103540
+        }
+      ],
+      "startMs": 101290,
+      "endMs": 103890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad won a teddy.",
+          "zh": "爸爸赢一个泰迪熊。",
+          "startMs": 117440,
+          "endMs": 119540
+        }
+      ],
+      "startMs": 117290,
+      "endMs": 119890
+    },
+    {
+      "sentences": [],
+      "startMs": 124780,
+      "endMs": 125280,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 125280,
+      "endMs": 125483,
+      "illustrationOnly": true
+    }
+  ]
+}

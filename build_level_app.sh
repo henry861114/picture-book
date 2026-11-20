@@ -139,7 +139,8 @@ rm -f "$OUT/PictureBookEnglish-L${LEVEL}.apk"
     --ks "$OUT/debug.keystore" --ks-pass pass:android --key-pass pass:android \
     --out "$OUT/PictureBookEnglish-L${LEVEL}.apk" "$TMP/aligned.apk"
 "$BUILD_TOOLS/apksigner" verify "$OUT/PictureBookEnglish-L${LEVEL}.apk" >/dev/null
-cp "$OUT/PictureBookEnglish-L${LEVEL}.apk" "$PROJECT_DIR/../绘本英语-L${LEVEL}.apk"
+mkdir -p "$PROJECT_DIR/dist"
+cp "$OUT/PictureBookEnglish-L${LEVEL}.apk" "$PROJECT_DIR/dist/绘本英语-L${LEVEL}.apk"
 
 echo "==> Done L${LEVEL}"
-ls -lh "$OUT/PictureBookEnglish-L${LEVEL}.apk" "$PROJECT_DIR/../绘本英语-L${LEVEL}.apk"
+ls -lh "$OUT/PictureBookEnglish-L${LEVEL}.apk" "$PROJECT_DIR/dist/绘本英语-L${LEVEL}.apk"

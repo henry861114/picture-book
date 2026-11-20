@@ -1,0 +1,1057 @@
+{
+  "id": "L7-008",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "A new girl came to the school.",
+          "zh": "一个新的女孩来到这学校。",
+          "startMs": 0,
+          "endMs": 3070
+        },
+        {
+          "en": "She was in Biff and Chip's class.",
+          "zh": "她是在……里 Biff 和 Chip 班级。",
+          "startMs": 3070,
+          "endMs": 5070
+        },
+        {
+          "en": "The new girl was called Rosie, and she didn't look very friendly.",
+          "zh": "这新的女孩是叫罗西， 和她没有看非常友好的。",
+          "startMs": 5970,
+          "endMs": 10070
+        },
+        {
+          "en": "She pulled a face at Anneena.",
+          "zh": "她拉一个脸在 Anneena。",
+          "startMs": 10970,
+          "endMs": 15070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 15420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie sat next to Chip.",
+          "zh": "罗西坐下一个到 Chip。",
+          "startMs": 19970,
+          "endMs": 23070
+        },
+        {
+          "en": "Chip didn't like her.",
+          "zh": "Chip 没有喜欢她。",
+          "startMs": 23070,
+          "endMs": 23270
+        },
+        {
+          "en": "She took his pens and scribbled on his picture.",
+          "zh": "她拿他的笔和潦草地写在……上他的图画。",
+          "startMs": 23270,
+          "endMs": 25250
+        },
+        {
+          "en": "So Chip scribbled on her picture.",
+          "zh": "Chip 潦草地写在……上她图画。",
+          "startMs": 25860,
+          "endMs": 30160
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 19820,
+      "endMs": 30510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie got Chip into trouble.",
+          "zh": "Chip 进入问题。",
+          "startMs": 30830,
+          "endMs": 34290
+        },
+        {
+          "en": "She went to Mrs May.",
+          "zh": "她去到太太梅。",
+          "startMs": 34320,
+          "endMs": 36070
+        },
+        {
+          "en": "\"He scribbled on my picture,\" she said.",
+          "zh": "他潦草地写在……上我的图画， 她说。",
+          "startMs": 36970,
+          "endMs": 40310
+        },
+        {
+          "en": "Mrs May was cross with Chip.",
+          "zh": "太太油煎。",
+          "startMs": 40310,
+          "endMs": 41920
+        },
+        {
+          "en": "She told him off.",
+          "zh": "她告诉他离开。",
+          "startMs": 43080,
+          "endMs": 44220
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 30680,
+      "endMs": 44570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody liked the new girl.",
+          "zh": "没有人喜欢这新的女孩。",
+          "startMs": 45970,
+          "endMs": 47780
+        },
+        {
+          "en": "She was a bully.",
+          "zh": "她是一个小霸王。",
+          "startMs": 47780,
+          "endMs": 50370
+        },
+        {
+          "en": "She called everyone nasty names.",
+          "zh": "她叫每个人令人难受的名字。",
+          "startMs": 50860,
+          "endMs": 53230
+        },
+        {
+          "en": "She called Chip a motor mouth, and she called Wilf a parrot face.",
+          "zh": "她叫 Chip 一个电动机嘴， 和她叫 Wilf 一个鹦鹉脸。",
+          "startMs": 53860,
+          "endMs": 58200
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 45820,
+      "endMs": 58550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie was nasty to Biff.",
+          "zh": "罗西是令人难受的到 Biff。",
+          "startMs": 58970,
+          "endMs": 60100
+        },
+        {
+          "en": "She took her crisps and called her a toffee nose.",
+          "zh": "她拿她薯片和叫她一个太妃糖鼻子。",
+          "startMs": 61010,
+          "endMs": 64280
+        },
+        {
+          "en": "Biff was frightened of Rosie.",
+          "zh": "Biff 是受惊的的罗西。",
+          "startMs": 64970,
+          "endMs": 66780
+        },
+        {
+          "en": "Everyone was frightened of her.",
+          "zh": "每个人是受惊的的她。",
+          "startMs": 68540,
+          "endMs": 69280
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 58820,
+      "endMs": 69630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie was nasty to Anneena.",
+          "zh": "罗西是令人难受的到 Anneena。",
+          "startMs": 72970,
+          "endMs": 73070
+        },
+        {
+          "en": "She called her a goody-goody and pulled her hair.",
+          "zh": "她叫她一个伪善的人和拉她头发。",
+          "startMs": 73100,
+          "endMs": 78070
+        },
+        {
+          "en": "\"Al, stop it,\" Stop it!\" said Anneena.",
+          "zh": "我不能停它。",
+          "startMs": 79000,
+          "endMs": 82580
+        },
+        {
+          "en": "\"Leave me alone.\"",
+          "zh": "离开我独自。",
+          "startMs": 82610,
+          "endMs": 84440
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 72820,
+      "endMs": 84790
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was bigger than Rosie, so she ran to help Anneena.",
+          "zh": "Wilma 是大的比罗西， 所以她跑到帮助 Anneena。",
+          "startMs": 85920,
+          "endMs": 89210
+        },
+        {
+          "en": "But Rosie was a bully.",
+          "zh": "但是罗西是一个小霸王。",
+          "startMs": 89890,
+          "endMs": 91270
+        },
+        {
+          "en": "She called Wilma a dinosaur brain and she pushed her over.",
+          "zh": "她叫 Wilma 一个恐龙脑和她推她在……上方。",
+          "startMs": 92050,
+          "endMs": 96090
+        },
+        {
+          "en": "Rosie pulled Chip's ear,.",
+          "zh": "罗西拉 Chip 耳朵竟然困难的。",
+          "startMs": 99970,
+          "endMs": 100070
+        },
+        {
+          "en": "And she wouldn't let go.",
+          "zh": "Wilf， 和不让去！",
+          "startMs": 101940,
+          "endMs": 103210
+        },
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 103240,
+          "endMs": 104300
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 85770,
+      "endMs": 104650
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Tell me a secret,\" she said.",
+          "zh": "告诉我一个秘密， 她说。",
+          "startMs": 104300,
+          "endMs": 106540
+        },
+        {
+          "en": "\"Go on!\"",
+          "zh": "去在……上！",
+          "startMs": 107650,
+          "endMs": 108910
+        },
+        {
+          "en": "Chip didn't want to tell her a secret.",
+          "zh": "Chip 没有想要到告诉她一个秘密。",
+          "startMs": 108940,
+          "endMs": 110070
+        },
+        {
+          "en": "\"Go on, Motor Mouth.\" Said Rosie.",
+          "zh": "去在……上， 电动机嘴。 说罗西。 一个休息？",
+          "startMs": 110970,
+          "endMs": 114070
+        },
+        {
+          "en": "\"Tell me a secret,\" she said.",
+          "zh": "告诉我一个秘密， 她说。",
+          "startMs": 116970,
+          "endMs": 122100
+        },
+        {
+          "en": "\"Go on!\"",
+          "zh": "去在……上！",
+          "startMs": 122130,
+          "endMs": 123190
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 104650,
+      "endMs": 123540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie pulled Chip's ear even harder.",
+          "zh": "罗西拉 Chip 耳朵竟然困难的。",
+          "startMs": 123190,
+          "endMs": 123680
+        },
+        {
+          "en": "Chip didn't want to, but he told Rosie about the magic key.",
+          "zh": "Chip 没有想要到， 但是他告诉罗西关于这魔法钥匙。",
+          "startMs": 123680,
+          "endMs": 126250
+        },
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 137060,
+          "endMs": 138260
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 123540,
+      "endMs": 138610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie wanted to see the magic key, so she made Chip take her home.",
+          "zh": "",
+          "startMs": 138290,
+          "endMs": 143310
+        },
+        {
+          "en": "\"Let me see this key,\" she said.",
+          "zh": "让我看见这个钥匙， 她说。",
+          "startMs": 143310,
+          "endMs": 143510
+        },
+        {
+          "en": "\"I want a magic adventure.\"",
+          "zh": "我想要一个魔法冒险。",
+          "startMs": 143510,
+          "endMs": 143710
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 138610,
+      "endMs": 144060
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's room.",
+          "zh": "这孩子们去到 Biff 房间。",
+          "startMs": 143710,
+          "endMs": 143930
+        },
+        {
+          "en": "Rosie looked at the magic key, but it wouldn't glow.",
+          "zh": "罗西看在这魔法钥匙， 但是它不会光亮。",
+          "startMs": 143960,
+          "endMs": 147230
+        },
+        {
+          "en": "\"Ah,.",
+          "zh": "啊！",
+          "startMs": 147970,
+          "endMs": 148070
+        },
+        {
+          "en": "\"It's just an old key,\" she said.",
+          "zh": "它是刚刚一个旧的钥匙， 她说。",
+          "startMs": 148100,
+          "endMs": 150870
+        },
+        {
+          "en": "\"It isn't magic at all » The magic key wouldn't glow when Rosie was holding it.",
+          "zh": "它不是魔法在全部 »",
+          "startMs": 151490,
+          "endMs": 162960
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 144060,
+      "endMs": 163310
+    },
+    {
+      "sentences": [
+        {
+          "en": "But, as soon as Chip took the key, it began to glow.",
+          "zh": "Chip 拿这钥匙， 它开始到光亮。",
+          "startMs": 162990,
+          "endMs": 165070
+        },
+        {
+          "en": "\"It's a trick,\" said Rosie.",
+          "zh": "它是一个诡计， 说罗西。 一个休息？ 说 Rose。",
+          "startMs": 167970,
+          "endMs": 170070
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 163310,
+      "endMs": 170420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key took the children on a new adventure.",
+          "zh": "这魔法钥匙拿这孩子们在……上一个新的冒险。",
+          "startMs": 170830,
+          "endMs": 174930
+        },
+        {
+          "en": "It took Rosie, too.",
+          "zh": "它拿罗西， 也。",
+          "startMs": 174960,
+          "endMs": 175930
+        },
+        {
+          "en": "\"Help!\" Called Rosie.",
+          "zh": "帮助！ 叫罗西。",
+          "startMs": 176830,
+          "endMs": 180030
+        },
+        {
+          "en": "\"I don't like this.",
+          "zh": "我不喜欢这个。",
+          "startMs": 180060,
+          "endMs": 181770
+        },
+        {
+          "en": "Make it stop!\" Said Rosie.",
+          "zh": "做它停！ 一个休息？ 说 Rose。",
+          "startMs": 181800,
+          "endMs": 192000
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 170680,
+      "endMs": 192350
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key took the children to a school playground.",
+          "zh": "这魔法钥匙拿这孩子们到一个学校游乐场。",
+          "startMs": 192030,
+          "endMs": 193930
+        },
+        {
+          "en": "\"This is just a playground,\" said Rosie.",
+          "zh": "这个是刚刚一个游乐场， 说罗西。",
+          "startMs": 193960,
+          "endMs": 194780
+        },
+        {
+          "en": "\"This isn't a magic adventure.\"",
+          "zh": "这个不是一个魔法冒险。",
+          "startMs": 197040,
+          "endMs": 199300
+        },
+        {
+          "en": "\"How do you know?\" Asked Chip.",
+          "zh": "如何做你做！ 什么是它？ 问 Chip。 一个休息？ 说 Rose。",
+          "startMs": 199850,
+          "endMs": 203560
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 192350,
+      "endMs": 203910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie was cross with Chip.",
+          "zh": "罗西是叉形和……一起 Chip。",
+          "startMs": 203590,
+          "endMs": 204070
+        },
+        {
+          "en": "\"This is a silly adventure, Motor Mouth,\" said Rosie.",
+          "zh": "这个是一个傻的冒险， 电动机嘴， 说罗西。",
+          "startMs": 204970,
+          "endMs": 207590
+        },
+        {
+          "en": "\"The magic key is silly.\"",
+          "zh": "这魔法钥匙是傻的。",
+          "startMs": 209510,
+          "endMs": 211130
+        },
+        {
+          "en": "The magic key began to glow, but this time it glowed red.",
+          "zh": "这魔法钥匙开始到光亮， 但是这个时间它光亮红色的。",
+          "startMs": 212050,
+          "endMs": 216170
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 203910,
+      "endMs": 216520
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic turned Rosie into a motor mouth.",
+          "zh": "这魔法转动罗西进入一个电动机嘴。",
+          "startMs": 222930,
+          "endMs": 225830
+        },
+        {
+          "en": "\"What's happening?\" Shouted Rosie.",
+          "zh": "是什么发生的事情？ 叫 Nadim。 帮助！ 喊罗西。",
+          "startMs": 228910,
+          "endMs": 231510
+        },
+        {
+          "en": "\"I don't like this.\"",
+          "zh": "我不喜欢这个。",
+          "startMs": 231540,
+          "endMs": 233070
+        },
+        {
+          "en": "\"You're a motor mouth,\" said Nadim.",
+          "zh": "你是一个电动机嘴， 说 Nadim。 » 说 Nadim。 帮助！ 喊罗西。",
+          "startMs": 233100,
+          "endMs": 243070
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 222780,
+      "endMs": 243420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie tried to grab the magic key, but Chip threw it to Wilma.",
+          "zh": "她经过考验的到抓住它， 但是 Nadim 扔它到 Anneena。",
+          "startMs": 243100,
+          "endMs": 247790
+        },
+        {
+          "en": "\"Give the key to me, Dinosaur Brain,\" shouted Rosie.",
+          "zh": "给这钥匙到我， 恐龙脑， 喊罗西。",
+          "startMs": 247790,
+          "endMs": 247990
+        },
+        {
+          "en": "The magic key glowed red again.",
+          "zh": "这魔法钥匙光亮红色的再一次。",
+          "startMs": 247990,
+          "endMs": 249970
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 243420,
+      "endMs": 250320
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key turned Rosie into a dinosaur brain.",
+          "zh": "这钥匙转动罗西进入一个恐龙脑。",
+          "startMs": 256830,
+          "endMs": 259530
+        },
+        {
+          "en": "\"Help!\" Shouted Rosie.",
+          "zh": "帮助！ 喊罗西。",
+          "startMs": 259560,
+          "endMs": 260950
+        },
+        {
+          "en": "\"I don't like this.\"",
+          "zh": "我不喜欢这个。",
+          "startMs": 265830,
+          "endMs": 267690
+        },
+        {
+          "en": "The children began to laugh.",
+          "zh": "这孩子们开始到笑。",
+          "startMs": 268970,
+          "endMs": 271070
+        },
+        {
+          "en": "\"Give me the magic key!\" Shouted Rosie.",
+          "zh": "给我这魔法钥匙。 帮助！ 喊罗西。",
+          "startMs": 273960,
+          "endMs": 276590
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 256680,
+      "endMs": 276940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma threw the key to Wilf.",
+          "zh": "Wilma 扔这钥匙到 Wilf。",
+          "startMs": 276590,
+          "endMs": 277070
+        },
+        {
+          "en": "Rosie tried to grab it.",
+          "zh": "罗西经过考验的到抓住它。",
+          "startMs": 277970,
+          "endMs": 279070
+        },
+        {
+          "en": "\"Give me that key, Parrot Face,\" she shouted.",
+          "zh": "给我那个钥匙， 鹦鹉脸， 她喊。",
+          "startMs": 283910,
+          "endMs": 287010
+        },
+        {
+          "en": "She shouted, but the key glowed again.",
+          "zh": "但是这钥匙光亮再一次。",
+          "startMs": 287040,
+          "endMs": 290070
+        },
+        {
+          "en": "\"I don't like this,\" Said Rosie.",
+          "zh": "我不喜欢这个。 一个休息？ 说 Rose。",
+          "startMs": 306970,
+          "endMs": 310070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 276940,
+      "endMs": 310420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key gave Rosie a parrot face.",
+          "zh": "这魔法钥匙给罗西一个鹦鹉脸。",
+          "startMs": 310100,
+          "endMs": 313140
+        },
+        {
+          "en": "The children laughed and laughed.",
+          "zh": "这孩子们笑和笑。",
+          "startMs": 313140,
+          "endMs": 313340
+        },
+        {
+          "en": "\"It's not fair.",
+          "zh": "它是不公正的。",
+          "startMs": 313340,
+          "endMs": 313540
+        },
+        {
+          "en": "Give me the magic key.\" Shouted Rosie.",
+          "zh": "给我这魔法钥匙。 帮助！ 喊罗西。",
+          "startMs": 313540,
+          "endMs": 314690
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 310420,
+      "endMs": 315040
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf threw the key to Nadim.",
+          "zh": "Wilf 扔这钥匙到 Nadim。",
+          "startMs": 314970,
+          "endMs": 317070
+        },
+        {
+          "en": "\"Give me that key!\"",
+          "zh": "给我这魔法钥匙。",
+          "startMs": 317830,
+          "endMs": 318890
+        },
+        {
+          "en": "She tried to grab it, but Nadim threw it to Anneena.",
+          "zh": "她经过考验的到抓住它， 但是 Nadim 扔它到 Anneena。",
+          "startMs": 320900,
+          "endMs": 324210
+        },
+        {
+          "en": "\"Ow!\"",
+          "zh": "啊唷！",
+          "startMs": 334970,
+          "endMs": 335570
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 315040,
+      "endMs": 335920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie got very angry.",
+          "zh": "罗西得到非常生气的。",
+          "startMs": 335600,
+          "endMs": 337320
+        },
+        {
+          "en": "She tried to hit Wilf, but the key glowed red again.",
+          "zh": "她经过考验的到击 Wilf， 但是这钥匙光亮红色的再一次。",
+          "startMs": 337320,
+          "endMs": 337520
+        },
+        {
+          "en": "The magic made Rosie hit herself.",
+          "zh": "这魔法做罗西击她自己。",
+          "startMs": 337520,
+          "endMs": 338070
+        },
+        {
+          "en": "\"Ow!\" she said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 338100,
+          "endMs": 339490
+        },
+        {
+          "en": "\"That hurt.\"",
+          "zh": "那个受伤。",
+          "startMs": 340900,
+          "endMs": 341770
+        },
+        {
+          "en": "Biff and Chip looked at Rosie.",
+          "zh": "Biff 和 Chip 看在这风筝。",
+          "startMs": 370830,
+          "endMs": 372930
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 335920,
+      "endMs": 373280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie began to cry.",
+          "zh": "罗西开始到哭。",
+          "startMs": 372960,
+          "endMs": 374680
+        },
+        {
+          "en": "She wanted the magic adventure to stop.",
+          "zh": "她想要这魔法冒险到停。",
+          "startMs": 374680,
+          "endMs": 374880
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 374880,
+          "endMs": 375080
+        },
+        {
+          "en": "This time, it took the children home.",
+          "zh": "这个时间， 它拿这孩子们家。",
+          "startMs": 375080,
+          "endMs": 375280
+        },
+        {
+          "en": "Then they looked at the magic key.",
+          "zh": "Biff 看在这魔法钥匙。",
+          "startMs": 375280,
+          "endMs": 375480
+        },
+        {
+          "en": "\"This key is magic,\" Said Biff.",
+          "zh": "这个是一个魔法冒险。 不， 说 Biff。",
+          "startMs": 376200,
+          "endMs": 378960
+        },
+        {
+          "en": "\"And it doesn't like bullies.",
+          "zh": "这个钥匙是魔法， 说 Biff， 和它不喜欢小霸王。",
+          "startMs": 378990,
+          "endMs": 381130
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 373280,
+      "endMs": 381480
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody likes bullies.\" Said Biff.",
+          "zh": "没有人喜欢小霸王。 不， 说 Biff。",
+          "startMs": 381160,
+          "endMs": 396070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 381480,
+      "endMs": 396420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rosie ran home.",
+          "zh": "罗西跑家。",
+          "startMs": 396100,
+          "endMs": 397490
+        },
+        {
+          "en": "The children were glad, but Biff felt a bit sorry for her.",
+          "zh": "这孩子们是高兴的， 但是 Biff 感觉一个一小块对不起为了她。",
+          "startMs": 397490,
+          "endMs": 397690
+        },
+        {
+          "en": "\"That was a strange adventure,\" said Biff.",
+          "zh": "那个是一个奇怪的冒险， 说 Biff。",
+          "startMs": 397690,
+          "endMs": 397890
+        },
+        {
+          "en": "\"The magic was different this time.\"",
+          "zh": "这魔法是不同的这个时间。",
+          "startMs": 397890,
+          "endMs": 398930
+        },
+        {
+          "en": "Then the bullies pulled Rosie's ear.",
+          "zh": "然后这小霸王拉罗西耳朵。",
+          "startMs": 414830,
+          "endMs": 417830
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 396420,
+      "endMs": 418180
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, two big children saw Rosie.",
+          "zh": "这下一个一天， 二大的孩子们看见罗西。",
+          "startMs": 417860,
+          "endMs": 433960
+        },
+        {
+          "en": "The big children were bullies, too.",
+          "zh": "这大的孩子们是小霸王， 也。",
+          "startMs": 433990,
+          "endMs": 436370
+        },
+        {
+          "en": "They wanted Rosie's sweets, so they pushed her against the wall.",
+          "zh": "他们想要罗西含糖的， 所以他们推她紧靠着这墙。",
+          "startMs": 436370,
+          "endMs": 436570
+        },
+        {
+          "en": "\"Help!\" Called Rosie.",
+          "zh": "帮助！ 叫罗西。",
+          "startMs": 436570,
+          "endMs": 436770
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 418180,
+      "endMs": 437120
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That hurts.",
+          "zh": "那个受伤。",
+          "startMs": 436770,
+          "endMs": 436970
+        },
+        {
+          "en": "Let me go!\" She shouted.",
+          "zh": "让我们去！ 让我去！ 她喊。",
+          "startMs": 436970,
+          "endMs": 437170
+        },
+        {
+          "en": "Chip and Wilma saw the bullies.",
+          "zh": "Chip 和 Wilma 看见这小霸王。",
+          "startMs": 437170,
+          "endMs": 437370
+        },
+        {
+          "en": "They didn't know what to do.",
+          "zh": "他们没有知道什么到做。",
+          "startMs": 437370,
+          "endMs": 437570
+        },
+        {
+          "en": "Biff and Wilma had an idea.",
+          "zh": "Wilma 有一个主意。",
+          "startMs": 437570,
+          "endMs": 437770
+        },
+        {
+          "en": "She ran and told Mrs. May about Rosie and the bullies.",
+          "zh": "他跑过一些岩石。",
+          "startMs": 437770,
+          "endMs": 439770
+        },
+        {
+          "en": "\"Come quickly, Mrs. May,\" Called Wilma.",
+          "zh": "来快速地， 说 Rose。",
+          "startMs": 443970,
+          "endMs": 445110
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 437120,
+      "endMs": 445460
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Rosie needs your help.\" Mrs. \"Nobody likes bullies,\" Said Mrs May went to help Rosie.",
+          "zh": "罗西必须你的帮助。 太太油煎。",
+          "startMs": 446310,
+          "endMs": 459800
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 446160,
+      "endMs": 460150
+    },
+    {
+      "sentences": [
+        {
+          "en": "She told the bullies off.",
+          "zh": "她告诉这小霸王离开。",
+          "startMs": 459800,
+          "endMs": 460000
+        },
+        {
+          "en": "May.",
+          "zh": "太太梅。",
+          "startMs": 460000,
+          "endMs": 460200
+        },
+        {
+          "en": "\"Bullying is nasty.",
+          "zh": "霸道是令人难受的。",
+          "startMs": 460200,
+          "endMs": 460400
+        },
+        {
+          "en": "Don't bully people again.\" Mrs. May spoke to all the children.",
+          "zh": "不小霸王人们再一次。 太太油煎。",
+          "startMs": 460400,
+          "endMs": 471520
+        },
+        {
+          "en": "\"Nobody likes bullies,\" She said.",
+          "zh": "没有人喜欢小霸王。",
+          "startMs": 471550,
+          "endMs": 493070
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 460150,
+      "endMs": 493420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Wilma was right to tell a grown-up.",
+          "zh": "Wilma 是正确的到告诉一个成熟的。",
+          "startMs": 493100,
+          "endMs": 496140
+        },
+        {
+          "en": "Always tell a grown-up about bullies.",
+          "zh": "总是告诉一个成熟的关于小霸王。",
+          "startMs": 496140,
+          "endMs": 496340
+        },
+        {
+          "en": "We don't want bullies in this school.\" \"Thank you,\" Rosie was glad that Chip and Wilma had helped her.",
+          "zh": "我们不想要小霸王在……里这个学校。 谢谢你。",
+          "startMs": 496340,
+          "endMs": 496740
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 493420,
+      "endMs": 497090
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 496740,
+          "endMs": 496940
+        },
+        {
+          "en": "She was sorry she had been a bully, and she didn't bully anyone again.",
+          "zh": "她是对不起她有是一个小霸王， 和她没有小霸王任何人再一次。",
+          "startMs": 496940,
+          "endMs": 497140
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 497090,
+      "endMs": 497490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, a new boy came to the school.",
+          "zh": "这下一个一天， 一个新的男孩来到这学校。",
+          "startMs": 500830,
+          "endMs": 504410
+        },
+        {
+          "en": "His name was Sam, and he didn't look very friendly.",
+          "zh": "他的名字是萨姆， 和他没有看非常友好的。",
+          "startMs": 505270,
+          "endMs": 508290
+        },
+        {
+          "en": "\"Oh no!\" Said Chip.",
+          "zh": "哦不！ 哦！ 说 Chip。",
+          "startMs": 512590,
+          "endMs": 515930
+        },
+        {
+          "en": "The next day, a new boy came to the school.",
+          "zh": "这下一个一天， 一个新的男孩来到这学校。",
+          "startMs": 519970,
+          "endMs": 520570
+        },
+        {
+          "en": "His name was Sam, and he didn't look very friendly.",
+          "zh": "他的名字是萨姆， 和他没有看非常友好的。",
+          "startMs": 520600,
+          "endMs": 524300
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 500680,
+      "endMs": 524650
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 524650,
+      "endMs": 524651
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 524651,
+      "endMs": 524652
+    }
+  ]
+}

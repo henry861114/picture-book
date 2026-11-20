@@ -1,0 +1,339 @@
+{
+  "id": "L4-008",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "A van came to the house.",
+          "zh": "一个送货车来到这房子。",
+          "startMs": 3538,
+          "endMs": 14118
+        }
+      ],
+      "startMs": 3388,
+      "endMs": 14468
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a big van!\" said Chip.",
+          "zh": "什么一个大的送货车！ 说 Chip。",
+          "startMs": 0,
+          "endMs": 3338
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3338
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a big man!\" said Kipper.",
+          "zh": "什么一个大的男人！ 说 Kipper。",
+          "startMs": 17328,
+          "endMs": 23058
+        }
+      ],
+      "startMs": 17178,
+      "endMs": 23408
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man looked at the things.",
+          "zh": "这男人看在这东西。",
+          "startMs": 6725,
+          "endMs": 10087
+        }
+      ],
+      "startMs": 6725,
+      "endMs": 10087
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a lot of things!\" he said.",
+          "zh": "什么一个许多的东西！ 他说。",
+          "startMs": 17328,
+          "endMs": 23058
+        }
+      ],
+      "startMs": 17178,
+      "endMs": 23408
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad helped the man.",
+          "zh": "妈妈和爸爸帮助这男人。",
+          "startMs": 14288,
+          "endMs": 15863
+        },
+        {
+          "en": "They put things in the van.",
+          "zh": "他们放东西在……里这送货车。",
+          "startMs": 15863,
+          "endMs": 17438
+        }
+      ],
+      "startMs": 14288,
+      "endMs": 17438
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a job!\" said Dad.",
+          "zh": "什么一个工作！ 说爸爸。",
+          "startMs": 17328,
+          "endMs": 23058
+        }
+      ],
+      "startMs": 17178,
+      "endMs": 23408
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped too.",
+          "zh": "这孩子们帮助也。",
+          "startMs": 22840,
+          "endMs": 25673
+        },
+        {
+          "en": "Kipper put his toys in the van.",
+          "zh": "Kipper 放他的玩具在……里这送货车。",
+          "startMs": 25673,
+          "endMs": 29332
+        }
+      ],
+      "startMs": 22840,
+      "endMs": 29332
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip put the go-kart in.",
+          "zh": "Biff 和 Chip 放这卡丁车在……里。",
+          "startMs": 29332,
+          "endMs": 33158
+        }
+      ],
+      "startMs": 29332,
+      "endMs": 33158
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put a box in the van.",
+          "zh": "他们放一个盒子在……里这送货车。",
+          "startMs": 33158,
+          "endMs": 35084
+        },
+        {
+          "en": "\"What a big box!\" said Biff.",
+          "zh": "什么一个大的盒子！ 说 Biff。",
+          "startMs": 35084,
+          "endMs": 37158
+        }
+      ],
+      "startMs": 33158,
+      "endMs": 37158
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a job!\" said everyone.",
+          "zh": "什么一个工作！ 说每个人。",
+          "startMs": 51838,
+          "endMs": 58968
+        }
+      ],
+      "startMs": 51688,
+      "endMs": 59318
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Goodbye,\" said Biff.",
+          "zh": "再见， 说 Biff。",
+          "startMs": 27138,
+          "endMs": 28238
+        },
+        {
+          "en": "\"Goodbye,\" said Chip.",
+          "zh": "再见， 说 Chip。",
+          "startMs": 43068,
+          "endMs": 44688
+        }
+      ],
+      "startMs": 26988,
+      "endMs": 45038
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and play soon,\" they said.",
+          "zh": "来和玩很快， 他们说。",
+          "startMs": 45018,
+          "endMs": 58968
+        }
+      ],
+      "startMs": 44868,
+      "endMs": 59318
+    },
+    {
+      "sentences": [
+        {
+          "en": "The van went to the new house.",
+          "zh": "这送货车去到这新的房子。",
+          "startMs": 50038,
+          "endMs": 63548
+        }
+      ],
+      "startMs": 49888,
+      "endMs": 63898
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at Biff and Chip \"Oh no!\"",
+          "zh": "爸爸看在 Biff 和 Chip 哦不！",
+          "startMs": 54838,
+          "endMs": 59095
+        },
+        {
+          "en": "Biff and Chip.",
+          "zh": "Biff 和 Chip。",
+          "startMs": 59095,
+          "endMs": 60751
+        }
+      ],
+      "startMs": 54838,
+      "endMs": 60751
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a job!\" they said.",
+          "zh": "什么一个工作！ 他们说。",
+          "startMs": 51838,
+          "endMs": 58968
+        }
+      ],
+      "startMs": 51688,
+      "endMs": 59318
+    },
+    {
+      "sentences": [
+        {
+          "en": "When I moved house I packed...",
+          "zh": "当……时我移动房子我拥挤的。。。",
+          "startMs": 63533,
+          "endMs": 67047
+        },
+        {
+          "en": "To help the child to concentrate and remember what has been said.",
+          "zh": "到帮助这孩子到全神贯注和记得什么有是说。",
+          "startMs": 67047,
+          "endMs": 74662
+        },
+        {
+          "en": "• Think of something you would pack if you moved house.",
+          "zh": "• 想的某物你会盒如果你移动房子。",
+          "startMs": 74662,
+          "endMs": 81105
+        },
+        {
+          "en": "When I moved house I packed my clothes.\"",
+          "zh": "当……时我移动房子我拥挤的我的衣服。",
+          "startMs": 81105,
+          "endMs": 85791
+        },
+        {
+          "en": "• The child thinks of something else, and says, e.",
+          "zh": "• 这孩子想的某物其他， 和说， 呃。",
+          "startMs": 85791,
+          "endMs": 91648
+        },
+        {
+          "en": "\"When I moved house I packed my clothes and my teddy.\"",
+          "zh": "当……时我移动房子我拥挤的我的衣服和我的泰迪熊。",
+          "startMs": 91648,
+          "endMs": 97974
+        },
+        {
+          "en": "• Go on taking turns, adding another thing each time.",
+          "zh": "• 去在……上拿转动， 补充另一个东西每个时间。",
+          "startMs": 97974,
+          "endMs": 104183
+        },
+        {
+          "en": "• Have fun going on until you begin to forget what came next.",
+          "zh": "• 有乐趣去在……上直到你开始到忘记什么来下一个。",
+          "startMs": 104183,
+          "endMs": 111329
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 111329,
+          "endMs": 118006
+        },
+        {
+          "en": "• Ask the child to find words with three letters in the story and to say the sounds of the letters in each word, e.",
+          "zh": "• 问这孩子到找到单词和……一起三信在……里这故事和到说这声音的这信在……里每个单词， 呃。",
+          "startMs": 118006,
+          "endMs": 131478
+        },
+        {
+          "en": "'job': j-o-b.",
+          "zh": "'工作'： j-o-b。",
+          "startMs": 131478,
+          "endMs": 133001
+        },
+        {
+          "en": "The child can then practise spelling them.",
+          "zh": "这孩子能然后练习拼写他们。",
+          "startMs": 133001,
+          "endMs": 137922
+        },
+        {
+          "en": "Find 'man' and 'van' in the story (pages 2 and 3).",
+          "zh": "找到 '男人' 和 '送货车' 在……里这故事 (页 2 和 3)。",
+          "startMs": 137922,
+          "endMs": 143779
+        },
+        {
+          "en": "Ask the child to think of as many words as he/she can that rhyme with 'man'.",
+          "zh": "问这孩子到想的像许多单词像他/她能那个押韵和……一起 '男人'。",
+          "startMs": 143779,
+          "endMs": 152682
+        },
+        {
+          "en": "Praise the child for thinking of lots of words.",
+          "zh": "称赞这孩子为了想的许多的单词。",
+          "startMs": 152682,
+          "endMs": 158188
+        }
+      ],
+      "startMs": 63533,
+      "endMs": 158188
+    },
+    {
+      "sentences": [],
+      "startMs": 158188,
+      "endMs": 158947,
+      "illustrationOnly": true
+    }
+  ]
+}

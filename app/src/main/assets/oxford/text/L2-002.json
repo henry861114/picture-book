@@ -1,0 +1,189 @@
+{
+  "id": "L2-002",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted new trainers.",
+          "zh": "Chip 想要新的教练员。",
+          "startMs": 5000,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He liked this pair.",
+          "zh": "他喜欢这个一双。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "[Music].",
+          "zh": "[音乐]。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wore the new trainers.",
+          "zh": "Chip 穿这新的教练员。",
+          "startMs": 27000,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 26850,
+      "endMs": 30450
+    },
+    {
+      "sentences": [],
+      "startMs": 33140,
+      "endMs": 34570,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip went to play.",
+          "zh": "Chip 去到玩。",
+          "startMs": 40000,
+          "endMs": 42100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 42450
+    },
+    {
+      "sentences": [],
+      "startMs": 44220,
+      "endMs": 45020,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The trainers got muddy.",
+          "zh": "这教练员得到泥泞的。",
+          "startMs": 48270,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 48120,
+      "endMs": 51450
+    },
+    {
+      "sentences": [],
+      "startMs": 53460,
+      "endMs": 54370,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The trainers got wet.",
+          "zh": "这教练员得到湿的。",
+          "startMs": 60000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [],
+      "startMs": 63620,
+      "endMs": 64920,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was cross.",
+          "zh": "爸爸是叉形。",
+          "startMs": 68000,
+          "endMs": 70100
+        }
+      ],
+      "startMs": 67850,
+      "endMs": 70450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip washed the trainers.",
+          "zh": "Chip 洗这教练员。",
+          "startMs": 75270,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 75120,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip washed the trainers.",
+          "zh": "Chip 洗这教练员。",
+          "startMs": 75270,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 75120,
+      "endMs": 78450
+    },
+    {
+      "sentences": [],
+      "startMs": 91490,
+      "endMs": 95168,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "[Music].",
+          "zh": "[音乐]。",
+          "startMs": 78000,
+          "endMs": 88100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 88450
+    },
+    {
+      "sentences": [],
+      "startMs": 99210,
+      "endMs": 99710,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 99710,
+      "endMs": 99936,
+      "illustrationOnly": true
+    }
+  ]
+}

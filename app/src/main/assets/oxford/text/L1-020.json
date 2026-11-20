@@ -1,0 +1,106 @@
+{
+  "id": "L1-020",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get on.",
+          "zh": "得到在……上。",
+          "startMs": 0,
+          "endMs": 8730
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get on, Biff.",
+          "zh": "得到在……上， Biff。",
+          "startMs": 0,
+          "endMs": 8730
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff got on.",
+          "zh": "Biff 得到在……上。",
+          "startMs": 17340,
+          "endMs": 20730
+        }
+      ],
+      "startMs": 17190,
+      "endMs": 21080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get on, Chip.",
+          "zh": "得到在……上， Chip。",
+          "startMs": 20630,
+          "endMs": 26730
+        }
+      ],
+      "startMs": 20480,
+      "endMs": 27080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip got on.",
+          "zh": "Chip 得到在……上。",
+          "startMs": 17340,
+          "endMs": 20730
+        }
+      ],
+      "startMs": 17190,
+      "endMs": 21080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get on, Kipper.",
+          "zh": "得到在……上， Kipper。",
+          "startMs": 32630,
+          "endMs": 38730
+        }
+      ],
+      "startMs": 32480,
+      "endMs": 39080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper got on.",
+          "zh": "Kipper 得到在……上。",
+          "startMs": 38630,
+          "endMs": 44730
+        }
+      ],
+      "startMs": 38480,
+      "endMs": 45080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh, no!",
+          "zh": "哦， 不！",
+          "startMs": 45000,
+          "endMs": 53730
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 54054
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "L3-009",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was cross.",
+          "zh": "Wilf 是叉形。",
+          "startMs": 0,
+          "endMs": 290
+        }
+      ],
+      "startMs": 0,
+      "endMs": 640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody wanted to play.",
+          "zh": "没有人想要到玩。",
+          "startMs": 5370,
+          "endMs": 8250
+        }
+      ],
+      "startMs": 5220,
+      "endMs": 8600
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went to the park.",
+          "zh": "他去到这公园。",
+          "startMs": 8150,
+          "endMs": 11470
+        }
+      ],
+      "startMs": 8000,
+      "endMs": 11820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf played on the rocket.",
+          "zh": "Wilf 玩在……上这火箭。",
+          "startMs": 23030,
+          "endMs": 26470
+        }
+      ],
+      "startMs": 22880,
+      "endMs": 26820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a spaceman,\" he said.",
+          "zh": "我是一个太空人， 他说。",
+          "startMs": 26370,
+          "endMs": 30470
+        }
+      ],
+      "startMs": 26220,
+      "endMs": 30820
+    },
+    {
+      "sentences": [
+        {
+          "en": "He played on the see-saw.",
+          "zh": "他玩在……上这跷跷板。",
+          "startMs": 36370,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 36220,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a juggler,\" he said.",
+          "zh": "我是一个抛接杂技演员， 他说。",
+          "startMs": 40370,
+          "endMs": 44470
+        }
+      ],
+      "startMs": 40220,
+      "endMs": 44820
+    },
+    {
+      "sentences": [
+        {
+          "en": "He played on the horse.",
+          "zh": "他玩在……上这马。",
+          "startMs": 51570,
+          "endMs": 55470
+        }
+      ],
+      "startMs": 51420,
+      "endMs": 55820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a cowboy,\" he said.",
+          "zh": "我是一个牛仔， 他说。",
+          "startMs": 55370,
+          "endMs": 59470
+        }
+      ],
+      "startMs": 55220,
+      "endMs": 59820
+    },
+    {
+      "sentences": [
+        {
+          "en": "He played on his bicycle.",
+          "zh": "他玩在……上他的自行车。",
+          "startMs": 66370,
+          "endMs": 69470
+        }
+      ],
+      "startMs": 66220,
+      "endMs": 69820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a stuntman,\" he said.",
+          "zh": "我是一个特技替身演员， 他说。",
+          "startMs": 69370,
+          "endMs": 73470
+        }
+      ],
+      "startMs": 69220,
+      "endMs": 73820
+    },
+    {
+      "sentences": [
+        {
+          "en": "He climbed up the ladder.",
+          "zh": "他爬向上这梯子。",
+          "startMs": 82370,
+          "endMs": 85470
+        }
+      ],
+      "startMs": 82220,
+      "endMs": 85820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a fireman,\" he said.",
+          "zh": "我是一个消防队员， 他说。",
+          "startMs": 87370,
+          "endMs": 91470
+        }
+      ],
+      "startMs": 87220,
+      "endMs": 91820
+    },
+    {
+      "sentences": [
+        {
+          "en": "He climbed on the wall.",
+          "zh": "他爬在……上这墙。",
+          "startMs": 100370,
+          "endMs": 102470
+        }
+      ],
+      "startMs": 100220,
+      "endMs": 102820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a spiderman,\" he said.",
+          "zh": "我是一个蜘蛛人， 他说。",
+          "startMs": 105370,
+          "endMs": 109470
+        }
+      ],
+      "startMs": 105220,
+      "endMs": 109820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Whoops!",
+          "zh": "哎哟！",
+          "startMs": 112370,
+          "endMs": 115470
+        }
+      ],
+      "startMs": 112220,
+      "endMs": 115820
+    },
+    {
+      "sentences": [],
+      "startMs": 123554,
+      "endMs": 123854,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 124054,
+      "endMs": 123854,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "id": "L5-005",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a castle.",
+          "zh": "魔法把他们带到了一座城堡。",
+          "startMs": 400,
+          "endMs": 7060
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 250,
+      "endMs": 7410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Three witches lived in the castle.",
+          "zh": "城堡里住着三个女巫。",
+          "startMs": 8390,
+          "endMs": 14000
+        },
+        {
+          "en": "They were nasty witches.",
+          "zh": "她们是邪恶的女巫。",
+          "startMs": 14000,
+          "endMs": 16490
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 8240,
+      "endMs": 16840
+    },
+    {
+      "sentences": [
+        {
+          "en": "One was a black witch.",
+          "zh": "其中一个是黑女巫。",
+          "startMs": 20250,
+          "endMs": 22930
+        },
+        {
+          "en": "One was a red witch.",
+          "zh": "一个是红女巫。",
+          "startMs": 22960,
+          "endMs": 23350
+        },
+        {
+          "en": "One was a green witch.",
+          "zh": "一个是绿女巫。",
+          "startMs": 25410,
+          "endMs": 28680
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 20100,
+      "endMs": 29030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children inside the castle.",
+          "zh": "魔法把孩子们带进了城堡。",
+          "startMs": 31250,
+          "endMs": 36330
+        },
+        {
+          "en": "It took them to a room. Said the frog.",
+          "zh": "它把他们带到一个房间里。 青蛙说。",
+          "startMs": 36360,
+          "endMs": 40500
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 31100,
+      "endMs": 40850
+    },
+    {
+      "sentences": [
+        {
+          "en": "A frog was in the room.",
+          "zh": "房间里有一只青蛙。",
+          "startMs": 40530,
+          "endMs": 43350
+        },
+        {
+          "en": "\"I am a king,\" said the frog.",
+          "zh": "“我是一国王，”青蛙说。",
+          "startMs": 43420,
+          "endMs": 46160
+        },
+        {
+          "en": "\"I am the king of this castle.\" Help me,\" \"The witches turned me into a frog.",
+          "zh": "“我是这座城堡的国王。” “救命！”",
+          "startMs": 47050,
+          "endMs": 60040
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 40850,
+      "endMs": 60390
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 62660,
+          "endMs": 64490
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 62510,
+      "endMs": 64840
+    },
+    {
+      "sentences": [
+        {
+          "en": "A witch was coming.",
+          "zh": "一个女巫来了。",
+          "startMs": 64520,
+          "endMs": 66580
+        },
+        {
+          "en": "It was the black witch.",
+          "zh": "是黑巫婆。",
+          "startMs": 68390,
+          "endMs": 73490
+        },
+        {
+          "en": "\"Look out!\" Said the frog.",
+          "zh": "小心。 青蛙说。",
+          "startMs": 73520,
+          "endMs": 78350
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 64840,
+      "endMs": 78700
+    },
+    {
+      "sentences": [
+        {
+          "en": "The witch opened the door.",
+          "zh": "女巫打开了门。",
+          "startMs": 82250,
+          "endMs": 85350
+        },
+        {
+          "en": "Gran pushed the witch.",
+          "zh": "Gran 推了女巫一把。",
+          "startMs": 91000,
+          "endMs": 95970
+        },
+        {
+          "en": "Chip took the witch's keys.",
+          "zh": "Chip 拿走了女巫的钥匙。",
+          "startMs": 96000,
+          "endMs": 99830
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 82100,
+      "endMs": 100180
+    },
+    {
+      "sentences": [
+        {
+          "en": "They ran out of the room.",
+          "zh": "他们跑出了房间。",
+          "startMs": 99860,
+          "endMs": 100790
+        },
+        {
+          "en": "Chip locked the door.",
+          "zh": "Chip 锁上了门。",
+          "startMs": 102130,
+          "endMs": 103900
+        },
+        {
+          "en": "The witch couldn't get out.",
+          "zh": "女巫出不来了。",
+          "startMs": 105260,
+          "endMs": 109590
+        },
+        {
+          "en": "\"Look out!\"",
+          "zh": "小心。",
+          "startMs": 115280,
+          "endMs": 117380
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 100180,
+      "endMs": 117730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone ran.",
+          "zh": "大家跑开了。",
+          "startMs": 117410,
+          "endMs": 118470
+        },
+        {
+          "en": "\"Look out!\" called Chip.",
+          "zh": "“小心！”Chip 喊道。",
+          "startMs": 118470,
+          "endMs": 120460
+        },
+        {
+          "en": "A witch was coming.",
+          "zh": "一个女巫来了。",
+          "startMs": 120490,
+          "endMs": 121020
+        },
+        {
+          "en": "\"I don't like witches,\" Said Gran.",
+          "zh": "我不喜欢女巫。 Gran 说道。",
+          "startMs": 129250,
+          "endMs": 133350
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 117730,
+      "endMs": 133700
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the red witch.",
+          "zh": "那是红女巫。",
+          "startMs": 133380,
+          "endMs": 135430
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 133700,
+      "endMs": 135780
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put a net over the witch.",
+          "zh": "她用一张网罩住了女巫。",
+          "startMs": 135430,
+          "endMs": 136350
+        },
+        {
+          "en": "The witch couldn't get out.",
+          "zh": "女巫出不来了。",
+          "startMs": 138760,
+          "endMs": 140860
+        },
+        {
+          "en": "\"Good old Gran,\" Called Biff.",
+          "zh": "好心的 Gran。 Biff 喊道。",
+          "startMs": 140890,
+          "endMs": 143490
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 135780,
+      "endMs": 143840
+    },
+    {
+      "sentences": [],
+      "pdfPage": 14,
+      "startMs": 143840,
+      "endMs": 143841
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran went to the green witch.",
+          "zh": "Gran 走到了绿女巫跟前。",
+          "startMs": 147250,
+          "endMs": 150350
+        },
+        {
+          "en": "\"I don't like nasty witches.\" Said Gran.",
+          "zh": "我不喜欢讨厌的女巫。 Gran 说道。",
+          "startMs": 150380,
+          "endMs": 155490
+        },
+        {
+          "en": "\"I don't like nasty witches.\"",
+          "zh": "我不喜欢讨厌的女巫。",
+          "startMs": 155520,
+          "endMs": 158350
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 147100,
+      "endMs": 158700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran threw the witch on the floor.",
+          "zh": "Gran 把女巫扔到了地上。",
+          "startMs": 159250,
+          "endMs": 162350
+        },
+        {
+          "en": "\"Help!\" Yelled the witch.",
+          "zh": "“救命！” 女巫大喊道。",
+          "startMs": 162420,
+          "endMs": 167290
+        },
+        {
+          "en": "\"Good old Gran,\" Said the children.",
+          "zh": "好心的 Gran。 孩子们说道。",
+          "startMs": 167320,
+          "endMs": 173490
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 159100,
+      "endMs": 173840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some frogs came in and jumped on the table.",
+          "zh": "一些青蛙进来，跳上了桌子。",
+          "startMs": 173520,
+          "endMs": 178350
+        },
+        {
+          "en": "One was the king.",
+          "zh": "其中一只青蛙是青蛙国王。",
+          "startMs": 179250,
+          "endMs": 181950
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 173840,
+      "endMs": 182300
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help us,\" He said.",
+          "zh": "救救我们。 他说。",
+          "startMs": 183280,
+          "endMs": 188240
+        },
+        {
+          "en": "Biff and Gran looked in the witches' book.",
+          "zh": "Biff 和 Gran 翻看了巫婆的书。",
+          "startMs": 188900,
+          "endMs": 199490
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 183130,
+      "endMs": 199840
+    },
+    {
+      "sentences": [
+        {
+          "en": "The frogs turned into people.",
+          "zh": "青蛙变成了人。",
+          "startMs": 199520,
+          "endMs": 202350
+        },
+        {
+          "en": "\"Thanks!\" Said the king.",
+          "zh": "“谢谢！” 国王说道。",
+          "startMs": 202380,
+          "endMs": 205620
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 199840,
+      "endMs": 205970
+    },
+    {
+      "sentences": [
+        {
+          "en": "The witches turned into frogs.",
+          "zh": "女巫们变成了青蛙。",
+          "startMs": 206860,
+          "endMs": 213660
+        },
+        {
+          "en": "Gran put the book on the fire.",
+          "zh": "Gran 把书扔进了火里。",
+          "startMs": 213690,
+          "endMs": 215350
+        },
+        {
+          "en": "\"Oh no!\" Said the witches.",
+          "zh": "哎呀。 女巫们说道。",
+          "startMs": 220370,
+          "endMs": 223350
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 206710,
+      "endMs": 223700
+    },
+    {
+      "sentences": [
+        {
+          "en": "The king had a party.",
+          "zh": "国王举办了一场派对。",
+          "startMs": 232280,
+          "endMs": 234380
+        },
+        {
+          "en": "Everyone went to it.",
+          "zh": "所有人都去了。",
+          "startMs": 235650,
+          "endMs": 238820
+        },
+        {
+          "en": "\"What a good party!\" Said Chip.",
+          "zh": "真是一场精彩的派对。 Chip 说道。",
+          "startMs": 238850,
+          "endMs": 241170
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 232130,
+      "endMs": 241520
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What an adventure!\" Said Biff.",
+          "zh": "“真是一场冒险！” Biff 说道。",
+          "startMs": 241250,
+          "endMs": 245350
+        },
+        {
+          "en": "\"I like adventures,\" said Gran.",
+          "zh": "“我喜欢冒险，”Gran 说。 Gran 说道。",
+          "startMs": 245390,
+          "endMs": 249490
+        },
+        {
+          "en": "\"Good old Gran!\" Said everyone.",
+          "zh": "好心的 Gran。 大家都这么说。",
+          "startMs": 249490,
+          "endMs": 260490
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 241520,
+      "endMs": 260840
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key was glowing.",
+          "zh": "魔法钥匙在闪闪发光。",
+          "startMs": 260520,
+          "endMs": 264380
+        },
+        {
+          "en": "\"It's time to go,\" said Biff.",
+          "zh": "“该走了，”Biff 说。 Biff 说道。",
+          "startMs": 264410,
+          "endMs": 267490
+        },
+        {
+          "en": "\"Goodbye,\" \"Goodbye,\" said the king.",
+          "zh": "再见！",
+          "startMs": 267520,
+          "endMs": 270000
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 260840,
+      "endMs": 270350
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back to Biff's room.",
+          "zh": "魔法把他们带回了 Biff 的房间。",
+          "startMs": 270800,
+          "endMs": 274180
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 270650,
+      "endMs": 274530
+    },
+    {
+      "sentences": [
+        {
+          "en": "They fell onto Biff's bed.",
+          "zh": "他们倒在了 Biff 的床上。",
+          "startMs": 285940,
+          "endMs": 287960
+        },
+        {
+          "en": "\"Oh no!\" Said Mum.",
+          "zh": "哎呀。 妈妈说道。",
+          "startMs": 293830,
+          "endMs": 297400
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 285790,
+      "endMs": 297750
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 297750,
+      "endMs": 297751
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 297751,
+      "endMs": 297752
+    }
+  ]
+}

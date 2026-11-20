@@ -1,0 +1,213 @@
+{
+  "id": "L2-016",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff made an aeroplane.",
+          "zh": "Biff 做一个飞机。",
+          "startMs": 0,
+          "endMs": 7300
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum helped her.",
+          "zh": "妈妈帮助她。",
+          "startMs": 12480,
+          "endMs": 13540
+        }
+      ],
+      "startMs": 12330,
+      "endMs": 13890
+    },
+    {
+      "sentences": [
+        {
+          "en": "The aeroplane looked good.",
+          "zh": "这飞机看好的。",
+          "startMs": 21680,
+          "endMs": 23540
+        }
+      ],
+      "startMs": 21530,
+      "endMs": 23890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted to fly it.",
+          "zh": "Biff 想要到飞它。",
+          "startMs": 28440,
+          "endMs": 30150
+        }
+      ],
+      "startMs": 28290,
+      "endMs": 30500
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went to the park.",
+          "zh": "她去到这公园。",
+          "startMs": 30050,
+          "endMs": 32420
+        }
+      ],
+      "startMs": 29900,
+      "endMs": 32770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The aeroplane flew up.",
+          "zh": "这飞机飞向上。",
+          "startMs": 39600,
+          "endMs": 41350
+        }
+      ],
+      "startMs": 39450,
+      "endMs": 41700
+    },
+    {
+      "sentences": [
+        {
+          "en": "It went over the trees.",
+          "zh": "它去在……上方这树。",
+          "startMs": 41250,
+          "endMs": 44820
+        }
+      ],
+      "startMs": 41100,
+      "endMs": 45170
+    },
+    {
+      "sentences": [
+        {
+          "en": "It went over the houses.",
+          "zh": "它去在……上方这房子。",
+          "startMs": 53110,
+          "endMs": 59280
+        }
+      ],
+      "startMs": 52960,
+      "endMs": 59630
+    },
+    {
+      "sentences": [],
+      "startMs": 60270,
+      "endMs": 61070,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked for the aeroplane.",
+          "zh": "Biff 看为了这飞机。",
+          "startMs": 59180,
+          "endMs": 65780
+        }
+      ],
+      "startMs": 59030,
+      "endMs": 66130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone helped.",
+          "zh": "每个人帮助。",
+          "startMs": 70380,
+          "endMs": 78420
+        }
+      ],
+      "startMs": 70230,
+      "endMs": 78770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff made an aeroplane.",
+          "zh": "Biff 做一个飞机。",
+          "startMs": 59180,
+          "endMs": 65780
+        }
+      ],
+      "startMs": 59030,
+      "endMs": 66130
+    },
+    {
+      "sentences": [
+        {
+          "en": "She couldn't find it.",
+          "zh": "她不能找到它。",
+          "startMs": 80010,
+          "endMs": 85940
+        }
+      ],
+      "startMs": 79860,
+      "endMs": 86290
+    },
+    {
+      "sentences": [
+        {
+          "en": "She wanted to cry.",
+          "zh": "她想要到哭。",
+          "startMs": 91190,
+          "endMs": 94450
+        }
+      ],
+      "startMs": 91040,
+      "endMs": 94800
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went upstairs.",
+          "zh": "她去在楼上。",
+          "startMs": 94350,
+          "endMs": 98180
+        }
+      ],
+      "startMs": 94200,
+      "endMs": 98530
+    },
+    {
+      "sentences": [
+        {
+          "en": "The aeroplane was on the bed.",
+          "zh": "这飞机是在……上这床。",
+          "startMs": 105120,
+          "endMs": 112900
+        }
+      ],
+      "startMs": 104970,
+      "endMs": 113017
+    },
+    {
+      "sentences": [],
+      "startMs": 112341,
+      "endMs": 112841,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 112841,
+      "endMs": 113017,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "L2-013",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted new shoes.",
+          "zh": "Kipper 想要新的鞋。",
+          "startMs": 0,
+          "endMs": 12160
+        }
+      ],
+      "startMs": 0,
+      "endMs": 12510
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't tie his laces.",
+          "zh": "他不能题额他的花边。",
+          "startMs": 12060,
+          "endMs": 14300
+        }
+      ],
+      "startMs": 11910,
+      "endMs": 14650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad helped him.",
+          "zh": "爸爸帮助他。",
+          "startMs": 14200,
+          "endMs": 23580
+        }
+      ],
+      "startMs": 14050,
+      "endMs": 23930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was at school.",
+          "zh": "Kipper 是在学校。",
+          "startMs": 7380,
+          "endMs": 8430
+        }
+      ],
+      "startMs": 7380,
+      "endMs": 8430
+    },
+    {
+      "sentences": [],
+      "startMs": 8430,
+      "endMs": 9660,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper couldn't tie his laces.",
+          "zh": "Kipper 不能题额他的花边。",
+          "startMs": 0,
+          "endMs": 14300
+        }
+      ],
+      "startMs": 0,
+      "endMs": 14650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Miss Green helped him.",
+          "zh": "小姐绿色的帮助他。",
+          "startMs": 16080,
+          "endMs": 23580
+        }
+      ],
+      "startMs": 15930,
+      "endMs": 23930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was upset.",
+          "zh": "Kipper 是使苦恼。",
+          "startMs": 23530,
+          "endMs": 26160
+        }
+      ],
+      "startMs": 23380,
+      "endMs": 26510
+    },
+    {
+      "sentences": [
+        {
+          "en": "He told Dad.",
+          "zh": "他告诉爸爸。",
+          "startMs": 12060,
+          "endMs": 16180
+        }
+      ],
+      "startMs": 11910,
+      "endMs": 16530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad made a block.",
+          "zh": "爸爸做一个大块。",
+          "startMs": 17548,
+          "endMs": 19356
+        }
+      ],
+      "startMs": 17548,
+      "endMs": 19356
+    },
+    {
+      "sentences": [],
+      "startMs": 19356,
+      "endMs": 20156,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper tried... and tried...",
+          "zh": "Kipper 经过考验的。。。 和经过考验的。。。",
+          "startMs": 20156,
+          "endMs": 22760
+        }
+      ],
+      "startMs": 20156,
+      "endMs": 22760
+    },
+    {
+      "sentences": [
+        {
+          "en": "and tried and tried. said Kipper.",
+          "zh": "和经过考验的和经过考验的。 说 Kipper。",
+          "startMs": 22760,
+          "endMs": 25951
+        }
+      ],
+      "startMs": 22760,
+      "endMs": 25951
+    },
+    {
+      "sentences": [],
+      "startMs": 25951,
+      "endMs": 26751,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He did up his laces.",
+          "zh": "他做向上他的花边。",
+          "startMs": 12060,
+          "endMs": 14300
+        }
+      ],
+      "startMs": 11910,
+      "endMs": 14650
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Kipper.",
+          "zh": "哦不！ 说 Kipper。",
+          "startMs": 28184,
+          "endMs": 32100
+        }
+      ],
+      "startMs": 28184,
+      "endMs": 32100
+    },
+    {
+      "sentences": [
+        {
+          "en": "This game helps the child to recognise capital letters.",
+          "zh": "这个游戏帮助这孩子到认出大写字母信。",
+          "startMs": 32100,
+          "endMs": 37874
+        },
+        {
+          "en": "Look through the book and find words with capital letters.",
+          "zh": "看穿过这书和找到单词和……一起大写字母信。",
+          "startMs": 37874,
+          "endMs": 43963
+        },
+        {
+          "en": "Notice whether the capital letters are used to begin a sentence or a name.",
+          "zh": "布告是否这大写字母信是我们到开始一个句子或者一个名字。",
+          "startMs": 43963,
+          "endMs": 51732
+        },
+        {
+          "en": "Choose one of the capital letters and ask the child to find it and show it to you.",
+          "zh": "选择一的这大写字母信和问这孩子到找到它和展示它到你。",
+          "startMs": 51732,
+          "endMs": 60341
+        },
+        {
+          "en": "Then the child chooses a capital letter and asks you to find it.",
+          "zh": "然后这孩子选择一个大写字母信和问你到找到它。",
+          "startMs": 60341,
+          "endMs": 67060
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 67060,
+          "endMs": 70105
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 70105,
+          "endMs": 76089
+        },
+        {
+          "en": "• Look at the letters on the blackboard on page 5 of the story.",
+          "zh": "• 看在这信在……上这黑板在……上页 5 的这故事。",
+          "startMs": 76089,
+          "endMs": 82703
+        },
+        {
+          "en": "Say the alphabet together, putting in the letters that you cannot see on the page.",
+          "zh": "说这字母表一起， 放在……里这信那个你 cannot 看见在……上这页。",
+          "startMs": 82703,
+          "endMs": 91312
+        },
+        {
+          "en": "If the child has trouble doing up laces, use a block or a shoe to practise.",
+          "zh": "如果这孩子有问题做向上花边， 使用一个大块或者一个鞋到练习。",
+          "startMs": 91312,
+          "endMs": 99185
+        },
+        {
+          "en": "Give plenty of praise for trying.",
+          "zh": "给大量的称赞为了令人厌烦的。",
+          "startMs": 99185,
+          "endMs": 102650
+        }
+      ],
+      "startMs": 32100,
+      "endMs": 102650
+    },
+    {
+      "sentences": [],
+      "startMs": 102650,
+      "endMs": 103061,
+      "illustrationOnly": true
+    }
+  ]
+}

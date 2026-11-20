@@ -1,0 +1,188 @@
+{
+  "id": "L1-011",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff found Floppy was really good at fetching a ball.",
+          "zh": "Biff 找到 Floppy 是真的好的在迷人的一个球。",
+          "startMs": 0,
+          "endMs": 4980
+        },
+        {
+          "en": "\"Go fetch a ball Floppy!\"",
+          "zh": "去接来一个球 Floppy！",
+          "startMs": 5580,
+          "endMs": 7500
+        },
+        {
+          "en": "said Biff.",
+          "zh": "说 Biff。",
+          "startMs": 7400,
+          "endMs": 8700
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Good boy!\"",
+          "zh": "好的男孩！",
+          "startMs": 11460,
+          "endMs": 12740
+        }
+      ],
+      "startMs": 11310,
+      "endMs": 13090
+    },
+    {
+      "sentences": [
+        {
+          "en": "When Floppy went to pick up the ball, he found a spiky prickly ball that looked really odd.",
+          "zh": "当……时 Floppy 去到挑选向上这球， 他找到一个 spiky prickly 球那个看真的奇怪的。",
+          "startMs": 17000,
+          "endMs": 23660
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 24010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum, Biff and Chip found a hedgehog in the garden.",
+          "zh": "妈妈， Biff 和 Chip 找到一个 hedgehog 在……里这花园。",
+          "startMs": 29920,
+          "endMs": 33640
+        }
+      ],
+      "startMs": 29770,
+      "endMs": 33990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There's a hedgehog!\"",
+          "zh": "有一个 hedgehog！",
+          "startMs": 34260,
+          "endMs": 35730
+        },
+        {
+          "en": "said Biff.",
+          "zh": "说 Biff。",
+          "startMs": 35630,
+          "endMs": 36780
+        },
+        {
+          "en": "\"You're right, it is a hedgehog!\"",
+          "zh": "你是正确的， 它是一个 hedgehog！",
+          "startMs": 36960,
+          "endMs": 39560
+        },
+        {
+          "en": "said Mum.",
+          "zh": "说妈妈。",
+          "startMs": 39460,
+          "endMs": 40500
+        }
+      ],
+      "startMs": 34110,
+      "endMs": 40850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took Kipper, Biff and Chip to the garden at night.",
+          "zh": "妈妈拿 Kipper， Biff 和 Chip 到这花园在夜晚。",
+          "startMs": 46840,
+          "endMs": 50540
+        },
+        {
+          "en": "\"Where are we going?\"",
+          "zh": "哪里是我们去？",
+          "startMs": 51160,
+          "endMs": 52780
+        },
+        {
+          "en": "\"Shh, we're going inside the shed!\"",
+          "zh": "Shh， 我们是去里面这她！",
+          "startMs": 52920,
+          "endMs": 53070
+        },
+        {
+          "en": "said Mum.",
+          "zh": "说妈妈。",
+          "startMs": 52920,
+          "endMs": 57260
+        }
+      ],
+      "startMs": 46690,
+      "endMs": 57610
+    },
+    {
+      "sentences": [],
+      "startMs": 61540,
+      "endMs": 63757,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum hung the lamp on a nail outside, and everyone waited very quietly.",
+          "zh": "妈妈各党势均力敌的这灯在……上一个 nail 外面， 和每个人等非常轻轻地。",
+          "startMs": 60000,
+          "endMs": 66060
+        },
+        {
+          "en": "\"Wow, it is a hedgehog!\"",
+          "zh": "哇， 它是一个 hedgehog！",
+          "startMs": 66520,
+          "endMs": 68890
+        },
+        {
+          "en": "said Chip.",
+          "zh": "说 Chip。",
+          "startMs": 68790,
+          "endMs": 70300
+        },
+        {
+          "en": "\"Look at him eating flags!\"",
+          "zh": "看在他吃旗！",
+          "startMs": 72200,
+          "endMs": 73900
+        },
+        {
+          "en": "yelled Biff.",
+          "zh": "叫喊 Biff。",
+          "startMs": 73800,
+          "endMs": 75780
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 76130
+    },
+    {
+      "sentences": [],
+      "startMs": 84840,
+      "endMs": 85140,
+      "illustrationOnly": true
+    }
+  ]
+}

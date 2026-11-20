@@ -1,0 +1,273 @@
+{
+  "id": "L2-017",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "A fire engine went by.",
+          "zh": "一个火发动机去由。",
+          "startMs": 0,
+          "endMs": 16670
+        }
+      ],
+      "startMs": 0,
+      "endMs": 17020
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a fire.",
+          "zh": "那里是一个火。",
+          "startMs": 16570,
+          "endMs": 18760
+        }
+      ],
+      "startMs": 16420,
+      "endMs": 19110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone ran to see.",
+          "zh": "每个人跑到看见。",
+          "startMs": 4157,
+          "endMs": 6448
+        }
+      ],
+      "startMs": 4157,
+      "endMs": 6448
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get back,\" said a fireman.",
+          "zh": "得到回来， 说一个消防队员。",
+          "startMs": 6448,
+          "endMs": 9540
+        }
+      ],
+      "startMs": 6448,
+      "endMs": 9540
+    },
+    {
+      "sentences": [],
+      "startMs": 9540,
+      "endMs": 10340,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "A little dog ran to the barn.",
+          "zh": "一个小的狗跑到这谷仓。",
+          "startMs": 0,
+          "endMs": 24850
+        }
+      ],
+      "startMs": 0,
+      "endMs": 25200
+    },
+    {
+      "sentences": [
+        {
+          "en": "She barked and barked.",
+          "zh": "她吠叫和吠叫。",
+          "startMs": 12440,
+          "endMs": 15496
+        }
+      ],
+      "startMs": 12440,
+      "endMs": 15496
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran to the barn.",
+          "zh": "Floppy 跑到这谷仓。",
+          "startMs": 22550,
+          "endMs": 34180
+        }
+      ],
+      "startMs": 22400,
+      "endMs": 34530
+    },
+    {
+      "sentences": [
+        {
+          "en": "He jumped in the window.",
+          "zh": "他跳在……里这窗户。",
+          "startMs": 18131,
+          "endMs": 20880
+        }
+      ],
+      "startMs": 18131,
+      "endMs": 20880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy,\" said Chip.",
+          "zh": "Floppy， 说 Chip。",
+          "startMs": 20880,
+          "endMs": 23056
+        }
+      ],
+      "startMs": 20880,
+      "endMs": 23056
+    },
+    {
+      "sentences": [
+        {
+          "en": "The firemen pushed the door down.",
+          "zh": "这消防队员推这门向下。",
+          "startMs": 23056,
+          "endMs": 25640
+        }
+      ],
+      "startMs": 23056,
+      "endMs": 25640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran out.",
+          "zh": "Floppy 跑出。",
+          "startMs": 22550,
+          "endMs": 23930
+        }
+      ],
+      "startMs": 22400,
+      "endMs": 24280
+    },
+    {
+      "sentences": [
+        {
+          "en": "He had some puppies.",
+          "zh": "他有一些幼犬。",
+          "startMs": 28554,
+          "endMs": 30845
+        }
+      ],
+      "startMs": 28554,
+      "endMs": 30845
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at Floppy.",
+          "zh": "每个人看在 Floppy。",
+          "startMs": 18660,
+          "endMs": 50420
+        }
+      ],
+      "startMs": 18510,
+      "endMs": 50770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good dog!\" everyone said.",
+          "zh": "什么一个好的狗！ 每个人说。",
+          "startMs": 33823,
+          "endMs": 37603
+        }
+      ],
+      "startMs": 33823,
+      "endMs": 37603
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a hero!",
+          "zh": "什么一个英雄！",
+          "startMs": 30470,
+          "endMs": 30590
+        }
+      ],
+      "startMs": 30320,
+      "endMs": 30940
+    },
+    {
+      "sentences": [
+        {
+          "en": "I Spy beginning letters To help the child to notice words beginning with the same letter.",
+          "zh": "我间谍开始信到帮助这孩子到布告单词开始和……一起这同样的信。",
+          "startMs": 38977,
+          "endMs": 48719
+        },
+        {
+          "en": "• Find 'by' on page 1.",
+          "zh": "• 找到 '由' 在……上页 1。",
+          "startMs": 48719,
+          "endMs": 51127
+        },
+        {
+          "en": "I spy a word beginning with 'b\" , and look for other words beginning with 'b' in the book ('back\", 'barn', 'barked\").",
+          "zh": "我间谍一个单词开始和……一起 '第二， 和看为了其他单词开始和……一起 '第二' 在……里这书 ('回来， '谷仓'， '吠叫)。",
+          "startMs": 51127,
+          "endMs": 63934
+        },
+        {
+          "en": "The child then thinks of another beginning letter and looks for words beginning with that letter.",
+          "zh": "这孩子然后想的另一个开始信和看为了单词开始和……一起那个信。",
+          "startMs": 63934,
+          "endMs": 74552
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 74552,
+          "endMs": 77726
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 77726,
+          "endMs": 83966
+        },
+        {
+          "en": "• Look at all the people on pages 2 and 3 of the story.",
+          "zh": "• 看在全部这人们在……上页 2 和 3 的这故事。",
+          "startMs": 83966,
+          "endMs": 89986
+        },
+        {
+          "en": "Talk about what each was doing before they ran to see the fire.",
+          "zh": "谈话关于什么每个是做在……之前他们跑到看见这火。",
+          "startMs": 89986,
+          "endMs": 96882
+        },
+        {
+          "en": "Look for the word 'fire' in the story.",
+          "zh": "看为了这单词 '火' 在……里这故事。",
+          "startMs": 96882,
+          "endMs": 101041
+        },
+        {
+          "en": "Find it in capital letters on the newspaper and as part of the word 'fireman'",
+          "zh": "找到它在……里大写字母信在……上这报纸和像部分的这单词 '消防队员'",
+          "startMs": 101041,
+          "endMs": 109470
+        }
+      ],
+      "startMs": 38977,
+      "endMs": 109470
+    },
+    {
+      "sentences": [],
+      "startMs": 109470,
+      "endMs": 113885,
+      "illustrationOnly": true
+    }
+  ]
+}

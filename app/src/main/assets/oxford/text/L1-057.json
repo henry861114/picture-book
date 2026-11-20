@@ -1,0 +1,195 @@
+{
+  "id": "L1-057",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm bored,\" said Kipper.",
+          "zh": "我是厌倦的， 说 Kipper。",
+          "startMs": 16950,
+          "endMs": 19530
+        }
+      ],
+      "startMs": 16800,
+      "endMs": 19880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm hungry,\" said Biff.",
+          "zh": "我是饿的， 说 Biff。",
+          "startMs": 23950,
+          "endMs": 26860
+        }
+      ],
+      "startMs": 23800,
+      "endMs": 27210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Big Eater \"I'm thirsty,\" said Chip.",
+          "zh": "这大的吃我是渴的， 说 Chip。",
+          "startMs": 0,
+          "endMs": 29410
+        }
+      ],
+      "startMs": 0,
+      "endMs": 29760
+    },
+    {
+      "sentences": [
+        {
+          "en": "DIVERSI \"I'm cross, said Dad.",
+          "zh": "DIVERSI 我是叉形， 说爸爸。",
+          "startMs": 36790,
+          "endMs": 43410
+        }
+      ],
+      "startMs": 36640,
+      "endMs": 43760
+    },
+    {
+      "sentences": [],
+      "startMs": 22708,
+      "endMs": 23508,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm lost,\" said Mum.",
+          "zh": "我是丢失， 说妈妈。",
+          "startMs": 23950,
+          "endMs": 24770
+        }
+      ],
+      "startMs": 23800,
+      "endMs": 25120
+    },
+    {
+      "sentences": [],
+      "startMs": 25694,
+      "endMs": 26494,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "said everyone.",
+          "zh": "说每个人。",
+          "startMs": 16950,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 16800,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who said it?",
+          "zh": "谁说它？",
+          "startMs": 27730,
+          "endMs": 29409
+        },
+        {
+          "en": "This game helps the child to remember the story.",
+          "zh": "这个游戏帮助这孩子到记得这故事。",
+          "startMs": 29409,
+          "endMs": 36123
+        },
+        {
+          "en": "• Ask, e.",
+          "zh": "• 问， 呃。",
+          "startMs": 36123,
+          "endMs": 37382
+        },
+        {
+          "en": "\"Who said 'I'm lost'?\"",
+          "zh": "谁说 '我是丢失'？",
+          "startMs": 37382,
+          "endMs": 40460
+        },
+        {
+          "en": "The child has to try to remember.",
+          "zh": "这孩子有到尝试到记得。",
+          "startMs": 40460,
+          "endMs": 45076
+        },
+        {
+          "en": "• Then the child asks you a question.",
+          "zh": "• 然后这孩子问你一个问题。",
+          "startMs": 45076,
+          "endMs": 50252
+        },
+        {
+          "en": "Can you remember?",
+          "zh": "能你记得？",
+          "startMs": 50252,
+          "endMs": 52630
+        },
+        {
+          "en": "Look in the book to check the answer.",
+          "zh": "看在……里这书到查明这回答。",
+          "startMs": 52630,
+          "endMs": 57806
+        },
+        {
+          "en": "• Have a few turns each.",
+          "zh": "• 有一个很少转动每个。",
+          "startMs": 57806,
+          "endMs": 61163
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 61163,
+          "endMs": 69137
+        },
+        {
+          "en": "Find 'said' on each page.",
+          "zh": "找到 '说' 在……上每个页。",
+          "startMs": 69137,
+          "endMs": 72634
+        },
+        {
+          "en": "Practise spelling 'said'.",
+          "zh": "练习拼写 '说'。",
+          "startMs": 72634,
+          "endMs": 76131
+        },
+        {
+          "en": "Find 'I'm' as often as you can.",
+          "zh": "找到 '我是' 像经常像你能。",
+          "startMs": 76131,
+          "endMs": 80468
+        },
+        {
+          "en": "I am'.",
+          "zh": "我是'。",
+          "startMs": 80468,
+          "endMs": 81307
+        }
+      ],
+      "startMs": 27730,
+      "endMs": 81307
+    },
+    {
+      "sentences": [],
+      "startMs": 81307,
+      "endMs": 81607,
+      "illustrationOnly": true
+    }
+  ]
+}

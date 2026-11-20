@@ -1,0 +1,208 @@
+{
+  "id": "L1-012",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It's a big, juicy apple.",
+          "zh": "它是一个大的， 多汁的苹果。",
+          "startMs": 0,
+          "endMs": 4462
+        },
+        {
+          "en": "I want that apple. have a good idea.",
+          "zh": "我想要那个苹果。 有一个好的主意。",
+          "startMs": 4462,
+          "endMs": 11154
+        },
+        {
+          "en": "It's too high to reach.",
+          "zh": "它是也高的到到达。",
+          "startMs": 11154,
+          "endMs": 15430
+        }
+      ],
+      "startMs": 0,
+      "endMs": 15430
+    },
+    {
+      "sentences": [
+        {
+          "en": "Little more, daddy, little more.",
+          "zh": "小的更多， 爸爸， 小的更多。",
+          "startMs": 15430,
+          "endMs": 21982
+        },
+        {
+          "en": "I can't reach it!",
+          "zh": "我不能到达它！",
+          "startMs": 21982,
+          "endMs": 25463
+        },
+        {
+          "en": "It's too high!",
+          "zh": "它是也高的！",
+          "startMs": 25463,
+          "endMs": 28330
+        },
+        {
+          "en": "Stand on your tiptoes!",
+          "zh": "站在……上你的脚尖！",
+          "startMs": 28330,
+          "endMs": 32835
+        },
+        {
+          "en": "I have another idea.",
+          "zh": "我有另一个主意。",
+          "startMs": 32835,
+          "endMs": 36930
+        }
+      ],
+      "startMs": 15430,
+      "endMs": 36930
+    },
+    {
+      "sentences": [],
+      "startMs": 36930,
+      "endMs": 37730,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "I've almost got it, daddy.",
+          "zh": "我已经几乎得到它， 爸爸。",
+          "startMs": 37730,
+          "endMs": 43466
+        },
+        {
+          "en": "You're very heavy!",
+          "zh": "你是非常重的！",
+          "startMs": 43466,
+          "endMs": 47438
+        },
+        {
+          "en": "Chip, be careful!",
+          "zh": "Chip， 是谨慎的！",
+          "startMs": 47438,
+          "endMs": 51188
+        },
+        {
+          "en": "Ok.",
+          "zh": "我们走吧。",
+          "startMs": 51188,
+          "endMs": 51850
+        }
+      ],
+      "startMs": 37730,
+      "endMs": 51850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Almost there.",
+          "zh": "几乎那里。",
+          "startMs": 36310,
+          "endMs": 38410
+        }
+      ],
+      "startMs": 36160,
+      "endMs": 38760
+    },
+    {
+      "sentences": [
+        {
+          "en": "I've got it.",
+          "zh": "我已经得到它。",
+          "startMs": 53880,
+          "endMs": 56729
+        },
+        {
+          "en": "Oh, no...",
+          "zh": "哦， 不。。。",
+          "startMs": 56729,
+          "endMs": 58865
+        },
+        {
+          "en": "The apple is falling!",
+          "zh": "这苹果是落下！",
+          "startMs": 58865,
+          "endMs": 63850
+        }
+      ],
+      "startMs": 53880,
+      "endMs": 63850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Catch it, mommy!",
+          "zh": "抓住它， 妈咪！",
+          "startMs": 63850,
+          "endMs": 65773
+        },
+        {
+          "en": "Oops, catch it ,Biff!",
+          "zh": "哎哟， 抓住它，Biff！",
+          "startMs": 65773,
+          "endMs": 68296
+        },
+        {
+          "en": "Oh,no....",
+          "zh": "哦，不。。。。",
+          "startMs": 68296,
+          "endMs": 69378
+        },
+        {
+          "en": "Woo...",
+          "zh": "追求。。。",
+          "startMs": 69378,
+          "endMs": 70099
+        },
+        {
+          "en": "Woo...",
+          "zh": "追求。。。",
+          "startMs": 70099,
+          "endMs": 70820
+        }
+      ],
+      "startMs": 63850,
+      "endMs": 70820
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Floppy is eating the apple!",
+          "zh": "'Floppy 是吃这苹果！",
+          "startMs": 70820,
+          "endMs": 76928
+        },
+        {
+          "en": "Oh, no, Floppy...",
+          "zh": "哦， 不， Floppy。。。",
+          "startMs": 76928,
+          "endMs": 80636
+        },
+        {
+          "en": "It looks so yummy.",
+          "zh": "它看所以味道好极了。",
+          "startMs": 80636,
+          "endMs": 84562
+        },
+        {
+          "en": "Ha. ha. ha,you're lucky, Floppy.",
+          "zh": "哈。 哈。 哈，你是幸运的， Floppy。",
+          "startMs": 84562,
+          "endMs": 91542
+        }
+      ],
+      "startMs": 70820,
+      "endMs": 91542
+    }
+  ]
+}

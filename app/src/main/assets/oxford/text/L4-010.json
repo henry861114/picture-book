@@ -1,0 +1,417 @@
+{
+  "id": "L4-010",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip liked the new house.",
+          "zh": "Biff 和 Chip 喜欢这新的房子。",
+          "startMs": 0,
+          "endMs": 6650
+        },
+        {
+          "en": "They helped Mum and Dad.",
+          "zh": "他们帮助妈妈和爸爸。",
+          "startMs": 6550,
+          "endMs": 10590
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put wallpaper on the wall.",
+          "zh": "妈妈放墙纸在……上这墙。",
+          "startMs": 12010,
+          "endMs": 19910
+        },
+        {
+          "en": "Chip helped her.",
+          "zh": "Chip 帮助她。",
+          "startMs": 19810,
+          "endMs": 25410
+        }
+      ],
+      "startMs": 11860,
+      "endMs": 25760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad painted a door.",
+          "zh": "爸爸油漆一个门。",
+          "startMs": 25310,
+          "endMs": 27490
+        },
+        {
+          "en": "Biff helped him.",
+          "zh": "Biff 帮助他。",
+          "startMs": 27390,
+          "endMs": 30480
+        }
+      ],
+      "startMs": 25160,
+      "endMs": 30830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was in her room.",
+          "zh": "Biff 是在……里她房间。",
+          "startMs": 30380,
+          "endMs": 36790
+        },
+        {
+          "en": "Dad looked at the wallpaper.",
+          "zh": "爸爸看在这墙纸。",
+          "startMs": 36690,
+          "endMs": 42610
+        }
+      ],
+      "startMs": 30230,
+      "endMs": 42960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted new wallpaper.",
+          "zh": "Biff 想要新的墙纸。",
+          "startMs": 42510,
+          "endMs": 50530
+        }
+      ],
+      "startMs": 42360,
+      "endMs": 50880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Please HAND-PRINTED do not touch!",
+          "zh": "请 HAND-PRINTED 做不触碰！",
+          "startMs": 48782,
+          "endMs": 54978
+        },
+        {
+          "en": "They went to the wallpaper shop.",
+          "zh": "他们去到这墙纸商店。",
+          "startMs": 54978,
+          "endMs": 60986
+        }
+      ],
+      "startMs": 48782,
+      "endMs": 60986
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the wallpaper.",
+          "zh": "Biff 看在这墙纸。",
+          "startMs": 54550,
+          "endMs": 58570
+        },
+        {
+          "en": "She liked this wallpaper.",
+          "zh": "她喜欢这个墙纸。",
+          "startMs": 58470,
+          "endMs": 66270
+        }
+      ],
+      "startMs": 54400,
+      "endMs": 66620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad pulled the wallpaper off.",
+          "zh": "妈妈和爸爸拉这墙纸离开。",
+          "startMs": 66960,
+          "endMs": 73570
+        }
+      ],
+      "startMs": 66810,
+      "endMs": 73920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip helped.",
+          "zh": "Biff 和 Chip 帮助。",
+          "startMs": 73470,
+          "endMs": 78040
+        },
+        {
+          "en": "\"What a job!\" said Chip.",
+          "zh": "什么一个工作！ 说 Chip。",
+          "startMs": 77940,
+          "endMs": 86490
+        }
+      ],
+      "startMs": 73320,
+      "endMs": 86840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff found a door.",
+          "zh": "Biff 找到一个门。",
+          "startMs": 88270,
+          "endMs": 92900
+        }
+      ],
+      "startMs": 88120,
+      "endMs": 93250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The door was stuck.",
+          "zh": "这门是 stuck。",
+          "startMs": 94350,
+          "endMs": 98870
+        }
+      ],
+      "startMs": 94200,
+      "endMs": 99220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum opened the door.",
+          "zh": "妈妈打开这门。",
+          "startMs": 99740,
+          "endMs": 105030
+        },
+        {
+          "en": "She found a room.",
+          "zh": "她找到一个房间。",
+          "startMs": 104930,
+          "endMs": 107410
+        }
+      ],
+      "startMs": 99590,
+      "endMs": 107760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked inside.",
+          "zh": "每个人看里面。",
+          "startMs": 107970,
+          "endMs": 113470
+        }
+      ],
+      "startMs": 107820,
+      "endMs": 113820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went into the secret room.",
+          "zh": "妈妈去进入这秘密房间。",
+          "startMs": 114160,
+          "endMs": 119890
+        },
+        {
+          "en": "She found a little house.",
+          "zh": "她找到一个小的房子。",
+          "startMs": 119790,
+          "endMs": 123510
+        }
+      ],
+      "startMs": 114010,
+      "endMs": 123860
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks like our house,\" said Mum.",
+          "zh": "它看喜欢我们的房子， 说妈妈。",
+          "startMs": 123410,
+          "endMs": 129940
+        }
+      ],
+      "startMs": 123260,
+      "endMs": 130290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff opened the little house.",
+          "zh": "Biff 打开这小的房子。",
+          "startMs": 131440,
+          "endMs": 138810
+        },
+        {
+          "en": "Everyone looked inside.",
+          "zh": "每个人看里面。",
+          "startMs": 138710,
+          "endMs": 140830
+        }
+      ],
+      "startMs": 131290,
+      "endMs": 141180
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks like our house inside,\" said Biff.",
+          "zh": "它看喜欢我们的房子里面， 说 Biff。",
+          "startMs": 140730,
+          "endMs": 149060
+        }
+      ],
+      "startMs": 140580,
+      "endMs": 149410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper found a little dog.",
+          "zh": "Kipper 找到一个小的狗。",
+          "startMs": 148960,
+          "endMs": 154330
+        },
+        {
+          "en": "\"Look at this little dog, said Kipper.",
+          "zh": "看在这个小的狗， 说 Kipper。",
+          "startMs": 154230,
+          "endMs": 156330
+        }
+      ],
+      "startMs": 148810,
+      "endMs": 156680
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks like our dog.",
+          "zh": "它看喜欢我们的狗。",
+          "startMs": 156230,
+          "endMs": 160850
+        },
+        {
+          "en": "It looks like Floppy.",
+          "zh": "它看喜欢 Floppy。",
+          "startMs": 160750,
+          "endMs": 164320
+        }
+      ],
+      "startMs": 156080,
+      "endMs": 164670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip found three little children.",
+          "zh": "Chip 找到三小的孩子们。",
+          "startMs": 164220,
+          "endMs": 170010
+        }
+      ],
+      "startMs": 164070,
+      "endMs": 170360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the children,\" said Chip.",
+          "zh": "看在这孩子们， 说 Chip。",
+          "startMs": 169910,
+          "endMs": 175760
+        },
+        {
+          "en": "\"They look like us.\"",
+          "zh": "他们看喜欢我们。",
+          "startMs": 175660,
+          "endMs": 179780
+        }
+      ],
+      "startMs": 169760,
+      "endMs": 180130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff liked her bedroom.",
+          "zh": "Biff 喜欢她卧室。",
+          "startMs": 179680,
+          "endMs": 181850
+        },
+        {
+          "en": "She liked the secret room too.",
+          "zh": "她喜欢这秘密房间也。",
+          "startMs": 181750,
+          "endMs": 185090
+        }
+      ],
+      "startMs": 179530,
+      "endMs": 185440
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad painted the secret room.",
+          "zh": "爸爸油漆这秘密房间。",
+          "startMs": 184990,
+          "endMs": 190920
+        },
+        {
+          "en": "Biff put things inside.",
+          "zh": "Biff 放东西里面。",
+          "startMs": 190820,
+          "endMs": 195910
+        }
+      ],
+      "startMs": 184840,
+      "endMs": 196260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was in bed.",
+          "zh": "Biff 是在……里床。",
+          "startMs": 192390,
+          "endMs": 196152
+        },
+        {
+          "en": "She was fast asleep.",
+          "zh": "她是快的睡着的。",
+          "startMs": 196152,
+          "endMs": 200855
+        },
+        {
+          "en": "She dreamed about the little children.",
+          "zh": "她梦关于这小的孩子们。",
+          "startMs": 200855,
+          "endMs": 209790
+        }
+      ],
+      "startMs": 192390,
+      "endMs": 209790
+    },
+    {
+      "sentences": [],
+      "startMs": 209790,
+      "endMs": 210213,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 210290,
+      "endMs": 210213,
+      "illustrationOnly": true
+    }
+  ]
+}

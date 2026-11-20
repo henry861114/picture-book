@@ -1,0 +1,1087 @@
+{
+  "id": "L7-002",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day was Mum's birthday.",
+          "zh": "这下一个一天是妈妈生日。",
+          "startMs": 29,
+          "endMs": 4380
+        },
+        {
+          "en": "Chip had a box of chocolates for her.",
+          "zh": "Chip 有一个盒子的巧克力为了她。",
+          "startMs": 4410,
+          "endMs": 9410
+        },
+        {
+          "en": "Kipper had made her a monkey at school.",
+          "zh": "Kipper 有做她一个猴子在学校。",
+          "startMs": 9440,
+          "endMs": 10730
+        },
+        {
+          "en": "Biff didn't know what to get.",
+          "zh": "Biff 没有知道什么到得到。",
+          "startMs": 10760,
+          "endMs": 13490
+        },
+        {
+          "en": "Biff asked Anna's Mum to help her buy a plant.",
+          "zh": "Biff 问 Anneena 妈妈到帮助她买一个植物。",
+          "startMs": 14390,
+          "endMs": 21690
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 22040
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went into a big greenhouse.",
+          "zh": "他们去进入一个大的温室。",
+          "startMs": 21720,
+          "endMs": 25710
+        },
+        {
+          "en": "The greenhouse was hot, and it was full of plants.",
+          "zh": "这温室是热的， 和它是满的的植物。",
+          "startMs": 25740,
+          "endMs": 29490
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 22040,
+      "endMs": 29840
+    },
+    {
+      "sentences": [
+        {
+          "en": "'What a lot of plants!' Said Biff.",
+          "zh": "'什么一个许多的植物！' 说 Biff。",
+          "startMs": 29520,
+          "endMs": 32680
+        },
+        {
+          "en": "'It's like a jungle in here.",
+          "zh": "'它是喜欢一个热带丛林在……里这里。",
+          "startMs": 32710,
+          "endMs": 35170
+        },
+        {
+          "en": "I don't know which one to buy.'",
+          "zh": "我不知道哪个一到买。'",
+          "startMs": 35200,
+          "endMs": 36850
+        },
+        {
+          "en": "In the end, she found one that she liked.",
+          "zh": "在……里这末尾， 她找到一那个她喜欢。",
+          "startMs": 37410,
+          "endMs": 40830
+        },
+        {
+          "en": "I'll get this one for Mum,' she said.",
+          "zh": "'这个是喜欢这一我给妈妈，' 她说。",
+          "startMs": 40880,
+          "endMs": 59860
+        },
+        {
+          "en": "\"Thank you,\" She said.",
+          "zh": "谢谢你。 啊唷！ 她说。",
+          "startMs": 60680,
+          "endMs": 61080
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 29840,
+      "endMs": 61430
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day was Mum's birthday and the children gave her their presents.",
+          "zh": "这下一个一天是妈妈生日和这孩子们给她他们的礼物。",
+          "startMs": 61080,
+          "endMs": 61280
+        },
+        {
+          "en": "Mum liked them all.",
+          "zh": "妈妈喜欢他们全部。",
+          "startMs": 61280,
+          "endMs": 61480
+        },
+        {
+          "en": "'What a lovely plant, Biff!' Said Dad.",
+          "zh": "'什么一个美丽的植物， Biff！' 是， 说爸爸。",
+          "startMs": 61480,
+          "endMs": 70650
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 61430,
+      "endMs": 71000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had a present for Mum.",
+          "zh": "爸爸有一个礼物为了妈妈。",
+          "startMs": 70680,
+          "endMs": 73060
+        },
+        {
+          "en": "It was a plant.",
+          "zh": "它是一个植物。",
+          "startMs": 73060,
+          "endMs": 73260
+        },
+        {
+          "en": "didn't know Biff had a plant as well,' said Dad.",
+          "zh": "'我没有知道 Biff 有一个植物像好，' 说爸爸。",
+          "startMs": 73260,
+          "endMs": 73460
+        },
+        {
+          "en": "don't mind a bit,' said Mum.",
+          "zh": "'我不头脑一个一小块，' 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 73460,
+          "endMs": 73660
+        },
+        {
+          "en": "\"This is from my Mum,\" She said.",
+          "zh": "这个是一个罗马的晚饭， 说妈妈。 啊唷！ 她说。",
+          "startMs": 81560,
+          "endMs": 84660
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 71000,
+      "endMs": 85010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena came to play with Biff and Chip.",
+          "zh": "Anneena 来到玩和……一起 Biff 和 Chip。",
+          "startMs": 84690,
+          "endMs": 87730
+        },
+        {
+          "en": "Wilma's Mum came round with a plant too.",
+          "zh": "这个是从我的妈妈， 她说 Wilma 妈妈来圆形的和……一起一个植物也。",
+          "startMs": 87730,
+          "endMs": 87940
+        },
+        {
+          "en": "\"Thank you,\" Said Mum. love plants.",
+          "zh": "谢谢你。 Kipper， 说妈妈。 '我爱植物。",
+          "startMs": 87940,
+          "endMs": 90590
+        },
+        {
+          "en": "It's quite like a jungle in here.",
+          "zh": "它是相当喜欢一个热带丛林在……里这里。",
+          "startMs": 92110,
+          "endMs": 94390
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 85010,
+      "endMs": 94740
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to play in Biff's room.",
+          "zh": "这孩子们去到玩在……里 Biff 房间。",
+          "startMs": 94420,
+          "endMs": 98520
+        },
+        {
+          "en": "Anneena looked at the little house.",
+          "zh": "Anneena 看在这小的房子。",
+          "startMs": 98550,
+          "endMs": 101230
+        },
+        {
+          "en": "'Can we have a magic adventure?' She asked.",
+          "zh": "'能我们有一个魔法冒险？' 她问。 爸爸问。",
+          "startMs": 101260,
+          "endMs": 105570
+        },
+        {
+          "en": "'We can if the key glows,' said Kipper.",
+          "zh": "'我们能如果这钥匙光亮，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 105600,
+          "endMs": 109630
+        },
+        {
+          "en": "Just then the key did begin to glow.",
+          "zh": "刚刚然后这钥匙做开始到光亮。",
+          "startMs": 109660,
+          "endMs": 114470
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 94740,
+      "endMs": 114820
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them into a jungle.",
+          "zh": "这魔法拿他们进入一个热带丛林。",
+          "startMs": 125530,
+          "endMs": 125630
+        },
+        {
+          "en": "The jungle was full of plants.",
+          "zh": "这热带丛林是满的的植物。",
+          "startMs": 125630,
+          "endMs": 125830
+        },
+        {
+          "en": "\"It's wonderful,\" Said Biff.",
+          "zh": "它是精彩的， 说 Chip。 不， 说 Biff。",
+          "startMs": 125830,
+          "endMs": 129860
+        },
+        {
+          "en": "\"Look at that one.",
+          "zh": "看在那个一， 他说。",
+          "startMs": 136000,
+          "endMs": 136860
+        },
+        {
+          "en": "It's ten times bigger than the one I gave Mum.\"",
+          "zh": "'看在那个一； 它是十时间大的比这一我给妈妈。'",
+          "startMs": 136890,
+          "endMs": 139840
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 125380,
+      "endMs": 140190
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw a monkey up a tree.",
+          "zh": "他们看见一个猴子向上一个树。",
+          "startMs": 140880,
+          "endMs": 144020
+        },
+        {
+          "en": "It jumped up and down on the branch.",
+          "zh": "它跳向上和向下在……上这树枝。",
+          "startMs": 144050,
+          "endMs": 146760
+        },
+        {
+          "en": "That monkey looks cross,' said Kipper.",
+          "zh": "那个猴子看叉形，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 147950,
+          "endMs": 153050
+        },
+        {
+          "en": "don't think it likes us.",
+          "zh": "'我不想它喜欢我们。",
+          "startMs": 153080,
+          "endMs": 156910
+        },
+        {
+          "en": "'It looks like you,' said Chip.",
+          "zh": "'它看喜欢你，' 说 Chip。 哦！ 说 Chip。",
+          "startMs": 156940,
+          "endMs": 161850
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 140730,
+      "endMs": 162200
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monkey was angry with the children.",
+          "zh": "这猴子是生气的和……一起这孩子们。",
+          "startMs": 161880,
+          "endMs": 167710
+        },
+        {
+          "en": "It shook the branch.",
+          "zh": "它 shook 这树枝。",
+          "startMs": 168050,
+          "endMs": 171630
+        },
+        {
+          "en": "Then it began to throw things at them.",
+          "zh": "然后它开始到扔东西在他们。",
+          "startMs": 171660,
+          "endMs": 176870
+        },
+        {
+          "en": "'We can't stay here,' said Biff.",
+          "zh": "'我们不能停留这里，' 说 Biff。 不， 说 Biff。",
+          "startMs": 176900,
+          "endMs": 183960
+        },
+        {
+          "en": "Come on' They ran through the jungle, but suddenly Chip stopped.",
+          "zh": "来在……上'",
+          "startMs": 184030,
+          "endMs": 190780
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 162200,
+      "endMs": 191130
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Oh no!' He said.",
+          "zh": "'哦不！' 啊唷！ 她说。",
+          "startMs": 190810,
+          "endMs": 192730
+        },
+        {
+          "en": "He said, 'Look at this.'",
+          "zh": "看在这个。'",
+          "startMs": 193080,
+          "endMs": 194830
+        },
+        {
+          "en": "There was a big snake in the way.",
+          "zh": "那里是一个大的蛇在……里这方式。",
+          "startMs": 200900,
+          "endMs": 203740
+        },
+        {
+          "en": "'We can't go this way,' said Chip.",
+          "zh": "'我们不能去这个方式，' 说 Chip。 哦！ 说 Chip。",
+          "startMs": 204460,
+          "endMs": 208940
+        },
+        {
+          "en": "'Come on.'",
+          "zh": "'来在……上。'",
+          "startMs": 216840,
+          "endMs": 218630
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 191130,
+      "endMs": 218980
+    },
+    {
+      "sentences": [
+        {
+          "en": "They came to a river.",
+          "zh": "他们来到一个河。",
+          "startMs": 218630,
+          "endMs": 218830
+        },
+        {
+          "en": "There were alligators asleep on the bank.",
+          "zh": "那里是短吻鳄睡着的在……上这岸。",
+          "startMs": 218830,
+          "endMs": 221000
+        },
+        {
+          "en": "'Don't wake them up,' said Kipper.",
+          "zh": "'不醒来他们向上，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 221030,
+          "endMs": 222650
+        },
+        {
+          "en": "'They might get angry!",
+          "zh": "'他们可能得到生气的！",
+          "startMs": 222680,
+          "endMs": 224510
+        },
+        {
+          "en": "'They might like you for dinner,' said Biff.",
+          "zh": "'他们可能喜欢你为了正餐，' 说 Biff。 不， 说 Biff。",
+          "startMs": 224540,
+          "endMs": 227630
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 218980,
+      "endMs": 227980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly they fell into a big net.",
+          "zh": "突然地他们落下进入一个大的网。",
+          "startMs": 227900,
+          "endMs": 231580
+        },
+        {
+          "en": "It pulled them up in the air.",
+          "zh": "它拉他们向上在……里这空气。",
+          "startMs": 231610,
+          "endMs": 233260
+        },
+        {
+          "en": "'Oh help!' Called Anneena.",
+          "zh": "'帮助！ 太太梅！ 叫 Anneena。",
+          "startMs": 234390,
+          "endMs": 239330
+        },
+        {
+          "en": "'We're in a trap.'",
+          "zh": "'我们是在……里一个陷阱。'",
+          "startMs": 239360,
+          "endMs": 240160
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 227980,
+      "endMs": 240510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were hanging in the net.",
+          "zh": "这孩子们是绞死在……里这网。",
+          "startMs": 244420,
+          "endMs": 247910
+        },
+        {
+          "en": "The net was a trap to catch animals.",
+          "zh": "这网是一个陷阱到抓住动物。",
+          "startMs": 248080,
+          "endMs": 251510
+        },
+        {
+          "en": "'Help!",
+          "zh": "'帮助！",
+          "startMs": 251510,
+          "endMs": 253070
+        },
+        {
+          "en": "Help!' called the children.",
+          "zh": "帮助！' 叫这孩子们。",
+          "startMs": 253190,
+          "endMs": 255390
+        },
+        {
+          "en": "'Let us down!' Called Kipper.",
+          "zh": "'让我们向下！' 叫 Kipper。 帮助！ 叫喊 Kipper。",
+          "startMs": 255420,
+          "endMs": 260210
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 244270,
+      "endMs": 260560
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man and a lady came out of the trees.",
+          "zh": "一个男人和一个女士来出的这树。",
+          "startMs": 260240,
+          "endMs": 262600
+        },
+        {
+          "en": "They were explorers.",
+          "zh": "他们是探险者。",
+          "startMs": 262630,
+          "endMs": 263850
+        },
+        {
+          "en": "\"Don't worry,\" Said the lady.",
+          "zh": "不担心。 我， 说 Ty 悲伤地。",
+          "startMs": 263910,
+          "endMs": 266850
+        },
+        {
+          "en": "\"We'll soon get you down.\"",
+          "zh": "'不担心，' 说这女士， '我们会很快得到你向下。'",
+          "startMs": 266880,
+          "endMs": 268530
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 260560,
+      "endMs": 268880
+    },
+    {
+      "sentences": [
+        {
+          "en": "'What are you doing in the jungle?' Asked the man.",
+          "zh": "'什么是你做在……里这热带丛林？' 问这男人。 它是这旧的男人。",
+          "startMs": 281420,
+          "endMs": 286380
+        },
+        {
+          "en": "'Are you lost?' \"Yes,\" Said Biff. think we are.' \"So are we,\" Said the lady.",
+          "zh": "'是你丢失？' 不， 说 Biff。 '我想我们是。' 它是一个树。 我， 说 Ty 悲伤地。",
+          "startMs": 286410,
+          "endMs": 293480
+        },
+        {
+          "en": "\"But then we have been lost for years.\"",
+          "zh": "'所以是我们，' 说这女士， '但是然后我们有是丢失为了年'",
+          "startMs": 293510,
+          "endMs": 296490
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 281270,
+      "endMs": 296840
+    },
+    {
+      "sentences": [
+        {
+          "en": "She showed them a picture.",
+          "zh": "她展示他们一个图画。",
+          "startMs": 296520,
+          "endMs": 299320
+        },
+        {
+          "en": "'We are looking for this place,' she said.",
+          "zh": "'我们是看为了这个地方，' 她说。",
+          "startMs": 299350,
+          "endMs": 303720
+        },
+        {
+          "en": "'It's called the Lost City.",
+          "zh": "'它是叫这丢失城市。",
+          "startMs": 303750,
+          "endMs": 305960
+        },
+        {
+          "en": "Nobody lives there.",
+          "zh": "没有人住那里。",
+          "startMs": 306940,
+          "endMs": 308750
+        },
+        {
+          "en": "It's been lost for years and years!",
+          "zh": "它是是丢失为了年和年！",
+          "startMs": 308780,
+          "endMs": 312630
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 296840,
+      "endMs": 312980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children liked the explorers.",
+          "zh": "这孩子们喜欢这探险者。",
+          "startMs": 312660,
+          "endMs": 316240
+        },
+        {
+          "en": "They wanted to help them find the Lost City.",
+          "zh": "他们想要到帮助他们找到这丢失城市。",
+          "startMs": 317470,
+          "endMs": 320160
+        },
+        {
+          "en": "'Maybe we can find it today,' said Kipper.",
+          "zh": "'也许我们能找到它在今天，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 320190,
+          "endMs": 324140
+        },
+        {
+          "en": "don't think so,' said the man.",
+          "zh": "'我不想所以，' 说这男人。 好的， 说这狼女人。",
+          "startMs": 324170,
+          "endMs": 327630
+        },
+        {
+          "en": "'We have been looking for years.'",
+          "zh": "'我们有是看为了年。'",
+          "startMs": 327660,
+          "endMs": 329490
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 312980,
+      "endMs": 329840
+    },
+    {
+      "sentences": [
+        {
+          "en": "They came to a rope bridge.",
+          "zh": "他们来到一个绳索桥梁。",
+          "startMs": 329890,
+          "endMs": 333990
+        },
+        {
+          "en": "'Maybe the Lost City is over there, : said Biff.",
+          "zh": "'也许这丢失城市是在……上方那里，： 说 Biff。 不， 说 Biff。",
+          "startMs": 334020,
+          "endMs": 338970
+        },
+        {
+          "en": "'Let's go and see.",
+          "zh": "'让我们去和看见。",
+          "startMs": 339000,
+          "endMs": 339620
+        },
+        {
+          "en": "They began to cross the bridge.",
+          "zh": "他们开始到叉形这桥梁。",
+          "startMs": 339650,
+          "endMs": 341740
+        },
+        {
+          "en": "hope it's safe,' said Kipper.",
+          "zh": "'我希望它是安全的，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 345530,
+          "endMs": 348630
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 329840,
+      "endMs": 348980
+    },
+    {
+      "sentences": [
+        {
+          "en": "They found a boat on the bank of the river.",
+          "zh": "他们找到一个船在……上这岸的这河。",
+          "startMs": 352900,
+          "endMs": 358700
+        },
+        {
+          "en": "The boat was full of water.",
+          "zh": "这船是满的的水。",
+          "startMs": 358730,
+          "endMs": 360300
+        },
+        {
+          "en": "\"Oh,.",
+          "zh": "哦不！",
+          "startMs": 360390,
+          "endMs": 361490
+        },
+        {
+          "en": "Good,\" 'Oh good!' said the explorers.",
+          "zh": "好的。",
+          "startMs": 361520,
+          "endMs": 366440
+        },
+        {
+          "en": "'We lost this boat years ago.'",
+          "zh": "'我们丢失这个船年以前。'",
+          "startMs": 366470,
+          "endMs": 367300
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 352750,
+      "endMs": 367650
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got in the boat and paddled up the river.",
+          "zh": "他们得到在……里这船和短桨向上这河。",
+          "startMs": 371960,
+          "endMs": 375350
+        },
+        {
+          "en": "'Look at all the alligators!' Said Chip.",
+          "zh": "'看在全部这短吻鳄！' 说 Chip。 哦！",
+          "startMs": 377840,
+          "endMs": 383000
+        },
+        {
+          "en": "hope it's not their dinner time.'",
+          "zh": "'我希望它是不他们的正餐时间。'",
+          "startMs": 384090,
+          "endMs": 389630
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 371810,
+      "endMs": 389980
+    },
+    {
+      "sentences": [
+        {
+          "en": "They came to a waterfall.",
+          "zh": "他们来到一个瀑布。",
+          "startMs": 389890,
+          "endMs": 391990
+        },
+        {
+          "en": "The explorer could not stop the boat.",
+          "zh": "这探险者能不停这船。",
+          "startMs": 393380,
+          "endMs": 399000
+        },
+        {
+          "en": "The paddle had broken.",
+          "zh": "这短桨有打破。",
+          "startMs": 400900,
+          "endMs": 402140
+        },
+        {
+          "en": "'Look out!' He called.",
+          "zh": "'看出！' 他叫。 来在……上， 他叫。",
+          "startMs": 402640,
+          "endMs": 404490
+        },
+        {
+          "en": "'We're going to get wet.'",
+          "zh": "'我们是去到得到湿的。'",
+          "startMs": 404520,
+          "endMs": 406640
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 389980,
+      "endMs": 406990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boat went through the waterfall.",
+          "zh": "这船去穿过这瀑布。",
+          "startMs": 406860,
+          "endMs": 409240
+        },
+        {
+          "en": "\"Help,\" Said Anneena.",
+          "zh": "帮助！ 我， 说 Anneena。",
+          "startMs": 416230,
+          "endMs": 419750
+        },
+        {
+          "en": "\"I don't like getting wet.\"",
+          "zh": "我不喜欢这个。",
+          "startMs": 419780,
+          "endMs": 421830
+        },
+        {
+          "en": "'Think of the alligators,' said Chip.",
+          "zh": "'想的这短吻鳄，' 说 Chip。 哦！ 说 Chip。",
+          "startMs": 421830,
+          "endMs": 422030
+        },
+        {
+          "en": "It's better than getting eaten!'",
+          "zh": "它是更好的比得到吃！'",
+          "startMs": 422030,
+          "endMs": 422230
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 406990,
+      "endMs": 422580
+    },
+    {
+      "sentences": [
+        {
+          "en": "Behind the waterfall there were some steps.",
+          "zh": "在……后面这瀑布那里是一些迈步。",
+          "startMs": 432090,
+          "endMs": 434380
+        },
+        {
+          "en": "The steps went up and up for a long way.",
+          "zh": "这迈步去向上和向上为了一个长的方式。",
+          "startMs": 435160,
+          "endMs": 438240
+        },
+        {
+          "en": "Nobody could see how far they went.",
+          "zh": "没有人能看见如何远他们去。",
+          "startMs": 438720,
+          "endMs": 441820
+        },
+        {
+          "en": "'This may be the way to the Lost City,' said the lady.",
+          "zh": "'这个梅是这方式到这丢失城市，' 说这女士。 我， 说 Ty 悲伤地。",
+          "startMs": 442530,
+          "endMs": 446630
+        },
+        {
+          "en": "'Come on.'",
+          "zh": "'来在……上。'",
+          "startMs": 446660,
+          "endMs": 448490
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 431940,
+      "endMs": 448840
+    },
+    {
+      "sentences": [
+        {
+          "en": "As they climbed the steps, some bats flew past them.",
+          "zh": "像他们爬这迈步， 一些球板飞过他们。",
+          "startMs": 448520,
+          "endMs": 452520
+        },
+        {
+          "en": "'If this is the way to the city, I can see how it got lost,' said Anneena.",
+          "zh": "我能看见如何它得到丢失，' 说 Anneena。 我， 说 Anneena。",
+          "startMs": 455870,
+          "endMs": 465630
+        },
+        {
+          "en": "'It's such a long way up.'",
+          "zh": "'它是这样的一个长的方式向上。'",
+          "startMs": 466470,
+          "endMs": 468210
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 448840,
+      "endMs": 468560
+    },
+    {
+      "sentences": [
+        {
+          "en": "'It's the Lost City!' Shouted the explorers.",
+          "zh": "'它是叫这丢失城市。 '它是这丢失城市！' 喊这探险者。",
+          "startMs": 473560,
+          "endMs": 477780
+        },
+        {
+          "en": "'We have found it at last.'",
+          "zh": "'我们有找到它在最后的。'",
+          "startMs": 477810,
+          "endMs": 479640
+        },
+        {
+          "en": "The man threw his hat in the air and his wife jumped up and down.",
+          "zh": "这男人扔他的帽子在……里这空气和他的妻子跳向上和向下。",
+          "startMs": 480390,
+          "endMs": 485410
+        },
+        {
+          "en": "knew we'd find it today,' said Kipper.",
+          "zh": "'我知道 we'd 找到它在今天，' 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 485530,
+          "endMs": 490630
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 473410,
+      "endMs": 490980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody had been in the city for years.",
+          "zh": "没有人有是在……里这城市为了年。",
+          "startMs": 491210,
+          "endMs": 494040
+        },
+        {
+          "en": "There were plants and trees everywhere.",
+          "zh": "那里是植物和树到处。",
+          "startMs": 494070,
+          "endMs": 495860
+        },
+        {
+          "en": "Biff pulled a plant out of a wall.",
+          "zh": "Biff 拉一个植物出的一个墙。",
+          "startMs": 496510,
+          "endMs": 498970
+        },
+        {
+          "en": "'This is like the one I gave Mum,' she said.",
+          "zh": "'这个是喜欢这一我给妈妈，' 她说。",
+          "startMs": 499360,
+          "endMs": 504960
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 491060,
+      "endMs": 505310
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to a big building and they opened the doors.",
+          "zh": "他们去到一个大的建造和他们打开这门。",
+          "startMs": 508890,
+          "endMs": 512310
+        },
+        {
+          "en": "'Oh look!' They all gasped.",
+          "zh": "'哦不！' '哦看！' 他们全部喘气。",
+          "startMs": 515720,
+          "endMs": 518820
+        },
+        {
+          "en": "Everything inside the building was made of gold.",
+          "zh": "一切里面这建造是做的黄金。",
+          "startMs": 520530,
+          "endMs": 523630
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 508740,
+      "endMs": 523980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The floor was gold and the walls were gold.",
+          "zh": "这地板是黄金和这墙是黄金。",
+          "startMs": 523660,
+          "endMs": 526690
+        },
+        {
+          "en": "There were some gold steps that went up to a gold throne.",
+          "zh": "那里是一些黄金迈步那个去向上到一个黄金宝座。",
+          "startMs": 526720,
+          "endMs": 531490
+        },
+        {
+          "en": "'What a wonderful place!' Said Anneena.",
+          "zh": "'什么一个精彩的地方！' 说 Anneena。 我， 说 Anneena。",
+          "startMs": 531520,
+          "endMs": 534920
+        },
+        {
+          "en": "'There's gold everywhere.'",
+          "zh": "'有黄金到处。'",
+          "startMs": 535090,
+          "endMs": 538590
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 523980,
+      "endMs": 538940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper sat on the gold throne.",
+          "zh": "Kipper 坐在……上这黄金宝座。",
+          "startMs": 541410,
+          "endMs": 544110
+        },
+        {
+          "en": "A monkey jumped down behind him.",
+          "zh": "一个猴子跳向下在……后面他。",
+          "startMs": 544140,
+          "endMs": 546520
+        },
+        {
+          "en": "'Look at me!' He said.",
+          "zh": "'看在我！' 他说。 啊唷！",
+          "startMs": 546550,
+          "endMs": 549290
+        },
+        {
+          "en": "'Look at that monkey behind Kipper,' said Biff.",
+          "zh": "'看在那个猴子在……后面 Kipper，' 说 Biff。 不， 说 Biff。",
+          "startMs": 549530,
+          "endMs": 553630
+        },
+        {
+          "en": "'Which one is the monkey?' Asked Chip.",
+          "zh": "'哪个一是这猴子？' 问 Chip。 什么是它？ 问 Chip。 哦！ 说 Chip。",
+          "startMs": 553730,
+          "endMs": 558390
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 541260,
+      "endMs": 558740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the key began to glow.",
+          "zh": "突然地， 这钥匙开始到光亮。",
+          "startMs": 558570,
+          "endMs": 562650
+        },
+        {
+          "en": "It's time to go home,' said Chip.",
+          "zh": "它是时间到去家，' 说 Chip。",
+          "startMs": 562680,
+          "endMs": 564520
+        },
+        {
+          "en": "\"Goodbye,\" 'Goodbye,' said the explorers.",
+          "zh": "好的。",
+          "startMs": 566040,
+          "endMs": 568820
+        },
+        {
+          "en": "\"Thank you for helping us find the Lost City.\"",
+          "zh": "他们想要到帮助他们找到这丢失城市。",
+          "startMs": 568850,
+          "endMs": 572650
+        },
+        {
+          "en": "\"I wish we had a magic key,\" Said the man.",
+          "zh": "我希望我们有一个魔法钥匙，' 说这男人。 好的， 说这狼女人。",
+          "startMs": 572680,
+          "endMs": 576750
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 558740,
+      "endMs": 577100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children home.",
+          "zh": "这魔法拿这孩子们家。",
+          "startMs": 586830,
+          "endMs": 590040
+        },
+        {
+          "en": "Biff still had the plant she found in the Lost City.",
+          "zh": "Biff 仍然有这植物她找到在……里这丢失城市。",
+          "startMs": 590800,
+          "endMs": 595010
+        },
+        {
+          "en": "\"I'll put in Mum's jungle,\" She said.",
+          "zh": "T'll 放它在……里妈妈热带丛林，' 她说。 啊唷！ 她说。",
+          "startMs": 595040,
+          "endMs": 597360
+        },
+        {
+          "en": "know where we can get a monkey too.'",
+          "zh": "'我知道哪里我们能得到一个猴子也。'",
+          "startMs": 598430,
+          "endMs": 603630
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 586680,
+      "endMs": 603980
+    }
+  ]
+}

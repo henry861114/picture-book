@@ -1,0 +1,178 @@
+{
+  "id": "L1-008",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Dad took Biff and Chip into a Street Fair in town.",
+          "zh": "爸爸拿 Biff 和 Chip 进入一个街道公正的在……里城镇。",
+          "startMs": 0,
+          "endMs": 8880
+        },
+        {
+          "en": "\"The Street Fair looks fun,\" said Dad.",
+          "zh": "这街道公正的看乐趣， 说爸爸。",
+          "startMs": 8780,
+          "endMs": 11920
+        }
+      ],
+      "startMs": 0,
+      "endMs": 12270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the man juggling balls.\"",
+          "zh": "看在这男人 juggling 球。",
+          "startMs": 11820,
+          "endMs": 14640
+        },
+        {
+          "en": "\"Wow!\"",
+          "zh": "哇！",
+          "startMs": 14540,
+          "endMs": 16140
+        },
+        {
+          "en": "\"The Street Fair was very exciting.\"",
+          "zh": "这街道公正的是非常令人激动的。",
+          "startMs": 19980,
+          "endMs": 23040
+        },
+        {
+          "en": "\"Look at them!",
+          "zh": "看在他们！",
+          "startMs": 22940,
+          "endMs": 24410
+        },
+        {
+          "en": "They have their faces painted!\"",
+          "zh": "他们有他们的脸油漆！",
+          "startMs": 24310,
+          "endMs": 26920
+        },
+        {
+          "en": "\"Let's do that,\" shouted Chip.",
+          "zh": "让我们做那个， 喊 Chip。",
+          "startMs": 26820,
+          "endMs": 29840
+        }
+      ],
+      "startMs": 11670,
+      "endMs": 30190
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There was a face painting stall, and Biff and Chip saw a lady painting the faces of two children.\"",
+          "zh": "那里是一个脸绘画 stall， 和 Biff 和 Chip 看见一个女士绘画这脸的二孩子们。",
+          "startMs": 29940,
+          "endMs": 41340
+        },
+        {
+          "en": "\"I'd love to have my face painted,\" said Biff.",
+          "zh": "I'd 爱到有我的脸油漆， 说 Biff。",
+          "startMs": 41240,
+          "endMs": 45220
+        },
+        {
+          "en": "\"Come on, Biff!\"",
+          "zh": "来在……上， Biff！",
+          "startMs": 45120,
+          "endMs": 47200
+        }
+      ],
+      "startMs": 29790,
+      "endMs": 47550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper and Mum were having a nice quiet afternoon without the others,.",
+          "zh": "Kipper 和妈妈是有一个好的安静的下午没有这其他，。",
+          "startMs": 47100,
+          "endMs": 55440
+        },
+        {
+          "en": "but suddenly, Dad, Biff and Chip popped their heads round the door.",
+          "zh": "但是突然地， 爸爸， Biff 和 Chip 砰他们的正面圆形的这门。",
+          "startMs": 55540,
+          "endMs": 60640
+        },
+        {
+          "en": "\"Surprise!\"",
+          "zh": "意想不到的事物！",
+          "startMs": 60540,
+          "endMs": 62800
+        },
+        {
+          "en": "\"We've had our faces painted.\"",
+          "zh": "我们已经有我们的脸油漆。",
+          "startMs": 62700,
+          "endMs": 65560
+        },
+        {
+          "en": "\"Laf Chip.\"",
+          "zh": "Laf Chip。",
+          "startMs": 65460,
+          "endMs": 66840
+        },
+        {
+          "en": "\"Goodness me!\"",
+          "zh": "美德我！",
+          "startMs": 66740,
+          "endMs": 69160
+        },
+        {
+          "en": "\"Lafed Mum.\"",
+          "zh": "Lafed 妈妈。",
+          "startMs": 69060,
+          "endMs": 70520
+        }
+      ],
+      "startMs": 46950,
+      "endMs": 70870
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mum wanted to take a photograph of the painted faces.\"",
+          "zh": "妈妈想要到拿一个照片的这油漆脸。",
+          "startMs": 74420,
+          "endMs": 78520
+        },
+        {
+          "en": "\"Mile, everyone.\"",
+          "zh": "Mile， 每个人。",
+          "startMs": 78420,
+          "endMs": 80160
+        },
+        {
+          "en": "\"Called, Mum.\"",
+          "zh": "叫， 妈妈。",
+          "startMs": 80060,
+          "endMs": 81480
+        },
+        {
+          "en": "\"Smile!\"",
+          "zh": "微笑！",
+          "startMs": 81380,
+          "endMs": 82880
+        },
+        {
+          "en": "\"Cheers!\"",
+          "zh": "向！",
+          "startMs": 82980,
+          "endMs": 85680
+        }
+      ],
+      "startMs": 74270,
+      "endMs": 86030
+    }
+  ]
+}

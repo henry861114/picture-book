@@ -1,0 +1,1237 @@
+{
+  "id": "L8-012",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim and Anneena came to play at Biff and Chip's house.",
+          "zh": "Nadim 和 Anneena 来到玩在 Biff 和 Chip 房子。",
+          "startMs": 0,
+          "endMs": 7680
+        },
+        {
+          "en": "Nadim had a book about the Ancient Egyptians.",
+          "zh": "Nadim 有一个书关于这古代的埃及的。",
+          "startMs": 8580,
+          "endMs": 11680
+        },
+        {
+          "en": "\"It isn't just a book to read,\" said Nadim.",
+          "zh": "它不是刚刚一个书到读， 说 Nadim。 哦不！ 说 Nadim。",
+          "startMs": 12580,
+          "endMs": 15990
+        },
+        {
+          "en": "\"It's a special sort of book.\"",
+          "zh": "它是一个特别的种类的书。",
+          "startMs": 15990,
+          "endMs": 18680
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 19030
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a model book,\" said Nadim.",
+          "zh": "它是一个模型书， 说 Nadim。 哦不！ 说 Nadim。",
+          "startMs": 21580,
+          "endMs": 24690
+        },
+        {
+          "en": "He opened it to show everyone.",
+          "zh": "他打开它到展示每个人。",
+          "startMs": 24690,
+          "endMs": 27680
+        },
+        {
+          "en": "\"I get it,\" said Chip.",
+          "zh": "我得到它， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 28610,
+          "endMs": 30410
+        },
+        {
+          "en": "\"You press out the shapes.",
+          "zh": "你按出这形状。",
+          "startMs": 30410,
+          "endMs": 32410
+        },
+        {
+          "en": "Then you fold and glue them to make a model.\"",
+          "zh": "然后你褶和胶他们到做一个模型。",
+          "startMs": 32410,
+          "endMs": 35680
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 21430,
+      "endMs": 36030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The book had lots of shapes to press out and fold.",
+          "zh": "这书有许多的形状到按出和褶。",
+          "startMs": 36580,
+          "endMs": 40390
+        },
+        {
+          "en": "Nadim pointed to one.",
+          "zh": "Nadim 尖的到一。",
+          "startMs": 40390,
+          "endMs": 42680
+        },
+        {
+          "en": "\"Can you see what this will be?\" He asked.",
+          "zh": "能你看见什么这个将是？ 他问。 他追赶它！",
+          "startMs": 43580,
+          "endMs": 45680
+        },
+        {
+          "en": "\"Of course we can,\" said Anneena.",
+          "zh": "的进程我们能， 说 Anneena。 它是庞大的， 说 Anneena。",
+          "startMs": 46580,
+          "endMs": 49100
+        },
+        {
+          "en": "\"It will be a pyramid.\"",
+          "zh": "它将是一个金字塔。",
+          "startMs": 49100,
+          "endMs": 51680
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 36430,
+      "endMs": 52030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip found some glue.",
+          "zh": "Chip 找到一些胶。",
+          "startMs": 56980,
+          "endMs": 58680
+        },
+        {
+          "en": "Then Nadim pressed out the shapes and the others began to fold them.",
+          "zh": "然后 Nadim 按出这形状和这其他开始到褶他们。",
+          "startMs": 58680,
+          "endMs": 64680
+        },
+        {
+          "en": "First they made the pyramids.",
+          "zh": "第一他们做这金字塔。",
+          "startMs": 65580,
+          "endMs": 67380
+        },
+        {
+          "en": "Anneena had a difficult shape to fold.",
+          "zh": "Anneena 有一个困难的形状到褶。",
+          "startMs": 67380,
+          "endMs": 70680
+        },
+        {
+          "en": "\"This is a sphinx,\" she said.",
+          "zh": "这个是一个斯芬克斯， 她说。",
+          "startMs": 71580,
+          "endMs": 73290
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 56830,
+      "endMs": 73640
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "Biff， 他说。",
+          "startMs": 73290,
+          "endMs": 74690
+        },
+        {
+          "en": "They pressed out some tiny trees and people.",
+          "zh": "他们按出一些极小的树和人们。",
+          "startMs": 74690,
+          "endMs": 77680
+        },
+        {
+          "en": "Biff glued them all on to a sheet of paper.",
+          "zh": "Biff 胶他们全部在……上到一个床单的纸。",
+          "startMs": 78580,
+          "endMs": 81690
+        },
+        {
+          "en": "It made a scene of Ancient Egypt.",
+          "zh": "它做一个场景的古代的埃及。",
+          "startMs": 81690,
+          "endMs": 84680
+        },
+        {
+          "en": "The children were pleased with it.",
+          "zh": "这孩子们是请和……一起它。",
+          "startMs": 85610,
+          "endMs": 87680
+        },
+        {
+          "en": "\"I'm really pleased with the sphinx,\" said Anneena.",
+          "zh": "我是真的请和……一起这斯芬克斯， 说 Anneena。",
+          "startMs": 88580,
+          "endMs": 91300
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 73640,
+      "endMs": 91650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Anneena.",
+          "zh": "它是庞大的， 说 Anneena。",
+          "startMs": 91300,
+          "endMs": 92680
+        },
+        {
+          "en": "At last the model was finished.",
+          "zh": "在最后的这模型是结束了的。",
+          "startMs": 97580,
+          "endMs": 100690
+        },
+        {
+          "en": "It looked so good they called Mum upstairs to have a look.",
+          "zh": "它看所以好的他们叫妈妈在楼上到有一个看。",
+          "startMs": 100690,
+          "endMs": 104680
+        },
+        {
+          "en": "\"What a good job you made of it,\" said Mum.",
+          "zh": "什么一个好的工作你做的它， 说妈妈。 我们是， 说妈妈。",
+          "startMs": 105580,
+          "endMs": 109450
+        },
+        {
+          "en": "\"I like the pyramids and the sphinx.\"",
+          "zh": "我喜欢这金字塔和这斯芬克斯。",
+          "startMs": 109450,
+          "endMs": 112680
+        },
+        {
+          "en": "\"The sphinx was hard to make,\" said Anneena.",
+          "zh": "这斯芬克斯是困难的到做， 说 Anneena。",
+          "startMs": 113610,
+          "endMs": 116380
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 91650,
+      "endMs": 116730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Anneena.",
+          "zh": "它是庞大的， 说 Anneena。",
+          "startMs": 116380,
+          "endMs": 117680
+        },
+        {
+          "en": "Floppy ran into the room.",
+          "zh": "Floppy 跑进入这房间。",
+          "startMs": 118580,
+          "endMs": 120680
+        },
+        {
+          "en": "He didn't see the model on the floor and he trod on it with his big paws.",
+          "zh": "他没有看见这模型在……上这地板和他 trod 在……上它和……一起他的大的爪。",
+          "startMs": 120680,
+          "endMs": 126680
+        },
+        {
+          "en": "He knocked over a tree and crushed the sphinx.",
+          "zh": "他碰撞在……上方一个树和压坏这斯芬克斯。",
+          "startMs": 127580,
+          "endMs": 130680
+        },
+        {
+          "en": "\"Oh Floppy!\"",
+          "zh": "哦 Floppy！",
+          "startMs": 131580,
+          "endMs": 133290
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 116730,
+      "endMs": 133640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone yelled.",
+          "zh": "每个人感觉冷的。",
+          "startMs": 133290,
+          "endMs": 135680
+        },
+        {
+          "en": "Floppy looked unhappy.",
+          "zh": "Floppy 看痛苦的。",
+          "startMs": 140610,
+          "endMs": 142350
+        },
+        {
+          "en": "He knew he had upset the children.",
+          "zh": "他知道他有使苦恼这孩子们。",
+          "startMs": 142350,
+          "endMs": 144680
+        },
+        {
+          "en": "\"Never mind,\" Said Chip.",
+          "zh": "从不头脑， 说爸爸。 咳！",
+          "startMs": 145580,
+          "endMs": 147680
+        },
+        {
+          "en": "\"It wasn't Floppy's fault.",
+          "zh": "它不是 Floppy 缺点。",
+          "startMs": 147680,
+          "endMs": 148690
+        },
+        {
+          "en": "The sphinx looks even better than before.\"",
+          "zh": "这斯芬克斯看竟然更好的比在……之前。",
+          "startMs": 148690,
+          "endMs": 151680
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 133640,
+      "endMs": 152030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 152580,
+          "endMs": 156680
+        },
+        {
+          "en": "The key took the children back in time.",
+          "zh": "这钥匙拿这孩子们回来在……里时间。",
+          "startMs": 158580,
+          "endMs": 161690
+        },
+        {
+          "en": "It took Floppy too.",
+          "zh": "它拿 Floppy 也。",
+          "startMs": 161690,
+          "endMs": 163680
+        },
+        {
+          "en": "\"It's not my day!\" Thought Floppy.",
+          "zh": "它是不我的一天！ 想 Floppy。 我憎恶船！ 想 Floppy。",
+          "startMs": 164610,
+          "endMs": 167370
+        },
+        {
+          "en": "\"First, I get into trouble.",
+          "zh": "第一， 我得到进入问题。",
+          "startMs": 167370,
+          "endMs": 169380
+        },
+        {
+          "en": "Now, it's a magic adventure.\"",
+          "zh": "现在， 它是一个魔法冒险。",
+          "startMs": 169380,
+          "endMs": 171680
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 152430,
+      "endMs": 172030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back to Ancient Egypt.",
+          "zh": "这魔法拿他们回来到古代的埃及。",
+          "startMs": 184580,
+          "endMs": 187690
+        },
+        {
+          "en": "They were standing by a pyramid.",
+          "zh": "他们是站由一个金字塔。",
+          "startMs": 187690,
+          "endMs": 190680
+        },
+        {
+          "en": "The pyramid was still being built.",
+          "zh": "这金字塔是仍然正在建造。",
+          "startMs": 191610,
+          "endMs": 194690
+        },
+        {
+          "en": "Far off they could see two more pyramids.",
+          "zh": "远离开他们能看见二更多金字塔。",
+          "startMs": 194690,
+          "endMs": 197680
+        },
+        {
+          "en": "\"This is amazing!\" Said Nadim.",
+          "zh": "那是使人十分惊奇的。 哦不！ 说 Nadim。",
+          "startMs": 198580,
+          "endMs": 201690
+        },
+        {
+          "en": "\"I didn't think the pyramids were so big.\"",
+          "zh": "我没有想这金字塔是所以大的。",
+          "startMs": 201690,
+          "endMs": 204680
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 184430,
+      "endMs": 205030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some people were pulling on long ropes.",
+          "zh": "一些人们是拉在……上长的绳索。",
+          "startMs": 205580,
+          "endMs": 208240
+        },
+        {
+          "en": "They were moving a big block of stone.",
+          "zh": "他们是运动的一个大的大块的石块。",
+          "startMs": 208240,
+          "endMs": 211680
+        },
+        {
+          "en": "\"That's amazing too,\" said Chip.",
+          "zh": "那是使人十分惊奇的也， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 212580,
+          "endMs": 214680
+        },
+        {
+          "en": "\"I didn't know the pyramids were made with such big blocks of stone.\"",
+          "zh": "我没有知道这金字塔是做和……一起这样的大的大块的石块。",
+          "startMs": 214680,
+          "endMs": 218680
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 205430,
+      "endMs": 219030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The \"Look over there!\" Gasped Nadim.",
+          "zh": "这看在……上方那里！ 喘气 Anneena。 哦！ 喘气 Biff。",
+          "startMs": 222580,
+          "endMs": 224780
+        },
+        {
+          "en": "She pointed to a huge stone sphinx.",
+          "zh": "她尖的到一个极大的石块斯芬克斯。",
+          "startMs": 224780,
+          "endMs": 230680
+        },
+        {
+          "en": "\"Let's go and look at the sphinx,\" she said.",
+          "zh": "让我们去和看在这斯芬克斯， 她说。",
+          "startMs": 231580,
+          "endMs": 234690
+        },
+        {
+          "en": "They all began to run towards it.",
+          "zh": "他们全部开始到跑向它。",
+          "startMs": 234690,
+          "endMs": 237680
+        },
+        {
+          "en": "Floppy didn't go with them.",
+          "zh": "Floppy 没有去和……一起他们。",
+          "startMs": 238580,
+          "endMs": 240780
+        },
+        {
+          "en": "He had seen a cat!",
+          "zh": "他有看见一个猫！",
+          "startMs": 240780,
+          "endMs": 243130
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 222430,
+      "endMs": 243480
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat hissed at Floppy.",
+          "zh": "这猫他的在 Floppy。",
+          "startMs": 243130,
+          "endMs": 245680
+        },
+        {
+          "en": "Floppy couldn't stop himself.",
+          "zh": "Floppy 不能停他自己。",
+          "startMs": 246610,
+          "endMs": 250060
+        },
+        {
+          "en": "He chased it!",
+          "zh": "他追赶它！",
+          "startMs": 250060,
+          "endMs": 251680
+        },
+        {
+          "en": "It leaped onto some blocks of stone.",
+          "zh": "它跳跃在……上到一些大块的石块。",
+          "startMs": 251680,
+          "endMs": 253680
+        },
+        {
+          "en": "Floppy jumped up too, but the cat was too fast for him.",
+          "zh": "Floppy 跳向上也， 但是这猫是也快的为了他。",
+          "startMs": 254580,
+          "endMs": 259680
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 243480,
+      "endMs": 260030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff saw Floppy chase the cat.",
+          "zh": "Biff 看见 Floppy 茶色这猫。",
+          "startMs": 261580,
+          "endMs": 263420
+        },
+        {
+          "en": "She called to the others.",
+          "zh": "她叫到这其他。",
+          "startMs": 263420,
+          "endMs": 266680
+        },
+        {
+          "en": "They all went back to get Floppy, but he was stuck on the blocks of stone.",
+          "zh": "他们全部去回来到得到 Floppy， 但是他是 stuck 在……上这大块的石块。",
+          "startMs": 267580,
+          "endMs": 272680
+        },
+        {
+          "en": "He couldn't get down.",
+          "zh": "他不能得到向下。",
+          "startMs": 272680,
+          "endMs": 274680
+        },
+        {
+          "en": "\"Floppy, you silly dog,\" Said Biff.",
+          "zh": "你傻的狗， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 275610,
+          "endMs": 279450
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 261430,
+      "endMs": 279800
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked up at Floppy.",
+          "zh": "这孩子们看向上在 Floppy。",
+          "startMs": 279450,
+          "endMs": 282680
+        },
+        {
+          "en": "\"He's a long way up!\" Laughed Nadim.",
+          "zh": "他是一个长的方式向上！ 笑 Nadim。 他是一个长的方式向上！ 笑 Nadim。",
+          "startMs": 283580,
+          "endMs": 286690
+        },
+        {
+          "en": "\"I'll just have to climb up and help him down,\" said Biff.",
+          "zh": "我会刚刚有到爬向上和帮助他向下， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 286690,
+          "endMs": 291680
+        },
+        {
+          "en": "Then a man ran over.",
+          "zh": "然后一个男人跑在……上方。",
+          "startMs": 292580,
+          "endMs": 294280
+        },
+        {
+          "en": "He looked at Floppy and gasped.",
+          "zh": "他看在 Floppy 和喘气。",
+          "startMs": 294280,
+          "endMs": 297680
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 279800,
+      "endMs": 298030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man called to some people.",
+          "zh": "这男人叫到一些人们。",
+          "startMs": 300610,
+          "endMs": 303130
+        },
+        {
+          "en": "They ran over to the children.",
+          "zh": "他们跑在……上方到这孩子们。",
+          "startMs": 303130,
+          "endMs": 305680
+        },
+        {
+          "en": "At first they were talking and shouting.",
+          "zh": "在第一他们是讲话和喊。",
+          "startMs": 306580,
+          "endMs": 309290
+        },
+        {
+          "en": "Then they all went quiet.",
+          "zh": "然后他们全部去安静的。",
+          "startMs": 309290,
+          "endMs": 311680
+        },
+        {
+          "en": "\"What are they doing?\" Asked Biff.",
+          "zh": "什么是他们做？ 问 Biff。 为什么？ 问 Biff。",
+          "startMs": 312580,
+          "endMs": 315690
+        },
+        {
+          "en": "\"Why are they looking at us like this?\" Said Chip.",
+          "zh": "为什么是他们看在我们喜欢这个？ 咳！ 说 Chip。",
+          "startMs": 315690,
+          "endMs": 330120
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 300460,
+      "endMs": 330470
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people put their hands together and raised them in the air.",
+          "zh": "这人们放他们的手一起和凸起的他们在……里这空气。",
+          "startMs": 330120,
+          "endMs": 330320
+        },
+        {
+          "en": "Then they sank down on their knees.",
+          "zh": "然后他们 sank 向下在……上他们的膝关节。",
+          "startMs": 330320,
+          "endMs": 330520
+        },
+        {
+          "en": "\"They are bowing to us,\" said Chip.",
+          "zh": "他们是弓法到我们， 说 Chip。",
+          "startMs": 330520,
+          "endMs": 330720
+        },
+        {
+          "en": "\"They must think we're important.\" \"How strange!\" Said Nadim.",
+          "zh": "他们必须想我们是重要的。 如何奇怪的！ 说 Nadim。 哦不！",
+          "startMs": 330720,
+          "endMs": 336680
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 330470,
+      "endMs": 337030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people were not bowing down to the children.",
+          "zh": "这人们是不弓法向下到这孩子们。",
+          "startMs": 339580,
+          "endMs": 342270
+        },
+        {
+          "en": "They were bowing to Floppy.",
+          "zh": "他们是弓法到 Floppy。",
+          "startMs": 342270,
+          "endMs": 345680
+        },
+        {
+          "en": "\"I don't believe it!\" Whispered Chip.",
+          "zh": "我不相信它！ 低语 Chip。",
+          "startMs": 346580,
+          "endMs": 348680
+        },
+        {
+          "en": "\"They must think Floppy is important.",
+          "zh": "他们必须想 Floppy 是重要的。",
+          "startMs": 348680,
+          "endMs": 351460
+        },
+        {
+          "en": "I wonder why?\"",
+          "zh": "我惊奇为什么？",
+          "startMs": 351460,
+          "endMs": 352680
+        },
+        {
+          "en": "\"A magic adventure is bad enough,\" The people took Floppy away.",
+          "zh": "一个魔法冒险是坏的足够， 他想， 和现在这个！",
+          "startMs": 362580,
+          "endMs": 365000
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 339430,
+      "endMs": 365350
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children followed.",
+          "zh": "这孩子们跟随。",
+          "startMs": 365000,
+          "endMs": 365200
+        },
+        {
+          "en": "Floppy couldn't believe all this was happening to him.",
+          "zh": "Floppy 不能相信全部这个是发生的事情到他。",
+          "startMs": 365200,
+          "endMs": 365400
+        },
+        {
+          "en": "He thought.",
+          "zh": "我惊奇如果。。？ 她想。",
+          "startMs": 365400,
+          "endMs": 366050
+        },
+        {
+          "en": "\"And now this.\"",
+          "zh": "",
+          "startMs": 366050,
+          "endMs": 367680
+        },
+        {
+          "en": "The king came out onto the steps.",
+          "zh": "这国王来出在……上到这迈步。",
+          "startMs": 373270,
+          "endMs": 377680
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 365350,
+      "endMs": 378030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people took Floppy to the king's palace.",
+          "zh": "这人们拿 Floppy 到这国王宫。",
+          "startMs": 377680,
+          "endMs": 377880
+        },
+        {
+          "en": "\"In Egypt a king is called a pharaoh,\" said Chip.",
+          "zh": "在……里埃及一个国王是叫一个法老， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 378610,
+          "endMs": 382130
+        },
+        {
+          "en": "\"This pharaoh looks very fierce.\"",
+          "zh": "这个法老看非常凶猛的。",
+          "startMs": 382130,
+          "endMs": 384680
+        },
+        {
+          "en": "Everyone bowed when they saw him. Said Biff.",
+          "zh": "每个人弓当……时他们看见他。 哇！ 说 Biff。",
+          "startMs": 385580,
+          "endMs": 391270
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 378030,
+      "endMs": 391620
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We'd better bow down, too\" said Biff.",
+          "zh": "We'd 更好的弓向下， 也说 Biff。",
+          "startMs": 391270,
+          "endMs": 391470
+        },
+        {
+          "en": "\"We don't want to get into trouble.\"",
+          "zh": "我们不想要到得到进入问题。",
+          "startMs": 391470,
+          "endMs": 394680
+        },
+        {
+          "en": "A man spoke to the pharaoh.",
+          "zh": "一个男人说到这法老。",
+          "startMs": 395580,
+          "endMs": 397680
+        },
+        {
+          "en": "\"Great Pharaoh!\" He said.",
+          "zh": "很棒的法老！ 他说。",
+          "startMs": 397680,
+          "endMs": 400680
+        },
+        {
+          "en": "\"See what we have brought.\" \"The yellow dog!\" Gasped the pharaoh.",
+          "zh": "看见什么我们有带来。 看在……之后这黄色的狗， 他说。 一个男人说到这法老。",
+          "startMs": 400680,
+          "endMs": 408680
+        },
+        {
+          "en": "He said.",
+          "zh": "Biff， 他说。",
+          "startMs": 417750,
+          "endMs": 418680
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 391620,
+      "endMs": 419030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pharaoh took Floppy inside the palace.",
+          "zh": "这法老拿 Floppy 里面这宫。",
+          "startMs": 418680,
+          "endMs": 418880
+        },
+        {
+          "en": "Then he clapped his hands.",
+          "zh": "然后他鼓掌他的手。",
+          "startMs": 418880,
+          "endMs": 419080
+        },
+        {
+          "en": "\"Look after the yellow dog,\" he said.",
+          "zh": "看在……之后这黄色的狗， 他说。",
+          "startMs": 419080,
+          "endMs": 419280
+        },
+        {
+          "en": "\"Give him whatever he wants.\" \"Hmm!\" Thought Floppy.",
+          "zh": "给他任何事物他想要。 想 Floppy。 我憎恶船！ 想 Floppy。",
+          "startMs": 419280,
+          "endMs": 423680
+        },
+        {
+          "en": "\"I'm beginning to enjoy this adventure.\" Said Biff.",
+          "zh": "我是开始到享受这个冒险。 哇！ 说 Biff。",
+          "startMs": 423680,
+          "endMs": 430270
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 419030,
+      "endMs": 430620
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I just don't get it,\" said Biff.",
+          "zh": "我刚刚不得到它， 说 Biff。",
+          "startMs": 430270,
+          "endMs": 430470
+        },
+        {
+          "en": "\"Why are they making this fuss of Floppy?\"",
+          "zh": "为什么是他们做这个大惊小怪的 Floppy？",
+          "startMs": 430470,
+          "endMs": 433680
+        },
+        {
+          "en": "The pharaoh clapped his hands again.",
+          "zh": "这法老鼓掌他的手再一次。",
+          "startMs": 434580,
+          "endMs": 436680
+        },
+        {
+          "en": "Some people ran into the palace.",
+          "zh": "一些人们跑进入这宫。",
+          "startMs": 436680,
+          "endMs": 439680
+        },
+        {
+          "en": "One of them began to paint a picture of Floppy.",
+          "zh": "一的他们开始到油漆一个图画的 Floppy。",
+          "startMs": 440580,
+          "endMs": 443680
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 430620,
+      "endMs": 444030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly Biff sneezed.",
+          "zh": "突然地 Biff sneezed。",
+          "startMs": 447580,
+          "endMs": 449680
+        },
+        {
+          "en": "The pharaoh saw the children.",
+          "zh": "这法老看见这孩子们。",
+          "startMs": 452610,
+          "endMs": 455270
+        },
+        {
+          "en": "\"Strangers in my palace,\" he shouted.",
+          "zh": "陌生人在……里我的宫， 他喊。",
+          "startMs": 455270,
+          "endMs": 458510
+        },
+        {
+          "en": "\"How did they get in?\"",
+          "zh": "如何做他们得到在……里？",
+          "startMs": 458510,
+          "endMs": 459680
+        },
+        {
+          "en": "A guard grabbed Chip and Anneena.",
+          "zh": "一个警卫抓住 Chip 和 Anneena。",
+          "startMs": 460580,
+          "endMs": 462660
+        },
+        {
+          "en": "Another one grabbed Biff and Nadim.",
+          "zh": "Biff 和 Nadim。",
+          "startMs": 462660,
+          "endMs": 466680
+        },
+        {
+          "en": "The guard took the children outside.",
+          "zh": "这警卫拿这孩子们外面。",
+          "startMs": 467580,
+          "endMs": 469680
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 447430,
+      "endMs": 470030
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took them to one of the pyramids.",
+          "zh": "他们拿他们到一的这金字塔。",
+          "startMs": 469680,
+          "endMs": 472680
+        },
+        {
+          "en": "The people were moving the big blocks of stone.",
+          "zh": "这人们是运动的这大的大块的石块。",
+          "startMs": 473580,
+          "endMs": 476680
+        },
+        {
+          "en": "\"You all look strong,\" said a guard.",
+          "zh": "你全部看强壮的， 说一个警卫。",
+          "startMs": 477580,
+          "endMs": 479780
+        },
+        {
+          "en": "\"You can work here.\"",
+          "zh": "你能工作这里。",
+          "startMs": 479780,
+          "endMs": 481680
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 470030,
+      "endMs": 482030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had to help pull one of the big blocks.",
+          "zh": "这孩子们有到帮助拉一的这大的大块。",
+          "startMs": 482980,
+          "endMs": 488500
+        },
+        {
+          "en": "They had to put rollers down to slide it along.",
+          "zh": "他们有到放滚筒向下到滑行它沿着。",
+          "startMs": 488500,
+          "endMs": 492680
+        },
+        {
+          "en": "\"This is hard work,\" moaned Biff.",
+          "zh": "这个是困难的工作， 呻吟 Biff。 哦！ 喘气 Biff。",
+          "startMs": 493580,
+          "endMs": 497450
+        },
+        {
+          "en": "\"These rollers are heavy.\"",
+          "zh": "这些滚筒是重的。",
+          "startMs": 497450,
+          "endMs": 500680
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 482830,
+      "endMs": 501030
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time for a rest.",
+          "zh": "它是时间为了一个休息。",
+          "startMs": 502580,
+          "endMs": 503180
+        },
+        {
+          "en": "The children had to drink from a skin bag.",
+          "zh": "这孩子们有到喝从一个皮肤包。",
+          "startMs": 503180,
+          "endMs": 507680
+        },
+        {
+          "en": "\"Ugh!\" Said Chip.",
+          "zh": "咳！ 说 Chip。",
+          "startMs": 508610,
+          "endMs": 510500
+        },
+        {
+          "en": "\"This water is warm and it tastes funny too.",
+          "zh": "这个水是温暖的和它味道有趣的也。",
+          "startMs": 510500,
+          "endMs": 514510
+        },
+        {
+          "en": "I'd rather have an ice-cold can.\" Said Nadim.",
+          "zh": "I'd 相当有一个冰冷的能。 哦不！ 说 Nadim。",
+          "startMs": 514510,
+          "endMs": 532180
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 502430,
+      "endMs": 532530
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Egyptians were carving a giant stone block.",
+          "zh": "这埃及的是雕刻品一个巨人石块大块。",
+          "startMs": 532180,
+          "endMs": 532380
+        },
+        {
+          "en": "The children had to pick up all the chips of stone that fell off.",
+          "zh": "这孩子们有到挑选向上全部这 Chip 的石块那个落下离开。",
+          "startMs": 532380,
+          "endMs": 532580
+        },
+        {
+          "en": "\"This is hard work, too,\" said Nadim.",
+          "zh": "这个是困难的工作， 也， 说 Nadim。",
+          "startMs": 532580,
+          "endMs": 532780
+        },
+        {
+          "en": "\"It's no fun being an Egyptian slave.\"",
+          "zh": "它是不乐趣正在一个埃及的奴隶。",
+          "startMs": 532780,
+          "endMs": 535680
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 532530,
+      "endMs": 536030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena looked at the carving.",
+          "zh": "Anneena 看在这雕刻品。",
+          "startMs": 536610,
+          "endMs": 538680
+        },
+        {
+          "en": "\"I wonder if they are making a sphinx?\" She said.",
+          "zh": "我惊奇如果他们是做一个斯芬克斯？ 她说。",
+          "startMs": 538680,
+          "endMs": 543680
+        },
+        {
+          "en": "\"A sphinx has the body of a lion but that doesn't look like a lion's tail.\"",
+          "zh": "一个斯芬克斯有这身体的一个狮子但是那个不看喜欢一个狮子尾。",
+          "startMs": 544580,
+          "endMs": 549680
+        },
+        {
+          "en": "\"Hmmm, that tail looks familiar,\" Said Biff.",
+          "zh": "那个尾看熟悉的， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 550580,
+          "endMs": 555680
+        },
+        {
+          "en": "Gasped Biff.",
+          "zh": "哦！ 喘气 Biff。",
+          "startMs": 564190,
+          "endMs": 565680
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 536460,
+      "endMs": 566030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The carving was finished.",
+          "zh": "这雕刻品是结束了的。",
+          "startMs": 565680,
+          "endMs": 565880
+        },
+        {
+          "en": "\"I said it looked familiar,\" gasped Biff.",
+          "zh": "我说它看熟悉的， 喘气 Biff。",
+          "startMs": 565880,
+          "endMs": 566080
+        },
+        {
+          "en": "\"It isn't a sphinx at all - it's Floppy.\" It's Floppy!\"",
+          "zh": "它不是一个斯芬克斯在全部 - 它是 Floppy。 哦 Floppy！",
+          "startMs": 566610,
+          "endMs": 570680
+        },
+        {
+          "en": "At that moment the pharaoh came to see the carving.",
+          "zh": "在那个片刻这法老来到看见这雕刻品。",
+          "startMs": 571580,
+          "endMs": 574690
+        },
+        {
+          "en": "Some Egyptians carried Floppy.",
+          "zh": "一些埃及的搬运 Floppy。",
+          "startMs": 574690,
+          "endMs": 577680
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 578580,
+          "endMs": 582680
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 566030,
+      "endMs": 583030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy jumped down and ran over to the children.",
+          "zh": "Floppy 跳向下和跑在……上方到这孩子们。",
+          "startMs": 584580,
+          "endMs": 587680
+        },
+        {
+          "en": "\"Come back, yellow dog,\" called the pharaoh.",
+          "zh": "来回来， 黄色的狗， 叫这法老。",
+          "startMs": 588580,
+          "endMs": 591690
+        },
+        {
+          "en": "\"I'm glad it's time to go,\" thought Floppy.",
+          "zh": "我是高兴的它是时间到去， 想 Floppy。",
+          "startMs": 591690,
+          "endMs": 594680
+        },
+        {
+          "en": "\"It's all getting too much of a good thing.\" Said Nadim.",
+          "zh": "它是全部得到也许多的一个好的东西。 哦不！ 说 Nadim。",
+          "startMs": 595610,
+          "endMs": 611690
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 584430,
+      "endMs": 612040
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What an adventure,\" said Nadim.",
+          "zh": "什么一个冒险， 说 Nadim。",
+          "startMs": 611690,
+          "endMs": 611890
+        },
+        {
+          "en": "\"I didn't like being an Egyptian slave.\"",
+          "zh": "我没有喜欢正在一个埃及的奴隶。",
+          "startMs": 611890,
+          "endMs": 613680
+        },
+        {
+          "en": "Anneena picked up the model sphinx.",
+          "zh": "Anneena 挑选向上这模型斯芬克斯。",
+          "startMs": 614580,
+          "endMs": 616680
+        },
+        {
+          "en": "\"A sphinx has a lion's body and a man's head,\" she said.",
+          "zh": "一个斯芬克斯有一个狮子身体和一个男人头， 她说。",
+          "startMs": 617580,
+          "endMs": 622680
+        },
+        {
+          "en": "\"But this does look a bit like Floppy.\"",
+          "zh": "但是这个做看一个一小块喜欢 Floppy。",
+          "startMs": 623610,
+          "endMs": 626680
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 612040,
+      "endMs": 627030
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 627030,
+      "endMs": 627031
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 627031,
+      "endMs": 627032
+    }
+  ]
+}

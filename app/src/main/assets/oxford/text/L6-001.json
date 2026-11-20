@@ -1,0 +1,689 @@
+{
+  "id": "L6-001",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went into Chip's room and picked up the magic key.",
+          "zh": "Kipper 走进 Chip 的房间，拿起魔法钥匙。",
+          "startMs": 29,
+          "endMs": 7300
+        },
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 7330,
+          "endMs": 10170
+        },
+        {
+          "en": "\"Oh help!\" Said Kipper.",
+          "zh": "“哎呀，救命！” Kipper 说道。",
+          "startMs": 12370,
+          "endMs": 16210
+        },
+        {
+          "en": "\"Help!\"",
+          "zh": "“救命！”",
+          "startMs": 25000,
+          "endMs": 26390
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 26740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ran outside and looked for Biff and Chip.",
+          "zh": "Kipper 跑出去找 Biff 和 Chip。",
+          "startMs": 26420,
+          "endMs": 29790
+        },
+        {
+          "en": "\"Help!\" he called.",
+          "zh": "帮助！ 他叫。",
+          "startMs": 29790,
+          "endMs": 29990
+        },
+        {
+          "en": "\"The key is glowing.\"",
+          "zh": "“钥匙在发光！”",
+          "startMs": 29990,
+          "endMs": 31560
+        },
+        {
+          "en": "They were playing in the sand pit. Called Kipper.",
+          "zh": "他们在沙坑里玩耍。 Kipper 喊道。",
+          "startMs": 34970,
+          "endMs": 42070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 26740,
+      "endMs": 42420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip were playing with Wilf and Wilma.",
+          "zh": "Biff 和 Chip 正在和 Wilf 和 Wilma 玩。",
+          "startMs": 42100,
+          "endMs": 45470
+        },
+        {
+          "en": "\"Look at the magic key,\" called Kipper.",
+          "zh": "看在这魔法钥匙， 叫 Kipper。",
+          "startMs": 45470,
+          "endMs": 45670
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 42420,
+      "endMs": 46020
+    },
+    {
+      "sentences": [
+        {
+          "en": "No Biff was cross with Kipper.",
+          "zh": "不 Biff 是叉形和……一起 Kipper。",
+          "startMs": 45970,
+          "endMs": 49070
+        },
+        {
+          "en": "\"Come on everyone,\" she yelled.",
+          "zh": "来在……上每个人， 她叫喊。",
+          "startMs": 49100,
+          "endMs": 52930
+        },
+        {
+          "en": "\"Run inside.",
+          "zh": "跑里面。",
+          "startMs": 52960,
+          "endMs": 53760
+        },
+        {
+          "en": "Get to the magic house.\"",
+          "zh": "快到魔法屋里去！”",
+          "startMs": 53790,
+          "endMs": 55620
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 46020,
+      "endMs": 55970
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was too late.",
+          "zh": "太晚了。",
+          "startMs": 55830,
+          "endMs": 58930
+        },
+        {
+          "en": "The magic began to work.",
+          "zh": "魔法开始起作用了。",
+          "startMs": 58960,
+          "endMs": 59930
+        },
+        {
+          "en": "The children got smaller and smaller. Said Kipper.",
+          "zh": "孩子们变得越来越小。 Kipper 说道。",
+          "startMs": 60830,
+          "endMs": 78530
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 55970,
+      "endMs": 78880
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were in the grass and everything looked big.",
+          "zh": "孩子们在草地上，一切看起来都很大。",
+          "startMs": 78560,
+          "endMs": 81830
+        },
+        {
+          "en": "The grass was like a jungle.",
+          "zh": "草地就像一片丛林。",
+          "startMs": 81860,
+          "endMs": 84930
+        },
+        {
+          "en": "\"What big flowers!\"",
+          "zh": "“花真大啊！”",
+          "startMs": 89970,
+          "endMs": 91940
+        },
+        {
+          "en": "Chip saw a bumblebee.",
+          "zh": "Chip 看到了一只大黄蜂。",
+          "startMs": 94970,
+          "endMs": 98070
+        },
+        {
+          "en": "He called.",
+          "zh": "他喊道。",
+          "startMs": 108590,
+          "endMs": 110070
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 78880,
+      "endMs": 110420
+    },
+    {
+      "sentences": [
+        {
+          "en": "He didn't like it and he didn't like the jungle.",
+          "zh": "他不喜欢这只蜜蜂，也不喜欢这片丛林。",
+          "startMs": 110100,
+          "endMs": 113800
+        },
+        {
+          "en": "\"Let's get out of here,\" he called.",
+          "zh": "让我们得到出的这里， 他叫。",
+          "startMs": 113800,
+          "endMs": 114000
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 110420,
+      "endMs": 114350
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children came out of the jungle.",
+          "zh": "孩子们走出了丛林。",
+          "startMs": 114000,
+          "endMs": 115670
+        },
+        {
+          "en": "They came to a mountain.",
+          "zh": "他们来到一座山前。",
+          "startMs": 121830,
+          "endMs": 124930
+        },
+        {
+          "en": "\"What a big mountain!\" Said Wilf.",
+          "zh": "“好大的一座山啊！” Wilf 说道。",
+          "startMs": 124960,
+          "endMs": 129070
+        },
+        {
+          "en": "\"Come on!\" He said.",
+          "zh": "“快来！” 他说。",
+          "startMs": 133940,
+          "endMs": 135960
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 114350,
+      "endMs": 136310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip began to climb.",
+          "zh": "Chip 开始往上爬。",
+          "startMs": 135990,
+          "endMs": 137710
+        },
+        {
+          "en": "He wanted to get to the top.",
+          "zh": "他想爬到顶上。",
+          "startMs": 137710,
+          "endMs": 137910
+        },
+        {
+          "en": "\"Let's climb up.\" He said.",
+          "zh": "“我们爬上去吧！” 他说。",
+          "startMs": 137910,
+          "endMs": 153070
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 136310,
+      "endMs": 153420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children got to the top.",
+          "zh": "孩子们爬到了山顶。",
+          "startMs": 153100,
+          "endMs": 155480
+        },
+        {
+          "en": "Kipper was hot.",
+          "zh": "Kipper 觉得很热。",
+          "startMs": 155480,
+          "endMs": 155680
+        },
+        {
+          "en": "\"I don't like climbing mountains,\" he said, said Biff.",
+          "zh": "我不喜欢爬山， 他说。",
+          "startMs": 155680,
+          "endMs": 159120
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 153420,
+      "endMs": 159470
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the sand.",
+          "zh": "孩子们看着沙子。",
+          "startMs": 159150,
+          "endMs": 161530
+        },
+        {
+          "en": "\"It looks like a desert,\" said Biff.",
+          "zh": "它看喜欢一个抛弃， 说 Biff。",
+          "startMs": 161530,
+          "endMs": 161730
+        },
+        {
+          "en": "\"Let's go down.\" \"Oh no!\" Said Kipper.",
+          "zh": "“我们下山吧！” “哎呀，不好了。” Kipper 说道。",
+          "startMs": 161730,
+          "endMs": 168240
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 159470,
+      "endMs": 168590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the toy car,\" said Wilma.",
+          "zh": "看在这玩具汽车， 说 Wilma。",
+          "startMs": 168240,
+          "endMs": 168870
+        },
+        {
+          "en": "\"Let's get inside and ride down.",
+          "zh": "“我们进去坐上去滑下来吧。",
+          "startMs": 170830,
+          "endMs": 173930
+        },
+        {
+          "en": "We can ride down to the desert.\" Whoosh! Said Wilma.",
+          "zh": "我们可以驾车下到沙漠里！” “嗖！” Wilma 说道。",
+          "startMs": 173980,
+          "endMs": 179180
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 168590,
+      "endMs": 179530
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car took them down the mountain.",
+          "zh": "这汽车拿他们向下这山。",
+          "startMs": 179210,
+          "endMs": 181490
+        },
+        {
+          "en": "\"This is fun,\" said Wilma.",
+          "zh": "这个是乐趣， 说 Wilma。",
+          "startMs": 181970,
+          "endMs": 184200
+        },
+        {
+          "en": "\"Oh no!\" Said Wilf.",
+          "zh": "“哎呀，不好了。” Wilf 说道。",
+          "startMs": 195910,
+          "endMs": 198510
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 179530,
+      "endMs": 198860
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car stopped in the sand.",
+          "zh": "小汽车停在了沙地上。",
+          "startMs": 198540,
+          "endMs": 200920
+        },
+        {
+          "en": "The children climbed out.",
+          "zh": "孩子们爬了出来。",
+          "startMs": 200920,
+          "endMs": 201120
+        },
+        {
+          "en": "\"Look at that big cat.\" He said.",
+          "zh": "“瞧那只大猫！” 他说。",
+          "startMs": 201120,
+          "endMs": 206250
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 198860,
+      "endMs": 206600
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children climbed inside a bottle.",
+          "zh": "孩子们爬进了一个瓶子。",
+          "startMs": 206280,
+          "endMs": 208930
+        },
+        {
+          "en": "Kipper was frightened.",
+          "zh": "Kipper 吓坏了。",
+          "startMs": 210830,
+          "endMs": 212930
+        },
+        {
+          "en": "\"I don't like this,\" he said.",
+          "zh": "我不喜欢这个， 他说。",
+          "startMs": 212970,
+          "endMs": 216420
+        },
+        {
+          "en": "Shouted Kipper.",
+          "zh": "Kipper 喊道。",
+          "startMs": 233500,
+          "endMs": 236260
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 206600,
+      "endMs": 236610
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat looked inside the bottle.",
+          "zh": "猫往瓶子里看了看。",
+          "startMs": 236290,
+          "endMs": 238670
+        },
+        {
+          "en": "It pushed it with its paw.",
+          "zh": "它用爪子推了推瓶子。",
+          "startMs": 238670,
+          "endMs": 238870
+        },
+        {
+          "en": "\"Go away, cat,\" shouted Kipper.",
+          "zh": "去离开， 猫， 喊 Kipper。",
+          "startMs": 238870,
+          "endMs": 239070
+        },
+        {
+          "en": "\"Shoo!\" Everyone yelled.",
+          "zh": "“走开！” 大家都喊了起来。",
+          "startMs": 239070,
+          "endMs": 239270
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 236610,
+      "endMs": 239620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy chased the cat away.",
+          "zh": "Floppy 把猫赶走了。",
+          "startMs": 239970,
+          "endMs": 243070
+        },
+        {
+          "en": "The children climbed out of the bottle.",
+          "zh": "孩子们爬出了瓶子。",
+          "startMs": 245160,
+          "endMs": 250260
+        },
+        {
+          "en": "\"Good old Floppy!\" Said Biff.",
+          "zh": "“好样的，Floppy！” Biff 说道。",
+          "startMs": 250290,
+          "endMs": 257580
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 239820,
+      "endMs": 257930
+    },
+    {
+      "sentences": [
+        {
+          "en": "They walked over the desert.",
+          "zh": "他们走过沙漠。",
+          "startMs": 257610,
+          "endMs": 259290
+        },
+        {
+          "en": "Everyone felt hot.",
+          "zh": "大家都觉得很热。",
+          "startMs": 259320,
+          "endMs": 261070
+        },
+        {
+          "en": "Everyone felt very hot.",
+          "zh": "每个人都觉得非常热。",
+          "startMs": 262100,
+          "endMs": 264130
+        },
+        {
+          "en": "\"I want a drink,\" said Kipper.",
+          "zh": "我想要一个喝， 说 Kipper。",
+          "startMs": 267970,
+          "endMs": 268450
+        },
+        {
+          "en": "\"Look!\" Said Wilf.",
+          "zh": "“看！ Wilf 说道。",
+          "startMs": 272000,
+          "endMs": 275070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 257930,
+      "endMs": 275420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Giant strawberries!\"",
+          "zh": "“大草莓！”",
+          "startMs": 275100,
+          "endMs": 276930
+        },
+        {
+          "en": "The children ran to eat them.",
+          "zh": "孩子们跑过去吃草莓。",
+          "startMs": 276960,
+          "endMs": 278930
+        },
+        {
+          "en": "\"I love strawberries,\" said Chip.",
+          "zh": "我爱草莓， 说 Chip。 Chip 说道。",
+          "startMs": 278970,
+          "endMs": 282070
+        },
+        {
+          "en": "\"So do I,\" said Wilf.",
+          "zh": "我， 说 Wilf。",
+          "startMs": 282100,
+          "endMs": 283790
+        },
+        {
+          "en": "\"Look!\" said Wilf.",
+          "zh": "看！ 说 Wilf。",
+          "startMs": 283790,
+          "endMs": 285070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 275420,
+      "endMs": 285420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children ate the strawberries.",
+          "zh": "孩子们吃了草莓。",
+          "startMs": 288970,
+          "endMs": 291070
+        },
+        {
+          "en": "They pulled off big lumps.",
+          "zh": "他们摘下了一大块一大块的草莓。",
+          "startMs": 292390,
+          "endMs": 295870
+        },
+        {
+          "en": "Kipper licked his lips.",
+          "zh": "Kipper 舔了舔嘴唇。",
+          "startMs": 295900,
+          "endMs": 295930
+        },
+        {
+          "en": "\"I like this adventure now,\" he said.",
+          "zh": "我喜欢这个冒险现在， 他说。",
+          "startMs": 300860,
+          "endMs": 306380
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 288820,
+      "endMs": 306730
+    },
+    {
+      "sentences": [
+        {
+          "en": "It began to rain.",
+          "zh": "它开始到雨。",
+          "startMs": 306830,
+          "endMs": 308990
+        },
+        {
+          "en": "\"What big drops!\" Said Wilma.",
+          "zh": "“多大的雨滴啊？” Wilma 说道。",
+          "startMs": 309970,
+          "endMs": 314070
+        },
+        {
+          "en": "\"I feel sick now,\" said Kipper.",
+          "zh": "我感觉有病的现在， 说 Kipper。 Kipper 说道。",
+          "startMs": 314100,
+          "endMs": 319070
+        },
+        {
+          "en": "\"So do I!\" Said Chip.",
+          "zh": "“我也是！” Chip 说道。",
+          "startMs": 319100,
+          "endMs": 323070
+        },
+        {
+          "en": "The children ran to a giant flower pot.",
+          "zh": "孩子们跑到一个巨大的花盆旁。",
+          "startMs": 323100,
+          "endMs": 328290
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 306730,
+      "endMs": 328640
+    },
+    {
+      "sentences": [
+        {
+          "en": "They hid under it.",
+          "zh": "他们躲在了花盆下面。",
+          "startMs": 328320,
+          "endMs": 330210
+        },
+        {
+          "en": "The key began to glow. Said Chip.",
+          "zh": "钥匙开始发光。 Chip 说道。",
+          "startMs": 330240,
+          "endMs": 348240
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 328640,
+      "endMs": 348590
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic was over.",
+          "zh": "魔法结束了。",
+          "startMs": 348270,
+          "endMs": 351150
+        },
+        {
+          "en": "\"I can't see,\" said Chip.",
+          "zh": "我不能看见， 说 Chip。",
+          "startMs": 351180,
+          "endMs": 353230
+        },
+        {
+          "en": "He had the flower pot on his head.",
+          "zh": "他头上顶着花盆。",
+          "startMs": 353230,
+          "endMs": 354910
+        },
+        {
+          "en": "\"I like the hat,\" said Wilma.",
+          "zh": "我喜欢这帽子， 说 Wilma。 Wilma 说道。",
+          "startMs": 355970,
+          "endMs": 360070
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 348590,
+      "endMs": 360420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at his strawberries.",
+          "zh": "爸爸看着他的草莓。",
+          "startMs": 362830,
+          "endMs": 365930
+        },
+        {
+          "en": "\"I don't know,\" he said.",
+          "zh": "我不知道， 他说。",
+          "startMs": 365970,
+          "endMs": 368070
+        },
+        {
+          "en": "\"There must be giant slugs round here.\" (upbeat music).",
+          "zh": "“这附近一定有巨型蛞蝓。” （欢快的音乐）。",
+          "startMs": 368100,
+          "endMs": 372950
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 362680,
+      "endMs": 373300
+    }
+  ]
+}

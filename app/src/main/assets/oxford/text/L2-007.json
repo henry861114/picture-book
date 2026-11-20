@@ -1,0 +1,261 @@
+{
+  "id": "L2-007",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy saw a rabbit.",
+          "zh": "Floppy 看见一个兔。",
+          "startMs": 0,
+          "endMs": 7180
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy chased it.",
+          "zh": "Floppy 追赶它。",
+          "startMs": 14280,
+          "endMs": 16380
+        }
+      ],
+      "startMs": 14130,
+      "endMs": 16730
+    },
+    {
+      "sentences": [
+        {
+          "en": "It went under a fence.",
+          "zh": "它去在……下方一个分册。",
+          "startMs": 4404,
+          "endMs": 6999
+        }
+      ],
+      "startMs": 4404,
+      "endMs": 6999
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy got wet.",
+          "zh": "Floppy 得到湿的。",
+          "startMs": 0,
+          "endMs": 340
+        }
+      ],
+      "startMs": 0,
+      "endMs": 690
+    },
+    {
+      "sentences": [],
+      "startMs": 8769,
+      "endMs": 9569,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 9569,
+      "endMs": 10369,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy got muddy.",
+          "zh": "Floppy 得到泥泞的。",
+          "startMs": 0,
+          "endMs": 340
+        }
+      ],
+      "startMs": 0,
+      "endMs": 690
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took Floppy home.",
+          "zh": "他们拿 Floppy 家。",
+          "startMs": 11169,
+          "endMs": 13605
+        }
+      ],
+      "startMs": 11169,
+      "endMs": 13605
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a soggy doggy!\" said Kipper.",
+          "zh": "什么一个湿软的狗狗！ 说 Kipper。",
+          "startMs": 13605,
+          "endMs": 17497
+        }
+      ],
+      "startMs": 13605,
+      "endMs": 17497
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put Floppy in the bath.",
+          "zh": "他们放 Floppy 在……里这洗澡。",
+          "startMs": 17497,
+          "endMs": 20800
+        }
+      ],
+      "startMs": 17497,
+      "endMs": 20800
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad washed him.",
+          "zh": "妈妈和爸爸洗他。",
+          "startMs": 20800,
+          "endMs": 23513
+        }
+      ],
+      "startMs": 20800,
+      "endMs": 23513
+    },
+    {
+      "sentences": [],
+      "startMs": 23513,
+      "endMs": 24313,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip dried Floppy.",
+          "zh": "Biff 和 Chip 脱水的 Floppy。",
+          "startMs": 24313,
+          "endMs": 26270
+        }
+      ],
+      "startMs": 24313,
+      "endMs": 26270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy looked clean.",
+          "zh": "Floppy 看打扫。",
+          "startMs": 14280,
+          "endMs": 14620
+        }
+      ],
+      "startMs": 14130,
+      "endMs": 14970
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a good dog!\" said Kipper.",
+          "zh": "什么一个好的狗！ 说 Kipper。",
+          "startMs": 29175,
+          "endMs": 32713
+        }
+      ],
+      "startMs": 29175,
+      "endMs": 32713
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 32713,
+          "endMs": 33513
+        }
+      ],
+      "startMs": 32713,
+      "endMs": 33513
+    },
+    {
+      "sentences": [
+        {
+          "en": "This game helps the child to think of words that rhyme.",
+          "zh": "这个游戏帮助这孩子到想的单词那个押韵。",
+          "startMs": 33513,
+          "endMs": 40066
+        },
+        {
+          "en": "• Find 'soggy doggy' on page 9.",
+          "zh": "• 找到 '湿软的狗狗' 在……上页 9。",
+          "startMs": 40066,
+          "endMs": 43759
+        },
+        {
+          "en": "Look at the letters and get the child to notice that only the first letter is different.",
+          "zh": "看在这信和得到这孩子到布告那个只有这第一信是不同的。",
+          "startMs": 43759,
+          "endMs": 54243
+        },
+        {
+          "en": "• Choose a word from the story and ask the child to think of a word that rhymes with it.",
+          "zh": "• 选择一个单词从这故事和问这孩子到想的一个单词那个押韵和……一起它。",
+          "startMs": 54243,
+          "endMs": 64728
+        },
+        {
+          "en": "• Then the child finds a word and asks you to think of a word that rhymes with it.",
+          "zh": "• 然后这孩子找到一个单词和问你到想的一个单词那个押韵和……一起它。",
+          "startMs": 64728,
+          "endMs": 74497
+        },
+        {
+          "en": "• Have two or three turns each.",
+          "zh": "• 有二或者三转动每个。",
+          "startMs": 74497,
+          "endMs": 78191
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 78191,
+          "endMs": 84982
+        },
+        {
+          "en": "• Together, find words with three letters in the story.",
+          "zh": "• 一起， 找到单词和……一起三信在……里这故事。",
+          "startMs": 84982,
+          "endMs": 91534
+        },
+        {
+          "en": "Ask the child to spell one or two of them, such as 'got\", 'wet', 'saw' or 'put.",
+          "zh": "问这孩子到咒语一或者二的他们， 这样的像 '得到， '湿的'， '看见' 或者 '放。",
+          "startMs": 91534,
+          "endMs": 100946
+        },
+        {
+          "en": "• Ask the child to find the exclamation marks in the story and read the sentences with expression.",
+          "zh": "• 问这孩子到找到这呼喊斑点在……里这故事和读这句子和……一起表达。",
+          "startMs": 100946,
+          "endMs": 112622
+        }
+      ],
+      "startMs": 33513,
+      "endMs": 112622
+    },
+    {
+      "sentences": [],
+      "startMs": 112622,
+      "endMs": 112922,
+      "illustrationOnly": true
+    }
+  ]
+}

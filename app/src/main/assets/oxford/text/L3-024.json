@@ -1,0 +1,273 @@
+{
+  "id": "L3-024",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were in the sea.",
+          "zh": "这孩子们是在……里这海。",
+          "startMs": 0,
+          "endMs": 11350
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11700
+    },
+    {
+      "sentences": [
+        {
+          "en": "They played in the waves.",
+          "zh": "他们玩在……里这波浪。",
+          "startMs": 11250,
+          "endMs": 17350
+        }
+      ],
+      "startMs": 11100,
+      "endMs": 17700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad made them laugh.",
+          "zh": "爸爸做他们笑。",
+          "startMs": 17250,
+          "endMs": 26350
+        }
+      ],
+      "startMs": 17100,
+      "endMs": 26700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was cold.",
+          "zh": "每个人是冷的。",
+          "startMs": 8213,
+          "endMs": 10384
+        }
+      ],
+      "startMs": 8213,
+      "endMs": 10384
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was very cold.",
+          "zh": "Kipper 是非常冷的。",
+          "startMs": 10384,
+          "endMs": 12916
+        }
+      ],
+      "startMs": 10384,
+      "endMs": 12916
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to jog.",
+          "zh": "每个人想要到轻推。",
+          "startMs": 12916,
+          "endMs": 15690
+        }
+      ],
+      "startMs": 12916,
+      "endMs": 15690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper sat on the rug.",
+          "zh": "Kipper 坐在……上这小地毯。",
+          "startMs": 15690,
+          "endMs": 18343
+        }
+      ],
+      "startMs": 15690,
+      "endMs": 18343
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on, Kipper,\" said Mum.",
+          "zh": "来在……上， Kipper， 说妈妈。",
+          "startMs": 18343,
+          "endMs": 21719
+        }
+      ],
+      "startMs": 18343,
+      "endMs": 21719
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm too cold,\" said Kipper.",
+          "zh": "我是也冷的， 说 Kipper。",
+          "startMs": 30000,
+          "endMs": 35040
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 35390
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on, Kipper,\" said Dad.",
+          "zh": "来在……上， Kipper， 说爸爸。",
+          "startMs": 25095,
+          "endMs": 28472
+        }
+      ],
+      "startMs": 25095,
+      "endMs": 28472
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm too cold,\" said Kipper.",
+          "zh": "我是也冷的， 说 Kipper。",
+          "startMs": 30000,
+          "endMs": 35040
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 35390
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and help,\" said everyone.",
+          "zh": "来和帮助， 说每个人。",
+          "startMs": 31848,
+          "endMs": 35586
+        }
+      ],
+      "startMs": 31848,
+      "endMs": 35586
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm too cold,\" said Kipper.",
+          "zh": "我是也冷的， 说 Kipper。",
+          "startMs": 30000,
+          "endMs": 35040
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 35390
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ice cream!\" said Kipper.",
+          "zh": "冰奶油！ 说 Kipper。",
+          "startMs": 38963,
+          "endMs": 41978
+        }
+      ],
+      "startMs": 38963,
+      "endMs": 41978
+    },
+    {
+      "sentences": [
+        {
+          "en": "He ran to the van.",
+          "zh": "他跑到这送货车。",
+          "startMs": 43250,
+          "endMs": 49290
+        }
+      ],
+      "startMs": 43100,
+      "endMs": 49640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at Kipper.",
+          "zh": "每个人看在 Kipper。",
+          "startMs": 41250,
+          "endMs": 46440
+        },
+        {
+          "en": "\"I'm not that cold,\" he said.",
+          "zh": "我是不那个冷的， 他说。",
+          "startMs": 56250,
+          "endMs": 60350
+        }
+      ],
+      "startMs": 41100,
+      "endMs": 60700
+    },
+    {
+      "sentences": [
+        {
+          "en": "This helps children to work out how words are spelt from their sounds.",
+          "zh": "这个帮助孩子们到工作出如何单词是 spelt 从他们的声音。",
+          "startMs": 50901,
+          "endMs": 59417
+        },
+        {
+          "en": "• Choose a word from the story that can be spelt out by listening to each sound: 'in', 'cold\", 'sat\", 'rug', 'help', 'ran\", 'van', 'not\", \"that', 'at.",
+          "zh": "• 选择一个单词从这故事那个能是 spelt 出由听到每个声音： '在……里'， '冷的， '坐， '小地毯'， '帮助'， '跑， '送货车'， '不， 那个'， '在。",
+          "startMs": 59417,
+          "endMs": 77665
+        },
+        {
+          "en": "• Ask the child to spell it, and to then find it in the book to check.",
+          "zh": "• 问这孩子到咒语它， 和到然后找到它在……里这书到查明。",
+          "startMs": 77665,
+          "endMs": 86180
+        },
+        {
+          "en": "Take turns to choose and spell a word.",
+          "zh": "拿转动到选择和咒语一个单词。",
+          "startMs": 86180,
+          "endMs": 90803
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 90803,
+          "endMs": 97737
+        },
+        {
+          "en": "• Read all the names of ice creams on page 16.",
+          "zh": "• 读全部这名字的冰奶油在……上页 16。",
+          "startMs": 97737,
+          "endMs": 103333
+        },
+        {
+          "en": "How many names of ice creams and lollies can you remember?\"",
+          "zh": "如何许多名字的冰奶油和棒棒糖能你记得？",
+          "startMs": 103333,
+          "endMs": 110511
+        },
+        {
+          "en": "Choose any word from the story and ask the child to find it.",
+          "zh": "选择任何单词从这故事和问这孩子到找到它。",
+          "startMs": 110511,
+          "endMs": 117810
+        }
+      ],
+      "startMs": 50901,
+      "endMs": 117810
+    },
+    {
+      "sentences": [],
+      "startMs": 117810,
+      "endMs": 118187,
+      "illustrationOnly": true
+    }
+  ]
+}

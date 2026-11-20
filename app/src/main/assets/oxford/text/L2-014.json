@@ -1,0 +1,309 @@
+{
+  "id": "L2-014",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had a wobbly tooth.",
+          "zh": "Kipper 有一个摇晃的牙齿。",
+          "startMs": 0,
+          "endMs": 2060
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted to pull it out.",
+          "zh": "妈妈想要到拉它出。",
+          "startMs": 10960,
+          "endMs": 13060
+        }
+      ],
+      "startMs": 10810,
+      "endMs": 13410
+    },
+    {
+      "sentences": [
+        {
+          "en": "said Kipper.",
+          "zh": "说 Kipper。",
+          "startMs": 0,
+          "endMs": 650
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted to pull it out.",
+          "zh": "爸爸想要到拉它出。",
+          "startMs": 21960,
+          "endMs": 24060
+        }
+      ],
+      "startMs": 21810,
+      "endMs": 24410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, no, no!\" said Kipper.",
+          "zh": "不， 不， 不！ 说 Kipper。",
+          "startMs": 9650,
+          "endMs": 10620
+        }
+      ],
+      "startMs": 9650,
+      "endMs": 10620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went on the swing.",
+          "zh": "Biff 去在……上这摆动。",
+          "startMs": 10620,
+          "endMs": 13750
+        }
+      ],
+      "startMs": 10620,
+      "endMs": 13750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper pushed her.",
+          "zh": "Kipper 推她。",
+          "startMs": 0,
+          "endMs": 650
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 13960,
+          "endMs": 16060
+        }
+      ],
+      "startMs": 13810,
+      "endMs": 16410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The swing hit Kipper.",
+          "zh": "这摆动击 Kipper。",
+          "startMs": 17950,
+          "endMs": 18950
+        }
+      ],
+      "startMs": 17950,
+      "endMs": 18950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The tooth was gone.",
+          "zh": "这牙齿是去了。",
+          "startMs": 18950,
+          "endMs": 20800
+        }
+      ],
+      "startMs": 18950,
+      "endMs": 20800
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had swallowed it.",
+          "zh": "Kipper 有吞下它。",
+          "startMs": 30960,
+          "endMs": 31110
+        }
+      ],
+      "startMs": 30810,
+      "endMs": 31460
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was upset.",
+          "zh": "Kipper 是使苦恼。",
+          "startMs": 30960,
+          "endMs": 31110
+        }
+      ],
+      "startMs": 30810,
+      "endMs": 31460
+    },
+    {
+      "sentences": [
+        {
+          "en": "Notooth- no money!",
+          "zh": "Notooth- 不钱！",
+          "startMs": 14450,
+          "endMs": 16060
+        }
+      ],
+      "startMs": 14300,
+      "endMs": 16410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip.",
+          "zh": "Biff 和 Chip。",
+          "startMs": 27098,
+          "endMs": 28366
+        },
+        {
+          "en": "\"Never mind,\" said Mum.",
+          "zh": "从不头脑， 说妈妈。",
+          "startMs": 28366,
+          "endMs": 30450
+        }
+      ],
+      "startMs": 27098,
+      "endMs": 30450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Never mind,\" said Dad.",
+          "zh": "从不头脑， 说爸爸。",
+          "startMs": 30450,
+          "endMs": 32851
+        },
+        {
+          "en": "\"I'm not sad,\" said Kipper.",
+          "zh": "我是不伤心的， 说 Kipper。",
+          "startMs": 32851,
+          "endMs": 35670
+        }
+      ],
+      "startMs": 30450,
+      "endMs": 35670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Sidkipper\"",
+          "zh": "Sidkipper",
+          "startMs": 27960,
+          "endMs": 29060
+        }
+      ],
+      "startMs": 27810,
+      "endMs": 29410
+    },
+    {
+      "sentences": [
+        {
+          "en": "What comes next?",
+          "zh": "什么来下一个？",
+          "startMs": 37441,
+          "endMs": 39122
+        },
+        {
+          "en": "To help the child to guess what comes next in a sentence.",
+          "zh": "到帮助这孩子到猜测什么来下一个在……里一个句子。",
+          "startMs": 39122,
+          "endMs": 45110
+        },
+        {
+          "en": "Read any sentence from the story, leaving out the last word.",
+          "zh": "读任何句子从这故事， 离开出这最后的单词。",
+          "startMs": 45110,
+          "endMs": 51412
+        },
+        {
+          "en": "The child guesses the missing word and looks in the book to check.",
+          "zh": "这孩子猜测这小姐单词和看在……里这书到查明。",
+          "startMs": 51412,
+          "endMs": 58346
+        },
+        {
+          "en": "Then the child reads a sentence but leaves out the last word.",
+          "zh": "然后这孩子读一个句子但是叶子出这最后的单词。",
+          "startMs": 58346,
+          "endMs": 64753
+        },
+        {
+          "en": "You guess what the word is and look in the book to check.",
+          "zh": "你猜测什么这单词是和看在……里这书到查明。",
+          "startMs": 64753,
+          "endMs": 70741
+        },
+        {
+          "en": "• Have two or three turns each.",
+          "zh": "• 有二或者三转动每个。",
+          "startMs": 70741,
+          "endMs": 73998
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 73998,
+          "endMs": 79985
+        },
+        {
+          "en": "Kipper being sad and being glad.",
+          "zh": "Kipper 正在伤心的和正在高兴的。",
+          "startMs": 79985,
+          "endMs": 83347
+        },
+        {
+          "en": "Explain that the words 'sad' and 'glad' are opposites.",
+          "zh": "解释那个这单词 '伤心的' 和 '高兴的' 是对立面。",
+          "startMs": 83347,
+          "endMs": 89020
+        },
+        {
+          "en": "Think of other opposites together, such as 'in', 'out; 'up', 'down'; 'open', 'closed'.",
+          "zh": "想的其他对立面一起， 这样的像 '在……里'， '出； '向上'， '向下'； '打开'， '关上'。",
+          "startMs": 89020,
+          "endMs": 98054
+        },
+        {
+          "en": "Look at the pictures of Kipper's thought bubbles.",
+          "zh": "看在这图画的 Kipper 想泡泡。",
+          "startMs": 98054,
+          "endMs": 103201
+        },
+        {
+          "en": "Kipper is thinking.",
+          "zh": "Kipper 是想。",
+          "startMs": 103201,
+          "endMs": 105197
+        }
+      ],
+      "startMs": 37441,
+      "endMs": 105197
+    },
+    {
+      "sentences": [],
+      "startMs": 105197,
+      "endMs": 105497,
+      "illustrationOnly": true
+    }
+  ]
+}

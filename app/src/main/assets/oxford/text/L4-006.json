@@ -1,0 +1,213 @@
+{
+  "id": "L4-006",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad went shopping.",
+          "zh": "妈妈和爸爸去商店。",
+          "startMs": 0,
+          "endMs": 6500
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6850
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 1576,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took Adam and Yasmin.",
+          "zh": "他们拿亚当和 Yasmin。",
+          "startMs": 6400,
+          "endMs": 13500
+        }
+      ],
+      "startMs": 6250,
+      "endMs": 13850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted a kettle.",
+          "zh": "妈妈想要一个水壶。",
+          "startMs": 13400,
+          "endMs": 17500
+        }
+      ],
+      "startMs": 13250,
+      "endMs": 17850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam wanted to go home.",
+          "zh": "亚当想要到去家。",
+          "startMs": 17430,
+          "endMs": 24500
+        }
+      ],
+      "startMs": 17280,
+      "endMs": 24850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin wanted some shoes.",
+          "zh": "Yasmin 想要一些鞋。",
+          "startMs": 24400,
+          "endMs": 29500
+        }
+      ],
+      "startMs": 24250,
+      "endMs": 29850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam was bored.",
+          "zh": "亚当是厌倦的。",
+          "startMs": 29400,
+          "endMs": 36500
+        }
+      ],
+      "startMs": 29250,
+      "endMs": 36850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted a track suit.",
+          "zh": "爸爸想要一个足迹套装。",
+          "startMs": 36400,
+          "endMs": 41500
+        }
+      ],
+      "startMs": 36250,
+      "endMs": 41850
+    },
+    {
+      "sentences": [
+        {
+          "en": "TRACK SUITS Adam was fed up.",
+          "zh": "足迹套装亚当是 fed 向上。",
+          "startMs": 38720,
+          "endMs": 48500
+        }
+      ],
+      "startMs": 38570,
+      "endMs": 48850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam was tired.",
+          "zh": "亚当是累的。",
+          "startMs": 48400,
+          "endMs": 52500
+        }
+      ],
+      "startMs": 48250,
+      "endMs": 52850
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went into a tent.",
+          "zh": "他去进入一个帐篷。",
+          "startMs": 52400,
+          "endMs": 59500
+        }
+      ],
+      "startMs": 52250,
+      "endMs": 59850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad looked for Adam.",
+          "zh": "妈妈和爸爸看为了亚当。",
+          "startMs": 60190,
+          "endMs": 68130
+        }
+      ],
+      "startMs": 60040,
+      "endMs": 68480
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't find him.",
+          "zh": "他们不能找到他。",
+          "startMs": 52320,
+          "endMs": 57470
+        }
+      ],
+      "startMs": 52320,
+      "endMs": 57470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and dad looked for Adam.",
+          "zh": "妈妈和爸爸看为了亚当。",
+          "startMs": 60190,
+          "endMs": 71500
+        }
+      ],
+      "startMs": 60040,
+      "endMs": 71850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked for Adam.",
+          "zh": "每个人看为了亚当。",
+          "startMs": 71400,
+          "endMs": 78500
+        }
+      ],
+      "startMs": 71250,
+      "endMs": 78850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Printed in China by Imago Adam was fast asleep.",
+          "zh": "印刷的在……里瓷由 Imago 亚当是快的睡着的。",
+          "startMs": 79190,
+          "endMs": 84588
+        }
+      ],
+      "startMs": 79040,
+      "endMs": 84588
+    },
+    {
+      "sentences": [],
+      "startMs": 83040,
+      "endMs": 84289,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 84289,
+      "endMs": 84588,
+      "illustrationOnly": true
+    }
+  ]
+}

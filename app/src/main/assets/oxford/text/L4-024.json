@@ -1,0 +1,489 @@
+{
+  "id": "L4-024",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at the water butt.",
+          "zh": "爸爸看在这水用头撞。",
+          "startMs": 0,
+          "endMs": 9610
+        },
+        {
+          "en": "The water butt was leaking.",
+          "zh": "这水用头撞是裂缝。",
+          "startMs": 9510,
+          "endMs": 11860
+        }
+      ],
+      "startMs": 0,
+      "endMs": 12210
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked at the hose.",
+          "zh": "妈妈看在这软管。",
+          "startMs": 11760,
+          "endMs": 19000
+        },
+        {
+          "en": "The hose was leaking.",
+          "zh": "这软管是裂缝。",
+          "startMs": 19560,
+          "endMs": 24960
+        }
+      ],
+      "startMs": 11610,
+      "endMs": 25310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh bother!\" said Mum.",
+          "zh": "哦两个都！ 说妈妈。",
+          "startMs": 24860,
+          "endMs": 26700
+        }
+      ],
+      "startMs": 24710,
+      "endMs": 27050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad mended the water butt.",
+          "zh": "爸爸缝补这水用头撞。",
+          "startMs": 26600,
+          "endMs": 35900
+        },
+        {
+          "en": "He put a patch on it.",
+          "zh": "他放一个补丁在……上它。",
+          "startMs": 35800,
+          "endMs": 37920
+        }
+      ],
+      "startMs": 26450,
+      "endMs": 38270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a tricky job!\" he said.",
+          "zh": "什么一个困难的工作！ 他说。",
+          "startMs": 37850,
+          "endMs": 45110
+        }
+      ],
+      "startMs": 37700,
+      "endMs": 45460
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water butt burst.",
+          "zh": "这水用头撞使破裂。",
+          "startMs": 29871,
+          "endMs": 31331
+        },
+        {
+          "en": "All the water came out.",
+          "zh": "全部这水来出。",
+          "startMs": 31331,
+          "endMs": 32930
+        }
+      ],
+      "startMs": 29871,
+      "endMs": 32930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got wet.",
+          "zh": "爸爸得到湿的。",
+          "startMs": 26600,
+          "endMs": 29240
+        }
+      ],
+      "startMs": 26450,
+      "endMs": 29590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum mended the hose.",
+          "zh": "妈妈缝补这软管。",
+          "startMs": 25980,
+          "endMs": 34960
+        },
+        {
+          "en": "She put a patch on it.",
+          "zh": "她放一个补丁在……上它。",
+          "startMs": 36660,
+          "endMs": 37920
+        }
+      ],
+      "startMs": 25830,
+      "endMs": 38270
+    },
+    {
+      "sentences": [
+        {
+          "en": "mi..",
+          "zh": "咪。。",
+          "startMs": 45041,
+          "endMs": 45875
+        },
+        {
+          "en": "\"What a tricky job!\" she said.",
+          "zh": "什么一个困难的工作！ 她说。",
+          "startMs": 45875,
+          "endMs": 52130
+        }
+      ],
+      "startMs": 45041,
+      "endMs": 52130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put the hose on the tap.",
+          "zh": "妈妈放这软管在……上这龙头。",
+          "startMs": 52130,
+          "endMs": 55564
+        },
+        {
+          "en": "The top of the tap came off.",
+          "zh": "这顶的这龙头来离开。",
+          "startMs": 55564,
+          "endMs": 58997
+        }
+      ],
+      "startMs": 52130,
+      "endMs": 58997
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum got very wet.",
+          "zh": "妈妈得到非常湿的。",
+          "startMs": 58997,
+          "endMs": 61575
+        }
+      ],
+      "startMs": 58997,
+      "endMs": 61575
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a new water butt.",
+          "zh": "爸爸得到一个新的水用头撞。",
+          "startMs": 61575,
+          "endMs": 64690
+        },
+        {
+          "en": "He put it on the bricks.",
+          "zh": "他放它在……上这砖。",
+          "startMs": 64690,
+          "endMs": 67680
+        }
+      ],
+      "startMs": 61575,
+      "endMs": 67680
+    },
+    {
+      "sentences": [
+        {
+          "en": "He got the hose.",
+          "zh": "他得到这软管。",
+          "startMs": 67680,
+          "endMs": 69415
+        },
+        {
+          "en": "He filled up the water butt.",
+          "zh": "他充满向上这水用头撞。",
+          "startMs": 69415,
+          "endMs": 72450
+        }
+      ],
+      "startMs": 67680,
+      "endMs": 72450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water butt fell over.",
+          "zh": "这水用头撞落下在……上方。",
+          "startMs": 72450,
+          "endMs": 79779
+        }
+      ],
+      "startMs": 72450,
+      "endMs": 79779
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water poured out.",
+          "zh": "这水倒出出。",
+          "startMs": 79779,
+          "endMs": 83046
+        },
+        {
+          "en": "Dad got wet again.",
+          "zh": "爸爸得到湿的再一次。",
+          "startMs": 83046,
+          "endMs": 85847
+        }
+      ],
+      "startMs": 79779,
+      "endMs": 85847
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum got a new hose.",
+          "zh": "妈妈得到一个新的软管。",
+          "startMs": 85847,
+          "endMs": 88788
+        },
+        {
+          "en": "She joined it to the old hose.",
+          "zh": "她连接它到这旧的软管。",
+          "startMs": 88788,
+          "endMs": 93432
+        }
+      ],
+      "startMs": 85847,
+      "endMs": 93432
+    },
+    {
+      "sentences": [
+        {
+          "en": "She wanted to water the roses.",
+          "zh": "她想要到水这玫瑰红葡萄酒。",
+          "startMs": 77990,
+          "endMs": 109570
+        }
+      ],
+      "startMs": 77840,
+      "endMs": 109920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted to help.",
+          "zh": "Kipper 想要到帮助。",
+          "startMs": 100310,
+          "endMs": 102534
+        },
+        {
+          "en": "He turned the tap on.",
+          "zh": "他转动这龙头在……上。",
+          "startMs": 102534,
+          "endMs": 104657
+        }
+      ],
+      "startMs": 100310,
+      "endMs": 104657
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum got wet again.",
+          "zh": "妈妈得到湿的再一次。",
+          "startMs": 104657,
+          "endMs": 107464
+        },
+        {
+          "en": "\"Oh no!\" said Mum.",
+          "zh": "哦不！ 说妈妈。",
+          "startMs": 107464,
+          "endMs": 110270
+        }
+      ],
+      "startMs": 104657,
+      "endMs": 110270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children got the paddling pool.",
+          "zh": "这孩子们得到这短桨池塘。",
+          "startMs": 110270,
+          "endMs": 113671
+        },
+        {
+          "en": "They put it on the grass.",
+          "zh": "他们放它在……上这草。",
+          "startMs": 113671,
+          "endMs": 116100
+        }
+      ],
+      "startMs": 110270,
+      "endMs": 116100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got the new hose.",
+          "zh": "爸爸得到这新的软管。",
+          "startMs": 101990,
+          "endMs": 104260
+        },
+        {
+          "en": "Biff turned on the tap.",
+          "zh": "Biff 转动在……上这龙头。",
+          "startMs": 108760,
+          "endMs": 109570
+        }
+      ],
+      "startMs": 101840,
+      "endMs": 109920
+    },
+    {
+      "sentences": [
+        {
+          "en": "No water came out of the hose.",
+          "zh": "不水来出的这软管。",
+          "startMs": 123200,
+          "endMs": 129814
+        },
+        {
+          "en": "\"Funny!\" said Dad.",
+          "zh": "有趣的！ 说爸爸。",
+          "startMs": 129814,
+          "endMs": 133783
+        }
+      ],
+      "startMs": 123200,
+      "endMs": 133783
+    },
+    {
+      "sentences": [
+        {
+          "en": "He looked down the hose.",
+          "zh": "他看向下这软管。",
+          "startMs": 120480,
+          "endMs": 139220
+        }
+      ],
+      "startMs": 120330,
+      "endMs": 139570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 137423,
+          "endMs": 138367
+        },
+        {
+          "en": "The children got wet.",
+          "zh": "这孩子们得到湿的。",
+          "startMs": 138367,
+          "endMs": 141671
+        }
+      ],
+      "startMs": 137423,
+      "endMs": 141671
+    },
+    {
+      "sentences": [
+        {
+          "en": "What next?",
+          "zh": "什么下一个？",
+          "startMs": 141671,
+          "endMs": 143213
+        },
+        {
+          "en": "To remember the order.",
+          "zh": "到记得这条理。",
+          "startMs": 143213,
+          "endMs": 146605
+        },
+        {
+          "en": "• Open the book at any page and talk about the picture.",
+          "zh": "• 打开这书在任何页和谈话关于这图画。",
+          "startMs": 146605,
+          "endMs": 155085
+        },
+        {
+          "en": "Who was the next person to get wet?\"",
+          "zh": "谁是这下一个人到得到湿的？",
+          "startMs": 155085,
+          "endMs": 160635
+        },
+        {
+          "en": "Check in the book to see if you were right.",
+          "zh": "查明在……里这书到看见如果你是正确的。",
+          "startMs": 160635,
+          "endMs": 167265
+        },
+        {
+          "en": "Then children ask you to say who got wet next.",
+          "zh": "然后孩子们问你到说谁得到湿的下一个。",
+          "startMs": 167265,
+          "endMs": 174358
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 174358,
+          "endMs": 178829
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 178829,
+          "endMs": 187617
+        },
+        {
+          "en": "• Look for words that have double letters, such as 'looked', 'butt', 'paddling'.",
+          "zh": "• 看为了单词那个有供两者用的信， 这样的像 '看'， '用头撞'， '短桨'。",
+          "startMs": 187617,
+          "endMs": 199952
+        },
+        {
+          "en": "• On page 10, look at 'top' and 'tap'.",
+          "zh": "• 在……上页 10， 看在 '顶' 和 '龙头'。",
+          "startMs": 199952,
+          "endMs": 205811
+        },
+        {
+          "en": "Ask, \"Which letters are the same?\"",
+          "zh": "问， 哪个信是这同样的？",
+          "startMs": 205811,
+          "endMs": 211053
+        },
+        {
+          "en": "\"Which letter is different?\"",
+          "zh": "哪个信是不同的？",
+          "startMs": 211053,
+          "endMs": 215370
+        }
+      ],
+      "startMs": 141671,
+      "endMs": 215370
+    },
+    {
+      "sentences": [],
+      "startMs": 215370,
+      "endMs": 216002,
+      "illustrationOnly": true
+    }
+  ]
+}

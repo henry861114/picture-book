@@ -1,0 +1,201 @@
+{
+  "id": "L2-022",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and help,\" said Mum.",
+          "zh": "来和帮助， 说妈妈。",
+          "startMs": 0,
+          "endMs": 4920
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was looking at the TV.",
+          "zh": "Biff 是看在这电视。",
+          "startMs": 11770,
+          "endMs": 14870
+        }
+      ],
+      "startMs": 11620,
+      "endMs": 15220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"In a bit,\" she said.",
+          "zh": "在……里一个一小块， 她说。",
+          "startMs": 14770,
+          "endMs": 18870
+        }
+      ],
+      "startMs": 14620,
+      "endMs": 19220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had a job for Chip.",
+          "zh": "爸爸有一个工作为了 Chip。",
+          "startMs": 22770,
+          "endMs": 25870
+        }
+      ],
+      "startMs": 22620,
+      "endMs": 26220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and help,\" he said.",
+          "zh": "来和帮助， 他说。",
+          "startMs": 25770,
+          "endMs": 28870
+        }
+      ],
+      "startMs": 25620,
+      "endMs": 29220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was looking at the TV.",
+          "zh": "Chip 是看在这电视。",
+          "startMs": 29230,
+          "endMs": 35870
+        }
+      ],
+      "startMs": 29080,
+      "endMs": 36220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"In a bit,\" he said.",
+          "zh": "在……里一个一小块， 他说。",
+          "startMs": 35770,
+          "endMs": 40870
+        }
+      ],
+      "startMs": 35620,
+      "endMs": 41220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper's room was in a mess.",
+          "zh": "Kipper 房间是在……里一个脏乱。",
+          "startMs": 40770,
+          "endMs": 48870
+        }
+      ],
+      "startMs": 40620,
+      "endMs": 49220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and help,\" said Mum.",
+          "zh": "来和帮助， 说妈妈。",
+          "startMs": 48770,
+          "endMs": 53870
+        }
+      ],
+      "startMs": 48620,
+      "endMs": 54220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was looking at the TV.",
+          "zh": "Kipper 是看在这电视。",
+          "startMs": 54000,
+          "endMs": 60870
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 61220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"In a bit,\" he said.",
+          "zh": "在……里一个一小块， 他说。",
+          "startMs": 60770,
+          "endMs": 68870
+        }
+      ],
+      "startMs": 60620,
+      "endMs": 69220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What can we do?\" said Dad.",
+          "zh": "什么能我们做？ 说爸爸。",
+          "startMs": 68770,
+          "endMs": 73870
+        }
+      ],
+      "startMs": 68620,
+      "endMs": 74220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had an idea.",
+          "zh": "妈妈有一个主意。",
+          "startMs": 73770,
+          "endMs": 80870
+        }
+      ],
+      "startMs": 73620,
+      "endMs": 81220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff, Chip and Kipper wanted dinner.",
+          "zh": "Biff， Chip 和 Kipper 想要正餐。",
+          "startMs": 81080,
+          "endMs": 94870
+        }
+      ],
+      "startMs": 80930,
+      "endMs": 95220
+    },
+    {
+      "sentences": [],
+      "startMs": 94030,
+      "endMs": 95419,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"In a bit,\" said Mum and Dad.",
+          "zh": "在……里一个一小块， 说妈妈和爸爸。",
+          "startMs": 94770,
+          "endMs": 101870
+        }
+      ],
+      "startMs": 94620,
+      "endMs": 102220
+    }
+  ]
+}

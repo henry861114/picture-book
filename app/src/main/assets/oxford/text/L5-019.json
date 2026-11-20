@@ -1,0 +1,612 @@
+{
+  "id": "L5-019",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 0,
+          "endMs": 2070
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 2420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 2420,
+      "endMs": 2421
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to pick blackberries.",
+          "zh": "孩子们去采黑莓了。",
+          "startMs": 6620,
+          "endMs": 9530
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 6470,
+      "endMs": 9880
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were lots of blackberries.",
+          "zh": "那里有很多黑莓。",
+          "startMs": 14880,
+          "endMs": 17490
+        },
+        {
+          "en": "The bushes had thorns. Called Wilma.",
+          "zh": "blackberries 的灌木丛上长着刺。 它叫 Wilma。",
+          "startMs": 18470,
+          "endMs": 24870
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 14730,
+      "endMs": 25220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mind the thorns,\" called Wilma.",
+          "zh": "“小心刺，”Wilma 喊道。",
+          "startMs": 24870,
+          "endMs": 25070
+        },
+        {
+          "en": "\"Ow!\" Said Chip.",
+          "zh": "“哎哟！ Chip 说道。",
+          "startMs": 30000,
+          "endMs": 32070
+        },
+        {
+          "en": "\"The thorns are sharp.\"",
+          "zh": "刺很尖。",
+          "startMs": 32100,
+          "endMs": 33930
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 25220,
+      "endMs": 34280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma saw some big blackberries.",
+          "zh": "Wilma 看到了一些大黑莓。",
+          "startMs": 37480,
+          "endMs": 40610
+        },
+        {
+          "en": "She had some thick gloves and some clippers.",
+          "zh": "她带了一些厚手套和一些剪刀。",
+          "startMs": 41240,
+          "endMs": 44650
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 37330,
+      "endMs": 45000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma put on the thick gloves.",
+          "zh": "Wilma 戴上了厚手套。",
+          "startMs": 45250,
+          "endMs": 47530
+        },
+        {
+          "en": "She cut the stems with the clippers.",
+          "zh": "她用剪刀剪下茎秆。",
+          "startMs": 49780,
+          "endMs": 52630
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 45100,
+      "endMs": 52980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went home.",
+          "zh": "孩子们回家了。",
+          "startMs": 59890,
+          "endMs": 61960
+        },
+        {
+          "en": "They ate some blackberries.",
+          "zh": "他们吃了一些黑莓。",
+          "startMs": 62630,
+          "endMs": 64630
+        },
+        {
+          "en": "\"Yuck!",
+          "zh": "“哎呀！",
+          "startMs": 66960,
+          "endMs": 68930
+        },
+        {
+          "en": "This isn't ripe,\" said Biff.",
+          "zh": "“这颗还没熟，”Biff 说。 Biff 说道。",
+          "startMs": 68970,
+          "endMs": 72270
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 59740,
+      "endMs": 72620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff picked up the magic key.",
+          "zh": "Biff 拿起魔法钥匙。",
+          "startMs": 73930,
+          "endMs": 76630
+        },
+        {
+          "en": "It began to glow.",
+          "zh": "它开始发光。",
+          "startMs": 78630,
+          "endMs": 80730
+        },
+        {
+          "en": "\"The magic is working,\" said Biff.",
+          "zh": "“魔法起作用了，”Biff 说。 Biff 说道。",
+          "startMs": 85170,
+          "endMs": 89070
+        },
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 90970,
+          "endMs": 92070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 73780,
+      "endMs": 92420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a castle.",
+          "zh": "魔法把他们带到了一座城堡。",
+          "startMs": 109530,
+          "endMs": 112630
+        },
+        {
+          "en": "\"Wow!",
+          "zh": "“哇！",
+          "startMs": 113370,
+          "endMs": 114110
+        },
+        {
+          "en": "Look at these thorns,\" said Kipper.",
+          "zh": "看看这些刺，”Kipper 说。 Kipper 说道。",
+          "startMs": 114140,
+          "endMs": 118770
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 109380,
+      "endMs": 119120
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man was stuck in the thorns.",
+          "zh": "一个男人被困在荆棘里。",
+          "startMs": 119980,
+          "endMs": 122800
+        },
+        {
+          "en": "\"Ow!",
+          "zh": "“哎哟！",
+          "startMs": 124570,
+          "endMs": 125310
+        },
+        {
+          "en": "Help!\" He called.",
+          "zh": "“救命！” 他喊道。",
+          "startMs": 125340,
+          "endMs": 127660
+        },
+        {
+          "en": "\"I can't get free.\"",
+          "zh": "“我挣不脱！”",
+          "startMs": 127690,
+          "endMs": 129520
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 119830,
+      "endMs": 129870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma put on the gloves.",
+          "zh": "Wilma 戴上手套。",
+          "startMs": 134840,
+          "endMs": 136730
+        },
+        {
+          "en": "She got the clippers.",
+          "zh": "她拿来了剪刀。",
+          "startMs": 140870,
+          "endMs": 142730
+        },
+        {
+          "en": "Then she cut the man free.",
+          "zh": "然后，她把这个人从荆棘中剪了出来。",
+          "startMs": 143130,
+          "endMs": 145630
+        },
+        {
+          "en": "[clears throat].",
+          "zh": "",
+          "startMs": 146400,
+          "endMs": 151070
+        },
+        {
+          "en": "\"Thanks,\" \"Thanks,\" said the man.",
+          "zh": "“谢谢！”",
+          "startMs": 153720,
+          "endMs": 155880
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 134690,
+      "endMs": 156230
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I wanted to get to the castle, but I got stuck in the thorns.\"",
+          "zh": "“我想去城堡，但被荆棘缠住了。”",
+          "startMs": 156330,
+          "endMs": 160830
+        },
+        {
+          "en": "\"Thanks,\" said the man.",
+          "zh": "“谢谢，”那个人说。",
+          "startMs": 165350,
+          "endMs": 167550
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 156230,
+      "endMs": 167900
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a prince,\" said the man.",
+          "zh": "“我是一位王子，”那个人说。",
+          "startMs": 167580,
+          "endMs": 170290
+        },
+        {
+          "en": "\"I need to get in the castle.",
+          "zh": "“我需要进城堡。",
+          "startMs": 170290,
+          "endMs": 170490
+        },
+        {
+          "en": "There is a princess in there.\" Said Wilma.",
+          "zh": "里面有一位公主。” Wilma 说道。",
+          "startMs": 170490,
+          "endMs": 173160
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 167900,
+      "endMs": 173510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can help,\" said Wilma.",
+          "zh": "“我们可以帮忙，”Wilma 说。",
+          "startMs": 173190,
+          "endMs": 173760
+        },
+        {
+          "en": "\"We can lend you these clippers.'",
+          "zh": "“我们可以把这些剪刀借给你。”",
+          "startMs": 175880,
+          "endMs": 178220
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 173510,
+      "endMs": 178570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The thorns were sharp but the prince cut a way in.",
+          "zh": "荆棘很尖锐，但王子还是砍出了一条路。",
+          "startMs": 181870,
+          "endMs": 185870
+        },
+        {
+          "en": "\"Mind the thorns,\" He called.",
+          "zh": "“小心荆棘！” 他喊道。",
+          "startMs": 189070,
+          "endMs": 191570
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 181720,
+      "endMs": 191920
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last, they got to the castle.",
+          "zh": "他们终于来到了城堡。",
+          "startMs": 196040,
+          "endMs": 198850
+        },
+        {
+          "en": "The prince pushed the door open.",
+          "zh": "王子推开门。",
+          "startMs": 199720,
+          "endMs": 202530
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 195890,
+      "endMs": 202880
+    },
+    {
+      "sentences": [
+        {
+          "en": "[door opening].",
+          "zh": "“门开了！”",
+          "startMs": 202530,
+          "endMs": 203470
+        },
+        {
+          "en": "They went inside the castle.",
+          "zh": "他们进了城堡。",
+          "startMs": 210840,
+          "endMs": 213170
+        },
+        {
+          "en": "Everyone was fast asleep.",
+          "zh": "所有人都睡得很沉。",
+          "startMs": 214390,
+          "endMs": 216710
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 202880,
+      "endMs": 217060
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was dust on everything.",
+          "zh": "“到处都是灰尘！”",
+          "startMs": 220330,
+          "endMs": 222430
+        },
+        {
+          "en": "\"Ooh!",
+          "zh": "“哇！",
+          "startMs": 222430,
+          "endMs": 222630
+        },
+        {
+          "en": "Yuck!\" Said Kipper.",
+          "zh": "“哎呀！ Kipper 说道。",
+          "startMs": 224050,
+          "endMs": 227470
+        },
+        {
+          "en": "\"Yuk!\" said Kipper: \"Look at the cobwebs.\"",
+          "zh": "Kipper：“看看这些蜘蛛网。”",
+          "startMs": 227970,
+          "endMs": 230070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 220180,
+      "endMs": 230420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Aincess There were cobwebs everywhere.",
+          "zh": "“到处都是蜘蛛网！”",
+          "startMs": 233970,
+          "endMs": 237070
+        },
+        {
+          "en": "There were even cobwebs on the people.",
+          "zh": "“人们身上甚至都有蜘蛛网！”",
+          "startMs": 238000,
+          "endMs": 240670
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 233820,
+      "endMs": 241020
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last, they found the princess.",
+          "zh": "他们终于找到了公主。",
+          "startMs": 241750,
+          "endMs": 244450
+        },
+        {
+          "en": "She was fast asleep.",
+          "zh": "她睡得很沉。",
+          "startMs": 244830,
+          "endMs": 246930
+        },
+        {
+          "en": "\"Now what do I do?\" Said the prince.",
+          "zh": "“现在我该怎么办？” 王子说道。",
+          "startMs": 249350,
+          "endMs": 252770
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 241600,
+      "endMs": 253120
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You kiss the princess,\" said Kipper.",
+          "zh": "“你亲吻公主，”Kipper 说。 Kipper 说道。",
+          "startMs": 256170,
+          "endMs": 259670
+        },
+        {
+          "en": "\"Then she wakes up.",
+          "zh": "然后她就醒了。",
+          "startMs": 259840,
+          "endMs": 261490
+        },
+        {
+          "en": "Everyone knows that!\"",
+          "zh": "大家都知道。",
+          "startMs": 261910,
+          "endMs": 263470
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 256020,
+      "endMs": 263820
+    },
+    {
+      "sentences": [
+        {
+          "en": "The prince kissed the princess.",
+          "zh": "王子吻了公主。",
+          "startMs": 263500,
+          "endMs": 265550
+        },
+        {
+          "en": "\"Yuck!\" Said Chip.",
+          "zh": "“哎呀！ Chip 说道。",
+          "startMs": 268430,
+          "endMs": 270890
+        },
+        {
+          "en": "The princess woke up.",
+          "zh": "公主醒了。",
+          "startMs": 272230,
+          "endMs": 274330
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 263820,
+      "endMs": 274680
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"At last!\" Said the princess.",
+          "zh": "“终于来了！” 公主说道。",
+          "startMs": 279230,
+          "endMs": 284190
+        },
+        {
+          "en": "Everyone in the castle woke up.",
+          "zh": "城堡里的人都醒了。",
+          "startMs": 285250,
+          "endMs": 287330
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 279080,
+      "endMs": 287680
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key glowed.",
+          "zh": "魔法钥匙发出了光。",
+          "startMs": 288430,
+          "endMs": 290170
+        },
+        {
+          "en": "\"Time to go,\" said Biff.",
+          "zh": "“该走了，”Biff 说。",
+          "startMs": 290170,
+          "endMs": 290370
+        },
+        {
+          "en": "\"The prince doesn't need us now,\" said Biff.",
+          "zh": "“王子现在不需要我们了！”",
+          "startMs": 290570,
+          "endMs": 294160
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 288280,
+      "endMs": 294510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic adventure was over.",
+          "zh": "神奇的冒险结束了。",
+          "startMs": 313260,
+          "endMs": 317860
+        },
+        {
+          "en": "Dad was fast asleep.",
+          "zh": "爸爸睡得很沉。",
+          "startMs": 318430,
+          "endMs": 321530
+        },
+        {
+          "en": "[snoring].",
+          "zh": "“现在快跑！”",
+          "startMs": 321570,
+          "endMs": 323670
+        },
+        {
+          "en": "\"He's no Sleeping Beauty!\" Said Biff.",
+          "zh": "“他不是睡美人！” Biff 说道。",
+          "startMs": 325430,
+          "endMs": 329850
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 313110,
+      "endMs": 330200
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 330200,
+      "endMs": 330201
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 330201,
+      "endMs": 330202
+    }
+  ]
+}

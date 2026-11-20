@@ -1,0 +1,1021 @@
+{
+  "id": "L7-011",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Clarks Biff and Chip were doing a project on the Romans.",
+          "zh": "Biff 和 Chip 是做一个项目在……上这罗马的。",
+          "startMs": 29,
+          "endMs": 7060
+        },
+        {
+          "en": "The project was for Mrs May.",
+          "zh": "这项目是为了太太梅。",
+          "startMs": 7820,
+          "endMs": 10920
+        },
+        {
+          "en": "Biff made a chariot and Chip drew a picture.",
+          "zh": "Biff 做一个双轮战车和 Chip drew 一个图画。",
+          "startMs": 10950,
+          "endMs": 14780
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 15130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad looked at the project.",
+          "zh": "妈妈和爸爸看在这项目。",
+          "startMs": 25530,
+          "endMs": 28030
+        },
+        {
+          "en": "\"The Romans are interesting,\" said Biff.",
+          "zh": "这罗马的是有趣的， 说 Biff。 不， 说 Biff。",
+          "startMs": 30960,
+          "endMs": 31060
+        },
+        {
+          "en": "Chip showed Mum his picture.",
+          "zh": "Chip 展示妈妈他的图画。",
+          "startMs": 31960,
+          "endMs": 34060
+        },
+        {
+          "en": "It was a picture of a Roman chariot.",
+          "zh": "它是一个图画的一个罗马的双轮战车。",
+          "startMs": 34090,
+          "endMs": 36260
+        },
+        {
+          "en": "The chariot was pulled by four horses.",
+          "zh": "这双轮战车是拉由四马。",
+          "startMs": 36290,
+          "endMs": 39560
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 25380,
+      "endMs": 39910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff showed Dad the model.",
+          "zh": "Biff 展示爸爸这模型。",
+          "startMs": 39820,
+          "endMs": 41920
+        },
+        {
+          "en": "«The Romans had chariot races,\" said Biff.",
+          "zh": "«这罗马的有双轮战车速度竞赛， 说 Biff。 不， 说 Biff。",
+          "startMs": 41960,
+          "endMs": 46060
+        },
+        {
+          "en": "\"The races were dangerous.",
+          "zh": "这速度竞赛是危险的。",
+          "startMs": 46820,
+          "endMs": 48920
+        },
+        {
+          "en": "A chariot was so heavy, it needed four horses to pull it.\"",
+          "zh": "一个双轮战车是所以重的， 它必须四马到拉它。",
+          "startMs": 48950,
+          "endMs": 52860
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 39910,
+      "endMs": 53210
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad played a joke on Biff and Chip.",
+          "zh": "妈妈和爸爸玩一个笑话在……上 Biff 和 Chip。",
+          "startMs": 55960,
+          "endMs": 58440
+        },
+        {
+          "en": "They dressed up as Romans.",
+          "zh": "他们连衣裙向上像罗马的。",
+          "startMs": 59800,
+          "endMs": 61860
+        },
+        {
+          "en": "\"It's time for supper,\" called Dad.",
+          "zh": "它是时间为了晚饭， 叫爸爸。 后来， 说爸爸。",
+          "startMs": 62960,
+          "endMs": 65600
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 55810,
+      "endMs": 65950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had some pizza and Mum had some grapes.",
+          "zh": "Kipper 有一些比萨饼和妈妈有一些葡萄。",
+          "startMs": 66550,
+          "endMs": 70260
+        },
+        {
+          "en": "\"This is a Roman supper,\" said Mum.",
+          "zh": "这个是一个罗马的晚饭， 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 70960,
+          "endMs": 73500
+        },
+        {
+          "en": "\"Romans didn't have pizzas,\" laughed Biff.",
+          "zh": "罗马的没有有比萨饼， 笑 Biff。 斑点笑在 Biff。",
+          "startMs": 73500,
+          "endMs": 78060
+        },
+        {
+          "en": "\"How do you know?\"",
+          "zh": "如何做你做！",
+          "startMs": 78860,
+          "endMs": 81120
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 66400,
+      "endMs": 81470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Mum.",
+          "zh": "爸爸问。",
+          "startMs": 82570,
+          "endMs": 85060
+        },
+        {
+          "en": "Biff and Chip went to Biff's room.",
+          "zh": "Biff 和 Chip 去到 Biff 房间。",
+          "startMs": 85820,
+          "endMs": 88760
+        },
+        {
+          "en": "Biff wanted to take the chariot to school, but she still had to paint it.",
+          "zh": "Biff 想要到拿这双轮战车到学校， 但是她仍然有到油漆它。",
+          "startMs": 88790,
+          "endMs": 94240
+        },
+        {
+          "en": "Chip was good at painting, so he helped Biff.",
+          "zh": "Chip 是好的在绘画， 所以他帮助 Biff。",
+          "startMs": 94990,
+          "endMs": 100920
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 82420,
+      "endMs": 101270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 103320,
+          "endMs": 108060
+        },
+        {
+          "en": "The magic took Biff and Chip on a new adventure.",
+          "zh": "这魔法拿 Biff 和 Chip 在……上一个新的冒险。",
+          "startMs": 108960,
+          "endMs": 111060
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哦不！ 不， 说 Biff。",
+          "startMs": 111960,
+          "endMs": 113510
+        },
+        {
+          "en": "\"I'm still painting the model chariot.\"",
+          "zh": "我是仍然绘画这模型双轮战车。",
+          "startMs": 114930,
+          "endMs": 117730
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 103170,
+      "endMs": 118080
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children back to Roman times.",
+          "zh": "这魔法拿这孩子们回来到罗马的时间。",
+          "startMs": 128860,
+          "endMs": 132080
+        },
+        {
+          "en": "It took them to Rome.",
+          "zh": "它拿他们到罗马。",
+          "startMs": 132250,
+          "endMs": 134310
+        },
+        {
+          "en": "Biff and Chip saw a girl.",
+          "zh": "Biff 和 Chip 看见一个女孩。",
+          "startMs": 134960,
+          "endMs": 136260
+        },
+        {
+          "en": "She was playing in the street.",
+          "zh": "她是玩在……里这街道。",
+          "startMs": 137760,
+          "endMs": 139220
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 128710,
+      "endMs": 139570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girl looked at Biff's model.",
+          "zh": "这女孩看在 Biff 模型。",
+          "startMs": 139250,
+          "endMs": 142220
+        },
+        {
+          "en": "\"It's a good model,\" She said.",
+          "zh": "它是一个好的一。 啊唷！ 她说。",
+          "startMs": 142960,
+          "endMs": 144920
+        },
+        {
+          "en": "\"But it doesn't look quite right.\"",
+          "zh": "它是一个好的模型， 她说， 但是它不看相当正确的。",
+          "startMs": 146010,
+          "endMs": 148280
+        },
+        {
+          "en": "\"We've never seen a real chariot,\" said Biff.",
+          "zh": "我们已经从不看见一个真的双轮战车， 说 Biff。",
+          "startMs": 148900,
+          "endMs": 152280
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 139570,
+      "endMs": 152630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "不， 说 Biff。",
+          "startMs": 152310,
+          "endMs": 153370
+        },
+        {
+          "en": "The Roman girl was called Diana.",
+          "zh": "这罗马的女孩是叫 Diana。",
+          "startMs": 156860,
+          "endMs": 158960
+        },
+        {
+          "en": "She had a brother called Mark.",
+          "zh": "她有一个弟弟叫斑点。",
+          "startMs": 158990,
+          "endMs": 188950
+        },
+        {
+          "en": "He was a chariot driver.",
+          "zh": "他是一个双轮战车驾驶。",
+          "startMs": 188980,
+          "endMs": 191030
+        },
+        {
+          "en": "Mark looked at Biff's model chariot.",
+          "zh": "斑点看在 Biff 模型双轮战车。",
+          "startMs": 191030,
+          "endMs": 191230
+        },
+        {
+          "en": "\"I can show you a real chariot,\" he said.",
+          "zh": "我能展示你一个真的双轮战车， 他说。",
+          "startMs": 191230,
+          "endMs": 191430
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 152630,
+      "endMs": 191780
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 191430,
+          "endMs": 191630
+        },
+        {
+          "en": "Mark opened some big doors.",
+          "zh": "斑点打开一些大的门。",
+          "startMs": 191630,
+          "endMs": 191830
+        },
+        {
+          "en": "Inside was a real chariot.",
+          "zh": "里面是一个真的双轮战车。",
+          "startMs": 191830,
+          "endMs": 192030
+        },
+        {
+          "en": "It was like Biff's model, but it was very big.",
+          "zh": "它是喜欢 Biff 模型， 但是它是非常大的。",
+          "startMs": 192030,
+          "endMs": 192230
+        },
+        {
+          "en": "\"Wow!\" Said Biff.",
+          "zh": "啊唷！ 不， 说 Biff。",
+          "startMs": 192230,
+          "endMs": 192430
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 191780,
+      "endMs": 192780
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mark let Biff go on the chariot.",
+          "zh": "Biff 去在……上这双轮战车。",
+          "startMs": 192430,
+          "endMs": 192980
+        },
+        {
+          "en": "Biff pretended she was a chariot driver.",
+          "zh": "Biff 假装的她是一个双轮战车驾驶。",
+          "startMs": 193010,
+          "endMs": 195840
+        },
+        {
+          "en": "She pretended she was in a race.",
+          "zh": "她假装的她是在……里一个速度竞赛。",
+          "startMs": 195960,
+          "endMs": 199060
+        },
+        {
+          "en": "\"I wish I could be a chariot driver,\" said Biff.",
+          "zh": "我希望我能是一个双轮战车驾驶， 说 Biff。 不， 说 Biff。",
+          "startMs": 199960,
+          "endMs": 204060
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 192780,
+      "endMs": 204410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mark laughed at Biff.",
+          "zh": "斑点笑在 Biff。",
+          "startMs": 204090,
+          "endMs": 205920
+        },
+        {
+          "en": "\"You have to be strong to race chariots,\" he said.",
+          "zh": "你有到是强壮的到速度竞赛双轮战车， 他说。",
+          "startMs": 206960,
+          "endMs": 211070
+        },
+        {
+          "en": "\"I'm in a race today.",
+          "zh": "我是在……里一个速度竞赛在今天。",
+          "startMs": 211100,
+          "endMs": 211910
+        },
+        {
+          "en": "Come and watch it.\"",
+          "zh": "来和手表它。",
+          "startMs": 212330,
+          "endMs": 215030
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 204410,
+      "endMs": 215380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was hungry, so Diana took the children home.",
+          "zh": "每个人是饿的， 所以 Diana 拿这孩子们家。",
+          "startMs": 215060,
+          "endMs": 221200
+        },
+        {
+          "en": "\"We can have some bread,\" she said.",
+          "zh": "我们能有一些面包， 她说。",
+          "startMs": 225960,
+          "endMs": 226260
+        },
+        {
+          "en": "\"My father is a baker.",
+          "zh": "我的爸爸是一个面包师傅。",
+          "startMs": 229940,
+          "endMs": 232250
+        },
+        {
+          "en": "He makes the best bread in Rome.\"",
+          "zh": "他做这最好的面包在……里罗马。",
+          "startMs": 232280,
+          "endMs": 234110
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 215380,
+      "endMs": 234460
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the bread, but something was wrong.",
+          "zh": "每个人看在这面包， 但是某物是错误的。",
+          "startMs": 235440,
+          "endMs": 238810
+        },
+        {
+          "en": "The bread didn't look right.",
+          "zh": "这面包没有看正确的。",
+          "startMs": 238840,
+          "endMs": 240870
+        },
+        {
+          "en": "It was flat.",
+          "zh": "它是水平的。",
+          "startMs": 240900,
+          "endMs": 242660
+        },
+        {
+          "en": "It didn't look like bread at all.",
+          "zh": "它没有看喜欢面包在全部。",
+          "startMs": 242690,
+          "endMs": 244240
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 235290,
+      "endMs": 244590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Diana's father made some more bread.",
+          "zh": "Diana's 爸爸做一些更多面包。",
+          "startMs": 247960,
+          "endMs": 248720
+        },
+        {
+          "en": "He baked it in the oven, but it was flat, too.",
+          "zh": "他烘烤的它在……里这烤箱， 但是它是水平的， 也。",
+          "startMs": 251480,
+          "endMs": 254260
+        },
+        {
+          "en": "\"This is bad,\" Said Diana's father.",
+          "zh": "这个是困难的工作。 这个是坏的， 说 Diana's 爸爸。",
+          "startMs": 254960,
+          "endMs": 257110
+        },
+        {
+          "en": "\"Nobody will buy bread like this.\"",
+          "zh": "没有人将买面包喜欢这个。",
+          "startMs": 258370,
+          "endMs": 260290
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 247810,
+      "endMs": 260640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the flat bread.",
+          "zh": "Chip 看在这水平的面包。",
+          "startMs": 260860,
+          "endMs": 263960
+        },
+        {
+          "en": "He had a good idea.",
+          "zh": "他有一个好的主意。",
+          "startMs": 263990,
+          "endMs": 265350
+        },
+        {
+          "en": "\"We can make pizzas,\" he said.",
+          "zh": "我们能做比萨饼， 他说。",
+          "startMs": 265960,
+          "endMs": 268980
+        },
+        {
+          "en": "\"What are pizzas?\" Asked Diana.",
+          "zh": "和什么是比萨饼？ 什么是比萨饼？ 问 Diana。",
+          "startMs": 269010,
+          "endMs": 272080
+        },
+        {
+          "en": "\"We don't know what pizzas are.\"",
+          "zh": "我们不知道什么比萨饼是。",
+          "startMs": 272820,
+          "endMs": 274260
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 260710,
+      "endMs": 274610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip told Diana's mother how to make pizzas.",
+          "zh": "Chip 告诉 Diana's 妈妈如何到做比萨饼。",
+          "startMs": 277960,
+          "endMs": 280950
+        },
+        {
+          "en": "Everyone helped.",
+          "zh": "每个人帮助。",
+          "startMs": 282710,
+          "endMs": 283690
+        },
+        {
+          "en": "Diana's mother cooked the pizzas in the big oven.",
+          "zh": "Diana's 妈妈做饭这比萨饼在……里这大的烤箱。",
+          "startMs": 288670,
+          "endMs": 293380
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 277810,
+      "endMs": 293730
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pizzas looked good.",
+          "zh": "这比萨饼看好的。",
+          "startMs": 293410,
+          "endMs": 293920
+        },
+        {
+          "en": "\"I hope you like them,\" said Chip.",
+          "zh": "我希望你喜欢他们， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 294960,
+          "endMs": 297060
+        },
+        {
+          "en": "\"Everyone likes pizzas,\" said Biff.",
+          "zh": "每个人喜欢比萨饼， 说 Biff。 不， 说 Biff。",
+          "startMs": 297090,
+          "endMs": 301060
+        },
+        {
+          "en": "\"They smell good,\" Said Diana's mother.",
+          "zh": "他们气味好的， 说 Diana's 妈妈。",
+          "startMs": 301090,
+          "endMs": 304910
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 293730,
+      "endMs": 305260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pizzas tasted good too.",
+          "zh": "这比萨饼味道好的也。",
+          "startMs": 309960,
+          "endMs": 310540
+        },
+        {
+          "en": "Diana's father was pleased.",
+          "zh": "Diana's 爸爸是请。",
+          "startMs": 312800,
+          "endMs": 315400
+        },
+        {
+          "en": "\"Now we can sell them,\" he said.",
+          "zh": "现在我们能卖他们， 他说。",
+          "startMs": 316000,
+          "endMs": 319800
+        },
+        {
+          "en": "\"We can sell lots and lots.",
+          "zh": "我们能卖许多和许多。",
+          "startMs": 319830,
+          "endMs": 320640
+        },
+        {
+          "en": "What a good job the bread was flat.\"",
+          "zh": "什么一个好的工作这面包是水平的。",
+          "startMs": 320920,
+          "endMs": 323390
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 309810,
+      "endMs": 323740
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went outside to sell the pizzas, but there was nobody in the street.",
+          "zh": "他们去外面到卖这比萨饼， 但是那里是没有人在……里这街道。",
+          "startMs": 325090,
+          "endMs": 329960
+        },
+        {
+          "en": "There was nobody to buy the pizzas.",
+          "zh": "那里是没有人到买这比萨饼。",
+          "startMs": 329990,
+          "endMs": 333280
+        },
+        {
+          "en": "\"Where is everyone?\" Asked Biff.",
+          "zh": "哪里是每个人？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 334190,
+          "endMs": 337920
+        },
+        {
+          "en": "Everyone had gone to the chariot races.",
+          "zh": "每个人有去了到这双轮战车速度竞赛。",
+          "startMs": 338200,
+          "endMs": 341310
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 324940,
+      "endMs": 341660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Diana's father was upset.",
+          "zh": "Diana's 爸爸是使苦恼。",
+          "startMs": 345130,
+          "endMs": 347290
+        },
+        {
+          "en": "He looked at the pizzas.",
+          "zh": "他看在这比萨饼。",
+          "startMs": 347320,
+          "endMs": 348990
+        },
+        {
+          "en": "\"All that work for nothing,\" he said.",
+          "zh": "全部那个工作为了没有什么， 他说。",
+          "startMs": 349960,
+          "endMs": 353840
+        },
+        {
+          "en": "\"How can we sell pizzas when everyone is at the chariot races?\"",
+          "zh": "如何能我们卖比萨饼当……时每个人是在这双轮战车速度竞赛？",
+          "startMs": 353870,
+          "endMs": 356710
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 344980,
+      "endMs": 357060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Diana had an idea.",
+          "zh": "Diana 有一个主意。",
+          "startMs": 357960,
+          "endMs": 358930
+        },
+        {
+          "en": "She put some pizzas in a basket.",
+          "zh": "她放一些比萨饼在……里一个篮子。",
+          "startMs": 360220,
+          "endMs": 362270
+        },
+        {
+          "en": "\"Come on,\" She called.",
+          "zh": "来在……上！ 来在……上， 她叫。",
+          "startMs": 362300,
+          "endMs": 364060
+        },
+        {
+          "en": "\"If everyone is at the chariot races, we can sell the pizzas there.\"",
+          "zh": "如果每个人是在这双轮战车速度竞赛， 我们能卖这比萨饼那里。",
+          "startMs": 364930,
+          "endMs": 369400
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 357810,
+      "endMs": 369750
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the pizzas to the chariot races.",
+          "zh": "他们拿这比萨饼到这双轮战车速度竞赛。",
+          "startMs": 374030,
+          "endMs": 376840
+        },
+        {
+          "en": "\"Come and buy a pizza,\" called Diana.",
+          "zh": "来和买一个比萨饼， 叫 Diana。 太太梅！ 叫 Anneena。",
+          "startMs": 380960,
+          "endMs": 383980
+        },
+        {
+          "en": "But nobody bought the pizzas.",
+          "zh": "但是没有人买这比萨饼。",
+          "startMs": 384010,
+          "endMs": 386840
+        },
+        {
+          "en": "Everyone was looking at the races.",
+          "zh": "每个人是看在这速度竞赛。",
+          "startMs": 386870,
+          "endMs": 389920
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 373880,
+      "endMs": 390270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children saw Mark, so they gave him one of the pizzas.",
+          "zh": "这孩子们看见斑点， 所以他们给他一的这比萨饼。",
+          "startMs": 390990,
+          "endMs": 395160
+        },
+        {
+          "en": "\"These pizzas are good,\" said Mark.",
+          "zh": "这些比萨饼是好的， 说斑点。 » 说 Nadim。",
+          "startMs": 395960,
+          "endMs": 398980
+        },
+        {
+          "en": "Biff looked at the chariot and she had a good idea.",
+          "zh": "Biff 看在这双轮战车和她有一个好的主意。",
+          "startMs": 399010,
+          "endMs": 402840
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 390840,
+      "endMs": 403190
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had a banner.",
+          "zh": "这孩子们有一个横幅。",
+          "startMs": 404280,
+          "endMs": 407390
+        },
+        {
+          "en": "It was about the pizzas.",
+          "zh": "它是关于这比萨饼。",
+          "startMs": 409500,
+          "endMs": 411020
+        },
+        {
+          "en": "Mark put it on his chariot.",
+          "zh": "斑点放它在……上他的双轮战车。",
+          "startMs": 411050,
+          "endMs": 413200
+        },
+        {
+          "en": "The people laughed when they saw the banner.",
+          "zh": "这人们笑当……时他们看见这横幅。",
+          "startMs": 413230,
+          "endMs": 416320
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 404130,
+      "endMs": 416670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why has Mark put a banner on his chariot?\" People asked.",
+          "zh": "为什么有斑点放一个横幅在……上他的双轮战车？ 人们问。 人们付钱为了一个笑话！",
+          "startMs": 418960,
+          "endMs": 423060
+        },
+        {
+          "en": "\"And what are pizzas?\"",
+          "zh": "和什么是比萨饼？",
+          "startMs": 424120,
+          "endMs": 426200
+        },
+        {
+          "en": "The race began and everyone cheered when Mark came first.",
+          "zh": "这速度竞赛开始和每个人向当……时斑点来第一。",
+          "startMs": 426880,
+          "endMs": 434260
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 418810,
+      "endMs": 434610
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people ran to buy the pizzas.",
+          "zh": "这人们跑到买这比萨饼。",
+          "startMs": 442110,
+          "endMs": 444920
+        },
+        {
+          "en": "\"These pizzas are good,\" They said.",
+          "zh": "这些比萨饼是好的， 说斑点。 一个腿！ 他们说。",
+          "startMs": 444950,
+          "endMs": 448280
+        },
+        {
+          "en": "\"What a good idea to put a banner on the chariot.\"",
+          "zh": "什么一个好的主意到放一个横幅在……上这双轮战车。",
+          "startMs": 448310,
+          "endMs": 452400
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 441960,
+      "endMs": 452750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Just then, some soldiers grabbed the family and the children.",
+          "zh": "比萨饼 MIENU 火腿肉烂糊状物房间 Anchory Peperoni 油橄榄额外的 chede 素食者刚刚然后， 一些士兵抓住这家庭和这孩子们。",
+          "startMs": 452900,
+          "endMs": 457340
+        },
+        {
+          "en": "\"You must stop selling pizzas,\" they said.",
+          "zh": "你必须停卖比萨饼， 他们说。",
+          "startMs": 460960,
+          "endMs": 477900
+        },
+        {
+          "en": "\"The Emperor wants to see you.",
+          "zh": "这皇帝想要到看见你。",
+          "startMs": 477900,
+          "endMs": 478100
+        },
+        {
+          "en": "Come with us.\"",
+          "zh": "来和……一起我们。",
+          "startMs": 478100,
+          "endMs": 479320
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 452750,
+      "endMs": 479670
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Emperor was angry.",
+          "zh": "这皇帝是生气的。",
+          "startMs": 479320,
+          "endMs": 479520
+        },
+        {
+          "en": "\"This has got to stop,\" he said.",
+          "zh": "这个有得到到停， 他说。",
+          "startMs": 479520,
+          "endMs": 479920
+        },
+        {
+          "en": "\"Who put this banner on the chariot?",
+          "zh": "谁放这个横幅在……上这双轮战车？",
+          "startMs": 479920,
+          "endMs": 480200
+        },
+        {
+          "en": "And what are pizzas?\"",
+          "zh": "和什么是比萨饼？",
+          "startMs": 480230,
+          "endMs": 481920
+        },
+        {
+          "en": "\"Would you like to try one?\" Asked Diana.",
+          "zh": "会你喜欢到尝试一？ 问 Diana。 什么是比萨饼？ 问 Diana。",
+          "startMs": 483200,
+          "endMs": 486150
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 479670,
+      "endMs": 486500
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"They taste good,\" Said the emperor.",
+          "zh": "这比萨饼味道好的也。 他们味道好的， 说这皇帝。",
+          "startMs": 490960,
+          "endMs": 491250
+        },
+        {
+          "en": "\"You can deliver some to the palace, but I don't want banners on the chariots, so take your banner away.\"",
+          "zh": "我不想要横幅在……上这双轮战车， 所以拿你的横幅离开。",
+          "startMs": 494390,
+          "endMs": 502170
+        },
+        {
+          "en": "Just then, the magic key glowed.",
+          "zh": "刚刚然后， 这魔法钥匙光亮。",
+          "startMs": 502870,
+          "endMs": 505820
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 490810,
+      "endMs": 506170
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the little banner.",
+          "zh": "Chip 看在这小的横幅。",
+          "startMs": 513960,
+          "endMs": 514060
+        },
+        {
+          "en": "He put it on Biff's chariot.",
+          "zh": "他放它在……上 Biff 双轮战车。",
+          "startMs": 514060,
+          "endMs": 515100
+        },
+        {
+          "en": "\"The Emperor didn't like banners on chariots,\" he said.",
+          "zh": "这皇帝没有喜欢横幅在……上双轮战车， 他说。",
+          "startMs": 522320,
+          "endMs": 526770
+        },
+        {
+          "en": "\"I wonder what Mrs May will think.\"",
+          "zh": "我惊奇什么太太梅将想。",
+          "startMs": 526800,
+          "endMs": 528310
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 513810,
+      "endMs": 528660
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 528660,
+      "endMs": 528661
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 528661,
+      "endMs": 528662
+    }
+  ]
+}

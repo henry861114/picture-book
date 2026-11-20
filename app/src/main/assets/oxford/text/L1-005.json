@@ -1,0 +1,151 @@
+{
+  "id": "L1-005",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mom and Kipper rode on the double decker bus.\"",
+          "zh": "Mom 和 Kipper 骑在……上这供两者用的甲板公共汽车。",
+          "startMs": 0,
+          "endMs": 13020
+        }
+      ],
+      "startMs": 0,
+      "endMs": 13370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hurry up, Kipper!",
+          "zh": "急忙向上， Kipper！",
+          "startMs": 12920,
+          "endMs": 15020
+        }
+      ],
+      "startMs": 12770,
+      "endMs": 15370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper left Teddy on the bus.",
+          "zh": "Kipper 离开泰迪熊在……上这公共汽车。",
+          "startMs": 20920,
+          "endMs": 23020
+        },
+        {
+          "en": "My Teddy Bear!",
+          "zh": "我的泰迪熊承载！",
+          "startMs": 22920,
+          "endMs": 25020
+        },
+        {
+          "en": "Come on, Kipper!",
+          "zh": "来在……上， Kipper！",
+          "startMs": 24920,
+          "endMs": 27020
+        }
+      ],
+      "startMs": 20770,
+      "endMs": 27370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was very upset and couldn't get to sleep without Teddy.",
+          "zh": "Kipper 是非常使苦恼和不能得到到睡觉没有泰迪熊。",
+          "startMs": 30920,
+          "endMs": 36020
+        },
+        {
+          "en": "Don't cry.",
+          "zh": "不哭。",
+          "startMs": 35920,
+          "endMs": 38020
+        }
+      ],
+      "startMs": 30770,
+      "endMs": 38370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mom and Kipper went to the Lost Property office at the bus station.",
+          "zh": "Mom 和 Kipper 去到这丢失财产 office 在这公共汽车火车站。",
+          "startMs": 42920,
+          "endMs": 48020
+        }
+      ],
+      "startMs": 42770,
+      "endMs": 48370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come on, we're going on the bus again.",
+          "zh": "来在……上， 我们是去在……上这公共汽车再一次。",
+          "startMs": 47920,
+          "endMs": 51370
+        },
+        {
+          "en": "We will find him.",
+          "zh": "我们将找到他。",
+          "startMs": 51270,
+          "endMs": 53020
+        }
+      ],
+      "startMs": 47770,
+      "endMs": 53370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mom asked the lady if Kipper's Teddy Bear was in the Lost Property.",
+          "zh": "Mom 问这女士如果 Kipper 泰迪熊承载是在……里这丢失财产。",
+          "startMs": 57000,
+          "endMs": 62020
+        }
+      ],
+      "startMs": 56850,
+      "endMs": 62370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Where's my Teddy?",
+          "zh": "哪里我的泰迪熊？",
+          "startMs": 61920,
+          "endMs": 64020
+        },
+        {
+          "en": "Here he is!",
+          "zh": "这里他是！",
+          "startMs": 65920,
+          "endMs": 68020
+        }
+      ],
+      "startMs": 61770,
+      "endMs": 68370
+    }
+  ]
+}

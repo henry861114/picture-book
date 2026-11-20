@@ -1,0 +1,177 @@
+{
+  "id": "L1-056",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was fierce.",
+          "zh": "爸爸是凶猛的。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was sad.",
+          "zh": "Chip 是伤心的。",
+          "startMs": 8080,
+          "endMs": 10180
+        }
+      ],
+      "startMs": 7930,
+      "endMs": 10530
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 1,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was good.",
+          "zh": "Biff 是好的。",
+          "startMs": 260,
+          "endMs": 410
+        }
+      ],
+      "startMs": 110,
+      "endMs": 760
+    },
+    {
+      "sentences": [],
+      "startMs": 682,
+      "endMs": 1482,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was frightened.",
+          "zh": "妈妈是受惊的。",
+          "startMs": 260,
+          "endMs": 410
+        }
+      ],
+      "startMs": 110,
+      "endMs": 760
+    },
+    {
+      "sentences": [],
+      "startMs": 2282,
+      "endMs": 3082,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was hungry.",
+          "zh": "Kipper 是饿的。",
+          "startMs": 260,
+          "endMs": 410
+        }
+      ],
+      "startMs": 110,
+      "endMs": 760
+    },
+    {
+      "sentences": [
+        {
+          "en": "This game uses the words from the story.",
+          "zh": "这个游戏我们这单词从这故事。",
+          "startMs": 4800,
+          "endMs": 8398
+        },
+        {
+          "en": "• Choose one of the words from the book and make the face.",
+          "zh": "• 选择一的这单词从这书和做这脸。",
+          "startMs": 8398,
+          "endMs": 13614
+        },
+        {
+          "en": "The child has to guess the word.",
+          "zh": "这孩子有到猜测这单词。",
+          "startMs": 13614,
+          "endMs": 16492
+        },
+        {
+          "en": "• Then the child looks in the book and chooses a face to make.",
+          "zh": "• 然后这孩子看在……里这书和选择一个脸到做。",
+          "startMs": 16492,
+          "endMs": 22068
+        },
+        {
+          "en": "You guess the word.",
+          "zh": "你猜测这单词。",
+          "startMs": 22068,
+          "endMs": 23777
+        },
+        {
+          "en": "• Think of other words that describe how people feel and act them out.",
+          "zh": "• 想的其他单词那个描述如何人们感觉和行为他们出。",
+          "startMs": 23777,
+          "endMs": 30073
+        },
+        {
+          "en": "• Have a few turns each.",
+          "zh": "• 有一个很少转动每个。",
+          "startMs": 30073,
+          "endMs": 32231
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 32231,
+          "endMs": 37358
+        },
+        {
+          "en": "• Find 'was' on each page.",
+          "zh": "• 找到 '是' 在……上每个页。",
+          "startMs": 37358,
+          "endMs": 39696
+        },
+        {
+          "en": "Practise spelling 'was\".",
+          "zh": "练习拼写 '是。",
+          "startMs": 39696,
+          "endMs": 41855
+        },
+        {
+          "en": "• Look at the faces of the family in each picture.",
+          "zh": "• 看在这脸的这家庭在……里每个图画。",
+          "startMs": 41855,
+          "endMs": 46352
+        },
+        {
+          "en": "Describe their expressions.",
+          "zh": "描述他们的表达。",
+          "startMs": 46352,
+          "endMs": 48780
+        }
+      ],
+      "startMs": 4800,
+      "endMs": 48780
+    },
+    {
+      "sentences": [],
+      "startMs": 48780,
+      "endMs": 49080,
+      "illustrationOnly": true
+    }
+  ]
+}

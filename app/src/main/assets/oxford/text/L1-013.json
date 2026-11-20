@@ -1,0 +1,111 @@
+{
+  "id": "L1-013",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is it?",
+          "zh": "谁是它？",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff",
+          "zh": "Biff",
+          "startMs": 7000,
+          "endMs": 7150
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 7500
+    },
+    {
+      "sentences": [
+        {
+          "en": "and Chip.",
+          "zh": "和 Chip。",
+          "startMs": 7000,
+          "endMs": 10100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 10450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum",
+          "zh": "妈妈",
+          "startMs": 16000,
+          "endMs": 16150
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 16500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is it?",
+          "zh": "谁是它？",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip.",
+          "zh": "Biff 和 Chip。",
+          "startMs": 7000,
+          "endMs": 10100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 10450
+    },
+    {
+      "sentences": [
+        {
+          "en": "and a spaceman.",
+          "zh": "和一个太空人。",
+          "startMs": 24000,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 23850,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "No, it's Dad.",
+          "zh": "不， 它是爸爸。",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    }
+  ]
+}

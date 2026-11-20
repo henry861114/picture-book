@@ -1,0 +1,961 @@
+{
+  "id": "L8-005",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran came to stay.",
+          "zh": "Gran 来到停留。",
+          "startMs": 0,
+          "endMs": 100
+        },
+        {
+          "en": "The children ran to meet her.",
+          "zh": "这孩子们跑到遇见她。",
+          "startMs": 3260,
+          "endMs": 6060
+        },
+        {
+          "en": "\"Hooray!\" Said Kipper.",
+          "zh": "哦帮助， 说 Kipper。",
+          "startMs": 6090,
+          "endMs": 7100
+        },
+        {
+          "en": "Said Kipper, \"I love it when Gran comes to stay.",
+          "zh": "Kipper， 我爱它当……时 Gran 来到停留。",
+          "startMs": 7130,
+          "endMs": 10640
+        },
+        {
+          "en": "She's good fun!\"",
+          "zh": "她是好的乐趣！",
+          "startMs": 10670,
+          "endMs": 12300
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 12650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran brought presents for everyone.",
+          "zh": "Gran 带来礼物为了每个人。",
+          "startMs": 16000,
+          "endMs": 16870
+        },
+        {
+          "en": "She gave Mum and Dad an ornament.",
+          "zh": "她给妈妈和爸爸一个装饰。",
+          "startMs": 19270,
+          "endMs": 21330
+        },
+        {
+          "en": "Kipper had some little golf clubs and Biff and Chip had a keyboard.",
+          "zh": "Kipper 有一些小的高尔夫球俱乐部和 Biff 和 Chip 有一个键盘。",
+          "startMs": 21360,
+          "endMs": 26240
+        },
+        {
+          "en": "\"Thanks Gran,\" Said everyone.",
+          "zh": "谢谢你， Gran。 Gran， 说每个人。 哦不！",
+          "startMs": 26240,
+          "endMs": 34100
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 15850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I've another surprise for you,\" said Gran.",
+          "zh": "我已经另一个意想不到的事物为了你， 说 Gran。",
+          "startMs": 34130,
+          "endMs": 36840
+        },
+        {
+          "en": "She gave the children some funny-looking parcels.",
+          "zh": "她给这孩子们一些 funny-looking 包裹。",
+          "startMs": 36840,
+          "endMs": 37960
+        },
+        {
+          "en": "\"What are they?\" Asked Kipper.",
+          "zh": "什么是他们？ 问 Kipper。 什么是他们？ 问 Kipper。",
+          "startMs": 37990,
+          "endMs": 41140
+        },
+        {
+          "en": "\"Boomerangs,\" Said Gran.",
+          "zh": "回飞镖， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 41170,
+          "endMs": 42560
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 34450,
+      "endMs": 42910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children wanted to see how the boomerangs worked.",
+          "zh": "这孩子们想要到看见如何这回飞镖工作。",
+          "startMs": 47860,
+          "endMs": 52960
+        },
+        {
+          "en": "Gran took them outside.",
+          "zh": "Gran 拿他们外面。",
+          "startMs": 52990,
+          "endMs": 53990
+        },
+        {
+          "en": "She threw a boomerang and it whizzed through the air.",
+          "zh": "她扔一个回飞镖和它飕飕飞过穿过这空气。",
+          "startMs": 54020,
+          "endMs": 57880
+        },
+        {
+          "en": "\"Look out!\" Shouted Gran.",
+          "zh": "你看使苦恼。 看出！ 喊 Gran。",
+          "startMs": 58000,
+          "endMs": 61100
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 47710,
+      "endMs": 61450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted to play with the golf clubs.",
+          "zh": "Kipper 想要到玩和……一起这高尔夫球俱乐部。",
+          "startMs": 61130,
+          "endMs": 64680
+        },
+        {
+          "en": "Gran showed him what to do.",
+          "zh": "Gran 展示他什么到做。",
+          "startMs": 64710,
+          "endMs": 68300
+        },
+        {
+          "en": "She hit the ball, but she hit it too hard and it smashed a window.",
+          "zh": "她击这球， 但是她击它也困难的和它严重损坏的一个窗户。",
+          "startMs": 68330,
+          "endMs": 73960
+        },
+        {
+          "en": "\"Oh dear,\" Said Gran.",
+          "zh": "哦亲爱的， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 74160,
+          "endMs": 76480
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 61450,
+      "endMs": 76830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next day, Wilf, Wilma, Nadim and Anneena came to play.",
+          "zh": "下一个一天， Wilf， Wilma， Nadim 和 Anneena 来到玩。",
+          "startMs": 79910,
+          "endMs": 85190
+        },
+        {
+          "en": "Biff and Chip showed them the keyboard.",
+          "zh": "Biff 和 Chip 展示他们这键盘。",
+          "startMs": 85940,
+          "endMs": 88120
+        },
+        {
+          "en": "Gran had a good idea.",
+          "zh": "Gran 有一个好的主意。",
+          "startMs": 88700,
+          "endMs": 90300
+        },
+        {
+          "en": "\"Let's have a band,\" she said.",
+          "zh": "让我们有一个乐队， 她说。",
+          "startMs": 90330,
+          "endMs": 94320
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 79760,
+      "endMs": 94670
+    },
+    {
+      "sentences": [
+        {
+          "en": "The band made a lot of noise and the children had a good time.",
+          "zh": "这乐队做一个许多的噪音和这孩子们有一个好的时间。",
+          "startMs": 94350,
+          "endMs": 98200
+        },
+        {
+          "en": "\"Whatever will Gran do next?\" Said Dad.",
+          "zh": "什么有我们做完？ Kipper， 说爸爸。",
+          "startMs": 98230,
+          "endMs": 102280
+        },
+        {
+          "en": "\"She's worse than the children!\" Said Mum.",
+          "zh": "她是更坏的比这孩子们！ 说妈妈。",
+          "startMs": 102860,
+          "endMs": 105840
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 94670,
+      "endMs": 106190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran had promised to take the children on an outing.",
+          "zh": "Gran 有承诺到拿这孩子们在……上一个出。",
+          "startMs": 109890,
+          "endMs": 113990
+        },
+        {
+          "en": "She said that Nadim and Anneena could go too.",
+          "zh": "她说那个 Nadim 和 Anneena 能去也。",
+          "startMs": 114860,
+          "endMs": 117600
+        },
+        {
+          "en": "\"I'll take you all to London,\" she said.",
+          "zh": "我会拿你全部到伦敦， 她说。",
+          "startMs": 118000,
+          "endMs": 122820
+        },
+        {
+          "en": "\"Look after Gran,\" said Mum as they got into the car.",
+          "zh": "看出！ 喊 Gran。",
+          "startMs": 122850,
+          "endMs": 127100
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 109740,
+      "endMs": 127450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Try and stop her getting into trouble.\"",
+          "zh": "尝试和停她得到进入问题。",
+          "startMs": 127130,
+          "endMs": 129980
+        },
+        {
+          "en": "\"We'll do our best,\" Said Biff.",
+          "zh": "哇！ 说 Biff。",
+          "startMs": 130010,
+          "endMs": 132960
+        },
+        {
+          "en": "\"But it won't be easy.\"",
+          "zh": "Biff， 但是它不会是容易的。",
+          "startMs": 132990,
+          "endMs": 134950
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 127450,
+      "endMs": 135300
+    },
+    {
+      "sentences": [
+        {
+          "en": "When they got to London, Gran parked the car.",
+          "zh": "当……时他们得到到伦敦， Gran 公园这汽车。",
+          "startMs": 137890,
+          "endMs": 141890
+        },
+        {
+          "en": "\"Now we'll take the tube,\" said Gran.",
+          "zh": "现在我们会拿这金属管， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 142000,
+          "endMs": 146100
+        },
+        {
+          "en": "\"It's the best way to get around.\"",
+          "zh": "它是这最好的方式到得到在……周围。",
+          "startMs": 146130,
+          "endMs": 148360
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 137740,
+      "endMs": 148710
+    },
+    {
+      "sentences": [
+        {
+          "en": "No There were lots of people waiting on the platform.",
+          "zh": "不那里是许多的人们等在……上这舞台。",
+          "startMs": 151000,
+          "endMs": 154100
+        },
+        {
+          "en": "When the train came in everyone rushed to get on.",
+          "zh": "当……时这火车来在……里每个人仓促的到得到在……上。",
+          "startMs": 154130,
+          "endMs": 158500
+        },
+        {
+          "en": "\"Now I know why it's called a tube,\" Said Anneena.",
+          "zh": "我知道为什么它是叫一个金属管， 说 Anneena， 每个人得到挤！ 它是庞大的， 说 Anneena。",
+          "startMs": 158530,
+          "endMs": 162960
+        },
+        {
+          "en": "\"Everyone gets squeezed.\"",
+          "zh": "每个人笑和向。",
+          "startMs": 162990,
+          "endMs": 164700
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 150850,
+      "endMs": 165050
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to Trafalgar Square.",
+          "zh": "他们去到 Trafalgar 正方形。",
+          "startMs": 169000,
+          "endMs": 169660
+        },
+        {
+          "en": "On top of the column was a statue of Nelson.",
+          "zh": "在……上顶的这柱子是一个雕像的肩下握颈。",
+          "startMs": 171800,
+          "endMs": 174620
+        },
+        {
+          "en": "\"I wouldn't like to be up there,\" said Biff.",
+          "zh": "我不会喜欢到是向上那里， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 175000,
+          "endMs": 178850
+        },
+        {
+          "en": "\"I don't like heights.\"",
+          "zh": "我不喜欢身高。",
+          "startMs": 178880,
+          "endMs": 180710
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 168850,
+      "endMs": 181060
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were lots of pigeons in Trafalgar Square.",
+          "zh": "那里是许多的鸽子在……里 Trafalgar 正方形。",
+          "startMs": 181150,
+          "endMs": 184880
+        },
+        {
+          "en": "Gran bought some nuts.",
+          "zh": "Gran 买一些疯狂的。",
+          "startMs": 184910,
+          "endMs": 186100
+        },
+        {
+          "en": "The children fed the pigeons.",
+          "zh": "这孩子们 fed 这鸽子。",
+          "startMs": 186130,
+          "endMs": 188400
+        },
+        {
+          "en": "\"I'll help,\" \"Oh help!\" said Nadim.",
+          "zh": "帮助！",
+          "startMs": 188860,
+          "endMs": 191370
+        },
+        {
+          "en": "\"I didn't know that pigeons were so greedy.\"",
+          "zh": "我没有知道那个鸽子是所以贪食的。",
+          "startMs": 191400,
+          "endMs": 194230
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 181060,
+      "endMs": 194580
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to Buckingham Palace.",
+          "zh": "他们去到 Buckingham 宫。",
+          "startMs": 199120,
+          "endMs": 200960
+        },
+        {
+          "en": "\"This is where the Queen lives,\" said Gran.",
+          "zh": "这个是哪里这女王住， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 201000,
+          "endMs": 205100
+        },
+        {
+          "en": "\"It's enormous,\" Said Anneena.",
+          "zh": "它是庞大的， 说 Anneena。",
+          "startMs": 205130,
+          "endMs": 207990
+        },
+        {
+          "en": "\"The Queen must be busy with all those rooms to clean.\"",
+          "zh": "这女王必须是忙碌的和……一起全部那些房间到打扫。",
+          "startMs": 208950,
+          "endMs": 213130
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 198970,
+      "endMs": 213480
+    },
+    {
+      "sentences": [
+        {
+          "en": "A big car drove past and everyone cheered and waved.",
+          "zh": "一个大的汽车驾驶过和每个人向和波浪。",
+          "startMs": 213160,
+          "endMs": 217300
+        },
+        {
+          "en": "The children couldn't see who was inside the car.",
+          "zh": "这孩子们不能看见谁是里面这汽车。",
+          "startMs": 217330,
+          "endMs": 220960
+        },
+        {
+          "en": "\"Perhaps it's the Queen,\" said Biff.",
+          "zh": "也许它是这女王， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 221000,
+          "endMs": 225100
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 213480,
+      "endMs": 225450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took them on a boat.",
+          "zh": "Gran 拿他们在……上一个船。",
+          "startMs": 229000,
+          "endMs": 229670
+        },
+        {
+          "en": "They went under Tower Bridge.",
+          "zh": "他们去在……下方塔桥梁。",
+          "startMs": 232590,
+          "endMs": 234530
+        },
+        {
+          "en": "The children were excited because the bridge began to open.",
+          "zh": "这孩子们是兴奋的因为这桥梁开始到打开。",
+          "startMs": 234560,
+          "endMs": 238960
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 228850,
+      "endMs": 239310
+    },
+    {
+      "sentences": [
+        {
+          "en": "It began to rain and the wind blew.",
+          "zh": "它开始到雨和这风 blew。",
+          "startMs": 239860,
+          "endMs": 244120
+        },
+        {
+          "en": "Everyone felt cold.",
+          "zh": "每个人感觉冷的。",
+          "startMs": 245970,
+          "endMs": 247260
+        },
+        {
+          "en": "\"Never mind,\" Said Gran.",
+          "zh": "从不头脑， 说爸爸。 哦不！",
+          "startMs": 247260,
+          "endMs": 250160
+        },
+        {
+          "en": "\"We'll think of somewhere warm to go next.\"",
+          "zh": "我们会想的在某处温暖的到去下一个。",
+          "startMs": 251490,
+          "endMs": 256160
+        },
+        {
+          "en": "They went to the Waxworks.",
+          "zh": "他们去到这蜡像馆。",
+          "startMs": 258360,
+          "endMs": 260460
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 239710,
+      "endMs": 260810
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is a waxworks?\"",
+          "zh": "什么是一个蜡像馆？",
+          "startMs": 261570,
+          "endMs": 263430
+        },
+        {
+          "en": "Asked Kipper, as they went in.",
+          "zh": "Kipper， 像他们去在……里。",
+          "startMs": 263460,
+          "endMs": 265730
+        },
+        {
+          "en": "\"It has wax models of famous people,\" said Anneena.",
+          "zh": "它有蜂蜡模型的著名的人们， 说 Anneena。 它是庞大的， 说 Anneena。",
+          "startMs": 266000,
+          "endMs": 271100
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 261420,
+      "endMs": 271450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the models.",
+          "zh": "他们看在这模型。",
+          "startMs": 271100,
+          "endMs": 273100
+        },
+        {
+          "en": "\"Don't they look funny?\" Said Kipper.",
+          "zh": "不他们看有趣的？ 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 273100,
+          "endMs": 276100
+        },
+        {
+          "en": "\"You can tell they are models and not real people,\" said Anneena.",
+          "zh": "你能告诉他们是模型和不真的人们， 说 Anneena。 它是庞大的， 说 Anneena。 什么是他们？ 问 Kipper。",
+          "startMs": 276100,
+          "endMs": 289100
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 271450,
+      "endMs": 289450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Who are these people?\"",
+          "zh": "谁是这些人们？ 问 Kipper。",
+          "startMs": 289100,
+          "endMs": 289300
+        },
+        {
+          "en": "\"That is Queen Victoria,\" Said Gran and some of her grandchildren.",
+          "zh": "Kipper， 但是将我们看见女王维多利亚？",
+          "startMs": 289300,
+          "endMs": 295100
+        },
+        {
+          "en": "\"She had lots of grandchildren,\" said Nadim.",
+          "zh": "她有许多的孙子， 说 Nadim。 哦不！ 说 Nadim。 哇！",
+          "startMs": 295100,
+          "endMs": 303100
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 289450,
+      "endMs": 303450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Queen Victoria looks very fierce,\" said Biff.",
+          "zh": "女王维多利亚看非常凶猛的， 说 Biff。",
+          "startMs": 303100,
+          "endMs": 303300
+        },
+        {
+          "en": "\"I bet she wasn't like you, Gran.\"",
+          "zh": "我赌她不是喜欢你， Gran。",
+          "startMs": 303300,
+          "endMs": 306100
+        },
+        {
+          "en": "\"Well, I wouldn't like to be a queen,\" said Gran.",
+          "zh": "我不会喜欢到是一个女王， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 306100,
+          "endMs": 311100
+        },
+        {
+          "en": "\"It must be a hard job.\"",
+          "zh": "它必须是一个困难的工作。",
+          "startMs": 311100,
+          "endMs": 315100
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 303450,
+      "endMs": 315450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Butch Oxford Street They looked at a street scene.",
+          "zh": "他们看在一个街道场景。",
+          "startMs": 318000,
+          "endMs": 320100
+        },
+        {
+          "en": "\"This is what London was like a long time ago,\" said Gran.",
+          "zh": "这个是什么伦敦是喜欢一个长的时间以前， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 320100,
+          "endMs": 326100
+        },
+        {
+          "en": "\"A lot of people were very poor.\"",
+          "zh": "一个许多的人们是非常贫穷的。",
+          "startMs": 326100,
+          "endMs": 329440
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 317850,
+      "endMs": 329790
+    },
+    {
+      "sentences": [
+        {
+          "en": "Balk \"Poor children didn't go to school in those days.",
+          "zh": "大梁贫穷的孩子们没有去到学校在……里那些一天。",
+          "startMs": 329440,
+          "endMs": 333100
+        },
+        {
+          "en": "They had to work instead,\" said Gran.",
+          "zh": "他们有到工作作为替代， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 333100,
+          "endMs": 337100
+        },
+        {
+          "en": "\"That boy carrying brushes is a sweep.",
+          "zh": "那个男孩搬运刷子是一个清扫。",
+          "startMs": 337100,
+          "endMs": 341100
+        },
+        {
+          "en": "His job was to climb up chippneys and brush soup down.\"",
+          "zh": "他的工作是到爬向上烟囱和刷子煤烟子向下。",
+          "startMs": 341100,
+          "endMs": 348100
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 329790,
+      "endMs": 348450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran went off to look at the Royal Family while the children stayed at the street scene.",
+          "zh": "Gran 去离开到看在这王室的家庭当……的时候这孩子们停留在这街道场景。",
+          "startMs": 351000,
+          "endMs": 357100
+        },
+        {
+          "en": "\"Do you think Gran should go off by herself?\" Said Biff.",
+          "zh": "做你想 Gran 应该去离开由她自己？ 说 Biff。 哇！",
+          "startMs": 357100,
+          "endMs": 362100
+        },
+        {
+          "en": "\"She can't do much harm in here,\" said Chip.",
+          "zh": "她不能做许多损害在……里这里， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 362100,
+          "endMs": 366100
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 350850,
+      "endMs": 366450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran dropped her handbag, and some money rolled among the models.",
+          "zh": "Gran 掉下她手提包， 和一些钱使滚动在这模型。",
+          "startMs": 366100,
+          "endMs": 370100
+        },
+        {
+          "en": "Gran went to pick it up.",
+          "zh": "Gran 去到挑选它向上。",
+          "startMs": 370100,
+          "endMs": 373100
+        },
+        {
+          "en": "As she bent down she knocked into the waxworks and they began to fall over.",
+          "zh": "像她弯曲的向下她碰撞进入这蜡像馆和他们开始到落下在……上方。",
+          "startMs": 373100,
+          "endMs": 379100
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 366450,
+      "endMs": 379450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran picked the models up and put the heads back on.",
+          "zh": "Gran 挑选这模型向上和放这正面回来在……上。",
+          "startMs": 382000,
+          "endMs": 386100
+        },
+        {
+          "en": "The children couldn't believe it.",
+          "zh": "这孩子们不能相信它。",
+          "startMs": 386100,
+          "endMs": 389100
+        },
+        {
+          "en": "What are you doing?\" Said Biff.",
+          "zh": "什么有你做完？ 哇！ 说 Biff。 哦不！",
+          "startMs": 389100,
+          "endMs": 396100
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 381850,
+      "endMs": 396450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't just stand there,\" said Gran.",
+          "zh": "不刚刚站那里， 说 Gran。",
+          "startMs": 396100,
+          "endMs": 396300
+        },
+        {
+          "en": "\"Help me.",
+          "zh": "帮助我。",
+          "startMs": 396300,
+          "endMs": 397200
+        },
+        {
+          "en": "Pick the models up before anyone sees.\" \"Oh, Gran,\" Said Biff.",
+          "zh": "挑选这模型向上在……之前任何人看见。 Gran！ 哇！ 说 Biff。",
+          "startMs": 397200,
+          "endMs": 404100
+        },
+        {
+          "en": "\"I let you out of my sight for a second, and this happens.\" Said Anneena.",
+          "zh": "我让你出的我的视力为了一个第二， 和这个发生。 它是庞大的， 说 Anneena。",
+          "startMs": 404100,
+          "endMs": 420100
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 396450,
+      "endMs": 420450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They picked the models up and put the heads back on.",
+          "zh": "他们挑选这模型向上和放这正面回来在……上。",
+          "startMs": 420100,
+          "endMs": 420300
+        },
+        {
+          "en": "\"They look strange,\" said Anneena.",
+          "zh": "他们看奇怪的， 说 Anneena。",
+          "startMs": 420300,
+          "endMs": 420500
+        },
+        {
+          "en": "\"I don't think the heads are right.\" \"Oh no!\" Said Gran.",
+          "zh": "我不想这正面是正确的。 哦不！ 说 Gran。",
+          "startMs": 420500,
+          "endMs": 427100
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 420450,
+      "endMs": 427450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Way out A lady ran up.",
+          "zh": "一个女士跑向上。",
+          "startMs": 427100,
+          "endMs": 429100
+        },
+        {
+          "en": "She was very cross with Gran.",
+          "zh": "她是非常叉形和……一起 Gran。",
+          "startMs": 429100,
+          "endMs": 432100
+        },
+        {
+          "en": "\"I can't think how you knocked the models over in the first place,\" she said.",
+          "zh": "我不能想如何你碰撞这模型在……上方在……里这第一地方， 她说。",
+          "startMs": 432100,
+          "endMs": 437120
+        },
+        {
+          "en": "\"It's never happened before.\"",
+          "zh": "它是从不发生在……之前。",
+          "startMs": 437120,
+          "endMs": 440100
+        },
+        {
+          "en": "\"I'm very sorry,\" said Gran.",
+          "zh": "我是非常对不起， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 440100,
+          "endMs": 444100
+        },
+        {
+          "en": "\"I don't know,\" Said Biff.",
+          "zh": "我不知道， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 450030,
+          "endMs": 453100
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 427450,
+      "endMs": 453450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't think they will let Gran in the waxworks again.\" \"Never mind,\" Said Chip.",
+          "zh": "我不想他们将让 Gran 在……里这蜡像馆再一次。 从不头脑， 说爸爸。 咳！",
+          "startMs": 453100,
+          "endMs": 460100
+        },
+        {
+          "en": "\"Gran didn't mean to knock them over.\"",
+          "zh": "Gran 没有意思是到碰撞他们在……上方。",
+          "startMs": 460100,
+          "endMs": 462100
+        },
+        {
+          "en": "\"Thank you for a great day out,\" Said Nadim.",
+          "zh": "公园不谢谢你为了一个很棒的一天出， 说 Nadim。 哦不！ 说 Nadim。",
+          "startMs": 462100,
+          "endMs": 466100
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 453450,
+      "endMs": 466450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We had never been to London before.\"",
+          "zh": "我们有从不是到伦敦在……之前。",
+          "startMs": 466100,
+          "endMs": 469100
+        },
+        {
+          "en": "\"I liked the ride on the boat best,\" said Kipper.",
+          "zh": "我喜欢这骑在……上这船最好的， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 469100,
+          "endMs": 473100
+        },
+        {
+          "en": "\"Even if it was cold.\"",
+          "zh": "竟然如果它是冷的。",
+          "startMs": 473100,
+          "endMs": 475100
+        },
+        {
+          "en": "\"I liked everything,\" said Anneena.",
+          "zh": "我喜欢一切， 说 Anneena。 它是庞大的， 说 Anneena。",
+          "startMs": 475100,
+          "endMs": 479100
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 466450,
+      "endMs": 479450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Home at last,\" Said Gran.",
+          "zh": "他帽子这个。 哦不！ 说 Gran。",
+          "startMs": 481000,
+          "endMs": 484100
+        },
+        {
+          "en": "\"We can tell Mum some of our adventures.\"",
+          "zh": "我们不能离开他 stuck 在……里一个冒险。",
+          "startMs": 484100,
+          "endMs": 488100
+        },
+        {
+          "en": "\"But not all of them and not the one about beheading the Queen.\"",
+          "zh": "我们能告诉妈妈一些的我们的冒险， 但是不全部的他们。。。 和不这一关于砍掉这女王。",
+          "startMs": 488100,
+          "endMs": 493100
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 480850,
+      "endMs": 493450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 493450,
+      "endMs": 493451
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 493451,
+      "endMs": 493452
+    }
+  ]
+}

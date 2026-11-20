@@ -1,0 +1,249 @@
+{
+  "id": "L2-030",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had a creepy-crawly.",
+          "zh": "Wilma 有一个爬虫。",
+          "startMs": 0,
+          "endMs": 540
+        },
+        {
+          "en": "She put it in the bath.",
+          "zh": "她放它在……里这洗澡。",
+          "startMs": 3170,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma called Dad.",
+          "zh": "Wilma 叫爸爸。",
+          "startMs": 13000,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 12850,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it out,\" said Wilf.",
+          "zh": "得到它出， 说 Wilf。",
+          "startMs": 16000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ugh!",
+          "zh": "咳！",
+          "startMs": 20210,
+          "endMs": 21577
+        },
+        {
+          "en": "I couldn't,\" said Dad.",
+          "zh": "我不能， 说爸爸。",
+          "startMs": 21577,
+          "endMs": 27590
+        }
+      ],
+      "startMs": 20210,
+      "endMs": 27590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf called Mum.",
+          "zh": "Wilf 叫妈妈。",
+          "startMs": 18010,
+          "endMs": 29110
+        }
+      ],
+      "startMs": 17860,
+      "endMs": 29460
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it out,\" said Wilf.",
+          "zh": "得到它出， 说 Wilf。",
+          "startMs": 33000,
+          "endMs": 36100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 36450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ugh!",
+          "zh": "咳！",
+          "startMs": 39090,
+          "endMs": 40155
+        },
+        {
+          "en": "I couldn't,\" said Mum.",
+          "zh": "我不能， 说妈妈。",
+          "startMs": 40155,
+          "endMs": 44840
+        }
+      ],
+      "startMs": 39090,
+      "endMs": 44840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma called Chip.",
+          "zh": "Wilma 叫 Chip。",
+          "startMs": 45000,
+          "endMs": 47100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it out,\" said Wilf.",
+          "zh": "得到它出， 说 Wilf。",
+          "startMs": 47000,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 46850,
+      "endMs": 51450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ugh!",
+          "zh": "咳！",
+          "startMs": 55660,
+          "endMs": 56921
+        },
+        {
+          "en": "I couldn't,\" said Chip.",
+          "zh": "我不能， 说 Chip。",
+          "startMs": 56921,
+          "endMs": 62720
+        }
+      ],
+      "startMs": 55660,
+      "endMs": 62720
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf called Biff.",
+          "zh": "Wilf 叫 Biff。",
+          "startMs": 60000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it out,\" said Wilma.",
+          "zh": "得到它出， 说 Wilma。",
+          "startMs": 66000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 65850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ugh!",
+          "zh": "咳！",
+          "startMs": 72790,
+          "endMs": 73740
+        },
+        {
+          "en": "I couldn't,\" said Biff.",
+          "zh": "我不能， 说 Biff。",
+          "startMs": 73740,
+          "endMs": 78110
+        }
+      ],
+      "startMs": 72790,
+      "endMs": 78110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone called Kipper.",
+          "zh": "每个人叫 Kipper。",
+          "startMs": 78000,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get it out,\" said Wilf.",
+          "zh": "得到它出， 说 Wilf。",
+          "startMs": 81000,
+          "endMs": 84100
+        }
+      ],
+      "startMs": 80850,
+      "endMs": 84450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Easy!\" said Kipper.",
+          "zh": "容易的！ 说 Kipper。",
+          "startMs": 86230,
+          "endMs": 90100
+        }
+      ],
+      "startMs": 86080,
+      "endMs": 90450
+    },
+    {
+      "sentences": [],
+      "startMs": 95435,
+      "endMs": 95916,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 95935,
+      "endMs": 95916,
+      "illustrationOnly": true
+    }
+  ]
+}

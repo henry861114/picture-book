@@ -1,0 +1,112 @@
+{
+  "id": "L1-053",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put on a big red nose.",
+          "zh": "妈妈放在……上一个大的红色的鼻子。",
+          "startMs": 0,
+          "endMs": 3040
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put on a big pillow.",
+          "zh": "妈妈放在……上一个大的枕头。",
+          "startMs": 0,
+          "endMs": 4330
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4680
+    },
+    {
+      "sentences": [],
+      "startMs": 340,
+      "endMs": 4728,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put on big boots.",
+          "zh": "妈妈放在……上大的靴子。",
+          "startMs": 23380,
+          "endMs": 31280
+        }
+      ],
+      "startMs": 23230,
+      "endMs": 31630
+    },
+    {
+      "sentences": [],
+      "startMs": 19035,
+      "endMs": 19835,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 19835,
+      "endMs": 20635,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put on a big beard.",
+          "zh": "她放在……上一个大的胡须。",
+          "startMs": 35780,
+          "endMs": 43480
+        }
+      ],
+      "startMs": 35630,
+      "endMs": 43830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ho!",
+          "zh": "钬！",
+          "startMs": 43380,
+          "endMs": 44080
+        },
+        {
+          "en": "Ho!",
+          "zh": "钬！",
+          "startMs": 43980,
+          "endMs": 44770
+        },
+        {
+          "en": "Ho!\" said Mum.",
+          "zh": "钬！ 说妈妈。",
+          "startMs": 44670,
+          "endMs": 48500
+        }
+      ],
+      "startMs": 43230,
+      "endMs": 48850
+    },
+    {
+      "sentences": [],
+      "startMs": 51737,
+      "endMs": 52537,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 52537,
+      "endMs": 53100,
+      "illustrationOnly": true
+    }
+  ]
+}

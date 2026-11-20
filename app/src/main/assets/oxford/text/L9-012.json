@@ -1,0 +1,1423 @@
+{
+  "id": "L9-012",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran had come to stay.",
+          "zh": "Gran 有来到停留。",
+          "startMs": 0,
+          "endMs": 1720
+        },
+        {
+          "en": "She had presents for the children.",
+          "zh": "她有礼物为了这孩子们。",
+          "startMs": 1720,
+          "endMs": 4720
+        },
+        {
+          "en": "She had bought each of them a Super Squirter.",
+          "zh": "她有买每个的他们一个超级的喷射。",
+          "startMs": 4720,
+          "endMs": 8720
+        },
+        {
+          "en": "\"Oh no!\" Groaned Dad.",
+          "zh": "哦不！ 呻吟爸爸。",
+          "startMs": 8720,
+          "endMs": 11720
+        },
+        {
+          "en": "\"A Super Squirter!",
+          "zh": "Gran 挑选向上一个超级的喷射。",
+          "startMs": 11720,
+          "endMs": 13720
+        },
+        {
+          "en": "That's brilliant!\" Said Chip.",
+          "zh": "那是明亮的！ 说 Chip。",
+          "startMs": 13720,
+          "endMs": 15720
+        },
+        {
+          "en": "\"Thank you, Gran.\" Called Gran.",
+          "zh": "谢谢你， Gran。 等为了我， 叫 Gran。",
+          "startMs": 15720,
+          "endMs": 30720
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 31070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went outside to play with the Super Squirters.",
+          "zh": "这孩子们去外面到玩和……一起这超级的喷射。",
+          "startMs": 30720,
+          "endMs": 30920
+        },
+        {
+          "en": "\"Wait for me,\" called Gran.",
+          "zh": "等为了我， 叫 Gran。",
+          "startMs": 30920,
+          "endMs": 31120
+        },
+        {
+          "en": "Dad and Mum watched them.",
+          "zh": "爸爸和妈妈手表他们。",
+          "startMs": 31120,
+          "endMs": 33720
+        },
+        {
+          "en": "\"Just look at Gran!\" Sighed Dad.",
+          "zh": "刚刚看在 Gran！ 叹气爸爸。 Gran， 说爸爸。",
+          "startMs": 33720,
+          "endMs": 36720
+        },
+        {
+          "en": "\"It's like having a naughty girl to stay.\"",
+          "zh": "它是喜欢有一个顽皮的女孩到停留。",
+          "startMs": 36720,
+          "endMs": 39720
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 31070,
+      "endMs": 40070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Photographs Gran had a surprise for Mum and Dad.",
+          "zh": "Gran 有一个意想不到的事物为了妈妈和爸爸。",
+          "startMs": 39720,
+          "endMs": 43720
+        },
+        {
+          "en": "She had some photograph albums.",
+          "zh": "她有一些照片册子。",
+          "startMs": 43720,
+          "endMs": 46720
+        },
+        {
+          "en": "\"What are these?\" Asked Dad.",
+          "zh": "什么是这些？ 问爸爸。 Gran， 说爸爸。",
+          "startMs": 46720,
+          "endMs": 49720
+        },
+        {
+          "en": "\"Old photographs,\" Said Gran.",
+          "zh": "旧的照片， 说 Gran。 离开它到我， 说 Gran。",
+          "startMs": 49790,
+          "endMs": 54720
+        },
+        {
+          "en": "\"I thought you might like them.\"",
+          "zh": "我想你可能喜欢他们。",
+          "startMs": 54720,
+          "endMs": 55720
+        },
+        {
+          "en": "\"Old photographs of what?\" Asked Dad.",
+          "zh": "旧的照片的什么？ 问爸爸。 Gran， 说爸爸。",
+          "startMs": 55720,
+          "endMs": 70720
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 40070,
+      "endMs": 71070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some of the photographs were of Mum when she was a little girl.",
+          "zh": "一些的这照片是的妈妈当……时她是一个小的女孩。",
+          "startMs": 70720,
+          "endMs": 70920
+        },
+        {
+          "en": "\"Look at Mum,\" said Biff.",
+          "zh": "看在妈妈， 说 Biff。",
+          "startMs": 70920,
+          "endMs": 71120
+        },
+        {
+          "en": "\"She was quite pretty when she was little.\"",
+          "zh": "她是相当漂亮的当……时她是小的。",
+          "startMs": 71120,
+          "endMs": 73720
+        },
+        {
+          "en": "\"And look at Gran,\" said Chip.",
+          "zh": "Gran， 说 Chip。 ， 说 Chip。",
+          "startMs": 73720,
+          "endMs": 76720
+        },
+        {
+          "en": "\"She was quite young once upon a time.\" Said Gran.",
+          "zh": "她是相当年轻的一次 upon 一个时间。 离开它到我， 说 Gran。",
+          "startMs": 76720,
+          "endMs": 90720
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 71070,
+      "endMs": 91070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went out to play.",
+          "zh": "Biff 和 Chip 去出到玩。",
+          "startMs": 90720,
+          "endMs": 90920
+        },
+        {
+          "en": "Gran showed Kipper some more photographs.",
+          "zh": "Gran 展示 Kipper 一些更多照片。",
+          "startMs": 90920,
+          "endMs": 91120
+        },
+        {
+          "en": "\"Here I am when I was a little girl,\" said Gran.",
+          "zh": "这里我是当……时我是一个小的女孩， 说 Gran。",
+          "startMs": 91120,
+          "endMs": 91320
+        },
+        {
+          "en": "\"Why is everything grey colored?\" Asked Kipper.",
+          "zh": "为什么是一切灰色的颜色？ 问 Kipper。 是什么一个迷宫？ 问 Kipper。",
+          "startMs": 91320,
+          "endMs": 94720
+        },
+        {
+          "en": "\"Was it all like that in those days?\" \"No!\" Laughed Gran.",
+          "zh": "是它全部喜欢那个在……里那些一天？ 现在！ 我是！ 笑 Gran。",
+          "startMs": 94720,
+          "endMs": 101720
+        },
+        {
+          "en": "\"Only the photographs.\"",
+          "zh": "不， 笑 Gran， 只有这照片。",
+          "startMs": 101720,
+          "endMs": 104720
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 91070,
+      "endMs": 105070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper put the television on.",
+          "zh": "Kipper 放这电视在……上。",
+          "startMs": 104720,
+          "endMs": 107720
+        },
+        {
+          "en": "There was an old film about two men moving a piano.",
+          "zh": "那里是一个旧的电影关于二男人们运动的一个钢琴。",
+          "startMs": 107720,
+          "endMs": 112720
+        },
+        {
+          "en": "\"That's funny,\" \"They are grey colored too.",
+          "zh": "那是有趣的， 他说。",
+          "startMs": 112720,
+          "endMs": 117720
+        },
+        {
+          "en": "They're just like Gran's old photographs.\"",
+          "zh": "他们是刚刚喜欢 Gran 旧的照片。",
+          "startMs": 117720,
+          "endMs": 120720
+        },
+        {
+          "en": "The men made Kipper laugh.",
+          "zh": "这男人们做 Kipper 笑。",
+          "startMs": 120720,
+          "endMs": 123720
+        },
+        {
+          "en": "\"Ha ha ha ha ha ha ha ha ha!\"",
+          "zh": "",
+          "startMs": 123720,
+          "endMs": 127720
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 105070,
+      "endMs": 128070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" he thought.",
+          "zh": "哦不！ 他想。",
+          "startMs": 127720,
+          "endMs": 127920
+        },
+        {
+          "en": "At last, the old film was over.",
+          "zh": "在最后的他们浮进入平静的水。",
+          "startMs": 127920,
+          "endMs": 131720
+        },
+        {
+          "en": "At last, Kipper turned off the television.",
+          "zh": "在最后的， Kipper 转动离开这电视。",
+          "startMs": 131770,
+          "endMs": 134720
+        },
+        {
+          "en": "He went to find Biff, but she wasn't in her room.",
+          "zh": "他去到找到 Biff， 但是她不是在……里她房间。",
+          "startMs": 134720,
+          "endMs": 139720
+        },
+        {
+          "en": "Then Kipper saw that the magic key was glowing.",
+          "zh": "然后 Kipper 看见那个这魔法钥匙是发光的。",
+          "startMs": 139720,
+          "endMs": 143720
+        },
+        {
+          "en": "\"Oh no!\" He thought.",
+          "zh": "哦不！ 他想。",
+          "startMs": 143720,
+          "endMs": 147720
+        },
+        {
+          "en": "\"I'm all by myself!\"",
+          "zh": "我是全部由我自己！",
+          "startMs": 147720,
+          "endMs": 150720
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 128070,
+      "endMs": 151070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took Kipper into a strange grey world.",
+          "zh": "这魔法拿 Kipper 进入一个奇怪的灰色的世界。",
+          "startMs": 151060,
+          "endMs": 168720
+        },
+        {
+          "en": "\"Everything is grey,\" thought Kipper.",
+          "zh": "一切是灰色的， 想 Kipper。",
+          "startMs": 168720,
+          "endMs": 172720
+        },
+        {
+          "en": "\"This is just like the film I saw on television.\"",
+          "zh": "这个是刚刚喜欢这电影我看见在……上电视。",
+          "startMs": 172720,
+          "endMs": 176720
+        },
+        {
+          "en": "Two men were trying to move a piano.",
+          "zh": "二男人们是令人厌烦的到移动一个钢琴。",
+          "startMs": 176850,
+          "endMs": 180720
+        },
+        {
+          "en": "They didn't see Kipper.",
+          "zh": "他们没有看见 Kipper。",
+          "startMs": 180720,
+          "endMs": 183720
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 151070,
+      "endMs": 184070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There is no color,\" Said Kipper.",
+          "zh": "那里是不颜色， 说 Kipper。 全部正确的， 说 Kipper。",
+          "startMs": 183720,
+          "endMs": 187720
+        },
+        {
+          "en": "\"I don't like all this grey.",
+          "zh": "我不喜欢全部这个灰色的。",
+          "startMs": 187720,
+          "endMs": 189720
+        },
+        {
+          "en": "I want to go back home.",
+          "zh": "我想要到去回来家。",
+          "startMs": 189720,
+          "endMs": 192720
+        },
+        {
+          "en": "This is a silly adventure.\"",
+          "zh": "这个是一个傻的冒险。",
+          "startMs": 192720,
+          "endMs": 195720
+        },
+        {
+          "en": "He banged the key on the wall.",
+          "zh": "他突然的巨响这钥匙在……上这墙。",
+          "startMs": 195720,
+          "endMs": 198720
+        },
+        {
+          "en": "\"Take me back,\" He said crossly.",
+          "zh": "拿它回来到 Ulm。 拿我回来， 他说生气地。",
+          "startMs": 198720,
+          "endMs": 201720
+        },
+        {
+          "en": "\"Or put some colour in this adventure.\"",
+          "zh": "或者放一些颜色在……里这个冒险。",
+          "startMs": 201810,
+          "endMs": 208720
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 184070,
+      "endMs": 209070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men were still pushing the piano.",
+          "zh": "这男人们是仍然推这钢琴。",
+          "startMs": 208720,
+          "endMs": 211720
+        },
+        {
+          "en": "They had to get it through a door.",
+          "zh": "他们有到得到它穿过一个门。",
+          "startMs": 211720,
+          "endMs": 213720
+        },
+        {
+          "en": "\"Come and help us,\" they called.",
+          "zh": "来和帮助我们， 他们叫。",
+          "startMs": 213720,
+          "endMs": 217720
+        },
+        {
+          "en": "Kipper didn't want to, but he went across to help.",
+          "zh": "Kipper 没有想要到， 但是他去穿过到帮助。",
+          "startMs": 217720,
+          "endMs": 221720
+        },
+        {
+          "en": "\"We have to take the piano outside,\" Said the big man.",
+          "zh": "我们有到拿这钢琴外面， 说这大的男人。",
+          "startMs": 221720,
+          "endMs": 225720
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 209070,
+      "endMs": 226070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Then we have to lift it down some steps,\" Said the little man.",
+          "zh": "然后我们有到拿起它向下一些迈步， 说这小的男人。",
+          "startMs": 225720,
+          "endMs": 231720
+        },
+        {
+          "en": "\"Now, we'll take the back,\" Said the big man.",
+          "zh": "我们会拿这回来， 说这大的男人。",
+          "startMs": 231720,
+          "endMs": 234720
+        },
+        {
+          "en": "\"And you take the front,\" Said the little man.",
+          "zh": "和你拿这前面， 说这小的男人。",
+          "startMs": 234720,
+          "endMs": 238720
+        },
+        {
+          "en": "\"All right,\" Said Kipper.",
+          "zh": "全部正确的！ 全部正确的， 说 Kipper。",
+          "startMs": 238720,
+          "endMs": 241720
+        },
+        {
+          "en": "He squeezed past the piano and got ready to help.",
+          "zh": "他挤过这钢琴和得到准备好的到帮助。",
+          "startMs": 241720,
+          "endMs": 247720
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 226070,
+      "endMs": 248070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"When I call pull, you pull,\" Said the big man.",
+          "zh": "当……时我叫 '拉'， 你拉， 说这大的男人。",
+          "startMs": 247810,
+          "endMs": 255720
+        },
+        {
+          "en": "\"Pull!\" He shouted.",
+          "zh": "拉！ 他喊。",
+          "startMs": 255720,
+          "endMs": 258720
+        },
+        {
+          "en": "Kipper tried to pull the piano.",
+          "zh": "Kipper 经过考验的到拉这钢琴。",
+          "startMs": 258720,
+          "endMs": 260720
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 248070,
+      "endMs": 261070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly it shot forward and slid down the steps.",
+          "zh": "突然地它射击向前和滑行向下这迈步。",
+          "startMs": 260720,
+          "endMs": 265720
+        },
+        {
+          "en": "Kipper grabbed the top and jumped on.",
+          "zh": "Kipper 抓住这顶和跳在……上。",
+          "startMs": 265720,
+          "endMs": 268720
+        },
+        {
+          "en": "The piano ran down the street.",
+          "zh": "这钢琴跑向下这街道。",
+          "startMs": 268720,
+          "endMs": 271720
+        },
+        {
+          "en": "It went faster and faster.",
+          "zh": "它去快的和快的。",
+          "startMs": 271720,
+          "endMs": 274720
+        },
+        {
+          "en": "Kipper hung on to the top.",
+          "zh": "Kipper 各党势均力敌的在……上到这顶。",
+          "startMs": 274750,
+          "endMs": 277720
+        },
+        {
+          "en": "\"Now look what you've done,\" Shouted the big man to the little man.",
+          "zh": "看什么你已经做完到我们的钢琴。",
+          "startMs": 277720,
+          "endMs": 281720
+        },
+        {
+          "en": "\"It's not my fault,\" Said the little man.",
+          "zh": "它是我的最喜欢的。",
+          "startMs": 281720,
+          "endMs": 285720
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 261070,
+      "endMs": 286070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I told you not to push so hard,\" Said the big man.",
+          "zh": "我告诉你不到推所以困难的， 说这大的男人。",
+          "startMs": 285720,
+          "endMs": 291720
+        },
+        {
+          "en": "Suddenly the piano came to a stop.",
+          "zh": "突然地这钢琴来到一个停。",
+          "startMs": 294620,
+          "endMs": 298720
+        },
+        {
+          "en": "It crashed into a hedge.",
+          "zh": "它锵锵作响进入一个树篱。",
+          "startMs": 298720,
+          "endMs": 301720
+        },
+        {
+          "en": "Kipper flew over the hedge and landed in a soft garden chair.",
+          "zh": "Kipper 飞在……上方这树篱和拥有大量土地的在……里一个软的花园椅子。",
+          "startMs": 301720,
+          "endMs": 306720
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 286070,
+      "endMs": 307070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hey,\" \"Hey!\" shouted the big man.",
+          "zh": "帮助！",
+          "startMs": 306720,
+          "endMs": 309720
+        },
+        {
+          "en": "\"Look what you've done to our piano.\" Kipper was cross.",
+          "zh": "看什么你已经做完到我们的钢琴。 Kipper 是叉形。",
+          "startMs": 309720,
+          "endMs": 314720
+        },
+        {
+          "en": "\"This is a silly adventure,\" He shouted.",
+          "zh": "这个是一个傻的冒险。 拉！ 他喊。",
+          "startMs": 314720,
+          "endMs": 318720
+        },
+        {
+          "en": "\"I hate it.\"",
+          "zh": "我憎恶它。",
+          "startMs": 318720,
+          "endMs": 320720
+        },
+        {
+          "en": "He took the magic key out of his pocket and banged it again.",
+          "zh": "他拿这魔法钥匙出的他的衣袋和突然的巨响它再一次。",
+          "startMs": 320720,
+          "endMs": 324720
+        },
+        {
+          "en": "\"I don't like you,\" he yelled.",
+          "zh": "我不喜欢你， 他叫喊。",
+          "startMs": 324720,
+          "endMs": 326510
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 307070,
+      "endMs": 326860
+    },
+    {
+      "sentences": [
+        {
+          "en": "He yelled.",
+          "zh": "帮助！ 她叫。",
+          "startMs": 326510,
+          "endMs": 327720
+        },
+        {
+          "en": "\"I want to go home.\"",
+          "zh": "我想要到去家。",
+          "startMs": 327810,
+          "endMs": 332720
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 332720,
+          "endMs": 336720
+        },
+        {
+          "en": "The magic took Kipper home.",
+          "zh": "这魔法拿 Kipper 家。",
+          "startMs": 349620,
+          "endMs": 351720
+        },
+        {
+          "en": "Kipper was pleased the adventure was over.",
+          "zh": "Kipper 是请这冒险是在……上方。",
+          "startMs": 351720,
+          "endMs": 355720
+        },
+        {
+          "en": "But the adventure was not over.",
+          "zh": "但是这冒险是不在……上方。",
+          "startMs": 355810,
+          "endMs": 358720
+        },
+        {
+          "en": "Something had gone wrong!",
+          "zh": "某物有去了错误的！",
+          "startMs": 358720,
+          "endMs": 361720
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 326860,
+      "endMs": 362070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was a gray color.",
+          "zh": "Kipper 是一个灰色的颜色。",
+          "startMs": 361720,
+          "endMs": 363720
+        },
+        {
+          "en": "He looked like an old photograph of himself.",
+          "zh": "他看喜欢一个旧的照片的他自己。",
+          "startMs": 363720,
+          "endMs": 367720
+        },
+        {
+          "en": "Kipper did not notice this.",
+          "zh": "Kipper 做不布告这个。",
+          "startMs": 367720,
+          "endMs": 370720
+        },
+        {
+          "en": "He put down the magic key and went to find Biff and Chip.",
+          "zh": "他放向下这魔法钥匙和去到找到 Biff 和 Chip。",
+          "startMs": 370720,
+          "endMs": 374720
+        },
+        {
+          "en": "They were in the garden with Gran.",
+          "zh": "他们是在……里这花园和……一起 Gran。",
+          "startMs": 374720,
+          "endMs": 377720
+        },
+        {
+          "en": "They all gasped when they saw Kipper.",
+          "zh": "他们全部喘气当……时他们看见 Kipper。",
+          "startMs": 377720,
+          "endMs": 380720
+        },
+        {
+          "en": "\"Oh!\" Said Biff.",
+          "zh": "哎哟！ ， 说 Biff。",
+          "startMs": 380810,
+          "endMs": 385720
+        },
+        {
+          "en": "\"Something's gone wrong.",
+          "zh": "某物去了错误的。",
+          "startMs": 385720,
+          "endMs": 385920
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 362070,
+      "endMs": 386270
+    },
+    {
+      "sentences": [
+        {
+          "en": "You look gray like an old photograph.\"",
+          "zh": "你看灰色的， 喜欢一个旧的照片。",
+          "startMs": 385920,
+          "endMs": 389720
+        },
+        {
+          "en": "At that moment Mum and Dad came out of the house.",
+          "zh": "在那个片刻妈妈和爸爸来出的这房子。",
+          "startMs": 392620,
+          "endMs": 396720
+        },
+        {
+          "en": "\"This is terrible!\" Said Chip.",
+          "zh": "这个是可怕的！ 说 Chip。",
+          "startMs": 396720,
+          "endMs": 399720
+        },
+        {
+          "en": "\"Do something to stop them, Gran.",
+          "zh": "做某物到停他们， Gran。",
+          "startMs": 399720,
+          "endMs": 401720
+        },
+        {
+          "en": "They mustn't see Kipper.\"",
+          "zh": "他们不可以看见 Kipper。",
+          "startMs": 401720,
+          "endMs": 402720
+        },
+        {
+          "en": "\"Leave it to me,\" said Gran.",
+          "zh": "离开它到我， 说 Gran。",
+          "startMs": 402720,
+          "endMs": 405720
+        },
+        {
+          "en": "\"You take Kipper inside.\"",
+          "zh": "你拿 Kipper 里面。",
+          "startMs": 405720,
+          "endMs": 408720
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 386270,
+      "endMs": 409070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran picked up a Super Squirter.",
+          "zh": "Gran 挑选向上一个超级的喷射。",
+          "startMs": 408850,
+          "endMs": 411720
+        },
+        {
+          "en": "She ran towards Mum and Dad.",
+          "zh": "她跑向妈妈和爸爸。",
+          "startMs": 411720,
+          "endMs": 414720
+        },
+        {
+          "en": "\"Gran!\" Shouted Mum.",
+          "zh": "跑！ Gran！ 喊妈妈。",
+          "startMs": 414720,
+          "endMs": 417720
+        },
+        {
+          "en": "\"Don't you dare.",
+          "zh": "不你激。",
+          "startMs": 417720,
+          "endMs": 419720
+        },
+        {
+          "en": "We're not in the mood for this.\" \"But I am!\" Laughed Gran.",
+          "zh": "我们是不在……里这心情为了这个。 我是！ 笑 Gran。",
+          "startMs": 419720,
+          "endMs": 426720
+        },
+        {
+          "en": "She began to squirt Mum with water.",
+          "zh": "她开始到喷射妈妈和……一起水。",
+          "startMs": 426720,
+          "endMs": 430720
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 409070,
+      "endMs": 431070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran chased Mum and Dad round the garden.",
+          "zh": "Gran 追赶妈妈和爸爸圆形的这花园。",
+          "startMs": 434850,
+          "endMs": 438720
+        },
+        {
+          "en": "Biff and Chip grabbed Kipper by the arms and took him inside.",
+          "zh": "Biff 和 Chip 抓住 Kipper 由这武器和拿他里面。",
+          "startMs": 438720,
+          "endMs": 443720
+        },
+        {
+          "en": "\"Good old Gran,\" said Biff.",
+          "zh": "Gran， 说 Biff。 ， 说 Biff。",
+          "startMs": 443720,
+          "endMs": 446820
+        },
+        {
+          "en": "\"Now let's get Kipper upstairs.\" \"Ouch!",
+          "zh": "Kipper 在楼上。 哎哟！",
+          "startMs": 446820,
+          "endMs": 450620
+        },
+        {
+          "en": "Stop it!",
+          "zh": "停它！",
+          "startMs": 450620,
+          "endMs": 451650
+        },
+        {
+          "en": "What's wrong?\" Cried Kipper.",
+          "zh": "是什么错误的？ 哭 Kipper。 是什么错误的？ 哭 Kipper。",
+          "startMs": 451650,
+          "endMs": 454720
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 434700,
+      "endMs": 455070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked at himself in the mirror.",
+          "zh": "Kipper 看在他自己在……里这镜子。",
+          "startMs": 454720,
+          "endMs": 457720
+        },
+        {
+          "en": "\"It's the key,\" he said.",
+          "zh": "它是这钥匙， 他说。",
+          "startMs": 457720,
+          "endMs": 460720
+        },
+        {
+          "en": "\"I didn't want to go on an adventure.",
+          "zh": "我没有想要到去在……上一个冒险。",
+          "startMs": 460740,
+          "endMs": 464670
+        },
+        {
+          "en": "Now the magic has gone wrong.\"",
+          "zh": "现在这魔法有去了错误的。",
+          "startMs": 464670,
+          "endMs": 466720
+        },
+        {
+          "en": "\"What are we going to do?\" Asked Biff.",
+          "zh": "现在什么是我们去到做？ 但是如何？ 问 Biff。",
+          "startMs": 466720,
+          "endMs": 471720
+        },
+        {
+          "en": "Kipper began to cry.",
+          "zh": "Kipper 开始到哭。",
+          "startMs": 471720,
+          "endMs": 473720
+        },
+        {
+          "en": "\"I don't want to look like an old photograph,\" he moaned.",
+          "zh": "我不想要到看喜欢一个旧的照片， 他呻吟。",
+          "startMs": 476620,
+          "endMs": 482720
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 455070,
+      "endMs": 483070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran came upstairs.",
+          "zh": "Gran 来在楼上。",
+          "startMs": 485620,
+          "endMs": 487720
+        },
+        {
+          "en": "\"Mum and Dad are not too pleased with me, but I've made them a cup of tea,\" She said.",
+          "zh": "妈妈和爸爸是不也请和……一起我。 我看见， 他说。",
+          "startMs": 487720,
+          "endMs": 494720
+        },
+        {
+          "en": "\"You were great,\" said Chip.",
+          "zh": "你是很棒的， 说 Chip。 ， 说 Chip。",
+          "startMs": 494720,
+          "endMs": 497720
+        },
+        {
+          "en": "\"But what can we do?\" Asked Biff.",
+          "zh": "但是什么能我们做？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 497720,
+          "endMs": 500720
+        },
+        {
+          "en": "\"We can't let Mum and Dad find out about the magic key.\"",
+          "zh": "我们不能让妈妈和爸爸找到出关于这魔法钥匙。",
+          "startMs": 500720,
+          "endMs": 505720
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 485470,
+      "endMs": 506070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had an idea.",
+          "zh": "Chip 有一个主意。",
+          "startMs": 505720,
+          "endMs": 507720
+        },
+        {
+          "en": "\"Kipper's clothes look gray,\" He said.",
+          "zh": "Kipper 衣服看灰色的， 他说。 我看见， 他说。",
+          "startMs": 507720,
+          "endMs": 510780
+        },
+        {
+          "en": "\"Get him to change his clothes.\"",
+          "zh": "得到他到嫦他的衣服。",
+          "startMs": 510780,
+          "endMs": 512720
+        },
+        {
+          "en": "Kipper went to his room.",
+          "zh": "Kipper 去到他的房间。",
+          "startMs": 512740,
+          "endMs": 515500
+        },
+        {
+          "en": "He put on a red top.",
+          "zh": "他放在……上一个红色的顶。",
+          "startMs": 515500,
+          "endMs": 517720
+        },
+        {
+          "en": "\"Oh, no!\" Said Chip.",
+          "zh": "哦不！ ， 说 Chip。",
+          "startMs": 517720,
+          "endMs": 519720
+        },
+        {
+          "en": "\"Your top's turning gray.",
+          "zh": "你的顶转弯处灰色的。",
+          "startMs": 519720,
+          "endMs": 521670
+        },
+        {
+          "en": "You still look like an old photograph.\" Just then,.",
+          "zh": "你仍然看喜欢一个旧的照片。 你停这男人们。",
+          "startMs": 521670,
+          "endMs": 527720
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 506070,
+      "endMs": 528070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Just then they heard Dad coming upstairs.",
+          "zh": "爸爸来在楼上。",
+          "startMs": 527720,
+          "endMs": 531720
+        },
+        {
+          "en": "\"Do something!\" Hissed Biff.",
+          "zh": "做某物， Gran。 哦！ 说 Biff。",
+          "startMs": 531720,
+          "endMs": 534820
+        },
+        {
+          "en": "\"We mustn't let Dad see Kipper.\"",
+          "zh": "我们不可以让爸爸看见 Kipper。",
+          "startMs": 534820,
+          "endMs": 537720
+        },
+        {
+          "en": "Gran grabbed some sheets from the beds.",
+          "zh": "Gran 抓住一些床单从这床。",
+          "startMs": 537720,
+          "endMs": 540720
+        },
+        {
+          "en": "\"Pretend you're playing spooks,\" she said.",
+          "zh": "假装你是玩鬼， 她说。",
+          "startMs": 540740,
+          "endMs": 545720
+        },
+        {
+          "en": "\"It's dinner time in ten minutes,\" said Dad.",
+          "zh": "它是正餐时间在……里十分， 说爸爸。",
+          "startMs": 545720,
+          "endMs": 548910
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 528070,
+      "endMs": 549260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Dad.",
+          "zh": "Gran， 说爸爸。",
+          "startMs": 548910,
+          "endMs": 549720
+        },
+        {
+          "en": "Dad went back downstairs.",
+          "zh": "爸爸去回来在楼下。",
+          "startMs": 549720,
+          "endMs": 552100
+        },
+        {
+          "en": "He looked cross.",
+          "zh": "他看叉形。",
+          "startMs": 552100,
+          "endMs": 553720
+        },
+        {
+          "en": "\"Oh dear!\" Said Mum.",
+          "zh": "哦亲爱的！ 说妈妈。",
+          "startMs": 553720,
+          "endMs": 556820
+        },
+        {
+          "en": "\"What's the matter?\" \"It's Gran,\" Said Dad.",
+          "zh": "是什么这事情？ 它是你再一次。 Gran， 说爸爸。",
+          "startMs": 556820,
+          "endMs": 561720
+        },
+        {
+          "en": "\"Now what's she up to?\" Asked Mum.",
+          "zh": "现在是什么她向上到？ 问妈妈。 Gran！ 喊妈妈。",
+          "startMs": 561720,
+          "endMs": 565720
+        },
+        {
+          "en": "\"Playing Spooks,\" Said Dad.",
+          "zh": "玩鬼， 说爸爸。",
+          "startMs": 565720,
+          "endMs": 568720
+        },
+        {
+          "en": "\"Whatever will she get up to next?\"",
+          "zh": "任何事物将她得到向上到下一个？",
+          "startMs": 568750,
+          "endMs": 572720
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 549260,
+      "endMs": 573070
+    },
+    {
+      "sentences": [
+        {
+          "en": "I CL It was time for dinner.",
+          "zh": "我厘升它是时间为了正餐。",
+          "startMs": 575620,
+          "endMs": 577720
+        },
+        {
+          "en": "Gran and the children came downstairs.",
+          "zh": "Gran 和这孩子们来在楼下。",
+          "startMs": 577720,
+          "endMs": 581720
+        },
+        {
+          "en": "\"Have you washed your hands?\" Asked Dad.",
+          "zh": "有你洗你的手？ 问爸爸。 Gran， 说爸爸。",
+          "startMs": 581720,
+          "endMs": 584720
+        },
+        {
+          "en": "\"And where's Kipper?\" Asked Mum.",
+          "zh": "和哪里 Kipper？ 问妈妈。 Gran！ 喊妈妈。",
+          "startMs": 584720,
+          "endMs": 588720
+        },
+        {
+          "en": "\"Well,\" Said Biff.",
+          "zh": "好， 他说。",
+          "startMs": 588720,
+          "endMs": 590720
+        },
+        {
+          "en": "\"We've made a little surprise for you.\"",
+          "zh": "我们已经做一个小的意想不到的事物为了你。",
+          "startMs": 590720,
+          "endMs": 594720
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 575470,
+      "endMs": 595070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper came into the room.",
+          "zh": "Kipper 来进入这房间。",
+          "startMs": 594780,
+          "endMs": 598670
+        },
+        {
+          "en": "Mum and Dad looked at him.",
+          "zh": "妈妈和爸爸看在他。",
+          "startMs": 598670,
+          "endMs": 599720
+        },
+        {
+          "en": "\"Oh Kipper!\" Gasped Mum.",
+          "zh": "哦 Kipper！ 喘气妈妈。 Gran！ 喊妈妈。",
+          "startMs": 599720,
+          "endMs": 603670
+        },
+        {
+          "en": "\"Oh goodness me!\" Said Dad.",
+          "zh": "哦美德我！ 说爸爸。",
+          "startMs": 603670,
+          "endMs": 606720
+        },
+        {
+          "en": "\"Is this your idea of a joke?\" \"You look so ... Said Mum.",
+          "zh": "是这个你的主意的一个笑话？ 看。 哦亲爱的！ 说妈妈。",
+          "startMs": 606720,
+          "endMs": 614720
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 595070,
+      "endMs": 615070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What do you think?\" Said Biff.",
+          "zh": "什么做你想？ ， 说 Biff。",
+          "startMs": 617620,
+          "endMs": 621720
+        },
+        {
+          "en": "\"Gran has made him look like a man in an old film.\"",
+          "zh": "Gran 有做他看喜欢一个男人在……里一个旧的电影。",
+          "startMs": 621720,
+          "endMs": 625720
+        },
+        {
+          "en": "\"We love it when Gran comes to stay,\" said Chip.",
+          "zh": "我们爱它当……时 Gran 来到停留， 说 Chip。 ， 说 Chip。",
+          "startMs": 625720,
+          "endMs": 629670
+        },
+        {
+          "en": "\"Isn't she clever?\" \"Uh, yes,\" Said Dad.",
+          "zh": "不是她聪明的？ 是， 说爸爸。 是。",
+          "startMs": 629670,
+          "endMs": 634720
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 617470,
+      "endMs": 635070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum frowned at Kipper.",
+          "zh": "妈妈皱眉在 Kipper。",
+          "startMs": 634720,
+          "endMs": 636720
+        },
+        {
+          "en": "\"Your mouth is a funny color,\" She said.",
+          "zh": "你的嘴是一个有趣的颜色， 她说。 我看见， 他说。",
+          "startMs": 636720,
+          "endMs": 640670
+        },
+        {
+          "en": "\"Show me your tongue.\" \"Oh no!\" Whispered Chip.",
+          "zh": "展示我你的舌头。 哦不！ 低语 Chip。",
+          "startMs": 640670,
+          "endMs": 644940
+        },
+        {
+          "en": "\"His tongue is gray.\"",
+          "zh": "他的舌头是灰色的。",
+          "startMs": 644940,
+          "endMs": 646720
+        },
+        {
+          "en": "Kipper put out his tongue.",
+          "zh": "Kipper 放出他的舌头。",
+          "startMs": 646720,
+          "endMs": 649290
+        },
+        {
+          "en": "\"Oh dear!\" Said Mum.",
+          "zh": "哦亲爱的！ 说妈妈。",
+          "startMs": 649290,
+          "endMs": 651720
+        },
+        {
+          "en": "\"Look at your gray tongue.",
+          "zh": "看在你的灰色的舌头。",
+          "startMs": 651720,
+          "endMs": 654910
+        },
+        {
+          "en": "You must be ill.",
+          "zh": "你必须是有病的。",
+          "startMs": 654910,
+          "endMs": 655680
+        },
+        {
+          "en": "I'm calling the doctor.\"",
+          "zh": "我是叫这医生。",
+          "startMs": 655680,
+          "endMs": 658720
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 635070,
+      "endMs": 659070
+    },
+    {
+      "sentences": [
+        {
+          "en": "After dinner, Mum sent Kipper upstairs.",
+          "zh": "在……之后正餐， 妈妈发送 Kipper 在楼上。",
+          "startMs": 662620,
+          "endMs": 665720
+        },
+        {
+          "en": "\"Put on your proper clothes,\" she said.",
+          "zh": "放在……上你的合适的衣服， 她说。",
+          "startMs": 665720,
+          "endMs": 669670
+        },
+        {
+          "en": "\"The doctor can see you in half an hour.\" \"Oh no!\" Said Biff.",
+          "zh": "这医生能看见你在……里一半一个小时。 哦不！ ， 说 Biff。",
+          "startMs": 669670,
+          "endMs": 676670
+        },
+        {
+          "en": "\"Now Mum and Dad will find out about the magic key.",
+          "zh": "妈妈和爸爸将找到出关于这魔法钥匙。",
+          "startMs": 676670,
+          "endMs": 679720
+        },
+        {
+          "en": "Do something, Gran.\"",
+          "zh": "做某物， Gran。",
+          "startMs": 679720,
+          "endMs": 681720
+        },
+        {
+          "en": "\"I don't know what to do,\" said Gran.",
+          "zh": "我不知道什么到做， 说 Gran。 离开它到我， 说 Gran。",
+          "startMs": 681720,
+          "endMs": 686720
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 662470,
+      "endMs": 687070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went upstairs.",
+          "zh": "Kipper 去在楼上。",
+          "startMs": 686720,
+          "endMs": 688720
+        },
+        {
+          "en": "Biff and Chip went with him.",
+          "zh": "Biff 和 Chip 去和……一起他。",
+          "startMs": 688720,
+          "endMs": 690720
+        },
+        {
+          "en": "Kipper picked up the magic key.",
+          "zh": "Kipper 挑选向上这魔法钥匙。",
+          "startMs": 690720,
+          "endMs": 693720
+        },
+        {
+          "en": "\"I'm sorry,\" Said Kipper.",
+          "zh": "Nadim 是对不起。 全部正确的， 说 Kipper。",
+          "startMs": 693720,
+          "endMs": 696870
+        },
+        {
+          "en": "\"I didn't mean to be nasty to the key.\"",
+          "zh": "我没有意思是到是令人难受的到这钥匙。",
+          "startMs": 696870,
+          "endMs": 701720
+        },
+        {
+          "en": "The key gave a little tiny glow.",
+          "zh": "这钥匙给一个小的极小的光亮。",
+          "startMs": 701850,
+          "endMs": 705720
+        },
+        {
+          "en": "At that moment all Kipper's colour came back. Said Kipper.",
+          "zh": "在那个片刻全部 Kipper 颜色来回来。 全部正确的， 说 Kipper。",
+          "startMs": 705720,
+          "endMs": 719720
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 687070,
+      "endMs": 720070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm glad I don't have to go to the doctor,\" said Kipper.",
+          "zh": "我不有到去到这医生， 说 Kipper。",
+          "startMs": 719720,
+          "endMs": 719920
+        },
+        {
+          "en": "\"The magic worked just in time.\"",
+          "zh": "这魔法工作刚刚在……里时间。",
+          "startMs": 719920,
+          "endMs": 722720
+        },
+        {
+          "en": "\"I think it was always going to,\" said Biff.",
+          "zh": "我想它是总是去到， 说 Biff。 ， 说 Biff。",
+          "startMs": 722720,
+          "endMs": 726720
+        },
+        {
+          "en": "\"You mean it wouldn't have let Mum and Dad find out?\" Said Chip.",
+          "zh": "你意思是它不会有让妈妈和爸爸找到出？ 说 Chip。",
+          "startMs": 726720,
+          "endMs": 730720
+        },
+        {
+          "en": "\"I don't think it would,\" said Biff.",
+          "zh": "我不想它会， 说 Biff。 ， 说 Biff。",
+          "startMs": 730720,
+          "endMs": 733820
+        },
+        {
+          "en": "\"Do you?\"",
+          "zh": "做你？",
+          "startMs": 733820,
+          "endMs": 734720
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 720070,
+      "endMs": 735070
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 735070,
+      "endMs": 735071
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 735071,
+      "endMs": 735072
+    }
+  ]
+}

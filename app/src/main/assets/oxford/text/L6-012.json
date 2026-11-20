@@ -1,0 +1,789 @@
+{
+  "id": "L6-012",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.411,
+        0.4732
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was watching television.",
+          "zh": "Kipper 在看电视。",
+          "startMs": 3860,
+          "endMs": 7020
+        },
+        {
+          "en": "The magic key was on the arm of the chair.",
+          "zh": "魔法钥匙把他们带出了这次冒险。",
+          "startMs": 8170,
+          "endMs": 11010
+        },
+        {
+          "en": "Nadim came to play.",
+          "zh": "Nadim 打扫这钥匙。",
+          "startMs": 11010,
+          "endMs": 11210
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.411,
+        0.0,
+        1.0,
+        0.4732
+      ],
+      "startMs": 3710,
+      "endMs": 11560
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip didn't want to play.",
+          "zh": "他们不想帮忙。",
+          "startMs": 11210,
+          "endMs": 11410
+        },
+        {
+          "en": "Wanted to watch television.",
+          "zh": "他们正在看电视。",
+          "startMs": 17670,
+          "endMs": 19000
+        },
+        {
+          "en": "He wanted to watch a program about magpies.",
+          "zh": "我们是手表一个好的计划。",
+          "startMs": 19030,
+          "endMs": 21890
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4732,
+        0.4525,
+        1.0
+      ],
+      "startMs": 11560,
+      "endMs": 22240
+    },
+    {
+      "sentences": [
+        {
+          "en": "He Nadim wanted a magic adventure.",
+          "zh": "“是时候踏上神奇的冒险之旅了。”",
+          "startMs": 24750,
+          "endMs": 27850
+        },
+        {
+          "en": "Chip looked for a magic key and saw the magic key But he couldn't find it.",
+          "zh": "孩子们寻找着埃菲尔铁塔，但他们找不到。",
+          "startMs": 27880,
+          "endMs": 35500
+        },
+        {
+          "en": "Nadim helped Chip to look.",
+          "zh": "",
+          "startMs": 35500,
+          "endMs": 35700
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4525,
+        0.4732,
+        1.0,
+        1.0
+      ],
+      "startMs": 24600,
+      "endMs": 36050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the armchair.",
+          "zh": "Chip 看在这扶手椅。",
+          "startMs": 37470,
+          "endMs": 37570
+        },
+        {
+          "en": "\"I put the key on the arm of the chair,\" Suddenly, he had an idea.",
+          "zh": "她看在……里这回来的这汽车。",
+          "startMs": 37600,
+          "endMs": 45890
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        0.5007,
+        0.4721
+      ],
+      "startMs": 37320,
+      "endMs": 46240
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked in the armchair.",
+          "zh": "孩子们环视大厅。",
+          "startMs": 46790,
+          "endMs": 48860
+        },
+        {
+          "en": "They found lots of things.",
+          "zh": "他们找到许多的东西。",
+          "startMs": 48860,
+          "endMs": 51300
+        },
+        {
+          "en": "Chip found mum's missing earring.",
+          "zh": "Chip 找到妈妈小姐 ear-ring。",
+          "startMs": 51330,
+          "endMs": 53890
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.5007,
+        0.0,
+        1.0,
+        0.4721
+      ],
+      "startMs": 46640,
+      "endMs": 54240
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4721,
+        0.4939,
+        1.0
+      ],
+      "startMs": 54240,
+      "endMs": 54241
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mum will be pleased,\" he said.",
+          "zh": "妈妈将是请， 他说。",
+          "startMs": 53890,
+          "endMs": 55940
+        },
+        {
+          "en": "Chip found the key.",
+          "zh": "Chip 找到这钥匙。",
+          "startMs": 59000,
+          "endMs": 61020
+        },
+        {
+          "en": "It was stuck to a toffee.",
+          "zh": "它是 stuck 到一个太妃糖。",
+          "startMs": 61020,
+          "endMs": 62410
+        },
+        {
+          "en": "\"Yuck,\" \"Yuk!\" said Chip.",
+          "zh": "“真恶心！” Chip 说道。",
+          "startMs": 62410,
+          "endMs": 65890
+        },
+        {
+          "en": "\"It's all sticky.\"",
+          "zh": "它是全部黏糊糊的。",
+          "startMs": 65890,
+          "endMs": 66890
+        },
+        {
+          "en": "Chip told Mum about the armchair.",
+          "zh": "Chip 告诉妈妈关于这扶手椅。 说 Chip。",
+          "startMs": 68790,
+          "endMs": 70940
+        },
+        {
+          "en": "He gave Mum the missing earring.",
+          "zh": "他给妈妈这小姐 ear-ring。",
+          "startMs": 70940,
+          "endMs": 74160
+        },
+        {
+          "en": "Nadim cleaned the key.",
+          "zh": "Nadim 打扫这钥匙。",
+          "startMs": 74160,
+          "endMs": 76180
+        },
+        {
+          "en": "He made it very shiny.",
+          "zh": "他做它非常闪闪发亮的。",
+          "startMs": 76180,
+          "endMs": 77890
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.4939,
+        0.4721,
+        1.0,
+        1.0
+      ],
+      "startMs": 54241,
+      "endMs": 78240
+    },
+    {
+      "sentences": [],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        0.4816,
+        0.465
+      ],
+      "startMs": 78240,
+      "endMs": 78241
+    },
+    {
+      "sentences": [],
+      "pdfPage": 2,
+      "rect": [
+        0.4816,
+        0.0,
+        1.0,
+        0.465
+      ],
+      "startMs": 78241,
+      "endMs": 78242
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" he said.",
+          "zh": "来在……上， 他说。",
+          "startMs": 77890,
+          "endMs": 78980
+        },
+        {
+          "en": "The children went into Biff's room.",
+          "zh": "这孩子们去进入 Biff 房间。",
+          "startMs": 81900,
+          "endMs": 86520
+        },
+        {
+          "en": "Biff looked at the key.",
+          "zh": "Biff 看在这钥匙。",
+          "startMs": 86550,
+          "endMs": 88190
+        },
+        {
+          "en": "\"Oh no, it looks very shiny,\" She said.",
+          "zh": "哎呀，它看起来非常闪亮。 她说。",
+          "startMs": 88950,
+          "endMs": 93330
+        },
+        {
+          "en": "\"I hope the magic still works.\"",
+          "zh": "我希望这魔法仍然工作。",
+          "startMs": 93360,
+          "endMs": 95020
+        },
+        {
+          "en": "Suddenly, the key began to glow.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 98170,
+          "endMs": 102350
+        },
+        {
+          "en": "It looked very bright.",
+          "zh": "它看非常鲜艳的。",
+          "startMs": 102380,
+          "endMs": 105190
+        },
+        {
+          "en": "The magic took the children into a new adventure.",
+          "zh": "它将孩子们带入了一场新的冒险。",
+          "startMs": 105220,
+          "endMs": 109410
+        },
+        {
+          "en": "The children were in a wood.",
+          "zh": "这孩子们是在……里一个木头。",
+          "startMs": 111860,
+          "endMs": 124460
+        },
+        {
+          "en": "Chip didn't like it.",
+          "zh": "“鱼不喜欢这样。”",
+          "startMs": 126650,
+          "endMs": 128750
+        },
+        {
+          "en": "The wood was dark and gloomy.",
+          "zh": "这木头是黑暗的和闪闪发亮的。",
+          "startMs": 128780,
+          "endMs": 130780
+        },
+        {
+          "en": "\"Come on!\" He said.",
+          "zh": "“快来！” 他说。",
+          "startMs": 130810,
+          "endMs": 134110
+        },
+        {
+          "en": "Suddenly Biff saw something shiny.",
+          "zh": "他突然说道。Biff 看到了一样闪闪发光的东西。",
+          "startMs": 134140,
+          "endMs": 136860
+        },
+        {
+          "en": "She picked it up.",
+          "zh": "她捡了起来。阴郁的。",
+          "startMs": 136960,
+          "endMs": 138720
+        },
+        {
+          "en": "\"What a beautiful ring!\" She said.",
+          "zh": "什么一个美丽的戒指！ 她说。",
+          "startMs": 138750,
+          "endMs": 140930
+        },
+        {
+          "en": "\"Somebody must have dropped it.\"",
+          "zh": "某人必须有掉下它。",
+          "startMs": 141690,
+          "endMs": 143830
+        },
+        {
+          "en": "They grabbed the children.",
+          "zh": "谢谢你， 说这孩子们。",
+          "startMs": 151740,
+          "endMs": 153050
+        },
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 155190,
+          "endMs": 156650
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.465,
+        1.0,
+        1.0
+      ],
+      "startMs": 78242,
+      "endMs": 157000
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children saw some soldiers.",
+          "zh": "这孩子们看见一些士兵。",
+          "startMs": 156650,
+          "endMs": 156850
+        },
+        {
+          "en": "The soldiers saw the ring.",
+          "zh": "这士兵看见这戒指。",
+          "startMs": 156850,
+          "endMs": 157950
+        },
+        {
+          "en": "\"That ring is stolen,\" they said.",
+          "zh": "那个戒指是 stolen， 他们说。",
+          "startMs": 157980,
+          "endMs": 160360
+        },
+        {
+          "en": "The soldiers took the children to the prince.",
+          "zh": "他们这士兵拿这孩子们到抓住这孩子们。 这王子。",
+          "startMs": 160360,
+          "endMs": 161610
+        },
+        {
+          "en": "\"We've found your thieves,\" they said.",
+          "zh": "我们已经找到你的 thieves， 他们说。",
+          "startMs": 161640,
+          "endMs": 164480
+        },
+        {
+          "en": "\"Here's your ring.\"",
+          "zh": "这里你的戒指。",
+          "startMs": 164480,
+          "endMs": 164680
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4761
+      ],
+      "startMs": 157000,
+      "endMs": 165030
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Here are the thieves,\" said the prince.",
+          "zh": "“小偷就在这里，”王子说。 王子说道。",
+          "startMs": 167790,
+          "endMs": 171320
+        },
+        {
+          "en": "\"What else have they stolen?\"",
+          "zh": "什么其他有他们 stolen？",
+          "startMs": 172050,
+          "endMs": 173800
+        },
+        {
+          "en": "\"My watch was stolen,\" Said a man.",
+          "zh": "然后是 stolen。 说 Chip。",
+          "startMs": 173830,
+          "endMs": 177110
+        },
+        {
+          "en": "\"My earring was stolen,\" Said a lady.",
+          "zh": "“您的王冠被偷了。” 那位女士说。",
+          "startMs": 177140,
+          "endMs": 180750
+        },
+        {
+          "en": "A soldier took the magic key.",
+          "zh": "一个士兵拿这魔法钥匙。",
+          "startMs": 180780,
+          "endMs": 183410
+        },
+        {
+          "en": "\"Look at this shiny key,\" he said.",
+          "zh": "看在这个闪闪发亮的钥匙， 他说。",
+          "startMs": 183440,
+          "endMs": 186530
+        },
+        {
+          "en": "\"These children have stolen things.",
+          "zh": "这些孩子们有 stolen 东西。 女士。",
+          "startMs": 186910,
+          "endMs": 189750
+        },
+        {
+          "en": "They must have locked them away.\"",
+          "zh": "他们必须有锁他们离开。",
+          "startMs": 189780,
+          "endMs": 191750
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4761,
+        1.0,
+        1.0
+      ],
+      "startMs": 167640,
+      "endMs": 192100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The soldiers took the children to a prison.",
+          "zh": "这士兵拿这孩子们到一个突然地， 一个喜鹊飞向下。",
+          "startMs": 195650,
+          "endMs": 199750
+        },
+        {
+          "en": "\"Where are the stolen things?\" \"It's they asked.",
+          "zh": "哪里是这 stolen 东西？ 拿这魔法钥匙。 它是他们问。",
+          "startMs": 199780,
+          "endMs": 202760
+        },
+        {
+          "en": "\"Tell us or we'll lock you up.\"",
+          "zh": "告诉我们， 或者我们会锁你 stolen 这钥匙。 向上。",
+          "startMs": 202790,
+          "endMs": 204950
+        },
+        {
+          "en": "Suddenly a magpie flew down.",
+          "zh": "这士兵拿这孩子们到一个突然地， 一个喜鹊飞向下。",
+          "startMs": 204980,
+          "endMs": 208460
+        },
+        {
+          "en": "Took the magic key.",
+          "zh": "“快看，魔法钥匙！”",
+          "startMs": 208490,
+          "endMs": 211340
+        },
+        {
+          "en": "\"Stop that magpie!\" Called Biff.",
+          "zh": "停那个喜鹊！ 叫 Biff。 Biff 喊道。",
+          "startMs": 213790,
+          "endMs": 217200
+        },
+        {
+          "en": "\"It's stolen the key.\"",
+          "zh": "它是他们问。",
+          "startMs": 217230,
+          "endMs": 220890
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4865
+      ],
+      "startMs": 195500,
+      "endMs": 221240
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magpie flew to the woods.",
+          "zh": "这喜鹊飞到这木头。",
+          "startMs": 222650,
+          "endMs": 226750
+        },
+        {
+          "en": "\"The magpie is the thief,\" Said Chip.",
+          "zh": "这喜鹊是这小偷， 说这喜鹊飞到一个树。 Chip 说道。",
+          "startMs": 226780,
+          "endMs": 228990
+        },
+        {
+          "en": "The children ran after the magpie.",
+          "zh": "这孩子们跑在……之后这喜鹊。",
+          "startMs": 229020,
+          "endMs": 232030
+        },
+        {
+          "en": "Everyone ran after the children.",
+          "zh": "每个人跑在……之后这孩子们。",
+          "startMs": 232060,
+          "endMs": 234760
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4865,
+        0.4952,
+        1.0
+      ],
+      "startMs": 222500,
+      "endMs": 235110
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magpie flew to a tree.",
+          "zh": "这喜鹊飞到这木头。",
+          "startMs": 238790,
+          "endMs": 239350
+        },
+        {
+          "en": "\"Look in its nest,\" said Chip.",
+          "zh": "看在……里它的窝， 说 Chip。 Chip 说道。",
+          "startMs": 240710,
+          "endMs": 244710
+        },
+        {
+          "en": "Nadeem climbed the tree.",
+          "zh": "Nadim 爬这树。",
+          "startMs": 244740,
+          "endMs": 246640
+        },
+        {
+          "en": "\"Be careful,\" Called Biff.",
+          "zh": "是谨慎的， 叫 Biff。 Biff 喊道。",
+          "startMs": 249650,
+          "endMs": 253750
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4952,
+        0.4865,
+        1.0,
+        1.0
+      ],
+      "startMs": 238640,
+      "endMs": 254100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadeem looked in the magpie's nest.",
+          "zh": "Nadim 看在……里这喜鹊窝。",
+          "startMs": 256910,
+          "endMs": 260510
+        },
+        {
+          "en": "It was full of shiny things.",
+          "zh": "它是满的的闪闪发亮的东西。",
+          "startMs": 260540,
+          "endMs": 262970
+        },
+        {
+          "en": "Nadeem gasped.",
+          "zh": "每个人喘气。",
+          "startMs": 262970,
+          "endMs": 264890
+        },
+        {
+          "en": "\"What beautiful things!\" He said.",
+          "zh": "什么美丽的东西！ 他说。",
+          "startMs": 264920,
+          "endMs": 268250
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        0.4979,
+        0.4758
+      ],
+      "startMs": 256760,
+      "endMs": 268600
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You see!\" Said Anneena, crossly.",
+          "zh": "你看见！ Anneena， 生气地。",
+          "startMs": 268430,
+          "endMs": 273650
+        },
+        {
+          "en": "Nadim \"We aren't thieves.",
+          "zh": "Nadim 我们不是 thieves。",
+          "startMs": 273790,
+          "endMs": 275940
+        },
+        {
+          "en": "The magpie took your things.\" \"Sorry!\" Said the soldier.",
+          "zh": "这喜鹊拿喘气。 你的东西。 Biff 很抱歉。 对不起！ 说这士兵。",
+          "startMs": 275970,
+          "endMs": 280780
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.4979,
+        0.0,
+        1.0,
+        0.4758
+      ],
+      "startMs": 268600,
+      "endMs": 281130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was pleased.",
+          "zh": "每个人是请。",
+          "startMs": 284860,
+          "endMs": 286960
+        },
+        {
+          "en": "\"Here's my missing earring,\" Said a lady.",
+          "zh": "他给妈妈这小姐 ear-ring。 那位女士说。",
+          "startMs": 287650,
+          "endMs": 292110
+        },
+        {
+          "en": "\"Here's my watch,\" Said a man.",
+          "zh": "他们手表一个速度竞赛。 一个男人说道。",
+          "startMs": 292990,
+          "endMs": 297310
+        },
+        {
+          "en": "The prince gave the children a medal.",
+          "zh": "他给孩子们送了礼物。",
+          "startMs": 297340,
+          "endMs": 299750
+        },
+        {
+          "en": "\"The magpie was the thief,\" He said.",
+          "zh": "魔法结束了。 他说。",
+          "startMs": 299780,
+          "endMs": 303110
+        },
+        {
+          "en": "\"Sorry, we thought it was you.\"",
+          "zh": "对不起， 我们想它是你。",
+          "startMs": 303760,
+          "endMs": 305770
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 305800,
+          "endMs": 309750
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4758,
+        1.0,
+        1.0
+      ],
+      "startMs": 284710,
+      "endMs": 310100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Madpies like shiny things, said Biff.",
+          "zh": "和二人们推它！ 说 Biff。",
+          "startMs": 315000,
+          "endMs": 326880
+        },
+        {
+          "en": "\"So it was a good job Nadim made the magic key shiny, after all.\"",
+          "zh": "",
+          "startMs": 326910,
+          "endMs": 330890
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5552,
+        1.0
+      ],
+      "startMs": 314850,
+      "endMs": 331240
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5552,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 331240,
+      "endMs": 331241
+    }
+  ]
+}

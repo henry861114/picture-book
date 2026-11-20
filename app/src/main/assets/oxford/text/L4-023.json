@@ -1,0 +1,393 @@
+{
+  "id": "L4-023",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May made a dragon.",
+          "zh": "太太梅做一个龙。",
+          "startMs": 0,
+          "endMs": 2100
+        },
+        {
+          "en": "The children helped her.",
+          "zh": "这孩子们帮助她。",
+          "startMs": 2000,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May painted the head.",
+          "zh": "太太梅油漆这头。",
+          "startMs": 14000,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children painted the body.",
+          "zh": "这孩子们油漆这身体。",
+          "startMs": 20510,
+          "endMs": 29100
+        }
+      ],
+      "startMs": 20360,
+      "endMs": 29450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dragon had a long body.",
+          "zh": "这龙有一个长的身体。",
+          "startMs": 29000,
+          "endMs": 32240
+        },
+        {
+          "en": "The children liked the dragon.",
+          "zh": "这孩子们喜欢这龙。",
+          "startMs": 32140,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 28850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They wanted to do the dragon dance.",
+          "zh": "他们想要到做这龙跳舞。",
+          "startMs": 38510,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 38360,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children got inside the body.",
+          "zh": "这孩子们得到里面这身体。",
+          "startMs": 45000,
+          "endMs": 51100
+        },
+        {
+          "en": "Mrs May helped them.",
+          "zh": "太太梅帮助他们。",
+          "startMs": 51000,
+          "endMs": 53100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 53450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 56430,
+          "endMs": 57090
+        },
+        {
+          "en": "\"Be careful\"\"",
+          "zh": "是谨慎的",
+          "startMs": 56990,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 56280,
+      "endMs": 63450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena was inside the head.",
+          "zh": "Anneena 是里面这头。",
+          "startMs": 63620,
+          "endMs": 66240
+        }
+      ],
+      "startMs": 63470,
+      "endMs": 66590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 68520,
+          "endMs": 70100
+        },
+        {
+          "en": "\"Don't tear the paper\"",
+          "zh": "不撕这纸",
+          "startMs": 70000,
+          "endMs": 76100
+        }
+      ],
+      "startMs": 68370,
+      "endMs": 76450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mums and dads came.",
+          "zh": "这妈妈和爸爸来。",
+          "startMs": 76000,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children did the dragon dance.",
+          "zh": "这孩子们做这龙跳舞。",
+          "startMs": 78000,
+          "endMs": 86100
+        },
+        {
+          "en": "\"What a good dragon,\" said everyone.",
+          "zh": "什么一个好的龙， 说每个人。",
+          "startMs": 86160,
+          "endMs": 100100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 100450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 100000,
+          "endMs": 101360
+        },
+        {
+          "en": "The dragon dance went wrong.",
+          "zh": "这龙跳舞去错误的。",
+          "startMs": 101260,
+          "endMs": 106100
+        }
+      ],
+      "startMs": 99850,
+      "endMs": 106450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dragon tore in half.",
+          "zh": "这龙 tore 在……里一半。",
+          "startMs": 106000,
+          "endMs": 113100
+        }
+      ],
+      "startMs": 105850,
+      "endMs": 113450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were upset.",
+          "zh": "这孩子们是使苦恼。",
+          "startMs": 113510,
+          "endMs": 118100
+        }
+      ],
+      "startMs": 113360,
+      "endMs": 118450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 120500,
+          "endMs": 122100
+        },
+        {
+          "en": "\"It was only made of paper.\"",
+          "zh": "它是只有做的纸。",
+          "startMs": 122000,
+          "endMs": 129100
+        }
+      ],
+      "startMs": 120350,
+      "endMs": 129450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena's mum had an idea.",
+          "zh": "Anneena 妈妈有一个主意。",
+          "startMs": 130340,
+          "endMs": 132240
+        },
+        {
+          "en": "She told the mums and dads.",
+          "zh": "她告诉这妈妈和爸爸。",
+          "startMs": 132140,
+          "endMs": 136100
+        }
+      ],
+      "startMs": 130190,
+      "endMs": 136450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good idea,\" they said.",
+          "zh": "什么一个好的主意， 他们说。",
+          "startMs": 136050,
+          "endMs": 144100
+        }
+      ],
+      "startMs": 135900,
+      "endMs": 144450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mums and dads made a dragon.",
+          "zh": "这妈妈和爸爸做一个龙。",
+          "startMs": 144000,
+          "endMs": 149100
+        },
+        {
+          "en": "They made a long body.",
+          "zh": "他们做一个长的身体。",
+          "startMs": 149000,
+          "endMs": 152240
+        }
+      ],
+      "startMs": 143850,
+      "endMs": 152590
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a big head.",
+          "zh": "他们做一个大的头。",
+          "startMs": 152140,
+          "endMs": 157810
+        }
+      ],
+      "startMs": 151990,
+      "endMs": 158160
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dragon looked wonderful.",
+          "zh": "这龙看精彩的。",
+          "startMs": 161460,
+          "endMs": 165700
+        }
+      ],
+      "startMs": 161310,
+      "endMs": 166050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were pleased.",
+          "zh": "这孩子们是请。",
+          "startMs": 165600,
+          "endMs": 169100
+        },
+        {
+          "en": "They wanted to do the dragon dance.",
+          "zh": "他们想要到做这龙跳舞。",
+          "startMs": 169000,
+          "endMs": 179100
+        }
+      ],
+      "startMs": 165450,
+      "endMs": 179450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went into town.",
+          "zh": "这孩子们去进入城镇。",
+          "startMs": 179510,
+          "endMs": 186880
+        },
+        {
+          "en": "They did the dragon dance.",
+          "zh": "他们做这龙跳舞。",
+          "startMs": 186780,
+          "endMs": 194100
+        }
+      ],
+      "startMs": 179360,
+      "endMs": 194450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come to the school fair,\" said Chip.",
+          "zh": "来到这学校公正的， 说 Chip。",
+          "startMs": 194000,
+          "endMs": 206100
+        }
+      ],
+      "startMs": 193850,
+      "endMs": 206450
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a lot of people,\" said Mrs May.",
+          "zh": "什么一个许多的人们， 说太太梅。",
+          "startMs": 206030,
+          "endMs": 211100
+        },
+        {
+          "en": "\"Thanks to the dragon.\"",
+          "zh": "谢谢到这龙。",
+          "startMs": 211000,
+          "endMs": 220100
+        }
+      ],
+      "startMs": 205880,
+      "endMs": 220450
+    },
+    {
+      "sentences": [],
+      "startMs": 228148,
+      "endMs": 228641,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 228648,
+      "endMs": 228641,
+      "illustrationOnly": true
+    }
+  ]
+}

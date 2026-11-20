@@ -1,0 +1,593 @@
+{
+  "id": "L5-022",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "[music ends].",
+          "zh": "",
+          "startMs": 0,
+          "endMs": 1100
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1450,
+      "endMs": 1451
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Wilf were tracking Dad.",
+          "zh": "Chip 和 Wilf 一直在跟踪爸爸。",
+          "startMs": 5000,
+          "endMs": 7700
+        },
+        {
+          "en": "\"This is a good game,\" said Wilf.",
+          "zh": "“这是一款好游戏，”Wilf 说。 Wilf 说道。",
+          "startMs": 10800,
+          "endMs": 13700
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 4850,
+      "endMs": 14050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put this in your hat,\" said Chip.",
+          "zh": "“把这个放进你的帽子里，”Chip 说。 Chip 说道。",
+          "startMs": 18600,
+          "endMs": 21300
+        },
+        {
+          "en": "\"Dad won't see us.",
+          "zh": "“爸爸不会见我们的。",
+          "startMs": 21610,
+          "endMs": 23360
+        },
+        {
+          "en": "Then we can track him.\"",
+          "zh": "然后我们就可以追踪到他。”",
+          "startMs": 23390,
+          "endMs": 24450
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 18450,
+      "endMs": 24800
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Wilf hid in the trees.",
+          "zh": "Chip 和 Wilf 躲在树丛里。",
+          "startMs": 25400,
+          "endMs": 27760
+        },
+        {
+          "en": "\"Keep down,\" Said Chip.",
+          "zh": "“趴下。” Chip 说道。",
+          "startMs": 28490,
+          "endMs": 30790
+        },
+        {
+          "en": "\"Here comes Dad.\"",
+          "zh": "“爸爸来了。”",
+          "startMs": 30820,
+          "endMs": 32610
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 25250,
+      "endMs": 32960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went past.",
+          "zh": "爸爸走过去了。",
+          "startMs": 41620,
+          "endMs": 43360
+        },
+        {
+          "en": "He looked for the boys.",
+          "zh": "他四处寻找那两个男孩。",
+          "startMs": 43390,
+          "endMs": 45180
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 41470,
+      "endMs": 45530
+    },
+    {
+      "sentences": [
+        {
+          "en": "But he couldn't see them.",
+          "zh": "但他没能看到他们。",
+          "startMs": 45510,
+          "endMs": 47360
+        },
+        {
+          "en": "Floppy went sniff, sniff, sniff!",
+          "zh": "Floppy“嗅嗅嗅”地闻着。",
+          "startMs": 48060,
+          "endMs": 51060
+        },
+        {
+          "en": "\"Go away, Floppy!\" Said Chip.",
+          "zh": "“走开，Floppy。” Chip 说道。",
+          "startMs": 51090,
+          "endMs": 53960
+        },
+        {
+          "en": "Said Chip, but Floppy wouldn't go.",
+          "zh": "Chip 说，但 Floppy 不肯走。",
+          "startMs": 54000,
+          "endMs": 56100
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 45530,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Wilf went home.",
+          "zh": "Chip 和 Wilf 回家了。",
+          "startMs": 59060,
+          "endMs": 63360
+        },
+        {
+          "en": "They looked for Biff but she was not there.",
+          "zh": "他们去找 Biff，但她不在那里。",
+          "startMs": 64120,
+          "endMs": 67200
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 58910,
+      "endMs": 67550
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 68200,
+          "endMs": 69960
+        },
+        {
+          "en": "It took Chip and Wilf into a magic adventure.",
+          "zh": "Chip 和 Wilf 踏上了一段神奇的冒险之旅。",
+          "startMs": 73460,
+          "endMs": 77560
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 68050,
+      "endMs": 77910
+    },
+    {
+      "sentences": [],
+      "pdfPage": 9,
+      "startMs": 77910,
+      "endMs": 77911
+    },
+    {
+      "sentences": [
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 78200,
+          "endMs": 79300
+        },
+        {
+          "en": "The magic took them to Africa.",
+          "zh": "魔法把他们带到了非洲。",
+          "startMs": 93230,
+          "endMs": 96160
+        },
+        {
+          "en": "Some zebra were going to drink at a pool.",
+          "zh": "一些斑马正要去水池边喝水。",
+          "startMs": 97060,
+          "endMs": 100440
+        },
+        {
+          "en": "Chip and Wilf looked around.",
+          "zh": "Chip 和 Wilf 环顾四周。",
+          "startMs": 100440,
+          "endMs": 100640
+        },
+        {
+          "en": "\"A herd of zebra!\" Said Wilf.",
+          "zh": "“一群斑马。” Wilf 说道。",
+          "startMs": 104200,
+          "endMs": 106300
+        },
+        {
+          "en": "\"Don't let them see us!\"",
+          "zh": "“别让他们看见我们。”",
+          "startMs": 107070,
+          "endMs": 109160
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 78050,
+      "endMs": 109510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip saw Lori by a tree.",
+          "zh": "Chip 看到 Lori 在一棵树旁。",
+          "startMs": 109200,
+          "endMs": 111300
+        },
+        {
+          "en": "Some men got out.",
+          "zh": "一些人下了车。",
+          "startMs": 116060,
+          "endMs": 118160
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 109510,
+      "endMs": 118510
+    },
+    {
+      "sentences": [
+        {
+          "en": "They began to creep up to the zebra.",
+          "zh": "他们开始悄悄地靠近斑马。",
+          "startMs": 119570,
+          "endMs": 122300
+        },
+        {
+          "en": "\"What do they want?\" Said Wilf.",
+          "zh": "“他们想干什么？” Wilf 说道。",
+          "startMs": 122300,
+          "endMs": 122500
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 119420,
+      "endMs": 122850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Wilf.",
+          "zh": "哎呀。 Wilf 说道。",
+          "startMs": 129160,
+          "endMs": 131440
+        },
+        {
+          "en": "\"They are going to catch a zebra.\"",
+          "zh": "“他们要抓一只斑马。",
+          "startMs": 132200,
+          "endMs": 134300
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 129010,
+      "endMs": 134650
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We must stop them,\" said Chip.",
+          "zh": "“我们必须阻止他们，”Chip 说。 Chip 说道。",
+          "startMs": 134300,
+          "endMs": 134500
+        },
+        {
+          "en": "He had an idea.",
+          "zh": "“他有个主意。”",
+          "startMs": 138060,
+          "endMs": 139160
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 134650,
+      "endMs": 139510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on,\" He said.",
+          "zh": "来吧。 他说。",
+          "startMs": 140060,
+          "endMs": 141680
+        },
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 142570,
+          "endMs": 145300
+        },
+        {
+          "en": "The boys ran to the Lori.",
+          "zh": "孩子们跑向了卡车。",
+          "startMs": 146060,
+          "endMs": 148500
+        },
+        {
+          "en": "Chip pressed the horn.",
+          "zh": "Chip 按响了喇叭。",
+          "startMs": 150490,
+          "endMs": 152160
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 139910,
+      "endMs": 152510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Beep!\" \"Beeeeeeeep!\" it went.",
+          "zh": "“哔——”",
+          "startMs": 153200,
+          "endMs": 155300
+        },
+        {
+          "en": "\"Beep!\"",
+          "zh": "“哔——”",
+          "startMs": 157200,
+          "endMs": 157460
+        },
+        {
+          "en": "\"Beeeeeeeep!\" went the horn again.",
+          "zh": "喇叭又响了一声。",
+          "startMs": 157490,
+          "endMs": 160200
+        },
+        {
+          "en": "The zebra looked up.",
+          "zh": "斑马抬起头来。",
+          "startMs": 161060,
+          "endMs": 162560
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 153050,
+      "endMs": 162910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The horn scared the zebra.",
+          "zh": "喇叭声吓到了斑马。",
+          "startMs": 167200,
+          "endMs": 169300
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 167050,
+      "endMs": 169650
+    },
+    {
+      "sentences": [
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 170230,
+          "endMs": 172300
+        },
+        {
+          "en": "They ran away.",
+          "zh": "它们跑开了。",
+          "startMs": 175110,
+          "endMs": 176360
+        },
+        {
+          "en": "The men were scared, too.",
+          "zh": "男人们也被吓到了。",
+          "startMs": 177060,
+          "endMs": 179160
+        },
+        {
+          "en": "They ran back to the Lori.",
+          "zh": "他们跑回了卡车。",
+          "startMs": 180060,
+          "endMs": 181840
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 170080,
+      "endMs": 182190
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Quick, let's go!\" One called.",
+          "zh": "“快，我们走！” 一个人喊道。",
+          "startMs": 182430,
+          "endMs": 186160
+        },
+        {
+          "en": "\"Quick, Wilf,\" Said Chip.",
+          "zh": "“快点，威尔！” Chip 说道。",
+          "startMs": 191380,
+          "endMs": 193160
+        },
+        {
+          "en": "\"Run!\"",
+          "zh": "“快跑！”",
+          "startMs": 193510,
+          "endMs": 194000
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 182280,
+      "endMs": 194350
+    },
+    {
+      "sentences": [
+        {
+          "en": "They ran away.",
+          "zh": "它们跑开了。",
+          "startMs": 197290,
+          "endMs": 198420
+        },
+        {
+          "en": "Chip and Wilf hid in a bush.",
+          "zh": "Chip 和 Wilf 躲进了一丛灌木里。",
+          "startMs": 199530,
+          "endMs": 201300
+        },
+        {
+          "en": "They didn't want the men to see them.",
+          "zh": "他们不想让那些人看见他们。",
+          "startMs": 204060,
+          "endMs": 207520
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 197140,
+      "endMs": 207870
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men couldn't start the Lori.",
+          "zh": "那些人无法发动卡车。",
+          "startMs": 211200,
+          "endMs": 213300
+        },
+        {
+          "en": "Suddenly a jeep drove up.",
+          "zh": "突然，一辆吉普车开了过来。",
+          "startMs": 214060,
+          "endMs": 217440
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 211050,
+      "endMs": 217790
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were Rangers in the Jeep.",
+          "zh": "吉普车里坐着的是护林员。",
+          "startMs": 221060,
+          "endMs": 223640
+        },
+        {
+          "en": "The men jumped out of the lorry and ran away.",
+          "zh": "那些人跳下卡车，跑掉了。",
+          "startMs": 224060,
+          "endMs": 227660
+        },
+        {
+          "en": "The rangers chased after them.",
+          "zh": "护林员追了上去。",
+          "startMs": 230200,
+          "endMs": 232300
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 220910,
+      "endMs": 232650
+    },
+    {
+      "sentences": [
+        {
+          "en": "A ranger shook Chip's hand.",
+          "zh": "一名护林员和 Chip 握了握手。",
+          "startMs": 239200,
+          "endMs": 241300
+        },
+        {
+          "en": "\"Thank you,\" He said.",
+          "zh": "“谢谢你。” 他说。",
+          "startMs": 242820,
+          "endMs": 244160
+        },
+        {
+          "en": "\"You saved a zebra.\"",
+          "zh": "你救了一只斑马。",
+          "startMs": 245180,
+          "endMs": 246520
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 239050,
+      "endMs": 246870
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 247120,
+          "endMs": 249160
+        },
+        {
+          "en": "It was time to go.",
+          "zh": "该走了。",
+          "startMs": 252060,
+          "endMs": 254160
+        },
+        {
+          "en": "It had been an exciting adventure.",
+          "zh": "这是一次惊险刺激的冒险。",
+          "startMs": 254190,
+          "endMs": 257400
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 246970,
+      "endMs": 257750
+    },
+    {
+      "sentences": [
+        {
+          "en": "[music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 259230,
+          "endMs": 261300
+        },
+        {
+          "en": "\"Why wouldn't the Lori start?\" Asked Wilf.",
+          "zh": "“卡车为什么发动不了？” Wilf 问道。",
+          "startMs": 272200,
+          "endMs": 275300
+        },
+        {
+          "en": "I took the key!\" Said Chip.",
+          "zh": "“我拿了钥匙！” Chip 说道。",
+          "startMs": 276200,
+          "endMs": 279300
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 259080,
+      "endMs": 279650
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 279650,
+      "endMs": 279651
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 279651,
+      "endMs": 279652
+    }
+  ]
+}

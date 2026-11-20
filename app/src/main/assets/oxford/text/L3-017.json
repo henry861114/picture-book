@@ -1,0 +1,219 @@
+{
+  "id": "L3-017",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad took Kipper to school.",
+          "zh": "爸爸拿 Kipper 到学校。",
+          "startMs": 0,
+          "endMs": 8504
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8504
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went past the library.",
+          "zh": "他们去过这图书馆。",
+          "startMs": 8504,
+          "endMs": 17232
+        }
+      ],
+      "startMs": 8504,
+      "endMs": 17232
+    },
+    {
+      "sentences": [
+        {
+          "en": "A lady was painting the wall.",
+          "zh": "一个女士是绘画这墙。",
+          "startMs": 38060,
+          "endMs": 40160
+        }
+      ],
+      "startMs": 37910,
+      "endMs": 40510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ran into the playground.",
+          "zh": "Kipper 跑进入这游乐场。",
+          "startMs": 51060,
+          "endMs": 53160
+        }
+      ],
+      "startMs": 50910,
+      "endMs": 53510
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted to play.",
+          "zh": "他想要到玩。",
+          "startMs": 56090,
+          "endMs": 58160
+        }
+      ],
+      "startMs": 55940,
+      "endMs": 58510
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a drawing on the wall.",
+          "zh": "那里是一个图画在……上这墙。",
+          "startMs": 63060,
+          "endMs": 66160
+        }
+      ],
+      "startMs": 62910,
+      "endMs": 66510
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a drawing of Kipper.",
+          "zh": "它是一个图画的 Kipper。",
+          "startMs": 67060,
+          "endMs": 70160
+        }
+      ],
+      "startMs": 66910,
+      "endMs": 70510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wall looked a mess.",
+          "zh": "这墙看一个脏乱。",
+          "startMs": 77060,
+          "endMs": 79160
+        }
+      ],
+      "startMs": 76910,
+      "endMs": 79510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May was cross.",
+          "zh": "太太梅是叉形。",
+          "startMs": 80060,
+          "endMs": 82160
+        }
+      ],
+      "startMs": 79910,
+      "endMs": 82510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were painting.",
+          "zh": "这孩子们是绘画。",
+          "startMs": 87060,
+          "endMs": 89160
+        }
+      ],
+      "startMs": 86910,
+      "endMs": 89510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had an idea.",
+          "zh": "Kipper 有一个主意。",
+          "startMs": 91060,
+          "endMs": 93160
+        }
+      ],
+      "startMs": 90910,
+      "endMs": 93510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Miss Green drew circles on the wall.",
+          "zh": "小姐绿色的 drew 圆在……上这墙。",
+          "startMs": 97060,
+          "endMs": 100160
+        }
+      ],
+      "startMs": 96910,
+      "endMs": 100510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children painted faces.",
+          "zh": "这孩子们油漆脸。",
+          "startMs": 101060,
+          "endMs": 103160
+        }
+      ],
+      "startMs": 100910,
+      "endMs": 103510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wall looked good.",
+          "zh": "这墙看好的。",
+          "startMs": 110060,
+          "endMs": 112160
+        }
+      ],
+      "startMs": 109910,
+      "endMs": 112510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked it.",
+          "zh": "每个人喜欢它。",
+          "startMs": 112060,
+          "endMs": 114160
+        }
+      ],
+      "startMs": 111910,
+      "endMs": 114510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Good for Kipper!\" everyone said.",
+          "zh": "好的为了 Kipper！ 每个人说。",
+          "startMs": 117060,
+          "endMs": 123160
+        }
+      ],
+      "startMs": 116910,
+      "endMs": 123510
+    },
+    {
+      "sentences": [],
+      "startMs": 132210,
+      "endMs": 133599,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 133599,
+      "endMs": 133922,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "id": "L5-023",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "\"Dad's Run\" Dad went running.",
+          "zh": "“爸爸不会见我们的。",
+          "startMs": 0,
+          "endMs": 11890
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 12240
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 12240,
+      "endMs": 12241
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy went with him.",
+          "zh": "Floppy 和他一起去。",
+          "startMs": 11920,
+          "endMs": 13890
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 12241,
+      "endMs": 14240
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went running every day.",
+          "zh": "爸爸每天都去跑步。",
+          "startMs": 23790,
+          "endMs": 26890
+        },
+        {
+          "en": "\"I want to get fit,\" he said.",
+          "zh": "“我想锻炼身体，”他说。",
+          "startMs": 26920,
+          "endMs": 30320
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 23640,
+      "endMs": 30670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went with Dad.",
+          "zh": "Biff 和 Chip 和爸爸一起去。",
+          "startMs": 30320,
+          "endMs": 33190
+        },
+        {
+          "en": "They went on bikes.",
+          "zh": "他们骑着自行车去了。",
+          "startMs": 33220,
+          "endMs": 35090
+        },
+        {
+          "en": "\"Keep going Dad\" Said Biff.",
+          "zh": "“继续走！”爸爸说。",
+          "startMs": 36930,
+          "endMs": 40030
+        },
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有个主意。",
+          "startMs": 45120,
+          "endMs": 46890
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 30670,
+      "endMs": 47240
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted to do the Fun Run.",
+          "zh": "他想参加趣味跑。",
+          "startMs": 46920,
+          "endMs": 49890
+        },
+        {
+          "en": "\"What a good idea\" Said Mum.",
+          "zh": "“好主意！” 妈妈说道。",
+          "startMs": 49920,
+          "endMs": 53890
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 47240,
+      "endMs": 54240
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But it's a long way to run!\"",
+          "zh": "“不过要跑的路很长。”",
+          "startMs": 53920,
+          "endMs": 57030
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 54240,
+      "endMs": 57380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip told everyone.",
+          "zh": "Biff 和 Chip 把这件事告诉了所有人。",
+          "startMs": 60930,
+          "endMs": 64030
+        },
+        {
+          "en": "\"Dad is going to do a Fun Run, said Biff.",
+          "zh": "“爸爸要参加欢乐跑，”Biff 说。 Biff 说道。",
+          "startMs": 65930,
+          "endMs": 70030
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 60780,
+      "endMs": 70380
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It still helps children in need\" Said Chip.",
+          "zh": "“这是为了帮助有需要的儿童。” Chip 说道。",
+          "startMs": 70930,
+          "endMs": 75030
+        },
+        {
+          "en": "\"Will you sponsor Dad?\"",
+          "zh": "“你们会赞助爸爸吗？”",
+          "startMs": 75060,
+          "endMs": 76890
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 70780,
+      "endMs": 77240
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the day of the Fun Run.",
+          "zh": "那天是趣味跑的日子。",
+          "startMs": 80910,
+          "endMs": 84010
+        },
+        {
+          "en": "They all went to the park.",
+          "zh": "他们都去了公园。",
+          "startMs": 84040,
+          "endMs": 88210
+        },
+        {
+          "en": "\"It's a long way to run,\" said Chip.",
+          "zh": "“要跑的路可真长啊。”Chip 说。",
+          "startMs": 88240,
+          "endMs": 91030
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 80760,
+      "endMs": 91380
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go!\"",
+          "zh": "“跑！”",
+          "startMs": 91930,
+          "endMs": 92570
+        },
+        {
+          "en": "Called a man and the Fun Run began.",
+          "zh": "“跑！”一个男人喊道，趣味跑开始了。",
+          "startMs": 93810,
+          "endMs": 97070
+        },
+        {
+          "en": "\"Go on, Dad!\" Called Kipper.",
+          "zh": "“加油，爸爸！” Kipper 喊道。",
+          "startMs": 97100,
+          "endMs": 101030
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 91780,
+      "endMs": 101380
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Fun Run went around the park.",
+          "zh": "趣味跑绕着公园跑。",
+          "startMs": 105790,
+          "endMs": 108870
+        },
+        {
+          "en": "\"Ten times round the park,\" said Dad.",
+          "zh": "“绕着公园跑十圈，”爸爸说。 爸爸说道。",
+          "startMs": 111930,
+          "endMs": 117030
+        },
+        {
+          "en": "\"It's a long way to run.\"",
+          "zh": "“要跑的路很长。”",
+          "startMs": 128930,
+          "endMs": 132030
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 105640,
+      "endMs": 132380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad ran well.",
+          "zh": "爸爸跑得很好。",
+          "startMs": 132060,
+          "endMs": 133450
+        },
+        {
+          "en": "He ran round the park four times.",
+          "zh": "他绕着公园跑了四圈。",
+          "startMs": 133450,
+          "endMs": 133650
+        },
+        {
+          "en": "There was still a long way to go.",
+          "zh": "还有很长的路要跑。",
+          "startMs": 133650,
+          "endMs": 133850
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 132380,
+      "endMs": 134200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哎呀。",
+          "startMs": 141930,
+          "endMs": 142030
+        },
+        {
+          "en": "Dad's foot went into a hole.",
+          "zh": "爸爸的脚踩进了一个坑里。",
+          "startMs": 144980,
+          "endMs": 147210
+        },
+        {
+          "en": "Dad fell down.",
+          "zh": "爸爸摔倒了。",
+          "startMs": 147250,
+          "endMs": 149410
+        },
+        {
+          "en": "\"Ouch!\" Said Dad.",
+          "zh": "“哎哟！” 爸爸说道。",
+          "startMs": 149790,
+          "endMs": 153890
+        },
+        {
+          "en": "\"My foot!\"",
+          "zh": "“我的脚！”",
+          "startMs": 153920,
+          "endMs": 155030
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 141780,
+      "endMs": 155380
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man looked at Dad's foot.",
+          "zh": "一个男人看着爸爸的脚。",
+          "startMs": 155060,
+          "endMs": 157210
+        },
+        {
+          "en": "\"You must rest it,\" he said.",
+          "zh": "“你必须让脚休息一下，”他说。",
+          "startMs": 157240,
+          "endMs": 160030
+        },
+        {
+          "en": "\"You can't run on it.\"",
+          "zh": "“你不能用它跑步。”",
+          "startMs": 160060,
+          "endMs": 161890
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 155380,
+      "endMs": 162240
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad couldn't finish the Fun Run.",
+          "zh": "爸爸没能跑完这场趣味跑。",
+          "startMs": 164790,
+          "endMs": 168210
+        },
+        {
+          "en": "\"What bad luck!\" Said Mum.",
+          "zh": "“真倒霉！” 妈妈说道。",
+          "startMs": 168240,
+          "endMs": 171030
+        },
+        {
+          "en": "\"Poor old Dad!\" \"Oh no!\"",
+          "zh": "可怜的老爸爸。 哎呀。",
+          "startMs": 171060,
+          "endMs": 178030
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 164640,
+      "endMs": 178380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was upset.",
+          "zh": "爸爸很沮丧。",
+          "startMs": 178060,
+          "endMs": 179450
+        },
+        {
+          "en": "\"Oh no!\" he said.",
+          "zh": "“哎呀！”他说。",
+          "startMs": 179450,
+          "endMs": 179650
+        },
+        {
+          "en": "\"Now I can't help Children in Need\"\" He said.",
+          "zh": "“现在我没办法帮助有需要的孩子们了。” 他说。",
+          "startMs": 179650,
+          "endMs": 182890
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 178380,
+      "endMs": 183240
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf had an idea.",
+          "zh": "Wilf 想到了一个主意。",
+          "startMs": 185790,
+          "endMs": 188250
+        },
+        {
+          "en": "\"We can push you in the old pram,\" he said.",
+          "zh": "“我们可以把你推在旧婴儿车里，”他说。",
+          "startMs": 188280,
+          "endMs": 193130
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 185640,
+      "endMs": 193480
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and his mum ran home.",
+          "zh": "Wilf 和妈妈跑回家。",
+          "startMs": 193130,
+          "endMs": 195030
+        },
+        {
+          "en": "They got the old pram and ran back with it. Said Chip.",
+          "zh": "“他们拿走了那辆旧婴儿车，抱着它跑回来了。” Chip 说道。",
+          "startMs": 195140,
+          "endMs": 201800
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 193480,
+      "endMs": 202150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on, Dad,\" said Chip.",
+          "zh": "“来吧，爸爸，”Chip 说。",
+          "startMs": 202930,
+          "endMs": 203570
+        },
+        {
+          "en": "\"Get in the pram.\"",
+          "zh": "“上婴儿车！”",
+          "startMs": 205490,
+          "endMs": 207110
+        },
+        {
+          "en": "\"We will all push you,\" said Mum.",
+          "zh": "“我们都会推你，”妈妈说。 妈妈说道。",
+          "startMs": 207140,
+          "endMs": 211030
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 202780,
+      "endMs": 211380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad sat in the pram.",
+          "zh": "爸爸坐在婴儿车里。",
+          "startMs": 211060,
+          "endMs": 213030
+        },
+        {
+          "en": "They pushed him round the park.",
+          "zh": "他们推着他在公园里转了一圈。",
+          "startMs": 213890,
+          "endMs": 215910
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 211380,
+      "endMs": 216260
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hooray!\" Everyone called.",
+          "zh": "“太棒了！” 大家都喊了起来。",
+          "startMs": 222080,
+          "endMs": 226030
+        },
+        {
+          "en": "\"It's not far now!\" Said Mum.",
+          "zh": "“现在不远了！” 妈妈说道。",
+          "startMs": 226060,
+          "endMs": 230030
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 221930,
+      "endMs": 230380
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But it's a long way to push a pram,\" said Mum.",
+          "zh": "“但是推着婴儿车走很远的路，”妈妈说。",
+          "startMs": 230060,
+          "endMs": 233020
+        },
+        {
+          "en": "\"Keep going!\" Said Dad.",
+          "zh": "“继续推！” 爸爸说道。",
+          "startMs": 233790,
+          "endMs": 236890
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 230380,
+      "endMs": 237240
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the end of the run.",
+          "zh": "他们跑到了终点。",
+          "startMs": 244790,
+          "endMs": 248130
+        },
+        {
+          "en": "The wheels came off the pram.",
+          "zh": "婴儿车的轮子掉了下来。",
+          "startMs": 248160,
+          "endMs": 250410
+        },
+        {
+          "en": "Dad fell out. Said Dad.",
+          "zh": "爸爸摔了出来。 爸爸说道。",
+          "startMs": 252930,
+          "endMs": 259030
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 244640,
+      "endMs": 259380
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a way to end the run,\" said Dad.",
+          "zh": "“这可真是一次特别的跑步终点啊，”爸爸说。",
+          "startMs": 259060,
+          "endMs": 261800
+        },
+        {
+          "en": "\"But thank you for pushing me.\"",
+          "zh": "“不过，谢谢你推我。”",
+          "startMs": 262790,
+          "endMs": 264350
+        },
+        {
+          "en": "\"That was a fun run!\" Said Kipper.",
+          "zh": "“这是一次有趣的跑步！” Kipper 说道。",
+          "startMs": 268790,
+          "endMs": 272630
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 259380,
+      "endMs": 272980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But it was a long way to push a dad!\"",
+          "zh": "“但是推着一个爸爸走这么远的路可真不容易。”",
+          "startMs": 272790,
+          "endMs": 276650
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 272980,
+      "endMs": 277000
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 277000,
+      "endMs": 277001
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 277001,
+      "endMs": 277002
+    }
+  ]
+}

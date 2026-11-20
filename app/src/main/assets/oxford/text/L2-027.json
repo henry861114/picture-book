@@ -1,0 +1,297 @@
+{
+  "id": "L2-027",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were noisy.",
+          "zh": "这孩子们是喧闹的。",
+          "startMs": 0,
+          "endMs": 1880
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2230
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were silly.",
+          "zh": "这孩子们是傻的。",
+          "startMs": 1780,
+          "endMs": 21640
+        }
+      ],
+      "startMs": 1630,
+      "endMs": 21990
+    },
+    {
+      "sentences": [],
+      "startMs": 6363,
+      "endMs": 7163,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 7163,
+      "endMs": 7963,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were untidy.",
+          "zh": "这孩子们是凌乱的。",
+          "startMs": 0,
+          "endMs": 1160
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh dear!\"",
+          "zh": "哦亲爱的！",
+          "startMs": 10044,
+          "endMs": 11436
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 11436,
+          "endMs": 12550
+        }
+      ],
+      "startMs": 10044,
+      "endMs": 12550
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's the weather.\"",
+          "zh": "它是这天气。",
+          "startMs": 0,
+          "endMs": 310
+        }
+      ],
+      "startMs": 0,
+      "endMs": 660
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were cross.",
+          "zh": "这孩子们是叉形。",
+          "startMs": 0,
+          "endMs": 1160
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were grumpy.",
+          "zh": "这孩子们是脾气坏的。",
+          "startMs": 1780,
+          "endMs": 14750
+        }
+      ],
+      "startMs": 1630,
+      "endMs": 15100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were unhappy.",
+          "zh": "这孩子们是痛苦的。",
+          "startMs": 29070,
+          "endMs": 31280
+        }
+      ],
+      "startMs": 28920,
+      "endMs": 31630
+    },
+    {
+      "sentences": [],
+      "startMs": 24700,
+      "endMs": 25584,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh dear!\"",
+          "zh": "哦亲爱的！",
+          "startMs": 25584,
+          "endMs": 27023
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 27023,
+          "endMs": 28174
+        }
+      ],
+      "startMs": 25584,
+      "endMs": 28174
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's the weather.\"",
+          "zh": "它是这天气。",
+          "startMs": 29070,
+          "endMs": 29330
+        }
+      ],
+      "startMs": 28920,
+      "endMs": 29680
+    },
+    {
+      "sentences": [
+        {
+          "en": "The sun was shining.",
+          "zh": "这太阳是有光泽的。",
+          "startMs": 30764,
+          "endMs": 34770
+        }
+      ],
+      "startMs": 30764,
+      "endMs": 34770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were good.",
+          "zh": "这孩子们是好的。",
+          "startMs": 29070,
+          "endMs": 31280
+        }
+      ],
+      "startMs": 28920,
+      "endMs": 31630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a day!\"",
+          "zh": "什么一个一天！",
+          "startMs": 36370,
+          "endMs": 37856
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 37856,
+          "endMs": 38770
+        }
+      ],
+      "startMs": 36370,
+      "endMs": 38770
+    },
+    {
+      "sentences": [
+        {
+          "en": "A moody game This game helps the child to match words to feelings.",
+          "zh": "一个喜怒无常的游戏这个游戏帮助这孩子到比赛单词到触觉。",
+          "startMs": 38770,
+          "endMs": 47793
+        },
+        {
+          "en": "• Choose one of the moods from the story: 'noisy\", 'silly, 'cross\", 'grumpy\", 'unhappy'.",
+          "zh": "• 选择一的这心情从这故事： '喧闹的， '傻的， '叉形， '脾气坏的， '痛苦的'。",
+          "startMs": 47793,
+          "endMs": 59825
+        },
+        {
+          "en": "Choose one of them to act out, for the child to guess.",
+          "zh": "选择一的他们到行为出， 为了这孩子到猜测。",
+          "startMs": 59825,
+          "endMs": 67208
+        },
+        {
+          "en": "If it is too hard, give a choice.",
+          "zh": "如果它是也困难的， 给一个选择。",
+          "startMs": 67208,
+          "endMs": 71719
+        },
+        {
+          "en": "Was I being silly or unhappy?\"",
+          "zh": "是我正在傻的或者痛苦的？",
+          "startMs": 71719,
+          "endMs": 75821
+        },
+        {
+          "en": "Ask the child to choose a word to act out, for you to guess.",
+          "zh": "问这孩子到选择一个单词到行为出， 为了你到猜测。",
+          "startMs": 75821,
+          "endMs": 84024
+        },
+        {
+          "en": "Have three turns each.",
+          "zh": "有三转动每个。",
+          "startMs": 84024,
+          "endMs": 87032
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 87032,
+          "endMs": 94825
+        },
+        {
+          "en": "Practise reading the words ending with y'.",
+          "zh": "练习读这单词结尾和……一起第二未知量'。",
+          "startMs": 94825,
+          "endMs": 100567
+        },
+        {
+          "en": "Draw pictures of the sun, rain clouds, and a snowflake.",
+          "zh": "画图画的这太阳， 雨云， 和一个雪花。",
+          "startMs": 100567,
+          "endMs": 108087
+        },
+        {
+          "en": "Ask the child to say what kind of weather each picture depicts.",
+          "zh": "问这孩子到说什么友善的的天气每个图画描画。",
+          "startMs": 108087,
+          "endMs": 116700
+        }
+      ],
+      "startMs": 38770,
+      "endMs": 116700
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a day,\" said Mrs.",
+          "zh": "什么一个一天， 说太太。",
+          "startMs": 112340,
+          "endMs": 118890
+        },
+        {
+          "en": "May.",
+          "zh": "梅。",
+          "startMs": 118790,
+          "endMs": 122505
+        }
+      ],
+      "startMs": 112190,
+      "endMs": 122505
+    }
+  ]
+}

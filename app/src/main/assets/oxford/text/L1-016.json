@@ -1,0 +1,111 @@
+{
+  "id": "L1-016",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Biff and 3gChip Show A rug,",
+          "zh": "这 Biff 和 3gChip 展示一个小地毯，",
+          "startMs": 0,
+          "endMs": 15500
+        }
+      ],
+      "startMs": 0,
+      "endMs": 15850
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Di Chip a sheet,",
+          "zh": "这 Di Chip 一个床单，",
+          "startMs": 2620,
+          "endMs": 22500
+        }
+      ],
+      "startMs": 2470,
+      "endMs": 22850
+    },
+    {
+      "sentences": [
+        {
+          "en": "it and Show",
+          "zh": "它和展示",
+          "startMs": 27237,
+          "endMs": 33920
+        }
+      ],
+      "startMs": 27237,
+      "endMs": 33920
+    },
+    {
+      "sentences": [
+        {
+          "en": "A rug.",
+          "zh": "一个小地毯。",
+          "startMs": 20400,
+          "endMs": 20550
+        }
+      ],
+      "startMs": 20250,
+      "endMs": 20900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and p Show WAY an THIS",
+          "zh": "Biff 和谨言慎行展示方式一个这个",
+          "startMs": 34720,
+          "endMs": 38590
+        }
+      ],
+      "startMs": 34720,
+      "endMs": 38590
+    },
+    {
+      "sentences": [
+        {
+          "en": "A little box.",
+          "zh": "一个小的盒子。",
+          "startMs": 34400,
+          "endMs": 36500
+        }
+      ],
+      "startMs": 34250,
+      "endMs": 36850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper.",
+          "zh": "Kipper。",
+          "startMs": 41610,
+          "endMs": 44500
+        }
+      ],
+      "startMs": 41460,
+      "endMs": 44850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper.",
+          "zh": "Kipper。",
+          "startMs": 41610,
+          "endMs": 44500
+        }
+      ],
+      "startMs": 41460,
+      "endMs": 44850
+    }
+  ]
+}

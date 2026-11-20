@@ -1,0 +1,159 @@
+{
+  "id": "L1-041",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had a box.",
+          "zh": "Chip 有一个盒子。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is my robot,\" he said.",
+          "zh": "这个是我的机器人， 他说。",
+          "startMs": 13000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 12850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can you see it?\"",
+          "zh": "能你看见它？",
+          "startMs": 18000,
+          "endMs": 20100
+        }
+      ],
+      "startMs": 17850,
+      "endMs": 20450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can you see the robot?\"",
+          "zh": "能你看见这机器人？",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is an arm,\" said Chip.",
+          "zh": "这个是一个臂， 说 Chip。",
+          "startMs": 41000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 40850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can you see my robot?\"",
+          "zh": "能你看见我的机器人？",
+          "startMs": 45000,
+          "endMs": 48100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 48450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can you see it, yet?\" said Chip.",
+          "zh": "能你看见它， 还？ 说 Chip。",
+          "startMs": 53010,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 52860,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No,\" said Biff.",
+          "zh": "不， 说 Biff。",
+          "startMs": 57000,
+          "endMs": 61100
+        }
+      ],
+      "startMs": 56850,
+      "endMs": 61450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is the head,\" said Chip.",
+          "zh": "这个是这头， 说 Chip。",
+          "startMs": 65000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 64850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now can you see my robot?\"",
+          "zh": "现在能你看见我的机器人？",
+          "startMs": 69000,
+          "endMs": 73100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 73450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can see it now!\" said Biff.",
+          "zh": "我们能看见它现在！ 说 Biff。",
+          "startMs": 76000,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 81450
+    },
+    {
+      "sentences": [],
+      "startMs": 85360,
+      "endMs": 85728,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 85860,
+      "endMs": 85728,
+      "illustrationOnly": true
+    }
+  ]
+}

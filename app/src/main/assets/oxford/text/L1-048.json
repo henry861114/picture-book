@@ -1,0 +1,117 @@
+{
+  "id": "L1-048",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is mud in my hand.",
+          "zh": "这个是淤泥在……里我的手。",
+          "startMs": 0,
+          "endMs": 8050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Put in water.",
+          "zh": "放在……里水。",
+          "startMs": 13830,
+          "endMs": 14930
+        }
+      ],
+      "startMs": 13680,
+      "endMs": 15280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mix in sand.",
+          "zh": "使在……里沙。",
+          "startMs": 17830,
+          "endMs": 19290
+        }
+      ],
+      "startMs": 17680,
+      "endMs": 19640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tip it out.",
+          "zh": "尖端它出。",
+          "startMs": 26440,
+          "endMs": 29170
+        }
+      ],
+      "startMs": 26290,
+      "endMs": 29520
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pat it flat.",
+          "zh": "轻拍它水平的。",
+          "startMs": 29070,
+          "endMs": 30210
+        }
+      ],
+      "startMs": 28920,
+      "endMs": 30560
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is a mud pie ...",
+          "zh": "这个是一个淤泥氕。。。",
+          "startMs": 35910,
+          "endMs": 37450
+        }
+      ],
+      "startMs": 35760,
+      "endMs": 37800
+    },
+    {
+      "sentences": [],
+      "startMs": 43050,
+      "endMs": 45541,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "not a hat.",
+          "zh": "不一个帽子。",
+          "startMs": 43910,
+          "endMs": 45050
+        }
+      ],
+      "startMs": 43760,
+      "endMs": 45400
+    },
+    {
+      "sentences": [],
+      "startMs": 51090,
+      "endMs": 51459,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 51590,
+      "endMs": 51459,
+      "illustrationOnly": true
+    }
+  ]
+}

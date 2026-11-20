@@ -1,0 +1,123 @@
+{
+  "id": "L1-043",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can I get an ice cream?",
+          "zh": "能我得到一个冰奶油？",
+          "startMs": 0,
+          "endMs": 9630
+        },
+        {
+          "en": "Yes, I can!",
+          "zh": "是， 我能！",
+          "startMs": 9530,
+          "endMs": 14270
+        }
+      ],
+      "startMs": 0,
+      "endMs": 14620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come on, run to the ice cream van.",
+          "zh": "来在……上， 跑到这冰奶油送货车。",
+          "startMs": 14170,
+          "endMs": 25310
+        }
+      ],
+      "startMs": 14020,
+      "endMs": 25660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr.",
+          "zh": "先生。",
+          "startMs": 23720,
+          "endMs": 24865
+        },
+        {
+          "en": "Drippy s",
+          "zh": "Drippy 南美洲",
+          "startMs": 24865,
+          "endMs": 27920
+        }
+      ],
+      "startMs": 23720,
+      "endMs": 27920
+    },
+    {
+      "sentences": [
+        {
+          "en": "I want the big one.",
+          "zh": "我想要这大的一。",
+          "startMs": 25210,
+          "endMs": 27630
+        }
+      ],
+      "startMs": 25060,
+      "endMs": 27980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at that!",
+          "zh": "看在那个！",
+          "startMs": 27530,
+          "endMs": 29590
+        }
+      ],
+      "startMs": 27380,
+      "endMs": 29940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look out, Kipper!",
+          "zh": "看出， Kipper！",
+          "startMs": 29960,
+          "endMs": 36880
+        }
+      ],
+      "startMs": 29810,
+      "endMs": 37230
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splat.",
+          "zh": "啪嗒声。",
+          "startMs": 43350,
+          "endMs": 44550
+        }
+      ],
+      "startMs": 43200,
+      "endMs": 44900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splat!",
+          "zh": "啪嗒声！",
+          "startMs": 43350,
+          "endMs": 44550
+        }
+      ],
+      "startMs": 43200,
+      "endMs": 44900
+    }
+  ]
+}

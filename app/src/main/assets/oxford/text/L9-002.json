@@ -1,0 +1,1459 @@
+{
+  "id": "L9-002",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim's Mum and Dad had to go away,.",
+          "zh": "",
+          "startMs": 0,
+          "endMs": 4070
+        },
+        {
+          "en": "So Nadim came to stay at Biff and Chip's house.",
+          "zh": "Nadim 来到停留在 Biff 和 Chip 房子。",
+          "startMs": 4070,
+          "endMs": 6070
+        },
+        {
+          "en": "Nadim had a bag with all his things, but he had a big box, too.",
+          "zh": "Nadim 有一个包和……一起全部他的东西， 但是他有一个大的盒子， 也。",
+          "startMs": 6970,
+          "endMs": 11070
+        },
+        {
+          "en": "\"What's in the big box?\" Asked Chip.",
+          "zh": "是什么在……里那个大的盒子？ 问 Chip。 ， 说 Chip。",
+          "startMs": 11970,
+          "endMs": 15070
+        },
+        {
+          "en": "\"Wait and see,\" said Nadim.",
+          "zh": "等和看见， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 15970,
+          "endMs": 19070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 19420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's room.",
+          "zh": "这孩子们去到 Biff 房间。",
+          "startMs": 21970,
+          "endMs": 24070
+        },
+        {
+          "en": "Nadim had the big box.",
+          "zh": "Nadim 有这大的盒子。",
+          "startMs": 24070,
+          "endMs": 27070
+        },
+        {
+          "en": "He opened it and took out his computer.",
+          "zh": "他打开它和拿出他的电脑。",
+          "startMs": 28000,
+          "endMs": 31070
+        },
+        {
+          "en": "\"Brilliant!\" Said Chip.",
+          "zh": "明亮的！ 说 Chip。",
+          "startMs": 31970,
+          "endMs": 34070
+        },
+        {
+          "en": "\"I've got some new computer games,\" said Nadim.",
+          "zh": "我已经得到一些新的电脑游戏， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 34970,
+          "endMs": 38070
+        },
+        {
+          "en": "\"But we can play with them later.",
+          "zh": "但是我们能玩和……一起他们后来。",
+          "startMs": 38970,
+          "endMs": 40300
+        },
+        {
+          "en": "I've got something else to play with.\"",
+          "zh": "我已经得到某物其他到玩和……一起。",
+          "startMs": 40300,
+          "endMs": 43070
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 21820,
+      "endMs": 43420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim had some robots.",
+          "zh": "Nadim 有一些机器人。",
+          "startMs": 43970,
+          "endMs": 46070
+        },
+        {
+          "en": "\"These are great,\" said Kipper.",
+          "zh": "这些是很棒的， 说 Kipper。 全部正确的， 说 Kipper。",
+          "startMs": 46970,
+          "endMs": 49070
+        },
+        {
+          "en": "\"I'm going to get one like this.",
+          "zh": "我是去到得到一喜欢这个。",
+          "startMs": 49970,
+          "endMs": 51590
+        },
+        {
+          "en": "It's my favorite.\"",
+          "zh": "它是我的最喜欢的。",
+          "startMs": 51590,
+          "endMs": 53070
+        },
+        {
+          "en": "Biff and Chip had a robot, too.",
+          "zh": "Biff 和 Chip 有一个机器人， 也。",
+          "startMs": 54000,
+          "endMs": 56360
+        },
+        {
+          "en": "They went to fetch it.",
+          "zh": "他们去到接来它。",
+          "startMs": 56360,
+          "endMs": 58070
+        },
+        {
+          "en": "\"We're going to have a great time,\" said Nadim.",
+          "zh": "我们是去到有一个很棒的时间， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 58970,
+          "endMs": 62070
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 43820,
+      "endMs": 62420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wolf came to play.",
+          "zh": "Wilf 来到玩。",
+          "startMs": 65970,
+          "endMs": 68070
+        },
+        {
+          "en": "He had one of his new toys.",
+          "zh": "他有一的他的新的玩具。",
+          "startMs": 68070,
+          "endMs": 70070
+        },
+        {
+          "en": "It was a spacecraft.",
+          "zh": "它是一个空间工艺。",
+          "startMs": 70070,
+          "endMs": 72070
+        },
+        {
+          "en": "Biff, Wilf and Kipper played with all the toys.",
+          "zh": "Biff， Wilf 和 Kipper 玩和……一起全部这玩具。",
+          "startMs": 72970,
+          "endMs": 76070
+        },
+        {
+          "en": "Kipper said he wanted to be a robot when he grew up.",
+          "zh": "Kipper 说他想要到是一个机器人当……时他 grew 向上。",
+          "startMs": 76970,
+          "endMs": 80070
+        },
+        {
+          "en": "\"You can't,\" Said Biff.",
+          "zh": "你能做它。 ， 说 Biff。",
+          "startMs": 81000,
+          "endMs": 83290
+        },
+        {
+          "en": "\"People can't be robots.\"",
+          "zh": "人们不能是机器人。",
+          "startMs": 83290,
+          "endMs": 86070
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 65820,
+      "endMs": 86420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Nadim played on the computer.",
+          "zh": "Chip 和 Nadim 玩在……上这电脑。",
+          "startMs": 86970,
+          "endMs": 90070
+        },
+        {
+          "en": "One of Nadim's new games was called \"Storm Castle\" .",
+          "zh": "一的 Nadim 新的游戏是叫暴风雨城堡。",
+          "startMs": 90970,
+          "endMs": 93070
+        },
+        {
+          "en": "It looked exciting.",
+          "zh": "它看令人激动的。",
+          "startMs": 93070,
+          "endMs": 95070
+        },
+        {
+          "en": "\"It's quite hard,\" said Nadim.",
+          "zh": "它是相当困难的， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 95970,
+          "endMs": 98070
+        },
+        {
+          "en": "\"I'll show you how to play.",
+          "zh": "我会展示你如何到玩， 然后你能有一个去。",
+          "startMs": 98070,
+          "endMs": 100070
+        },
+        {
+          "en": "Then you can have a go.\"",
+          "zh": "我会展示你如何到玩， 然后你能有一个去。",
+          "startMs": 100070,
+          "endMs": 101070
+        },
+        {
+          "en": "\"It looks great,\" said Chip.",
+          "zh": "它看很棒的， 说 Chip。 ， 说 Chip。",
+          "startMs": 101970,
+          "endMs": 105070
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 86820,
+      "endMs": 105420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone watched Nadim play Storm Castle.",
+          "zh": "每个人手表 Nadim 玩暴风雨城堡。",
+          "startMs": 109530,
+          "endMs": 112070
+        },
+        {
+          "en": "\"You have to go through all the rooms,\" he said.",
+          "zh": "你有到去穿过全部这房间， 他说。",
+          "startMs": 112970,
+          "endMs": 116070
+        },
+        {
+          "en": "\"But there is a danger in every room.",
+          "zh": "但是那里是一个单个儿在……里每个房间。",
+          "startMs": 116070,
+          "endMs": 118430
+        },
+        {
+          "en": "Look.\"",
+          "zh": "看。",
+          "startMs": 118430,
+          "endMs": 119070
+        },
+        {
+          "en": "In the first room, the floor opened.",
+          "zh": "在……里这第一房间， 这地板打开。",
+          "startMs": 119970,
+          "endMs": 122070
+        },
+        {
+          "en": "You could fall through, but Nadim didn't.",
+          "zh": "你能落下穿过， 但是 Nadim 没有。",
+          "startMs": 122070,
+          "endMs": 125070
+        },
+        {
+          "en": "\"That was clever,\" said Chip.",
+          "zh": "那个是聪明的， 说 Chip。 ， 说 Chip。",
+          "startMs": 125970,
+          "endMs": 128070
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 109380,
+      "endMs": 128420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim was good on the computer.",
+          "zh": "Nadim 是好的在……上这电脑。",
+          "startMs": 128970,
+          "endMs": 130530
+        },
+        {
+          "en": "He got through all the rooms safely.",
+          "zh": "他得到穿过全部这房间平安地。",
+          "startMs": 130530,
+          "endMs": 133070
+        },
+        {
+          "en": "\"Chip can have a go next,\" said Nadim.",
+          "zh": "Chip 能有一个去下一个， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 133970,
+          "endMs": 136070
+        },
+        {
+          "en": "\"You can all have a go if you like.\"",
+          "zh": "你能全部有一个去如果你喜欢。",
+          "startMs": 136070,
+          "endMs": 138070
+        },
+        {
+          "en": "\"You're brilliant at it,\" said Chip.",
+          "zh": "你是明亮的在它， 说 Chip。 ， 说 Chip。",
+          "startMs": 139000,
+          "endMs": 142070
+        },
+        {
+          "en": "\"I won't be very good when I have my go.\"",
+          "zh": "我不会是非常好的当……时我有我的去。",
+          "startMs": 142070,
+          "endMs": 145070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 128820,
+      "endMs": 145420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 148970,
+          "endMs": 152070
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哦不！ ， 说 Biff。",
+          "startMs": 153970,
+          "endMs": 154760
+        },
+        {
+          "en": "\"I don't want the key to glow.",
+          "zh": "我不想要这钥匙到光亮。",
+          "startMs": 154760,
+          "endMs": 158070
+        },
+        {
+          "en": "I don't want a magic adventure.",
+          "zh": "我不想要一个魔法冒险。",
+          "startMs": 158070,
+          "endMs": 160070
+        },
+        {
+          "en": "I want to play on Nadim's computer.\"",
+          "zh": "我想要到玩在……上 Nadim 电脑。",
+          "startMs": 160070,
+          "endMs": 163070
+        },
+        {
+          "en": "I don't want a magic adventure. Said Chip.",
+          "zh": "我不想要一个魔法冒险。 ， 说 Chip。",
+          "startMs": 164000,
+          "endMs": 167680
+        },
+        {
+          "en": "\"I think I know where it will be.\"",
+          "zh": "我想我知道哪里它将是。",
+          "startMs": 167680,
+          "endMs": 170070
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 148820,
+      "endMs": 170420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Where do you think it will be?\" Asked Kipper.",
+          "zh": "哪里做你想它将是？ 问 Kipper。 是什么一个迷宫？ 问 Kipper。",
+          "startMs": 170970,
+          "endMs": 173070
+        },
+        {
+          "en": "\"Storm Castle,\" Said Chip.",
+          "zh": "暴风雨城堡， 说 Chip。 ， 说 Chip。",
+          "startMs": 173070,
+          "endMs": 176070
+        },
+        {
+          "en": "\"Oh no!\" Said Wolf.",
+          "zh": "哦不！ 不， 说 Wilf。",
+          "startMs": 176970,
+          "endMs": 177960
+        },
+        {
+          "en": "\"I don't think we're going to like this adventure.",
+          "zh": "我不想我们是去到喜欢这个冒险。",
+          "startMs": 177960,
+          "endMs": 182110
+        },
+        {
+          "en": "Storm Castle is full of dangers.\"",
+          "zh": "暴风雨城堡是满的的危险。",
+          "startMs": 182110,
+          "endMs": 184070
+        },
+        {
+          "en": "\"It's a good job Nadim is with us,\" said Biff.",
+          "zh": "Nadim 是和……一起我们， 说 Biff。 ， 说 Biff。",
+          "startMs": 184970,
+          "endMs": 189070
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 170820,
+      "endMs": 189420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic didn't take them inside the castle.",
+          "zh": "这魔法没有拿他们里面这城堡。",
+          "startMs": 194000,
+          "endMs": 197080
+        },
+        {
+          "en": "It took them to a desert.",
+          "zh": "它拿他们到一个抛弃。",
+          "startMs": 197080,
+          "endMs": 201110
+        },
+        {
+          "en": "Storm Castle was in front of them.",
+          "zh": "暴风雨城堡是在……里前面的他们。",
+          "startMs": 201110,
+          "endMs": 210070
+        },
+        {
+          "en": "\"Why didn't the magic take us inside the castle?\" Said Wolf.",
+          "zh": "为什么没有这魔法拿我们里面这城堡？ 说 Wilf。",
+          "startMs": 210970,
+          "endMs": 215070
+        },
+        {
+          "en": "\"And where's Nadim?\" Asked Chip.",
+          "zh": "和哪里 Nadim？ 问 Chip。 ， 说 Chip。",
+          "startMs": 215970,
+          "endMs": 218070
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 193850,
+      "endMs": 218420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!",
+          "zh": "哦不！",
+          "startMs": 219000,
+          "endMs": 220070
+        },
+        {
+          "en": "Giant robots!\" Said Wolf.",
+          "zh": "巨人机器人， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 220070,
+          "endMs": 222690
+        },
+        {
+          "en": "\"Run for it!\"",
+          "zh": "跑为了它！",
+          "startMs": 222690,
+          "endMs": 224070
+        },
+        {
+          "en": "The children ran as fast as they could.",
+          "zh": "这孩子们跑像快的像他们能。",
+          "startMs": 224970,
+          "endMs": 227070
+        },
+        {
+          "en": "The robots were not very fast, but there were lots of them.",
+          "zh": "这机器人是不非常快的， 但是那里是许多的他们。",
+          "startMs": 227070,
+          "endMs": 232070
+        },
+        {
+          "en": "\"We'll have to get into Storm Castle,\" said Biff.",
+          "zh": "我们会有到得到进入暴风雨城堡， 说 Biff。 ， 说 Biff。",
+          "startMs": 232970,
+          "endMs": 236070
+        },
+        {
+          "en": "\"Come on.\"",
+          "zh": "来在……上！",
+          "startMs": 236070,
+          "endMs": 237070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 218850,
+      "endMs": 237420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children saw a bridge.",
+          "zh": "这孩子们看见一个桥梁。",
+          "startMs": 240970,
+          "endMs": 241070
+        },
+        {
+          "en": "It was the only way to the castle.",
+          "zh": "它是这只有方式到这城堡。",
+          "startMs": 241070,
+          "endMs": 245070
+        },
+        {
+          "en": "\"This is the way in,\" said Wilf.",
+          "zh": "这个是这方式在……里， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 246000,
+          "endMs": 248350
+        },
+        {
+          "en": "\"The robots can't get across this.\"",
+          "zh": "这机器人不能得到穿过这个。",
+          "startMs": 248350,
+          "endMs": 251070
+        },
+        {
+          "en": "\"I hope it's safe,\" said Chip.",
+          "zh": "我希望它是安全的， 说 Chip。 ， 说 Chip。",
+          "startMs": 251970,
+          "endMs": 253770
+        },
+        {
+          "en": "\"It's a long way to fall.\"",
+          "zh": "它是一个长的方式到落下。",
+          "startMs": 253770,
+          "endMs": 256070
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 240820,
+      "endMs": 256420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the bridge began to open in the middle.",
+          "zh": "突然地， 这桥梁开始到打开在……里这中间。",
+          "startMs": 256970,
+          "endMs": 260070
+        },
+        {
+          "en": "\"Jump for it!\" Called Chip.",
+          "zh": "跑为了它！ 帮助！ 叫 Chip。",
+          "startMs": 260970,
+          "endMs": 262520
+        },
+        {
+          "en": "\"If it opens too much,.",
+          "zh": "如果它打开也许多， 你不会得到穿过。",
+          "startMs": 262520,
+          "endMs": 264080
+        },
+        {
+          "en": "You won't get across.\"",
+          "zh": "如果它打开也许多， 你不会得到穿过。",
+          "startMs": 264080,
+          "endMs": 266070
+        },
+        {
+          "en": "Biff and Kipper ran as fast as they could.",
+          "zh": "Biff 和 Kipper 跑像快的像他们能。",
+          "startMs": 266970,
+          "endMs": 270050
+        },
+        {
+          "en": "Then they jumped across.",
+          "zh": "然后他们跳穿过。",
+          "startMs": 270050,
+          "endMs": 272070
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 256820,
+      "endMs": 272420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was still on the other side.",
+          "zh": "Wilf 是仍然在……上这其他私德。",
+          "startMs": 276000,
+          "endMs": 278280
+        },
+        {
+          "en": "The gap was getting wider and wider.",
+          "zh": "这空白处是得到宽阔的和宽阔的。",
+          "startMs": 278280,
+          "endMs": 281070
+        },
+        {
+          "en": "\"Come on, Wolf!\" Called Biff.",
+          "zh": "来在……上！ 快的！ 叫喊 Biff。",
+          "startMs": 281970,
+          "endMs": 283670
+        },
+        {
+          "en": "\"You can do it.",
+          "zh": "你能做它。",
+          "startMs": 283670,
+          "endMs": 285070
+        },
+        {
+          "en": "Run as fast as you can and jump.",
+          "zh": "跑像快的像你能和跳。",
+          "startMs": 285970,
+          "endMs": 287620
+        },
+        {
+          "en": "We'll grab you.\"",
+          "zh": "我们会抓住你。",
+          "startMs": 287620,
+          "endMs": 289080
+        },
+        {
+          "en": "Wolf ran and jumped.",
+          "zh": "Wilf 跑和跳。",
+          "startMs": 289080,
+          "endMs": 292070
+        },
+        {
+          "en": "\"Hooray!",
+          "zh": "它是一个门道。",
+          "startMs": 292970,
+          "endMs": 293100
+        },
+        {
+          "en": "He's made it,\" shouted Kipper.",
+          "zh": "他是做它， 喊 Kipper。",
+          "startMs": 293100,
+          "endMs": 296070
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 275850,
+      "endMs": 296420
+    },
+    {
+      "sentences": [
+        {
+          "en": "No The gate of the castle was closing.",
+          "zh": "这大门的这城堡是关上。",
+          "startMs": 296970,
+          "endMs": 298650
+        },
+        {
+          "en": "It was getting lower and lower.",
+          "zh": "它是得到较低的和较低的。",
+          "startMs": 298650,
+          "endMs": 301070
+        },
+        {
+          "en": "The children ran as fast as they could.",
+          "zh": "这孩子们跑像快的像他们能。",
+          "startMs": 302000,
+          "endMs": 304350
+        },
+        {
+          "en": "Chip ran to the gate and rolled under it.",
+          "zh": "Chip 跑到这大门和使滚动在……下方它。",
+          "startMs": 304350,
+          "endMs": 307070
+        },
+        {
+          "en": "\"Come on!\" He shouted.",
+          "zh": "来在……上！ 拉！ 他喊。",
+          "startMs": 307970,
+          "endMs": 308920
+        },
+        {
+          "en": "\"We don't want to be shut out of the castle.\"",
+          "zh": "我们不想要到是关上出的这城堡。",
+          "startMs": 308920,
+          "endMs": 312070
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 296820,
+      "endMs": 312420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got under the gate just in time.",
+          "zh": "他们得到在……下方这大门刚刚在……里时间。",
+          "startMs": 317970,
+          "endMs": 320070
+        },
+        {
+          "en": "Then it shut with a loud clang.",
+          "zh": "然后它关上和……一起一个大声的当当作响。",
+          "startMs": 320070,
+          "endMs": 323070
+        },
+        {
+          "en": "Biff didn't like the adventure much.",
+          "zh": "Biff 没有喜欢这冒险许多。",
+          "startMs": 323970,
+          "endMs": 325760
+        },
+        {
+          "en": "It was hard work.",
+          "zh": "它是困难的工作。",
+          "startMs": 325760,
+          "endMs": 327070
+        },
+        {
+          "en": "\"It's not fair,\" she said.",
+          "zh": "它是不公正的， 她说。",
+          "startMs": 328000,
+          "endMs": 329820
+        },
+        {
+          "en": "\"This is Nadim's adventure and he's not even here.\" Said Wolf.",
+          "zh": "这个是 Nadim 冒险和他是不竟然这里。 不， 说 Wilf。",
+          "startMs": 329820,
+          "endMs": 342070
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 317820,
+      "endMs": 342420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children came to three doors.",
+          "zh": "这孩子们来到三门。",
+          "startMs": 342070,
+          "endMs": 342270
+        },
+        {
+          "en": "They didn't know which one to open.",
+          "zh": "他们没有知道哪个一到打开。",
+          "startMs": 342270,
+          "endMs": 342470
+        },
+        {
+          "en": "\"I think we should go through this one,\" said Wilf.",
+          "zh": "我想我们应该去穿过这个一， 说 Wilf。",
+          "startMs": 342470,
+          "endMs": 342670
+        },
+        {
+          "en": "\"It looks like a keyhole.\"",
+          "zh": "它看喜欢一个锁孔。",
+          "startMs": 342670,
+          "endMs": 344070
+        },
+        {
+          "en": "He pushed the door and it began to open.",
+          "zh": "他推这门和它开始到打开。",
+          "startMs": 344970,
+          "endMs": 348070
+        },
+        {
+          "en": "\"Come on, let's go through,\" he said.",
+          "zh": "来在……上， 让我们去穿过， 他说。",
+          "startMs": 348070,
+          "endMs": 351070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 342420,
+      "endMs": 351420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The door shut and they found themselves in a room full of mirrors.",
+          "zh": "这门关上和他们找到他们自己在……里一个房间满的的镜子。",
+          "startMs": 355000,
+          "endMs": 359070
+        },
+        {
+          "en": "Each mirror made them look a funny shape.",
+          "zh": "每个镜子做他们看一个有趣的形状。",
+          "startMs": 359970,
+          "endMs": 363080
+        },
+        {
+          "en": "In one mirror they looked fat and round.",
+          "zh": "在……里一镜子他们看脂肪和圆形的。",
+          "startMs": 363080,
+          "endMs": 366070
+        },
+        {
+          "en": "In another they looked long and thin.",
+          "zh": "在……里另一个他们看长的和瘦的。",
+          "startMs": 366970,
+          "endMs": 369070
+        },
+        {
+          "en": "In another they had funny-shaped heads. Laughed Wolf.",
+          "zh": "在……里另一个他们有 funny-shaped 正面。 哦不， 笑 Wilf。 ， 说 Chip。",
+          "startMs": 369070,
+          "endMs": 387070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 354850,
+      "endMs": 387420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mirrors made them look so funny that they all laughed and laughed.",
+          "zh": "这镜子做他们看所以有趣的那个他们全部笑和笑。",
+          "startMs": 387070,
+          "endMs": 387270
+        },
+        {
+          "en": "\"I've got an enormous head and a little, thin body,\" laughed Wilf.",
+          "zh": "我已经得到一个庞大的头和一个小的， 瘦的身体， 笑 Wilf。",
+          "startMs": 387270,
+          "endMs": 387470
+        },
+        {
+          "en": "\"I hope we don't go on looking like this,\" said Chip.",
+          "zh": "我希望我们不去在……上看喜欢这个， 说 Chip。",
+          "startMs": 387470,
+          "endMs": 387670
+        },
+        {
+          "en": "\"Think what Mum and Dad would say.\" \"That's funny,\" He said.",
+          "zh": "妈妈和爸爸会说。",
+          "startMs": 387670,
+          "endMs": 401070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 387420,
+      "endMs": 401420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked in one mirror but he couldn't see anything.",
+          "zh": "Kipper 看在……里一镜子但是他不能看见任何东西。",
+          "startMs": 401070,
+          "endMs": 401270
+        },
+        {
+          "en": "\"Come and look at this mirror, everyone.",
+          "zh": "来和看在这个镜子， 每个人。",
+          "startMs": 401270,
+          "endMs": 403070
+        },
+        {
+          "en": "It doesn't work.\"",
+          "zh": "它不工作。",
+          "startMs": 403070,
+          "endMs": 404070
+        },
+        {
+          "en": "\"It isn't a mirror,\" laughed Chip.",
+          "zh": "它不是一个镜子， 笑 Chip。 咳！ 说 Chip。",
+          "startMs": 404970,
+          "endMs": 406640
+        },
+        {
+          "en": "\"It's a doorway.\"",
+          "zh": "它是一个门道。",
+          "startMs": 406640,
+          "endMs": 408070
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 401420,
+      "endMs": 408420
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the doorway was a monster.",
+          "zh": "在……里这门道是一个怪物。",
+          "startMs": 409000,
+          "endMs": 411170
+        },
+        {
+          "en": "Biff, Chip and Wilf were frightened.",
+          "zh": "Biff， Chip 和 Wilf 是受惊的。",
+          "startMs": 411170,
+          "endMs": 414070
+        },
+        {
+          "en": "They ran away, but Kipper didn't.",
+          "zh": "他们跑离开， 但是 Kipper 没有。",
+          "startMs": 414970,
+          "endMs": 416760
+        },
+        {
+          "en": "He wasn't frightened at all.",
+          "zh": "他不是受惊的在全部。",
+          "startMs": 416760,
+          "endMs": 419070
+        },
+        {
+          "en": "He had always wanted to have an adventure with a monster in it, and this monster didn't look very frightening.",
+          "zh": "他有总是想要到有一个冒险和……一起一个怪物在……里它， 和这个怪物没有看非常骇人的。",
+          "startMs": 419970,
+          "endMs": 427070
+        },
+        {
+          "en": "\"Argh!\"",
+          "zh": "全部正确的！",
+          "startMs": 437000,
+          "endMs": 440070
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 408850,
+      "endMs": 440420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monster tried to frighten Kipper.",
+          "zh": "这怪物经过考验的到使 Kipper。",
+          "startMs": 440070,
+          "endMs": 440270
+        },
+        {
+          "en": "It jumped up and down and yelled, \"Aaaarrrgh!\" Kipper yelled back.",
+          "zh": "它跳向上和向下和叫喊， Aaaarrrgh！ Kipper 叫喊回来。",
+          "startMs": 440270,
+          "endMs": 441070
+        },
+        {
+          "en": "\"Aren't you frightened?\" Asked the monster.",
+          "zh": "不是你受惊的？ 问这怪物。 不是你受惊的？ 问这怪物。",
+          "startMs": 441970,
+          "endMs": 445070
+        },
+        {
+          "en": "\"Not at all,\" said Kipper.",
+          "zh": "不在全部， 说 Kipper。 全部正确的， 说 Kipper。",
+          "startMs": 445970,
+          "endMs": 448070
+        },
+        {
+          "en": "\"I've always wanted to meet a monster like you.\" Asked Kipper.",
+          "zh": "我已经总是想要到遇见一个怪物喜欢你。 是什么一个迷宫？ 问 Kipper。",
+          "startMs": 448070,
+          "endMs": 461070
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 440420,
+      "endMs": 461420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monster was friendly.",
+          "zh": "这怪物是友好的。",
+          "startMs": 461070,
+          "endMs": 461270
+        },
+        {
+          "en": "He told the children that they had to go through a maze.",
+          "zh": "他告诉这孩子们那个他们有到去穿过一个迷宫。",
+          "startMs": 461270,
+          "endMs": 461470
+        },
+        {
+          "en": "\"What's a maze?\"",
+          "zh": "是什么这事情？",
+          "startMs": 461470,
+          "endMs": 461670
+        },
+        {
+          "en": "The monster showed them a map of the maze.",
+          "zh": "这怪物展示他们一个地图的这迷宫。",
+          "startMs": 462000,
+          "endMs": 464690
+        },
+        {
+          "en": "He showed them how to go through it.",
+          "zh": "他展示他们如何到去穿过它。",
+          "startMs": 464690,
+          "endMs": 467070
+        },
+        {
+          "en": "\"Don't get lost,\" Said the monster.",
+          "zh": "我不去远， 我不会得到丢失。 不得到丢失， 说这怪物。",
+          "startMs": 467970,
+          "endMs": 471070
+        },
+        {
+          "en": "The children went into the maze. Said Biff.",
+          "zh": "这孩子们去进入这迷宫。 ， 说 Biff。",
+          "startMs": 473970,
+          "endMs": 483070
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 461420,
+      "endMs": 483420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Soon they came to a dead end.",
+          "zh": "很快他们来到一个死的末尾。",
+          "startMs": 483070,
+          "endMs": 483270
+        },
+        {
+          "en": "\"I think we went wrong at the last turning,\" said Biff.",
+          "zh": "我想我们去错误的在这最后的转弯处， 说 Biff。",
+          "startMs": 483270,
+          "endMs": 483470
+        },
+        {
+          "en": "\"We'll have to go back.\"",
+          "zh": "我们会有到去回来。",
+          "startMs": 483470,
+          "endMs": 485070
+        },
+        {
+          "en": "Wilf remembered the monster's map.",
+          "zh": "Wilf 记得这怪物地图。",
+          "startMs": 486000,
+          "endMs": 488780
+        },
+        {
+          "en": "\"I think I know which way to go,\" he said.",
+          "zh": "我想我知道哪个方式到去， 他说。",
+          "startMs": 488780,
+          "endMs": 491820
+        },
+        {
+          "en": "\"Follow me.\" Asked Kipper.",
+          "zh": "跟随我。 是什么一个迷宫？ 问 Kipper。",
+          "startMs": 491820,
+          "endMs": 509070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 483420,
+      "endMs": 509420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children came to a hall with squares on the floor.",
+          "zh": "这孩子们来到一个门厅和……一起正方形在……上这地板。",
+          "startMs": 509070,
+          "endMs": 509270
+        },
+        {
+          "en": "Some of the squares had numbers on them.",
+          "zh": "一些的这正方形有数字在……上他们。",
+          "startMs": 509270,
+          "endMs": 509470
+        },
+        {
+          "en": "There was a doorway at the end of the hall, but it was high up in the wall.",
+          "zh": "那里是一个门道在这末尾的这门厅， 但是它是高的向上在……里这墙。",
+          "startMs": 509470,
+          "endMs": 509670
+        },
+        {
+          "en": "\"How do we get up to that door?\"",
+          "zh": "如何做我们得到向上到那个门？ 问 Kipper。",
+          "startMs": 509670,
+          "endMs": 509870
+        },
+        {
+          "en": "\"I wish Nadim was here,\" said Biff.",
+          "zh": "我希望 Nadim 是这里， 说 Biff。 ， 说 Biff。",
+          "startMs": 509970,
+          "endMs": 512070
+        },
+        {
+          "en": "\"He'd know.\" Asked Chip.",
+          "zh": "He'd 知道。",
+          "startMs": 512070,
+          "endMs": 534070
+        },
+        {
+          "en": "Suddenly, Biff said,.",
+          "zh": "Biff 说。",
+          "startMs": 534970,
+          "endMs": 536070
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 509420,
+      "endMs": 536420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had to cross the numbers and stand on an empty square.",
+          "zh": "这孩子们有到叉形这数字和站在……上一个空的正方形。",
+          "startMs": 536070,
+          "endMs": 536270
+        },
+        {
+          "en": "The right one would take them up to the door.",
+          "zh": "这正确的一会拿他们向上到这门。",
+          "startMs": 536270,
+          "endMs": 536470
+        },
+        {
+          "en": "The wrong one would drop them through the floor.",
+          "zh": "这错误的一会掉下他们穿过这地板。",
+          "startMs": 536470,
+          "endMs": 536670
+        },
+        {
+          "en": "\"How do we know the right square?\"",
+          "zh": "如何做我们知道这正确的正方形？ 问 Chip。",
+          "startMs": 536670,
+          "endMs": 536870
+        },
+        {
+          "en": "Suddenly, Biff said, \"I know which one it is.\" She said, said Chip.",
+          "zh": "突然地， Biff 说， 我知道哪个一它是。 我看见， 他说。",
+          "startMs": 536870,
+          "endMs": 548070
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 536420,
+      "endMs": 548420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff began to cross the floor.",
+          "zh": "Biff 开始到叉形这地板。",
+          "startMs": 548070,
+          "endMs": 548270
+        },
+        {
+          "en": "\"It's this way,\" she said.",
+          "zh": "它是这个方式， 她说。",
+          "startMs": 548270,
+          "endMs": 548470
+        },
+        {
+          "en": "\"This way the squares add up to six.\"",
+          "zh": "这个方式这正方形补充向上到六。",
+          "startMs": 548470,
+          "endMs": 548670
+        },
+        {
+          "en": "\"I don't get it,\" said Chip.",
+          "zh": "我不得到它， 说 Chip。",
+          "startMs": 548670,
+          "endMs": 548870
+        },
+        {
+          "en": "\"How do you know this way leads to the right square?\"",
+          "zh": "如何做你知道这个方式为到这正确的正方形？",
+          "startMs": 548970,
+          "endMs": 552070
+        },
+        {
+          "en": "\"All the rest add up to fifteen,\" said Biff.",
+          "zh": "全部这休息补充向上到十五， 说 Biff。 ， 说 Biff。",
+          "startMs": 552970,
+          "endMs": 555070
+        },
+        {
+          "en": "\"I still don't get it,\" said Chip.",
+          "zh": "我仍然不得到它， 说 Chip。 ， 说 Chip。",
+          "startMs": 555070,
+          "endMs": 558070
+        },
+        {
+          "en": "\"I see,\" Biff was right.",
+          "zh": "看见！",
+          "startMs": 569970,
+          "endMs": 571190
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 548420,
+      "endMs": 571540
+    },
+    {
+      "sentences": [
+        {
+          "en": "The square lifted the children up to the door in the wall.",
+          "zh": "这正方形拿起这孩子们向上到这门在……里这墙。",
+          "startMs": 571190,
+          "endMs": 571390
+        },
+        {
+          "en": "Chip looked at the floor.",
+          "zh": "Chip 看在这地板。",
+          "startMs": 571390,
+          "endMs": 571590
+        },
+        {
+          "en": "He said.",
+          "zh": "我看见， 他说。",
+          "startMs": 571590,
+          "endMs": 572070
+        },
+        {
+          "en": "\"All the squares add up to fifteen whichever way you cross them.",
+          "zh": "全部这正方形补充向上到十五的那个方式你叉形他们。",
+          "startMs": 573000,
+          "endMs": 577060
+        },
+        {
+          "en": "Only one way adds up to six.\"",
+          "zh": "只有一方式补充向上到六。",
+          "startMs": 577060,
+          "endMs": 579070
+        },
+        {
+          "en": "\"Mind you don't fall,\" said Biff.",
+          "zh": "头脑你不落下， 说 Biff。 ， 说 Biff。",
+          "startMs": 579970,
+          "endMs": 582070
+        },
+        {
+          "en": "\"Help!\"",
+          "zh": "帮助！",
+          "startMs": 590970,
+          "endMs": 591640
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 571540,
+      "endMs": 591990
+    },
+    {
+      "sentences": [
+        {
+          "en": "They came to a new room.",
+          "zh": "他们来到一个新的房间。",
+          "startMs": 591640,
+          "endMs": 591840
+        },
+        {
+          "en": "A nasty-looking robot began to come towards them.",
+          "zh": "一个 nasty-looking 机器人开始到来向他们。",
+          "startMs": 591840,
+          "endMs": 592040
+        },
+        {
+          "en": "\"Help,\" called Kipper.",
+          "zh": "帮助， 叫 Kipper。",
+          "startMs": 592040,
+          "endMs": 593070
+        },
+        {
+          "en": "\"It's going to get us.\"",
+          "zh": "它是去到得到我们。",
+          "startMs": 593070,
+          "endMs": 595060
+        },
+        {
+          "en": "The robot came closer.",
+          "zh": "这机器人来关上。",
+          "startMs": 595060,
+          "endMs": 597070
+        },
+        {
+          "en": "\"That's funny,\" Said Chip.",
+          "zh": "那是有趣的， 他说。",
+          "startMs": 599000,
+          "endMs": 601170
+        },
+        {
+          "en": "\"It's just like one of Nadim's toys.\" He said.",
+          "zh": "它是刚刚喜欢一的 Nadim 玩具。 我看见， 他说。",
+          "startMs": 601170,
+          "endMs": 613070
+        },
+        {
+          "en": "\"Come on, everyone,\" Suddenly, Chip began to laugh.",
+          "zh": "来在……上， 每个人， 他叫。",
+          "startMs": 613970,
+          "endMs": 614960
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 591990,
+      "endMs": 615310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm not frightened of this robot,\" he said.",
+          "zh": "我是不受惊的的这个机器人， 他说。",
+          "startMs": 614960,
+          "endMs": 615160
+        },
+        {
+          "en": "He called.",
+          "zh": "帮助！ 她叫。",
+          "startMs": 615160,
+          "endMs": 615600
+        },
+        {
+          "en": "\"Help me to push.\"",
+          "zh": "帮助我到推。",
+          "startMs": 615600,
+          "endMs": 617070
+        },
+        {
+          "en": "He ran up to the robot and gave it a push.",
+          "zh": "他跑向上到这机器人和给它一个推。",
+          "startMs": 617970,
+          "endMs": 621080
+        },
+        {
+          "en": "The others helped.",
+          "zh": "这其他帮助。",
+          "startMs": 621080,
+          "endMs": 622070
+        },
+        {
+          "en": "The top of the robot began to open.",
+          "zh": "这顶的这机器人开始到打开。",
+          "startMs": 622970,
+          "endMs": 626070
+        },
+        {
+          "en": "\"Look who's inside,\" shouted Kipper.",
+          "zh": "看是谁里面， 喊 Kipper。 他是做它， 喊 Kipper。",
+          "startMs": 627000,
+          "endMs": 629070
+        },
+        {
+          "en": "He said.",
+          "zh": "我看见， 他说。",
+          "startMs": 634940,
+          "endMs": 636070
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 615310,
+      "endMs": 636420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim was sitting inside the robot.",
+          "zh": "Nadim 是坐里面这机器人。",
+          "startMs": 636070,
+          "endMs": 636270
+        },
+        {
+          "en": "\"That was clever of you, Chip,\" he said.",
+          "zh": "那个是聪明的的你， Chip， 他说。",
+          "startMs": 636270,
+          "endMs": 636470
+        },
+        {
+          "en": "\"How did you know I was inside here?\"",
+          "zh": "如何做你知道我是里面这里？",
+          "startMs": 636470,
+          "endMs": 638070
+        },
+        {
+          "en": "\"Because you wrote a story about this robot at school,\" said Chip.",
+          "zh": "因为你写一个故事关于这个机器人在学校， 说 Chip。 ， 说 Chip。",
+          "startMs": 638970,
+          "endMs": 644070
+        },
+        {
+          "en": "\"Well done, Chip,\" said everyone.",
+          "zh": "Chip， 说每个人。",
+          "startMs": 644970,
+          "endMs": 648070
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 636420,
+      "endMs": 648420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key glowed and the adventure was over.",
+          "zh": "这魔法钥匙光亮和这冒险是在……上方。",
+          "startMs": 650970,
+          "endMs": 655070
+        },
+        {
+          "en": "Nadim was sorry.",
+          "zh": "Nadim 是对不起。",
+          "startMs": 657000,
+          "endMs": 659070
+        },
+        {
+          "en": "\"It was fun being the Master of Storm Castle,\" he said.",
+          "zh": "它是乐趣正在这有控制权的人的暴风雨城堡， 他说。",
+          "startMs": 659070,
+          "endMs": 669070
+        },
+        {
+          "en": "\"We had to go through the castle and you didn't,\" said Biff.",
+          "zh": "我们有到去穿过这城堡和你没有， 说 Biff。 ， 说 Biff。",
+          "startMs": 669970,
+          "endMs": 674070
+        },
+        {
+          "en": "\"You can put your computer away, and we'll have a game of football.\"",
+          "zh": "你能放你的电脑离开， 和我们会有一个游戏的足球运动。",
+          "startMs": 674970,
+          "endMs": 679070
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 650820,
+      "endMs": 679420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 679420,
+      "endMs": 679421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 679421,
+      "endMs": 679422
+    }
+  ]
+}

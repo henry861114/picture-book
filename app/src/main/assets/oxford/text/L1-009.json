@@ -1,0 +1,195 @@
+{
+  "id": "L1-009",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Fragile",
+          "zh": "易碎的",
+          "startMs": 60,
+          "endMs": 956
+        }
+      ],
+      "startMs": 60,
+      "endMs": 956
+    },
+    {
+      "sentences": [],
+      "startMs": 956,
+      "endMs": 1756,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the new fridge freezer was delivered, it came in a huge cardboard box.",
+          "zh": "当……时这新的冰箱冷冻柜是递送， 它来在……里一个极大的硬纸板盒子。",
+          "startMs": 0,
+          "endMs": 6100
+        },
+        {
+          "en": "Can we have the box, Mom?",
+          "zh": "能我们有这盒子， Mom？",
+          "startMs": 6000,
+          "endMs": 8100
+        },
+        {
+          "en": "I want it too.",
+          "zh": "我想要它也。",
+          "startMs": 8000,
+          "endMs": 10100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mom helped Biff and Chip make the house.",
+          "zh": "Mom 帮助 Biff 和 Chip 做这房子。",
+          "startMs": 14000,
+          "endMs": 17100
+        },
+        {
+          "en": "It's cozy in here, said Chip.",
+          "zh": "它是 cozy 在……里这里， 说 Chip。",
+          "startMs": 17000,
+          "endMs": 20100
+        },
+        {
+          "en": "Come out Chip and help me paint the roof.",
+          "zh": "来出 Chip 和帮助我油漆这屋顶。",
+          "startMs": 20000,
+          "endMs": 23100
+        },
+        {
+          "en": "When the house was finished, everyone thought it looked really good.",
+          "zh": "当……时这房子是结束了的， 每个人想它看真的好的。",
+          "startMs": 27220,
+          "endMs": 32100
+        },
+        {
+          "en": "It's our house.",
+          "zh": "它是我们的房子。",
+          "startMs": 32000,
+          "endMs": 34100
+        },
+        {
+          "en": "Uh oh, it's raining.",
+          "zh": "Uh 哦， 它是雨。",
+          "startMs": 34000,
+          "endMs": 38100
+        },
+        {
+          "en": "Said Biff.",
+          "zh": "说 Biff。",
+          "startMs": 38000,
+          "endMs": 40100
+        },
+        {
+          "en": "It rained too much and the rain started to ruin the house.",
+          "zh": "它雨也许多和这雨开始到 ruin 这房子。",
+          "startMs": 43000,
+          "endMs": 48100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 48450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 48000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 47850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh dear.",
+          "zh": "哦亲爱的。",
+          "startMs": 50000,
+          "endMs": 51100
+        },
+        {
+          "en": "Said Mom.",
+          "zh": "说 Mom。",
+          "startMs": 51000,
+          "endMs": 52100
+        },
+        {
+          "en": "Come inside the house.",
+          "zh": "来里面这房子。",
+          "startMs": 52000,
+          "endMs": 54100
+        },
+        {
+          "en": "Later that day, Dad found the tent and he put it up in the garden.",
+          "zh": "后来那个一天， 爸爸找到这帐篷和他放它向上在……里这花园。",
+          "startMs": 58000,
+          "endMs": 63100
+        },
+        {
+          "en": "I like the tent.",
+          "zh": "我喜欢这帐篷。",
+          "startMs": 63000,
+          "endMs": 65100
+        },
+        {
+          "en": "Me too.",
+          "zh": "我也。",
+          "startMs": 65000,
+          "endMs": 67100
+        }
+      ],
+      "startMs": 49850,
+      "endMs": 67450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff and Chip.",
+          "zh": "说 Biff 和 Chip。",
+          "startMs": 67000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 66850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [],
+      "startMs": 74631,
+      "endMs": 75024,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 75131,
+      "endMs": 75024,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 75631,
+      "endMs": 75024,
+      "illustrationOnly": true
+    }
+  ]
+}

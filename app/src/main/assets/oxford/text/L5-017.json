@@ -1,0 +1,569 @@
+{
+  "id": "L5-017",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some people came to the school.",
+          "zh": "有些人来到了学校。",
+          "startMs": 29,
+          "endMs": 4900
+        },
+        {
+          "en": "They put a fence across the playground.",
+          "zh": "他们在操场上围了一道栅栏。",
+          "startMs": 6360,
+          "endMs": 8600
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 8950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the fence.",
+          "zh": "孩子们看着围栏。",
+          "startMs": 8630,
+          "endMs": 14800
+        },
+        {
+          "en": "\"What is it for?\" Asked Wilf.",
+          "zh": "“这是什么？” Wilf 问道。",
+          "startMs": 14830,
+          "endMs": 17560
+        },
+        {
+          "en": "Nobody knew.",
+          "zh": "谁也不知道。",
+          "startMs": 18610,
+          "endMs": 21380
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 8950,
+      "endMs": 21730
+    },
+    {
+      "sentences": [
+        {
+          "en": "A lorry came to the school.",
+          "zh": "一辆卡车开进了学校。",
+          "startMs": 21410,
+          "endMs": 22600
+        },
+        {
+          "en": "It had blocks on it.",
+          "zh": "车上载着砖块。",
+          "startMs": 22630,
+          "endMs": 23580
+        },
+        {
+          "en": "\"What are they for?\" Asked Biff.",
+          "zh": "“这些砖块是干什么的？”Biff 问道。",
+          "startMs": 24490,
+          "endMs": 31430
+        },
+        {
+          "en": "Some men dug a long trench across the playground.",
+          "zh": "一些人在操场上挖了一条长长的壕沟。",
+          "startMs": 40460,
+          "endMs": 47560
+        },
+        {
+          "en": "\"What is it for?\" Everyone asked.",
+          "zh": "“这是什么？” 大家都这么问。",
+          "startMs": 47590,
+          "endMs": 51970
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 21730,
+      "endMs": 52320
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then a digger came.",
+          "zh": "然后，一辆挖掘机来了。",
+          "startMs": 52000,
+          "endMs": 53720
+        },
+        {
+          "en": "The children were excited.",
+          "zh": "孩子们很兴奋。",
+          "startMs": 53720,
+          "endMs": 53920
+        },
+        {
+          "en": "It was time to go in, but the children didn't want to.",
+          "zh": "该进去了，但孩子们不想进去。",
+          "startMs": 55730,
+          "endMs": 63540
+        },
+        {
+          "en": "They liked the digger.",
+          "zh": "他们喜欢挖掘机。",
+          "startMs": 63570,
+          "endMs": 65560
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 52320,
+      "endMs": 65910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs. May looked at the trench.",
+          "zh": "太太。",
+          "startMs": 65680,
+          "endMs": 68500
+        },
+        {
+          "en": "\"It's for a new classroom,\" She said.",
+          "zh": "“这是为了建一间新教室。” 她说。",
+          "startMs": 68530,
+          "endMs": 72240
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 65910,
+      "endMs": 72590
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were excited.",
+          "zh": "孩子们很兴奋。",
+          "startMs": 74860,
+          "endMs": 78680
+        },
+        {
+          "en": "They wanted to find out about the new classroom.",
+          "zh": "他们想了解一下新教室的情况。",
+          "startMs": 78750,
+          "endMs": 82210
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 74710,
+      "endMs": 82560
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at some books.",
+          "zh": "孩子们看了一些书。",
+          "startMs": 82460,
+          "endMs": 87060
+        },
+        {
+          "en": "Wilf found a book about diggers.",
+          "zh": "Wilf 找到了一本关于挖掘机的书。",
+          "startMs": 87090,
+          "endMs": 87560
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 82560,
+      "endMs": 87910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs. May took the children outside.",
+          "zh": "太太。",
+          "startMs": 110710,
+          "endMs": 113250
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 110560,
+      "endMs": 113600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip painted a picture of one.",
+          "zh": "Chip 画了一幅挖掘机的画。",
+          "startMs": 113250,
+          "endMs": 113450
+        },
+        {
+          "en": "Mrs. Everyone looked at the blocks.",
+          "zh": "太太。",
+          "startMs": 113450,
+          "endMs": 113850
+        },
+        {
+          "en": "\"The classroom will go on the blocks,\" Said Mrs. They talked about the digger.",
+          "zh": "“教室将建在这些砖块上，” 老师说道。",
+          "startMs": 113850,
+          "endMs": 114250
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 113600,
+      "endMs": 114600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May took a photograph.",
+          "zh": "Mrs May 拍了一张照片。",
+          "startMs": 114250,
+          "endMs": 114450
+        },
+        {
+          "en": "May.",
+          "zh": "Mrs May。",
+          "startMs": 114450,
+          "endMs": 114650
+        },
+        {
+          "en": "Then a crane came to the school.",
+          "zh": "然后，一辆起重机来到了学校。",
+          "startMs": 115460,
+          "endMs": 118560
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 114600,
+      "endMs": 118910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were excited.",
+          "zh": "孩子们很兴奋。",
+          "startMs": 120460,
+          "endMs": 122840
+        },
+        {
+          "en": "\"What is the crane for?\" Asked Biff.",
+          "zh": "“起重机是干什么用的？” Biff 问道。",
+          "startMs": 125560,
+          "endMs": 129070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 120310,
+      "endMs": 129420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the driver.",
+          "zh": "他们看着司机。",
+          "startMs": 129100,
+          "endMs": 131150
+        },
+        {
+          "en": "\"Wait and see,\" Said Mrs. May.",
+          "zh": "“等着瞧吧。” 老师说道。",
+          "startMs": 131150,
+          "endMs": 132960
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 129420,
+      "endMs": 133310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone watched the classroom.",
+          "zh": "大家都看着教室。",
+          "startMs": 146930,
+          "endMs": 148970
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 146780,
+      "endMs": 149320
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children watched the crane.",
+          "zh": "孩子们看着吊车。",
+          "startMs": 149000,
+          "endMs": 151050
+        },
+        {
+          "en": "It lifted the classroom over the wall. Called Chip.",
+          "zh": "它把教室吊过了墙。 Chip 喊道。",
+          "startMs": 151050,
+          "endMs": 151250
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 149320,
+      "endMs": 151600
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't drop it,\" called Chip.",
+          "zh": "“别把它掉下来，”Chip 喊道。",
+          "startMs": 151250,
+          "endMs": 151450
+        },
+        {
+          "en": "\"Mrs. Biff looked at the classroom.",
+          "zh": "太太。",
+          "startMs": 160760,
+          "endMs": 163680
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 151600,
+      "endMs": 164030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Something was wrong.",
+          "zh": "有些不对劲。",
+          "startMs": 163680,
+          "endMs": 163880
+        },
+        {
+          "en": "May!",
+          "zh": "Mrs May。",
+          "startMs": 163880,
+          "endMs": 164080
+        },
+        {
+          "en": "Mrs. May!\"",
+          "zh": "太太。",
+          "startMs": 164080,
+          "endMs": 164480
+        },
+        {
+          "en": "Mrs May!\" called Biff.",
+          "zh": "“Mrs May！”Biff 喊道。",
+          "startMs": 167540,
+          "endMs": 168700
+        },
+        {
+          "en": "\"Don't shout, Biff!\" Said Mrs. May.",
+          "zh": "“别喊，Biff！” 老师说道。",
+          "startMs": 168730,
+          "endMs": 170980
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 164030,
+      "endMs": 171330
+    },
+    {
+      "sentences": [
+        {
+          "en": "The crane put the classroom down.",
+          "zh": "起重机把教室放了下来。",
+          "startMs": 170980,
+          "endMs": 172820
+        },
+        {
+          "en": "It put the classroom on the blocks.",
+          "zh": "它把教室放在砖块上。",
+          "startMs": 173870,
+          "endMs": 176170
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 171330,
+      "endMs": 176520
+    },
+    {
+      "sentences": [
+        {
+          "en": "The crane lifted the roof and put it on the classroom.",
+          "zh": "起重机吊起屋顶，把它安在教室上。",
+          "startMs": 185460,
+          "endMs": 190200
+        },
+        {
+          "en": "Something was wrong.",
+          "zh": "有些不对劲。",
+          "startMs": 190230,
+          "endMs": 190850
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 185310,
+      "endMs": 191200
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mrs. May!\"",
+          "zh": "太太。",
+          "startMs": 190850,
+          "endMs": 200330
+        },
+        {
+          "en": "\"Mrs May!\" called Biff.",
+          "zh": "“Mrs May！”Biff 喊道。",
+          "startMs": 212190,
+          "endMs": 213700
+        },
+        {
+          "en": "\"Something is wrong.\" \"Don't shout, Biff!\"",
+          "zh": "“出问题了。” “别喊，Biff！”",
+          "startMs": 213730,
+          "endMs": 216110
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 191200,
+      "endMs": 216460
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh dear!\" said Mrs May.",
+          "zh": "“Biff，”Mrs May 说。",
+          "startMs": 216110,
+          "endMs": 216510
+        },
+        {
+          "en": "Everyone gasped.",
+          "zh": "大家都倒吸一口凉气。",
+          "startMs": 216510,
+          "endMs": 216710
+        },
+        {
+          "en": "The classroom was upside down.",
+          "zh": "教室被倒过来了。",
+          "startMs": 216710,
+          "endMs": 216910
+        },
+        {
+          "en": "\"Oh dear!\" Said Mrs May.",
+          "zh": "哎呀。 “Biff，”Mrs May 说。",
+          "startMs": 216910,
+          "endMs": 217110
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 216460,
+      "endMs": 217460
+    },
+    {
+      "sentences": [
+        {
+          "en": "May.",
+          "zh": "Mrs May。",
+          "startMs": 217110,
+          "endMs": 217310
+        },
+        {
+          "en": "\"I said something was wrong\" said Biff.",
+          "zh": "“我说过出问题了，”Biff 说。 Biff 说道。",
+          "startMs": 217310,
+          "endMs": 217700
+        },
+        {
+          "en": "\"But nobody would listen.\"",
+          "zh": "“但没人听我的。”",
+          "startMs": 217730,
+          "endMs": 220360
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 217460,
+      "endMs": 220710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The crane put the classroom the right way up.",
+          "zh": "起重机把教室正了过来。",
+          "startMs": 225490,
+          "endMs": 228870
+        },
+        {
+          "en": "The children wanted to look inside.",
+          "zh": "孩子们想看看里面。",
+          "startMs": 229460,
+          "endMs": 231440
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 225340,
+      "endMs": 231790
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went inside.",
+          "zh": "孩子们走进了教室。",
+          "startMs": 231470,
+          "endMs": 234770
+        },
+        {
+          "en": "Wilf saw a door.",
+          "zh": "Wilf 看到了一扇门。",
+          "startMs": 235800,
+          "endMs": 236700
+        },
+        {
+          "en": "\"What's in here?\" Asked Wilf.",
+          "zh": "“这里面是什么？” Wilf 问道。",
+          "startMs": 236730,
+          "endMs": 239280
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 231790,
+      "endMs": 239630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone gasped.",
+          "zh": "大家都倒吸一口凉气。",
+          "startMs": 245000,
+          "endMs": 246970
+        },
+        {
+          "en": "\"Oh no!\" Said Wilf.",
+          "zh": "哎呀。 Wilf 说道。",
+          "startMs": 247000,
+          "endMs": 250120
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 244850,
+      "endMs": 250470
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 250470,
+      "endMs": 250471
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 250471,
+      "endMs": 250472
+    }
+  ]
+}

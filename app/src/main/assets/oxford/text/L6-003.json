@@ -1,0 +1,709 @@
+{
+  "id": "L6-003",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4036,
+        0.476
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "A bus came to the school.",
+          "zh": "一辆巴士开到了学校。",
+          "startMs": 3860,
+          "endMs": 7380
+        },
+        {
+          "en": "The children climbed in.",
+          "zh": "孩子们爬了上去。",
+          "startMs": 7380,
+          "endMs": 7580
+        },
+        {
+          "en": "\"I like going out,\" said Wilf.",
+          "zh": "“我喜欢出门。” Wilf 说道。",
+          "startMs": 7580,
+          "endMs": 9870
+        },
+        {
+          "en": "\"Don't push,\" Said Mrs. May.",
+          "zh": "“别挤。” 老师说道。",
+          "startMs": 12630,
+          "endMs": 15940
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4036,
+        0.0,
+        1.0,
+        0.476
+      ],
+      "startMs": 3710,
+      "endMs": 16290
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bus set off.",
+          "zh": "巴士出发了。",
+          "startMs": 21250,
+          "endMs": 23910
+        },
+        {
+          "en": "\"Hooray!\" Shouted the children.",
+          "zh": "太棒了！ 孩子们喊道。",
+          "startMs": 23910,
+          "endMs": 27910
+        },
+        {
+          "en": "Wilf sat with \"We're going to the zoo.\" \"Don't shout, children!\" Said Mrs. May.",
+          "zh": "“我们要去动物园啦！” “孩子们，别喊叫。” 老师说道。",
+          "startMs": 27940,
+          "endMs": 35230
+        },
+        {
+          "en": "Biff sat with Chip.",
+          "zh": "Biff 和 Chip 坐在一起。",
+          "startMs": 35230,
+          "endMs": 37630
+        },
+        {
+          "en": "Wilf sat with Nadim.",
+          "zh": "威尔和娜丁坐在一起。",
+          "startMs": 37630,
+          "endMs": 39630
+        },
+        {
+          "en": "\"This is fun,\" shouted Nadim.",
+          "zh": "娜丁大声说道。",
+          "startMs": 39630,
+          "endMs": 43030
+        },
+        {
+          "en": "\"It is if you don't shout,\" Said Mrs. May.",
+          "zh": "“如果你不喊的话，确实很有趣。” 老师说道。",
+          "startMs": 46230,
+          "endMs": 52270
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.476,
+        1.0,
+        1.0
+      ],
+      "startMs": 21100,
+      "endMs": 52620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Care The bus stopped on the way.",
+          "zh": "巴士在路上停了下来。",
+          "startMs": 52460,
+          "endMs": 72340
+        },
+        {
+          "en": "The children climbed out.",
+          "zh": "孩子们爬了出来。",
+          "startMs": 72370,
+          "endMs": 74090
+        },
+        {
+          "en": "Some children looked at the water.",
+          "zh": "一些孩子看着水。",
+          "startMs": 74090,
+          "endMs": 74290
+        },
+        {
+          "en": "Some children went to the toilet.",
+          "zh": "有些孩子去上了厕所。",
+          "startMs": 74290,
+          "endMs": 74490
+        },
+        {
+          "en": "\"Don't run away,\" May.",
+          "zh": "“别跑开，” Mrs May。",
+          "startMs": 74490,
+          "endMs": 74690
+        },
+        {
+          "en": "Some children \"and don't go too near the water.\"",
+          "zh": "一些孩子们和不去也在……附近这水。 看在这水。",
+          "startMs": 74770,
+          "endMs": 82190
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4723
+      ],
+      "startMs": 52620,
+      "endMs": 82540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf kicked a stone and his shoe came off.",
+          "zh": "威尔踢了一块石头，他的鞋子掉了下来。",
+          "startMs": 82510,
+          "endMs": 89110
+        },
+        {
+          "en": "The shoe landed in the water with a splash.",
+          "zh": "鞋子掉进了水里，溅起一片水花。",
+          "startMs": 89140,
+          "endMs": 92330
+        },
+        {
+          "en": "\"Oh Wilf!\" Said Biff.",
+          "zh": "“哎呀，威尔！” Biff 说道。",
+          "startMs": 92830,
+          "endMs": 96470
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4723,
+        0.51,
+        1.0
+      ],
+      "startMs": 82540,
+      "endMs": 96820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf couldn't get his shoe.",
+          "zh": "威尔够不着鞋子。",
+          "startMs": 96500,
+          "endMs": 98630
+        },
+        {
+          "en": "He told Mrs. May about it.",
+          "zh": "他把这事告诉了",
+          "startMs": 98660,
+          "endMs": 101390
+        },
+        {
+          "en": "\"What a silly thing to do!\" She said.",
+          "zh": "“哎呀，真是太傻了。” 她说。",
+          "startMs": 101860,
+          "endMs": 105790
+        },
+        {
+          "en": "\"I don't know what we can do.\"",
+          "zh": "“我不知道我们能做什么。”",
+          "startMs": 106430,
+          "endMs": 118010
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.51,
+        0.4723,
+        1.0,
+        1.0
+      ],
+      "startMs": 96820,
+      "endMs": 118360
+    },
+    {
+      "sentences": [],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4902
+      ],
+      "startMs": 118360,
+      "endMs": 118361
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Mrs May.",
+          "zh": "不， 说太太梅。",
+          "startMs": 118040,
+          "endMs": 119430
+        },
+        {
+          "en": "When they got to the zoo, it began to rain.",
+          "zh": "他们到达动物园时，开始下雨了。",
+          "startMs": 119430,
+          "endMs": 121930
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4902,
+        0.4828,
+        1.0
+      ],
+      "startMs": 118361,
+      "endMs": 122280
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children climbed out of the bus and Mrs. May went to get the tickets.",
+          "zh": "孩子们从巴士上下来，May 夫人",
+          "startMs": 121960,
+          "endMs": 128070
+        },
+        {
+          "en": "Nadim wanted to see the elephants.",
+          "zh": "Nadine 想去看大象。",
+          "startMs": 128100,
+          "endMs": 130510
+        },
+        {
+          "en": "Wilf wanted to see the lions and Biff wanted to see the tickets.",
+          "zh": "Wilf 想要到看见这狮子和 Biff 想要到看见这票。 鳄鱼。",
+          "startMs": 130900,
+          "endMs": 134990
+        },
+        {
+          "en": "\"I hope the rain stops,\" said Mrs May.",
+          "zh": "我希望这雨停， 说太太梅。 不， 说太太梅。",
+          "startMs": 136130,
+          "endMs": 156250
+        },
+        {
+          "en": "Snac It rained and rained.",
+          "zh": "雨下个不停。",
+          "startMs": 156280,
+          "endMs": 158330
+        },
+        {
+          "en": "The children were fed up.",
+          "zh": "孩子们厌烦了。",
+          "startMs": 158330,
+          "endMs": 158530
+        },
+        {
+          "en": "The animals were fed up too.",
+          "zh": "动物们也厌烦了。",
+          "startMs": 158530,
+          "endMs": 158730
+        },
+        {
+          "en": "\"Don't get wet,\" Said Mrs May.",
+          "zh": "“别淋湿了。” 不， 说太太梅。",
+          "startMs": 158730,
+          "endMs": 170340
+        },
+        {
+          "en": "The rain didn't stop, so the children climbed back on the bus.",
+          "zh": "雨没有停，孩子们只好爬回了巴士上。",
+          "startMs": 170370,
+          "endMs": 174730
+        },
+        {
+          "en": "\"Can we go to the museum?\" Asked Nadim.",
+          "zh": "“我们可以去博物馆吗？” Nadim 问道。",
+          "startMs": 174730,
+          "endMs": 174930
+        },
+        {
+          "en": "\"What a good idea!\" Said Mrs May.",
+          "zh": "“真是个好主意。” 不， 说太太梅。",
+          "startMs": 174930,
+          "endMs": 175330
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.4828,
+        0.4902,
+        1.0,
+        1.0
+      ],
+      "startMs": 122280,
+      "endMs": 175680
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the museum.",
+          "zh": "他们去了博物馆。",
+          "startMs": 176470,
+          "endMs": 178330
+        },
+        {
+          "en": "\"This is good,\" Said Wilf.",
+          "zh": "“这里真不错。” Wilf 说道。",
+          "startMs": 179150,
+          "endMs": 184390
+        },
+        {
+          "en": "\"We can see dinosaurs here.\" \"I like dinosaurs,\" They began to run towards the dinosaurs.",
+          "zh": "“我们可以在这里看到恐龙。” “我喜欢恐龙，”",
+          "startMs": 184420,
+          "endMs": 194630
+        },
+        {
+          "en": "\"Don't run,\" Called Mrs. May.",
+          "zh": "“别跑！” 给梅",
+          "startMs": 195510,
+          "endMs": 199070
+        },
+        {
+          "en": "Dinosaurs won't go away.\"",
+          "zh": "恐龙不会跑掉的。",
+          "startMs": 199260,
+          "endMs": 205930
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4714
+      ],
+      "startMs": 176320,
+      "endMs": 206280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Apatosaurus They looked at a big dinosaur.",
+          "zh": "他们看着一只大恐龙。",
+          "startMs": 206050,
+          "endMs": 208670
+        },
+        {
+          "en": "She took a \"What is this one called?\" Asked Wilf.",
+          "zh": "“这只恐龙叫什么名字？” Wilf 问道。",
+          "startMs": 208700,
+          "endMs": 212110
+        },
+        {
+          "en": "\"I don't know yet,\" said Nadim.",
+          "zh": "我不知道还， 说 Nadim。",
+          "startMs": 212140,
+          "endMs": 213950
+        },
+        {
+          "en": "\"Let's go and see.",
+          "zh": "“我们去看看吧。”",
+          "startMs": 215290,
+          "endMs": 217240
+        },
+        {
+          "en": "Biff had her camera.",
+          "zh": "Biff 带着她的相机。",
+          "startMs": 218010,
+          "endMs": 220160
+        },
+        {
+          "en": "She took a photograph of the dinosaur.",
+          "zh": "她给恐龙拍了一张照片。",
+          "startMs": 220190,
+          "endMs": 222570
+        },
+        {
+          "en": "\"What is it called?\" She asked.",
+          "zh": "“它叫什么名字？” 她问道。",
+          "startMs": 222600,
+          "endMs": 228290
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4714,
+        1.0,
+        1.0
+      ],
+      "startMs": 206280,
+      "endMs": 228640
+    },
+    {
+      "sentences": [
+        {
+          "en": "A lady told them about dinosaurs and showed them some pictures, said Nadim.",
+          "zh": "一位女士向他们介绍了恐龙，并给他们看了一些图片。",
+          "startMs": 238890,
+          "endMs": 244370
+        },
+        {
+          "en": "\"It's called an apatosaurus.",
+          "zh": "“它叫梁龙。” Nadim 说道。",
+          "startMs": 244370,
+          "endMs": 246580
+        },
+        {
+          "en": "The children went into a room.",
+          "zh": "孩子们走进一间屋子。",
+          "startMs": 246580,
+          "endMs": 246780
+        },
+        {
+          "en": "\"I know what that one is called,\" Said Nadim.",
+          "zh": "“我知道那只恐龙叫什么。",
+          "startMs": 246780,
+          "endMs": 248150
+        },
+        {
+          "en": "\"It's called an apatosaurus.",
+          "zh": "“它叫梁龙。”",
+          "startMs": 248180,
+          "endMs": 250450
+        },
+        {
+          "en": "\"Good, Nadim,\" Said Mrs. May.",
+          "zh": "“答对了，Nadine。” 老师说道。",
+          "startMs": 250480,
+          "endMs": 259150
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4648
+      ],
+      "startMs": 238740,
+      "endMs": 259500
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the shop.",
+          "zh": "孩子们去了商店。",
+          "startMs": 259180,
+          "endMs": 261010
+        },
+        {
+          "en": "Wilf got a book about dinosaurs.",
+          "zh": "威尔买了一本关于恐龙的书。",
+          "startMs": 262170,
+          "endMs": 264990
+        },
+        {
+          "en": "Got a model to make.",
+          "zh": "娜丁买了一个模型来组装。",
+          "startMs": 265490,
+          "endMs": 268170
+        },
+        {
+          "en": "It was a model of an Apatosaurus.",
+          "zh": "这是一个梁龙的模型。",
+          "startMs": 268200,
+          "endMs": 270610
+        },
+        {
+          "en": "\"I can make it at home,\" He said.",
+          "zh": "“我可以帮你把模型拼好！” 他说。",
+          "startMs": 270640,
+          "endMs": 274090
+        },
+        {
+          "en": "Chip said, \"Come to our house.",
+          "zh": "Chip 说：“来我们家吧。",
+          "startMs": 274120,
+          "endMs": 277370
+        },
+        {
+          "en": "We can help you.\"",
+          "zh": "我们可以帮你。”",
+          "startMs": 277400,
+          "endMs": 280130
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4648,
+        1.0,
+        1.0
+      ],
+      "startMs": 259500,
+      "endMs": 280480
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "该回家了。",
+          "startMs": 289450,
+          "endMs": 291530
+        },
+        {
+          "en": "\"Thank you,\" The bus got back to school.",
+          "zh": "“谢谢你。”",
+          "startMs": 292120,
+          "endMs": 295860
+        },
+        {
+          "en": "\"Thank you,\" said the children.",
+          "zh": "谢谢你， 说这孩子们。",
+          "startMs": 295860,
+          "endMs": 296060
+        },
+        {
+          "en": "\"Thank you for a lovely day.\" \"Goodbye, Mrs. May,\" Said Nadim.",
+          "zh": "“谢谢您，今天过得很愉快！” “再见，",
+          "startMs": 296060,
+          "endMs": 301910
+        },
+        {
+          "en": "\"Can we draw dinosaurs tomorrow?\"",
+          "zh": "“我们明天可以画恐龙吗？”",
+          "startMs": 301940,
+          "endMs": 304520
+        },
+        {
+          "en": "\"What a good idea!\" Said Mrs. May.",
+          "zh": "“真是个好主意。” 老师说道。",
+          "startMs": 304550,
+          "endMs": 309160
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4732
+      ],
+      "startMs": 289300,
+      "endMs": 309510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim and Wilf went home with Biff and Chip.",
+          "zh": "Nadine 和 Will 和 Biff 和 Chip 一起回家了。",
+          "startMs": 312770,
+          "endMs": 316570
+        },
+        {
+          "en": "They went to Chip's room and began to make the model.",
+          "zh": "他们去了 Chip 的房间，跑向盒子并拿起它，然后开始拼装模型。",
+          "startMs": 316600,
+          "endMs": 320910
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 320940,
+          "endMs": 323450
+        },
+        {
+          "en": "Biff ran to the box and picked it up.",
+          "zh": "Biff 跑向盒子，把它捡了起来。",
+          "startMs": 326190,
+          "endMs": 329270
+        },
+        {
+          "en": "\"Come on,\" She called.",
+          "zh": "“快来！” 她喊道。",
+          "startMs": 329300,
+          "endMs": 332080
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4732,
+        1.0,
+        1.0
+      ],
+      "startMs": 312620,
+      "endMs": 332430
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's time for a magic adventure.\" Called Chip.",
+          "zh": "“是时候踏上神奇的冒险之旅了。” Chip 喊道。",
+          "startMs": 332110,
+          "endMs": 337840
+        },
+        {
+          "en": "\"Come on Nadim,\" called Chip.",
+          "zh": "“来吧，”她喊道。",
+          "startMs": 337870,
+          "endMs": 339920
+        },
+        {
+          "en": "\"We're going on a magic adventure.",
+          "zh": "“我们要去一场神奇的冒险！",
+          "startMs": 340750,
+          "endMs": 342930
+        },
+        {
+          "en": "We're going to the land of the dinosaurs.\"",
+          "zh": "我们要去恐龙乐园啦！”",
+          "startMs": 343550,
+          "endMs": 346510
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5554,
+        0.4661
+      ],
+      "startMs": 332430,
+      "endMs": 346860
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5554,
+        0.0,
+        1.0,
+        0.4661
+      ],
+      "startMs": 346860,
+      "endMs": 346861
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.4661,
+        0.5245,
+        1.0
+      ],
+      "startMs": 346861,
+      "endMs": 346862
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5245,
+        0.4661,
+        1.0,
+        1.0
+      ],
+      "startMs": 346862,
+      "endMs": 346863
+    }
+  ]
+}

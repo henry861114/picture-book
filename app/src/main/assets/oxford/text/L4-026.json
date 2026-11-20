@@ -1,0 +1,303 @@
+{
+  "id": "L4-026",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went for a walk.",
+          "zh": "这孩子们去为了一个走。",
+          "startMs": 0,
+          "endMs": 6100
+        },
+        {
+          "en": "It was a muddy walk.",
+          "zh": "它是一个泥泞的走。",
+          "startMs": 9000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 12450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a muddy path!\" said Biff.",
+          "zh": "什么一个泥泞的小路！ 说 Biff。",
+          "startMs": 19000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Baa!",
+          "zh": "咩！",
+          "startMs": 29160,
+          "endMs": 29440
+        },
+        {
+          "en": "Baa!\"",
+          "zh": "咩！",
+          "startMs": 29340,
+          "endMs": 29610
+        },
+        {
+          "en": "\"What was that?\" asked Chip.",
+          "zh": "什么是那个？ 问 Chip。",
+          "startMs": 29510,
+          "endMs": 32100
+        }
+      ],
+      "startMs": 29010,
+      "endMs": 32450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Baa!",
+          "zh": "咩！",
+          "startMs": 42120,
+          "endMs": 42500
+        },
+        {
+          "en": "Baa!\"",
+          "zh": "咩！",
+          "startMs": 42400,
+          "endMs": 42790
+        },
+        {
+          "en": "\"What is that?\" asked Wilma.",
+          "zh": "什么是那个？ 问 Wilma。",
+          "startMs": 42690,
+          "endMs": 44100
+        }
+      ],
+      "startMs": 41970,
+      "endMs": 44450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a sheep,\" said Dad.",
+          "zh": "它是一个羊， 说爸爸。",
+          "startMs": 45000,
+          "endMs": 47100
+        },
+        {
+          "en": "Floppy on a lead.\"",
+          "zh": "Floppy 在……上一个为。",
+          "startMs": 48350,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Chip.",
+          "zh": "哦不！ 说 Chip。",
+          "startMs": 54000,
+          "endMs": 56100
+        },
+        {
+          "en": "\"A sheep is stuck in the mud.\"",
+          "zh": "一个羊是 stuck 在……里这淤泥。",
+          "startMs": 57000,
+          "endMs": 59100
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 59450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The sheep couldn't get out.",
+          "zh": "这羊不能得到出。",
+          "startMs": 61000,
+          "endMs": 62760
+        },
+        {
+          "en": "The mud was too deep.",
+          "zh": "这淤泥是也深的。",
+          "startMs": 62660,
+          "endMs": 65100
+        }
+      ],
+      "startMs": 60850,
+      "endMs": 65450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help me get it out,\" said Dad.",
+          "zh": "帮助我得到它出， 说爸爸。",
+          "startMs": 68000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 67850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went to help the sheep.",
+          "zh": "爸爸去到帮助这羊。",
+          "startMs": 76000,
+          "endMs": 76450
+        },
+        {
+          "en": "He sank into the mud.",
+          "zh": "他 sank 进入这淤泥。",
+          "startMs": 76350,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Chip went to help.",
+          "zh": "Wilma 和 Chip 去到帮助。",
+          "startMs": 84000,
+          "endMs": 86100
+        }
+      ],
+      "startMs": 83850,
+      "endMs": 86450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They sank into the mud.",
+          "zh": "他们 sank 进入这淤泥。",
+          "startMs": 90000,
+          "endMs": 92100
+        }
+      ],
+      "startMs": 89850,
+      "endMs": 92450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad pushed.",
+          "zh": "爸爸推。",
+          "startMs": 96000,
+          "endMs": 98100
+        },
+        {
+          "en": "Wilma and Chip pulled.",
+          "zh": "Wilma 和 Chip 拉。",
+          "startMs": 99000,
+          "endMs": 101100
+        }
+      ],
+      "startMs": 95850,
+      "endMs": 101450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got the sheep out.",
+          "zh": "他们得到这羊出。",
+          "startMs": 105000,
+          "endMs": 107100
+        },
+        {
+          "en": "\"Baa!",
+          "zh": "咩！",
+          "startMs": 108030,
+          "endMs": 109760
+        },
+        {
+          "en": "Baa!\" went the sheep.",
+          "zh": "咩！ 去这羊。",
+          "startMs": 109660,
+          "endMs": 114100
+        }
+      ],
+      "startMs": 104850,
+      "endMs": 114450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Chip were muddy.",
+          "zh": "Wilma 和 Chip 是泥泞的。",
+          "startMs": 118000,
+          "endMs": 120100
+        },
+        {
+          "en": "Dad had lost a boot.",
+          "zh": "爸爸有丢失一个靴子。",
+          "startMs": 120000,
+          "endMs": 122100
+        }
+      ],
+      "startMs": 117850,
+      "endMs": 122450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma went to get Dad's boot.",
+          "zh": "Wilma 去到得到爸爸靴子。",
+          "startMs": 123000,
+          "endMs": 125100
+        }
+      ],
+      "startMs": 122850,
+      "endMs": 125450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help!\" said Wilma.",
+          "zh": "帮助！ 说 Wilma。",
+          "startMs": 132000,
+          "endMs": 134100
+        },
+        {
+          "en": "\"Now I'm stuck!\"",
+          "zh": "现在我是 stuck！",
+          "startMs": 135030,
+          "endMs": 138100
+        }
+      ],
+      "startMs": 131850,
+      "endMs": 138450
+    },
+    {
+      "sentences": [],
+      "startMs": 141340,
+      "endMs": 141840,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 141840,
+      "endMs": 142048,
+      "illustrationOnly": true
+    }
+  ]
+}

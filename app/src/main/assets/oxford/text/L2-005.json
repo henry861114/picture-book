@@ -1,0 +1,201 @@
+{
+  "id": "L2-005",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad made a go-kart.",
+          "zh": "爸爸做一个卡丁车。",
+          "startMs": 0,
+          "endMs": 6980
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted the go-kart.",
+          "zh": "Biff 想要这卡丁车。",
+          "startMs": 15760,
+          "endMs": 18780
+        }
+      ],
+      "startMs": 15610,
+      "endMs": 19130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted the go-kart.",
+          "zh": "Chip 想要这卡丁车。",
+          "startMs": 20280,
+          "endMs": 25800
+        }
+      ],
+      "startMs": 20130,
+      "endMs": 26150
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted a go.",
+          "zh": "Biff 想要一个去。",
+          "startMs": 29430,
+          "endMs": 38440
+        }
+      ],
+      "startMs": 29280,
+      "endMs": 38790
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted a go.",
+          "zh": "Chip 想要一个去。",
+          "startMs": 34320,
+          "endMs": 38440
+        }
+      ],
+      "startMs": 34170,
+      "endMs": 38790
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff pushed.",
+          "zh": "Biff 推。",
+          "startMs": 42120,
+          "endMs": 47060
+        }
+      ],
+      "startMs": 41970,
+      "endMs": 47410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip pulled.",
+          "zh": "Chip 拉。",
+          "startMs": 46960,
+          "endMs": 57260
+        }
+      ],
+      "startMs": 46810,
+      "endMs": 57610
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a fight.",
+          "zh": "他们有一个打架。",
+          "startMs": 57380,
+          "endMs": 67180
+        }
+      ],
+      "startMs": 57230,
+      "endMs": 67530
+    },
+    {
+      "sentences": [],
+      "startMs": 67940,
+      "endMs": 69427,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop it,\" said Dad.",
+          "zh": "停它， 说爸爸。",
+          "startMs": 67080,
+          "endMs": 70200
+        }
+      ],
+      "startMs": 66930,
+      "endMs": 70550
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop it,\" said Mum.",
+          "zh": "停它， 说妈妈。",
+          "startMs": 70100,
+          "endMs": 83220
+        }
+      ],
+      "startMs": 69950,
+      "endMs": 83570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad put the go-kart away.",
+          "zh": "爸爸放这卡丁车离开。",
+          "startMs": 83340,
+          "endMs": 105230
+        }
+      ],
+      "startMs": 83190,
+      "endMs": 105580
+    },
+    {
+      "sentences": [],
+      "startMs": 101250,
+      "endMs": 102050,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a swing.",
+          "zh": "他们做一个摆动。",
+          "startMs": 95040,
+          "endMs": 103220
+        }
+      ],
+      "startMs": 94890,
+      "endMs": 103570
+    },
+    {
+      "sentences": [],
+      "startMs": 114280,
+      "endMs": 114695,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 114780,
+          "endMs": 114695
+        }
+      ],
+      "startMs": 114780,
+      "endMs": 114695
+    },
+    {
+      "sentences": [],
+      "startMs": 115280,
+      "endMs": 114695,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 115780,
+      "endMs": 114695,
+      "illustrationOnly": true
+    }
+  ]
+}

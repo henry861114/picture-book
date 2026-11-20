@@ -1,0 +1,111 @@
+{
+  "id": "L1-025",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see us?",
+          "zh": "能你看见我们？",
+          "startMs": 0,
+          "endMs": 2400
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see me?",
+          "zh": "能你看见我？",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yes, I can see you.",
+          "zh": "是， 我能看见你。",
+          "startMs": 6000,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see me?",
+          "zh": "能你看见我？",
+          "startMs": 15000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 14850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yes, we can see you.",
+          "zh": "是， 我们能看见你。",
+          "startMs": 22000,
+          "endMs": 27100
+        }
+      ],
+      "startMs": 21850,
+      "endMs": 27450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Can you see me?",
+          "zh": "能你看见我？",
+          "startMs": 27190,
+          "endMs": 32100
+        }
+      ],
+      "startMs": 27040,
+      "endMs": 32450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yes, we can see you.",
+          "zh": "是， 我们能看见你。",
+          "startMs": 22000,
+          "endMs": 27100
+        }
+      ],
+      "startMs": 21850,
+      "endMs": 27450
+    },
+    {
+      "sentences": [
+        {
+          "en": "We can all see Dad.",
+          "zh": "我们能全部看见爸爸。",
+          "startMs": 37000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 45450
+    }
+  ]
+}

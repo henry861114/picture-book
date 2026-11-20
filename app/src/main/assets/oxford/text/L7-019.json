@@ -1,0 +1,1063 @@
+{
+  "id": "L7-019",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Joke Machine Everyone was in the playground.",
+          "zh": "每个人是在……里这游乐场。",
+          "startMs": 29,
+          "endMs": 7820
+        },
+        {
+          "en": "\"I've got a good joke,\" said Wilf.",
+          "zh": "我已经得到一个好的笑话， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 8280,
+          "endMs": 12500
+        },
+        {
+          "en": "\"What goes black, white, black, white?\"",
+          "zh": "什么去黑色的， 白色的， 黑色的， 白色的？",
+          "startMs": 12500,
+          "endMs": 16980
+        },
+        {
+          "en": "\"I don't know,\" said Biff.",
+          "zh": "我不知道， 说 Biff。 不， 说 Biff。",
+          "startMs": 17010,
+          "endMs": 20180
+        },
+        {
+          "en": "\"A penguin rolling down a hill!\" Said Wilf.",
+          "zh": "一个企鹅起伏的向下一个小山！ 说 Wilf。 帮助！",
+          "startMs": 20210,
+          "endMs": 24360
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 24710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I've got one,\" said Anneena.",
+          "zh": "我已经得到一， 说 Anneena。 我， 说 Anneena。",
+          "startMs": 26600,
+          "endMs": 32040
+        },
+        {
+          "en": "\"Why couldn't the skeleton go to the party?\"",
+          "zh": "为什么不能这骨架去到这聚会？",
+          "startMs": 32070,
+          "endMs": 36100
+        },
+        {
+          "en": "\"Why couldn't the skeleton go to the party?\" Asked Chip.",
+          "zh": "为什么不能这骨架去到这聚会？ 什么是它？ 问 Chip。",
+          "startMs": 36130,
+          "endMs": 40480
+        },
+        {
+          "en": "\"It had no body to go with!\" Said Anneena.",
+          "zh": "它有不身体到去和……一起！ 说 Anneena。 我， 说 Anneena。",
+          "startMs": 41040,
+          "endMs": 46660
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 26450,
+      "endMs": 47010
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Time to come inside!\" Called Mrs May.",
+          "zh": "时间到来里面！ 太太梅。",
+          "startMs": 46900,
+          "endMs": 50720
+        },
+        {
+          "en": "\"Line up quietly, everyone.\"",
+          "zh": "线向上轻轻地， 每个人。",
+          "startMs": 50790,
+          "endMs": 52560
+        },
+        {
+          "en": "\"What do sea monsters eat? said Nadim.",
+          "zh": "什么做海怪物吃？ » 说 Nadim。",
+          "startMs": 53000,
+          "endMs": 56860
+        },
+        {
+          "en": "\"Fish and ships!\"",
+          "zh": "鱼和轮船！",
+          "startMs": 56890,
+          "endMs": 58940
+        },
+        {
+          "en": "\"That's a terrible joke!\" Said Biff.",
+          "zh": "那是一个可怕的笑话！ 说 Biff。",
+          "startMs": 58970,
+          "endMs": 70500
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 47010,
+      "endMs": 70850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get in, you chatterboxes,\" said Mrs May.",
+          "zh": "我有一些好的新的， 说太太梅。",
+          "startMs": 70500,
+          "endMs": 70700
+        },
+        {
+          "en": "\"Didn't you hear the whistle?\" \"Sorry, Mrs May,\" Said Wilf.",
+          "zh": "没有你听见这哨声？ 太太梅。 帮助！ 说 Wilf。",
+          "startMs": 70700,
+          "endMs": 75440
+        },
+        {
+          "en": "\"We were telling jokes.\"",
+          "zh": "我们是告诉笑话。",
+          "startMs": 75470,
+          "endMs": 77360
+        },
+        {
+          "en": "\"Well, it's time to stop now,\" said Mrs May.",
+          "zh": "它是时间到得到向上， 说爸爸。",
+          "startMs": 77390,
+          "endMs": 80650
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 70850,
+      "endMs": 81000
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mrs May!\"",
+          "zh": "太太梅。",
+          "startMs": 90830,
+          "endMs": 92320
+        },
+        {
+          "en": "\"What does an elephant do on a motorway?\" \"Not now, Biff,\" \"Tell me later.",
+          "zh": "什么做一个大象做在……上一个高速公路？ 我不知道， 说 Biff。 告诉我后来。",
+          "startMs": 92350,
+          "endMs": 97370
+        },
+        {
+          "en": "In you go everyone.\"",
+          "zh": "在……里你去每个人。",
+          "startMs": 97370,
+          "endMs": 97570
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 90680,
+      "endMs": 97920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim!\" said Mrs May.",
+          "zh": "Biff， 说太太梅。",
+          "startMs": 97570,
+          "endMs": 97780
+        },
+        {
+          "en": "\"Biff!",
+          "zh": "Biff！",
+          "startMs": 98320,
+          "endMs": 99550
+        },
+        {
+          "en": "\"What does an elephant do on a motorway?\"",
+          "zh": "什么做一个大象做在……上一个高速公路？",
+          "startMs": 102710,
+          "endMs": 105710
+        },
+        {
+          "en": "\"About two miles an hour!\" Said Biff.",
+          "zh": "关于二英里一个小时！ 说 Biff。",
+          "startMs": 106100,
+          "endMs": 113020
+        },
+        {
+          "en": "Nadim!\" Said Mrs May.",
+          "zh": "Nadim！ Biff， 说太太梅。",
+          "startMs": 113050,
+          "endMs": 114900
+        },
+        {
+          "en": "\"Go inside quietly!\" Said Mrs May.",
+          "zh": "去里面轻轻地！ Biff， 说太太梅。",
+          "startMs": 114930,
+          "endMs": 124220
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 97920,
+      "endMs": 124570
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was nearly time to go home.",
+          "zh": "它是几乎时间到去家。",
+          "startMs": 124250,
+          "endMs": 126960
+        },
+        {
+          "en": "\"Well done!\"",
+          "zh": "好做完！",
+          "startMs": 126960,
+          "endMs": 127160
+        },
+        {
+          "en": "\"You have worked hard today.",
+          "zh": "你有工作困难的在今天。",
+          "startMs": 127160,
+          "endMs": 127360
+        },
+        {
+          "en": "Now it's time to tidy up.\" \"Mrs May,\" \"Do you want to hear one of Nadim's jokes?\" \"Well, just one,\" Said Mrs May.",
+          "zh": "现在它是时间到整洁的向上。 太太梅。",
+          "startMs": 127360,
+          "endMs": 144320
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 124570,
+      "endMs": 144670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want to get home tonight.\"",
+          "zh": "我想要到得到家今夜。",
+          "startMs": 144420,
+          "endMs": 148640
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 144670,
+      "endMs": 148990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why do cows wear bells?\" Asked Anneena.",
+          "zh": "为什么做母牛穿铃？ 我， 说 Anneena。",
+          "startMs": 148670,
+          "endMs": 151600
+        },
+        {
+          "en": "\"I don't know,\" Said Mrs May.",
+          "zh": "我不知道， 说吽。",
+          "startMs": 151740,
+          "endMs": 155020
+        },
+        {
+          "en": "\"Why do cows wear bells?\"",
+          "zh": "为什么做母牛穿铃？",
+          "startMs": 155470,
+          "endMs": 157900
+        },
+        {
+          "en": "\"Because their horns don't work!\" Said Nadim.",
+          "zh": "因为他们的角不工作！ 说 Nadim。",
+          "startMs": 158100,
+          "endMs": 162360
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 148990,
+      "endMs": 162710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May clapped her hands.",
+          "zh": "太太梅鼓掌她手。",
+          "startMs": 167100,
+          "endMs": 169200
+        },
+        {
+          "en": "\"I want to ask you something,\" she said.",
+          "zh": "我想要到问你某物， 她说。",
+          "startMs": 169840,
+          "endMs": 174670
+        },
+        {
+          "en": "\"Who knows about Help the Children Day?\"",
+          "zh": "谁知道关于帮助这孩子们一天？",
+          "startMs": 174700,
+          "endMs": 179340
+        },
+        {
+          "en": "\"There's a special day,\" said Chip.",
+          "zh": "有一个特别的一天， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 179370,
+          "endMs": 182100
+        },
+        {
+          "en": "\"People raise money to help children,\" said Wilf.",
+          "zh": "人们举起钱到帮助孩子们， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 182130,
+          "endMs": 186540
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 166950,
+      "endMs": 186890
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How could we raise money for Help the Children Day?\" Asked Mrs May.",
+          "zh": "如何能我们举起钱为了帮助这孩子们一天？ 太太梅。",
+          "startMs": 186570,
+          "endMs": 191980
+        },
+        {
+          "en": "\"We'll have to think hard,\" said Anneena.",
+          "zh": "我们会有到想困难的， 说 Anneena。 我， 说 Anneena。",
+          "startMs": 192440,
+          "endMs": 196180
+        },
+        {
+          "en": "\"Tell me your ideas tomorrow,\" said Mrs May.",
+          "zh": "它必须是一个好的一， 说太太梅。",
+          "startMs": 196210,
+          "endMs": 200360
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 186890,
+      "endMs": 200710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Mrs May.",
+          "zh": "Biff， 说太太梅。",
+          "startMs": 200390,
+          "endMs": 200460
+        },
+        {
+          "en": "Everyone was at Biff and Chip's house.",
+          "zh": "每个人是在 Biff 和 Chip 房子。",
+          "startMs": 205260,
+          "endMs": 207800
+        },
+        {
+          "en": "\"I can't think of anything,\" said Chip.",
+          "zh": "我不能想的任何东西， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 208040,
+          "endMs": 212180
+        },
+        {
+          "en": "\"Nor can I,\" said Anneena.",
+          "zh": "我， 说 Anneena。",
+          "startMs": 212210,
+          "endMs": 215300
+        },
+        {
+          "en": "\"What ideas have we had so far?\"",
+          "zh": "什么主意有我们有所以远？ 问 Biff。",
+          "startMs": 215330,
+          "endMs": 218420
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 200710,
+      "endMs": 218770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Biff.",
+          "zh": "谁是你？ 问 Biff。",
+          "startMs": 218640,
+          "endMs": 219500
+        },
+        {
+          "en": "\"Read out the list, Nadim.\"",
+          "zh": "读出这名单， Nadim。",
+          "startMs": 219580,
+          "endMs": 222860
+        },
+        {
+          "en": "Nadim read out the list.",
+          "zh": "Nadim 读出这名单。",
+          "startMs": 223140,
+          "endMs": 225240
+        },
+        {
+          "en": "\"Ideas for Help the Children.",
+          "zh": "帮助这孩子们。",
+          "startMs": 225760,
+          "endMs": 227960
+        },
+        {
+          "en": "Washing cars.",
+          "zh": "洗汽车， 玩具出售。",
+          "startMs": 228970,
+          "endMs": 229990
+        },
+        {
+          "en": "Toy sale.\"",
+          "zh": "好耶， 说 Luke。",
+          "startMs": 230650,
+          "endMs": 232600
+        },
+        {
+          "en": "\"That's only two ideas!\" Said Anneena.",
+          "zh": "那是只有二主意！ 说 Anneena。 我， 说 Anneena。",
+          "startMs": 232630,
+          "endMs": 236440
+        },
+        {
+          "en": "\"Well, we've only had two ideas,\" said Wilf.",
+          "zh": "好， 我们已经只有有二主意， 说 Wilf。",
+          "startMs": 236840,
+          "endMs": 240150
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 218770,
+      "endMs": 240500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Wilf.",
+          "zh": "帮助！ 说 Wilf。",
+          "startMs": 240150,
+          "endMs": 241420
+        },
+        {
+          "en": "\"I don't think washing cars is a good idea,\" said Chip.",
+          "zh": "我不想洗汽车是一个好的主意， 说 Chip。",
+          "startMs": 245240,
+          "endMs": 249530
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 240500,
+      "endMs": 249880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Chip.",
+          "zh": "哦！ 说 Chip。",
+          "startMs": 249670,
+          "endMs": 252290
+        },
+        {
+          "en": "\"I don't think Mrs May would let us.\"",
+          "zh": "我不想太太梅会让我们。",
+          "startMs": 252320,
+          "endMs": 253720
+        },
+        {
+          "en": "\"And I gave all my old toys to the last toy sale,\" said Wilf.",
+          "zh": "我给全部我的旧的玩具到这最后的玩具出售， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 254080,
+          "endMs": 261420
+        },
+        {
+          "en": "Then Nadim had a good idea.",
+          "zh": "然后 Nadim 有一个好的主意。",
+          "startMs": 261450,
+          "endMs": 263940
+        },
+        {
+          "en": "\"What about a joke machine?\"",
+          "zh": "什么关于一个笑话机器？ 他说。",
+          "startMs": 263970,
+          "endMs": 267440
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 249880,
+      "endMs": 267790
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 267470,
+          "endMs": 269320
+        },
+        {
+          "en": "He told them all about his idea.",
+          "zh": "他告诉他们全部关于他的主意。",
+          "startMs": 269350,
+          "endMs": 272090
+        },
+        {
+          "en": "Everyone was excited.",
+          "zh": "每个人是兴奋的。",
+          "startMs": 272520,
+          "endMs": 273940
+        },
+        {
+          "en": "\"I can't wait to tell Mrs May,\" said Chip.",
+          "zh": "我不能等到告诉太太梅， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 273970,
+          "endMs": 282940
+        },
+        {
+          "en": "The next day, they were back at school.",
+          "zh": "这下一个一天， 他们是回来在学校。",
+          "startMs": 282970,
+          "endMs": 285800
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 267790,
+      "endMs": 286150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mrs May,\" \"We've got an idea for Help the Children!\"",
+          "zh": "太太梅。",
+          "startMs": 286280,
+          "endMs": 294570
+        },
+        {
+          "en": "\"It must be a good one,\" said Mrs May.",
+          "zh": "它必须是一个好的一， 说太太梅。 Biff， 说太太梅。",
+          "startMs": 294600,
+          "endMs": 297500
+        },
+        {
+          "en": "\"You all sound excited.\"",
+          "zh": "你全部声音兴奋的。",
+          "startMs": 297590,
+          "endMs": 299700
+        },
+        {
+          "en": "They told Mrs May what the idea was.",
+          "zh": "他们告诉太太梅什么这主意是。",
+          "startMs": 300920,
+          "endMs": 304000
+        },
+        {
+          "en": "\"It's a joke machine!\" Said Biff.",
+          "zh": "它是一个笑话机器！ 说 Biff。",
+          "startMs": 304180,
+          "endMs": 308000
+        },
+        {
+          "en": "\"We write jokes on slips of paper,\" said Chip.",
+          "zh": "我们写笑话在……上滑倒的纸， 说 Chip。",
+          "startMs": 308520,
+          "endMs": 312090
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 286150,
+      "endMs": 312440
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Chip.",
+          "zh": "哦！ 说 Chip。",
+          "startMs": 312120,
+          "endMs": 315030
+        },
+        {
+          "en": "\"Then we put the jokes in a box.\"",
+          "zh": "然后我们放这笑话在……里一个盒子。",
+          "startMs": 315060,
+          "endMs": 316240
+        },
+        {
+          "en": "\"The box is the joke machine,\" said Wilf.",
+          "zh": "这盒子是这笑话机器， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 316270,
+          "endMs": 322660
+        },
+        {
+          "en": "\"It's a great idea!\" said Anneena.",
+          "zh": "它是一个很棒的主意！ 说 Anneena。",
+          "startMs": 322690,
+          "endMs": 328900
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 312440,
+      "endMs": 329250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"People pay for a joke!\"",
+          "zh": "人们付钱为了一个笑话！",
+          "startMs": 329100,
+          "endMs": 331200
+        },
+        {
+          "en": "\"They give some money,\" said Wilf.",
+          "zh": "他们给一些钱， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 331440,
+          "endMs": 334620
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 329250,
+      "endMs": 334970
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Then they get a joke from the box.\"",
+          "zh": "然后他们得到一个笑话从这盒子。",
+          "startMs": 334650,
+          "endMs": 337720
+        },
+        {
+          "en": "\"I think it's a lovely idea,\" said Mrs May.",
+          "zh": "我想它是一个美丽的主意， 说太太梅。 Biff， 说太太梅。",
+          "startMs": 337750,
+          "endMs": 344500
+        },
+        {
+          "en": "\"But I can see one problem.\" \"What's that?\" Everyone asked.",
+          "zh": "我能看见一问题。 是什么那个？ 每个人笑。",
+          "startMs": 344530,
+          "endMs": 351260
+        },
+        {
+          "en": "\"You will need lots and lots of jokes,\" said Mrs May.",
+          "zh": "你将必须许多和许多的笑话， 说太太梅。 Biff， 说太太梅。",
+          "startMs": 351560,
+          "endMs": 362260
+        },
+        {
+          "en": "The joke machine was finished.",
+          "zh": "这笑话机器是结束了的。",
+          "startMs": 362290,
+          "endMs": 364120
+        },
+        {
+          "en": "\"It's brilliant!\" Said Chip.",
+          "zh": "它是明亮的， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 364460,
+          "endMs": 368010
+        },
+        {
+          "en": "I've finished the poster.\"",
+          "zh": "我已经结束了的这海报。",
+          "startMs": 368650,
+          "endMs": 370800
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 334970,
+      "endMs": 371150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"A laugh does you good,\" read Wilf.",
+          "zh": "一个笑做你好的， 读 Wilf。",
+          "startMs": 370830,
+          "endMs": 375540
+        },
+        {
+          "en": "Do good with a laugh.",
+          "zh": "做好的和……一起一个笑。",
+          "startMs": 375570,
+          "endMs": 378760
+        },
+        {
+          "en": "We have put the jokes on the computer.",
+          "zh": "他们玩一个游戏在……上这电脑。",
+          "startMs": 378790,
+          "endMs": 381580
+        },
+        {
+          "en": "Now we can print them off,\" Said Nadim.",
+          "zh": "现在我们能停这高速公路。 » 说 Nadim。",
+          "startMs": 381610,
+          "endMs": 385350
+        },
+        {
+          "en": "And here's the next one.",
+          "zh": "爸爸这下一个早晨。",
+          "startMs": 385870,
+          "endMs": 389200
+        },
+        {
+          "en": "What game do horses play?",
+          "zh": "什么游戏做马玩？",
+          "startMs": 389230,
+          "endMs": 390760
+        },
+        {
+          "en": "\"Stable tennis!\" Laughed Anneena.",
+          "zh": "稳定的网球！ 笑 Anneena。 稳定的网球！ 笑 Anneena。",
+          "startMs": 391420,
+          "endMs": 395280
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 371150,
+      "endMs": 395630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How many jokes have we got?\" Asked Wilf.",
+          "zh": "如何许多笑话有我们得到？ 问 Wilf。 是什么那个？ 笑话 Wilf。",
+          "startMs": 396460,
+          "endMs": 402980
+        },
+        {
+          "en": "\"Forty-nine,\" \"I wish we had some more.\"",
+          "zh": "Forty-nine， 说 Nadim。",
+          "startMs": 403680,
+          "endMs": 408390
+        },
+        {
+          "en": "\"Here is one more for you,\" said Mrs May.",
+          "zh": "这里是一更多为了你， 说太太梅。 Biff， 说太太梅。",
+          "startMs": 408760,
+          "endMs": 412540
+        },
+        {
+          "en": "\"What can fly and has four legs?\"",
+          "zh": "什么能飞和有四腿？",
+          "startMs": 412840,
+          "endMs": 416400
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 396310,
+      "endMs": 416750
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We don't know!\" They all said.",
+          "zh": "我们不知道， 说 Biff。 你好！ 他说。",
+          "startMs": 416430,
+          "endMs": 419240
+        },
+        {
+          "en": "\"What can fly and has four legs?\" \"Two birds!\" Said Mrs May.",
+          "zh": "什么能飞和有四腿？ 二鸟！ Biff， 说太太梅。",
+          "startMs": 419380,
+          "endMs": 427120
+        },
+        {
+          "en": "Everyone laughed.",
+          "zh": "每个人笑。",
+          "startMs": 427360,
+          "endMs": 429000
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 416750,
+      "endMs": 429350
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the joke machine to the shopping centre.",
+          "zh": "他们拿这笑话机器到这商店正中。",
+          "startMs": 433420,
+          "endMs": 436320
+        },
+        {
+          "en": "\"Roll up, roll up,\" Roll up!\" they shouted.",
+          "zh": "使滚动向上！",
+          "startMs": 437210,
+          "endMs": 440900
+        },
+        {
+          "en": "\"Support the children!",
+          "zh": "支持这孩子们！",
+          "startMs": 441090,
+          "endMs": 443260
+        },
+        {
+          "en": "Buy a joke for not less than fifty p.\"",
+          "zh": "买一个笑话为了不较少的比 50谨言慎行！",
+          "startMs": 443290,
+          "endMs": 447670
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 433270,
+      "endMs": 448020
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man came up to buy a joke.",
+          "zh": "一个男人来向上到买一个笑话。",
+          "startMs": 447700,
+          "endMs": 450100
+        },
+        {
+          "en": "\"He's given us a pound!\" Called Chip.",
+          "zh": "他是给我们一个磅！ 叫 Chip。 来在……上， 叫 Chip。",
+          "startMs": 450130,
+          "endMs": 455700
+        },
+        {
+          "en": "\"Thank you very much.\"",
+          "zh": "谢谢你非常许多。",
+          "startMs": 455730,
+          "endMs": 456340
+        },
+        {
+          "en": "The man wanted them all to tell the joke.",
+          "zh": "这男人想要他们全部到告诉这笑话。",
+          "startMs": 457400,
+          "endMs": 461140
+        },
+        {
+          "en": "So they told it together.",
+          "zh": "所以他们告诉它一起。",
+          "startMs": 461260,
+          "endMs": 463360
+        },
+        {
+          "en": "They all said.",
+          "zh": "你好！ 他说。",
+          "startMs": 470460,
+          "endMs": 471320
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 448020,
+      "endMs": 471670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What has only one foot?\" \"I don't know,\" Said the man.",
+          "zh": "什么有只有一脚？ 我不知道， 说吽。",
+          "startMs": 471350,
+          "endMs": 474050
+        },
+        {
+          "en": "\"What has only one foot?\" \"A leg!\" They said.",
+          "zh": "什么有只有一脚？ 一个腿！ 他们说。",
+          "startMs": 475580,
+          "endMs": 482040
+        },
+        {
+          "en": "Everyone laughed.",
+          "zh": "每个人笑。",
+          "startMs": 482800,
+          "endMs": 484380
+        },
+        {
+          "en": "Said Mrs May.",
+          "zh": "Biff， 说太太梅。",
+          "startMs": 486920,
+          "endMs": 488560
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 471670,
+      "endMs": 488910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I have some good news,\" said Mrs May.",
+          "zh": "我有一些好的新的， 说太太梅。",
+          "startMs": 488590,
+          "endMs": 491630
+        },
+        {
+          "en": "\"The mayor loves your joke machine.",
+          "zh": "这市长爱你的笑话机器。",
+          "startMs": 491630,
+          "endMs": 492600
+        },
+        {
+          "en": "She wants to buy all your jokes!",
+          "zh": "她想要到买全部你的笑话！",
+          "startMs": 492630,
+          "endMs": 495800
+        },
+        {
+          "en": "Guess how much she will pay for each one?\" \"We don't know,\" Said everyone.",
+          "zh": "猜测如何许多她将付钱为了每个一？ 我们不知道， 说 Biff。 Gran， 说每个人。",
+          "startMs": 495900,
+          "endMs": 505130
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 488910,
+      "endMs": 505480
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How much will she pay for each one?\" \"Two pounds!\" Said Mrs May.",
+          "zh": "如何许多将她付钱为了每个一？ 二磅！ Biff， 说太太梅。",
+          "startMs": 506140,
+          "endMs": 513500
+        },
+        {
+          "en": "\"Fifty jokes at two pounds each!\" Said Nadim.",
+          "zh": "五十笑话在二磅每个！ 说 Nadim。",
+          "startMs": 514240,
+          "endMs": 519460
+        },
+        {
+          "en": "\"That's a hundred pounds!\" Said Wilf.",
+          "zh": "那是一个一百磅！ 帮助！ 说 Wilf。",
+          "startMs": 519490,
+          "endMs": 527220
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 505990,
+      "endMs": 527570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But we've sold twenty jokes,\" said Wilf.",
+          "zh": "SERUCE 但是我们已经卖二十笑话， 说 Wilf。",
+          "startMs": 527250,
+          "endMs": 529960
+        },
+        {
+          "en": "\"There are only thirty left.\"",
+          "zh": "那里是只有三十离开。",
+          "startMs": 529960,
+          "endMs": 530160
+        },
+        {
+          "en": "\"I've been putting them back,\" said Nadim.",
+          "zh": "我已经是放他们回来， 说 Nadim。 » 说 Nadim。",
+          "startMs": 530160,
+          "endMs": 534180
+        },
+        {
+          "en": "\"There are still fifty in there.\"",
+          "zh": "那里是仍然五十在……里那里。",
+          "startMs": 534210,
+          "endMs": 536800
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 527570,
+      "endMs": 537150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Three cheers for Nadim!\" Said Anneena.",
+          "zh": "Wilf 扔这钥匙到 Nadim。 我， 说 Anneena。",
+          "startMs": 538640,
+          "endMs": 545100
+        },
+        {
+          "en": "\"It was his brilliant idea!\"",
+          "zh": "它是他的明亮的主意！",
+          "startMs": 545130,
+          "endMs": 546960
+        },
+        {
+          "en": "\"And three cheers for the joke machine!\" Said Mrs May.",
+          "zh": "和三向为了这笑话机器！ Biff， 说太太梅。",
+          "startMs": 547220,
+          "endMs": 554130
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 538490,
+      "endMs": 554480
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I've thought of another joke,\" said Nadim.",
+          "zh": "我已经想的另一个笑话， 说 Nadim。",
+          "startMs": 554160,
+          "endMs": 556310
+        },
+        {
+          "en": "\"What card game do crocodiles like?\" \"We don't know,\" They all said.",
+          "zh": "什么卡片游戏做鳄鱼喜欢？ 我们不知道， 说 Biff。 你好！ 他说。",
+          "startMs": 557460,
+          "endMs": 564240
+        },
+        {
+          "en": "\"What card game do crocodiles like?\"",
+          "zh": "什么卡片游戏做鳄鱼喜欢？",
+          "startMs": 565130,
+          "endMs": 568720
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 554480,
+      "endMs": 569070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Snap!\" Said Nadim.",
+          "zh": "» 说 Nadim。",
+          "startMs": 569880,
+          "endMs": 577020
+        },
+        {
+          "en": "Everyone groaned.",
+          "zh": "每个人呻吟。",
+          "startMs": 577020,
+          "endMs": 578140
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 569730,
+      "endMs": 578490
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 578490,
+      "endMs": 578491
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 578491,
+      "endMs": 578492
+    }
+  ]
+}

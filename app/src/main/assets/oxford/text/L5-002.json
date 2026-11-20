@@ -1,0 +1,598 @@
+{
+  "id": "L5-002",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was looking at a book.",
+          "zh": "Biff 正在看一本书。",
+          "startMs": 0,
+          "endMs": 960
+        },
+        {
+          "en": "The book was about pirates.",
+          "zh": "这本书是关于海盗的。",
+          "startMs": 6480,
+          "endMs": 9260
+        },
+        {
+          "en": "\"I don't like pirates,\" \" she said.",
+          "zh": "“我不喜欢海盗，”她说。",
+          "startMs": 9290,
+          "endMs": 14590
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 14940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma came to play.",
+          "zh": "Wilf 和 Wilma 来玩了。",
+          "startMs": 17860,
+          "endMs": 20240
+        },
+        {
+          "en": "They went to Biff's room.",
+          "zh": "他们去了 Biff 的房间。",
+          "startMs": 20270,
+          "endMs": 23250
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 17710,
+      "endMs": 23600
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the little house.",
+          "zh": "他们看了看小房子。",
+          "startMs": 23280,
+          "endMs": 25600
+        },
+        {
+          "en": "\"It's a magic house,\" said Biff.",
+          "zh": "“这是一座魔法房子，”Biff 说。 Biff 说道。",
+          "startMs": 25930,
+          "endMs": 30820
+        },
+        {
+          "en": "\"Don't be silly,\" said Wilma.",
+          "zh": "“别傻了，”Wilma 说。 Wilma 说道。",
+          "startMs": 30850,
+          "endMs": 35100
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 23600,
+      "endMs": 35450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the key.",
+          "zh": "他们看了看钥匙。",
+          "startMs": 35130,
+          "endMs": 37180
+        },
+        {
+          "en": "\"It's a magic key,\" Said Chip.",
+          "zh": "“这是一把魔法钥匙！” Chip 说道。",
+          "startMs": 37180,
+          "endMs": 39100
+        },
+        {
+          "en": "\"Don't be silly,\" said Wilma.",
+          "zh": "“别傻了，”Wilma 说。 Wilf 说道。",
+          "startMs": 43000,
+          "endMs": 47100
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 35450,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 47130,
+          "endMs": 48340
+        },
+        {
+          "en": "The magic was working.",
+          "zh": "魔法起作用了。",
+          "startMs": 51860,
+          "endMs": 53380
+        },
+        {
+          "en": "\"Oh help!\" Said Wilma.",
+          "zh": "哎呀，救命！ Wilma 说道。",
+          "startMs": 55070,
+          "endMs": 59810
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 47450,
+      "endMs": 60160
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic was working.",
+          "zh": "魔法起作用了。",
+          "startMs": 62860,
+          "endMs": 65160
+        },
+        {
+          "en": "The children got smaller and smaller and smaller.",
+          "zh": "孩子们变得越来越小。",
+          "startMs": 66270,
+          "endMs": 70100
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 62710,
+      "endMs": 70450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Wilf.",
+          "zh": "哎呀。 Wilf 说道。",
+          "startMs": 70400,
+          "endMs": 71960
+        },
+        {
+          "en": "\"Oh help!\" Said Wilma.",
+          "zh": "哎呀，救命！ Wilma 说道。",
+          "startMs": 73150,
+          "endMs": 75800
+        },
+        {
+          "en": "\"We don't like this,\" they said.",
+          "zh": "“我们不喜欢这样，”他们说。",
+          "startMs": 76860,
+          "endMs": 80160
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 70450,
+      "endMs": 80510
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the house.",
+          "zh": "他们看了看房子。",
+          "startMs": 86240,
+          "endMs": 88530
+        },
+        {
+          "en": "The windows were glowing.",
+          "zh": "窗户亮着光。",
+          "startMs": 88850,
+          "endMs": 90950
+        },
+        {
+          "en": "Biff went to the door.",
+          "zh": "Biff 走到门前。",
+          "startMs": 93860,
+          "endMs": 95960
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 86090,
+      "endMs": 96310
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put the key in the lock.",
+          "zh": "她把钥匙插进了锁孔。",
+          "startMs": 97860,
+          "endMs": 100920
+        },
+        {
+          "en": "She opened the door.",
+          "zh": "她打开了门。",
+          "startMs": 101860,
+          "endMs": 104560
+        },
+        {
+          "en": "The door opened.",
+          "zh": "“门开了！”",
+          "startMs": 104590,
+          "endMs": 105980
+        },
+        {
+          "en": "She opened the door.",
+          "zh": "她打开了门。",
+          "startMs": 105980,
+          "endMs": 106180
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 97710,
+      "endMs": 106530
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went inside the house.",
+          "zh": "孩子们进了屋子。",
+          "startMs": 107860,
+          "endMs": 114360
+        },
+        {
+          "en": "\"It's a magic house,\" They said.",
+          "zh": "这是一座神奇的房子。",
+          "startMs": 117860,
+          "endMs": 131250
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 107710,
+      "endMs": 131600
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the sound,\" Said Biff.",
+          "zh": "听听这声音。 Biff 说道。",
+          "startMs": 131280,
+          "endMs": 133660
+        },
+        {
+          "en": "\"Look at the sea,\" said Chip.",
+          "zh": "“看这片大海，”Chip 说。 Chip 说道。",
+          "startMs": 133660,
+          "endMs": 133860
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 131600,
+      "endMs": 134210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on,\" They said.",
+          "zh": "来吧。 他们说。",
+          "startMs": 133860,
+          "endMs": 134060
+        },
+        {
+          "en": "They ran to the sea.",
+          "zh": "他们跑向大海。",
+          "startMs": 135860,
+          "endMs": 137830
+        },
+        {
+          "en": "Wilf picked up a shell.",
+          "zh": "Wilf 捡起一个贝壳。",
+          "startMs": 139000,
+          "endMs": 141100
+        },
+        {
+          "en": "Chip picked up a coconut.",
+          "zh": "Chip 捡起一个椰子。",
+          "startMs": 141130,
+          "endMs": 141340
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 134210,
+      "endMs": 141690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff climbed up a tree.",
+          "zh": "Biff 爬上了一棵树。",
+          "startMs": 144870,
+          "endMs": 147370
+        },
+        {
+          "en": "Wilma went in the sea.",
+          "zh": "Wilma 下海了。",
+          "startMs": 147400,
+          "endMs": 149100
+        },
+        {
+          "en": "\"This is magic,\" they said.",
+          "zh": "“这是魔法。”他们说。",
+          "startMs": 151310,
+          "endMs": 155690
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 144720,
+      "endMs": 156040
+    },
+    {
+      "sentences": [
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 157160,
+          "endMs": 158010
+        },
+        {
+          "en": "They played on the sand.",
+          "zh": "他们在沙滩上玩耍。",
+          "startMs": 158860,
+          "endMs": 163960
+        },
+        {
+          "en": "They played in the sea.",
+          "zh": "他们在海里玩耍。",
+          "startMs": 164610,
+          "endMs": 166310
+        },
+        {
+          "en": "\"What an adventure!\" Said Biff.",
+          "zh": "“真是一场冒险！” Biff 说道。",
+          "startMs": 167090,
+          "endMs": 174960
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 157010,
+      "endMs": 175310
+    },
+    {
+      "sentences": [
+        {
+          "en": "A pirate came up.",
+          "zh": "一个海盗走了过来。",
+          "startMs": 175230,
+          "endMs": 180770
+        },
+        {
+          "en": "He looked at the children.",
+          "zh": "他看着孩子们。",
+          "startMs": 180860,
+          "endMs": 182220
+        },
+        {
+          "en": "\"Children!\" Said the pirate.",
+          "zh": "“孩子们！” 海盗说道。",
+          "startMs": 182810,
+          "endMs": 185600
+        },
+        {
+          "en": "\"Pirates,\" \"Pirates!\" said the children.",
+          "zh": "我喜欢海盗。",
+          "startMs": 200820,
+          "endMs": 203210
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 175310,
+      "endMs": 203560
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help!\" They said.",
+          "zh": "哎呀，救命！ 他们说。",
+          "startMs": 203210,
+          "endMs": 203410
+        },
+        {
+          "en": "\"Come on,\" Said the pirates.",
+          "zh": "来吧。 海盗们说道。",
+          "startMs": 203410,
+          "endMs": 203610
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 203560,
+      "endMs": 203960
+    },
+    {
+      "sentences": [
+        {
+          "en": "An a The pirates had a boat.",
+          "zh": "海盗们有一艘船。",
+          "startMs": 203610,
+          "endMs": 206100
+        },
+        {
+          "en": "They went to the pirate ship.",
+          "zh": "他们去了海盗船。",
+          "startMs": 206130,
+          "endMs": 206950
+        },
+        {
+          "en": "\"I don't like pirates,\" Said Biff.",
+          "zh": "我不喜欢海盗。 Biff 说道。",
+          "startMs": 208860,
+          "endMs": 218210
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 203960,
+      "endMs": 218560
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at that pirate,\" said Biff.",
+          "zh": "“瞧瞧那个海盗，”Biff 说。",
+          "startMs": 218240,
+          "endMs": 221390
+        },
+        {
+          "en": "\"Look at that big rope,\" said Chip.",
+          "zh": "“瞧瞧那根大绳子，”Chip 说。 Chip 说道。",
+          "startMs": 223000,
+          "endMs": 227100
+        },
+        {
+          "en": "\"I'm frightened,\" Said Wilf.",
+          "zh": "我害怕。 Wilf 说道。",
+          "startMs": 227130,
+          "endMs": 230570
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 218560,
+      "endMs": 230920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We wanted a party,\" said the pirate.",
+          "zh": "“我们想开个派对，”海盗说。 海盗说道。",
+          "startMs": 234000,
+          "endMs": 239100
+        },
+        {
+          "en": "\"Nobody wanted to come.",
+          "zh": "但没人愿意来。",
+          "startMs": 239130,
+          "endMs": 241690
+        },
+        {
+          "en": "Will you come to the party?\"",
+          "zh": "你会来参加派对吗？",
+          "startMs": 242290,
+          "endMs": 248100
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 233850,
+      "endMs": 248450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the party.",
+          "zh": "孩子们去了派对。",
+          "startMs": 248130,
+          "endMs": 250960
+        },
+        {
+          "en": "It was a good party.",
+          "zh": "这是一个很棒的派对。",
+          "startMs": 256320,
+          "endMs": 258290
+        },
+        {
+          "en": "\"I like pirates,\" said Biff.",
+          "zh": "“我喜欢海盗，”Biff 说。 Biff 说道。",
+          "startMs": 259000,
+          "endMs": 272100
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 248450,
+      "endMs": 272450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 22,
+      "startMs": 272450,
+      "endMs": 272451
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key was glowing.",
+          "zh": "钥匙在发光。",
+          "startMs": 272130,
+          "endMs": 273960
+        },
+        {
+          "en": "It was time to go.",
+          "zh": "该走了。",
+          "startMs": 273990,
+          "endMs": 275280
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 272451,
+      "endMs": 275630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Goodbye,\" \"Goodbye,\" said Chip.",
+          "zh": "再见！ “再见，”Chip 说道。",
+          "startMs": 276000,
+          "endMs": 278100
+        },
+        {
+          "en": "\"Thank you for the party.",
+          "zh": "谢谢你举办派对。",
+          "startMs": 278130,
+          "endMs": 279960
+        },
+        {
+          "en": "\"Oh no!\" Said the pirates.",
+          "zh": "哎呀。 海盗们说道。",
+          "startMs": 281190,
+          "endMs": 285250
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 275850,
+      "endMs": 285600
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What an adventure!\" Said Wilma.",
+          "zh": "“真是一场冒险！” Wilma 说道。",
+          "startMs": 288860,
+          "endMs": 292960
+        },
+        {
+          "en": "\"I like the pirates,\" Said Biff.",
+          "zh": "我喜欢海盗。 Biff 说道。",
+          "startMs": 292990,
+          "endMs": 296960
+        },
+        {
+          "en": "Wilf looked at the little hat.",
+          "zh": "Wilf 看着那顶小帽子。",
+          "startMs": 297000,
+          "endMs": 300100
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 288710,
+      "endMs": 300450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 300450,
+      "endMs": 300451
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 300451,
+      "endMs": 300452
+    }
+  ]
+}

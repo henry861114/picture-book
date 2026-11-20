@@ -1,0 +1,225 @@
+{
+  "id": "L3-006",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "A band came to play.",
+          "zh": "一个乐队来到玩。",
+          "startMs": 0,
+          "endMs": 6070
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"My name is Stan,\" said a man.",
+          "zh": "我的名字是 Stan， 说一个男人。",
+          "startMs": 5970,
+          "endMs": 15070
+        }
+      ],
+      "startMs": 5820,
+      "endMs": 15420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want you to help us.\"",
+          "zh": "我想要你到帮助我们。",
+          "startMs": 14970,
+          "endMs": 23070
+        }
+      ],
+      "startMs": 14820,
+      "endMs": 23420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want you to clap,\" he said.",
+          "zh": "我想要你到鼓掌， 他说。",
+          "startMs": 22970,
+          "endMs": 28070
+        }
+      ],
+      "startMs": 22820,
+      "endMs": 28420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Clap your hands and tap your feet.\"",
+          "zh": "鼓掌你的手和龙头你的脚。",
+          "startMs": 28200,
+          "endMs": 42070
+        }
+      ],
+      "startMs": 28050,
+      "endMs": 42420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want you to sing a song.\"",
+          "zh": "我想要你到唱歌一个忪。",
+          "startMs": 41970,
+          "endMs": 44170
+        }
+      ],
+      "startMs": 41820,
+      "endMs": 44520
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Sing it with us\"",
+          "zh": "唱歌它和……一起我们",
+          "startMs": 44070,
+          "endMs": 51070
+        }
+      ],
+      "startMs": 43920,
+      "endMs": 51420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children sang with the band.",
+          "zh": "这孩子们唱歌和……一起这乐队。",
+          "startMs": 61970,
+          "endMs": 66070
+        }
+      ],
+      "startMs": 61820,
+      "endMs": 66420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now clap as you sing,\" said Stan.",
+          "zh": "现在鼓掌像你唱歌， 说 Stan。",
+          "startMs": 65970,
+          "endMs": 71070
+        }
+      ],
+      "startMs": 65820,
+      "endMs": 71420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Who wants to play in the band?\"",
+          "zh": "谁想要到玩在……里这乐队？",
+          "startMs": 86970,
+          "endMs": 90070
+        }
+      ],
+      "startMs": 86820,
+      "endMs": 90420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put up their hands.",
+          "zh": "这孩子们放向上他们的手。",
+          "startMs": 89970,
+          "endMs": 99070
+        }
+      ],
+      "startMs": 89820,
+      "endMs": 99420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to play.",
+          "zh": "每个人想要到玩。",
+          "startMs": 99630,
+          "endMs": 102070
+        }
+      ],
+      "startMs": 99480,
+      "endMs": 102420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You can all play,\" said Stan.",
+          "zh": "你能全部玩， 说 Stan。",
+          "startMs": 101970,
+          "endMs": 109070
+        }
+      ],
+      "startMs": 101820,
+      "endMs": 109420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf hit the drum.",
+          "zh": "Wilf 击这鼓。",
+          "startMs": 110220,
+          "endMs": 112070
+        }
+      ],
+      "startMs": 110070,
+      "endMs": 112420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Tap it,\" said Stan.",
+          "zh": "龙头它， 说 Stan。",
+          "startMs": 111970,
+          "endMs": 115070
+        },
+        {
+          "en": "\"Don't bang it.\"",
+          "zh": "不邦它。",
+          "startMs": 114970,
+          "endMs": 127070
+        }
+      ],
+      "startMs": 111820,
+      "endMs": 127420
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a grand band!",
+          "zh": "什么一个壮观的乐队！",
+          "startMs": 127630,
+          "endMs": 134070
+        }
+      ],
+      "startMs": 127480,
+      "endMs": 134420
+    },
+    {
+      "sentences": [],
+      "startMs": 134520,
+      "endMs": 134424,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 135020,
+      "endMs": 134424,
+      "illustrationOnly": true
+    }
+  ]
+}

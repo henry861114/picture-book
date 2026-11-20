@@ -1,0 +1,105 @@
+{
+  "id": "L1-028",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are all in red.",
+          "zh": "我们是全部在……里红色的。",
+          "startMs": 0,
+          "endMs": 7900
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8250
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are all in blue.",
+          "zh": "我们是全部在……里蓝色的。",
+          "startMs": 7800,
+          "endMs": 16900
+        }
+      ],
+      "startMs": 7650,
+      "endMs": 17250
+    },
+    {
+      "sentences": [],
+      "startMs": 16810,
+      "endMs": 17610,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come on the reds!",
+          "zh": "来在……上这红色的！",
+          "startMs": 16800,
+          "endMs": 22900
+        }
+      ],
+      "startMs": 16650,
+      "endMs": 23250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come on the blues!",
+          "zh": "来在……上这蓝色的！",
+          "startMs": 22800,
+          "endMs": 27900
+        }
+      ],
+      "startMs": 22650,
+      "endMs": 28250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is in red?",
+          "zh": "谁是在……里红色的？",
+          "startMs": 27990,
+          "endMs": 36900
+        }
+      ],
+      "startMs": 27840,
+      "endMs": 37250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is in blue?",
+          "zh": "谁是在……里蓝色的？",
+          "startMs": 36800,
+          "endMs": 42900
+        }
+      ],
+      "startMs": 36650,
+      "endMs": 43250
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are all muddy.",
+          "zh": "我们是全部泥泞的。",
+          "startMs": 42800,
+          "endMs": 47900
+        }
+      ],
+      "startMs": 42650,
+      "endMs": 48250
+    }
+  ]
+}

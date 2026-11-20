@@ -1,0 +1,195 @@
+{
+  "id": "L2-011",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had spots.",
+          "zh": "Kipper 有点。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [],
+      "startMs": 6590,
+      "endMs": 7620,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had spots too.",
+          "zh": "Biff 和 Chip 有点也。",
+          "startMs": 14000,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The doctor came.",
+          "zh": "这医生来。",
+          "startMs": 20000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stay in bed,\" she said.",
+          "zh": "停留在……里床， 她说。",
+          "startMs": 23000,
+          "endMs": 26100
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 26450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had spots.",
+          "zh": "妈妈有点。",
+          "startMs": 30000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stay in bed, too,\" said the doctor.",
+          "zh": "停留在……里床， 也， 说这医生。",
+          "startMs": 34000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 33850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked after everyone.",
+          "zh": "爸爸看在……之后每个人。",
+          "startMs": 46000,
+          "endMs": 48100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 48450
+    },
+    {
+      "sentences": [],
+      "startMs": 55820,
+      "endMs": 60673,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 60673,
+      "endMs": 61473,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 61473,
+      "endMs": 62273,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went shopping.",
+          "zh": "他去商店。",
+          "startMs": 62273,
+          "endMs": 67836
+        },
+        {
+          "en": "MISS MUTTLES 8 items NEXT CUSTOMER orless Larg Cash only",
+          "zh": "小姐 MUTTLES 8 一件物品下一个顾客 orless Larg Cash 只有",
+          "startMs": 67836,
+          "endMs": 86160
+        }
+      ],
+      "startMs": 62273,
+      "endMs": 86160
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a job!\" said Dad.",
+          "zh": "什么一个工作！ 说爸爸。",
+          "startMs": 77000,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [],
+      "startMs": 93890,
+      "endMs": 97500,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh, no!\" said Mum.",
+          "zh": "哦， 不！ 说妈妈。",
+          "startMs": 90000,
+          "endMs": 93100
+        }
+      ],
+      "startMs": 89850,
+      "endMs": 93450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had spots.",
+          "zh": "爸爸有点。",
+          "startMs": 97000,
+          "endMs": 99100
+        }
+      ],
+      "startMs": 96850,
+      "endMs": 99450
+    },
+    {
+      "sentences": [],
+      "startMs": 109750,
+      "endMs": 110250,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 110250,
+      "endMs": 110519,
+      "illustrationOnly": true
+    }
+  ]
+}

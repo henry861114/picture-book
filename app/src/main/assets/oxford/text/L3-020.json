@@ -1,0 +1,225 @@
+{
+  "id": "L3-020",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mums and dads were busy.",
+          "zh": "这妈妈和爸爸是忙碌的。",
+          "startMs": 0,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a giant shoe.",
+          "zh": "他们做一个巨人鞋。",
+          "startMs": 16000,
+          "endMs": 20100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 20450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put it on a trailer.",
+          "zh": "他们放它在……上一个拖车。",
+          "startMs": 20000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children dressed up.",
+          "zh": "这孩子们连衣裙向上。",
+          "startMs": 30000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was the old lady.",
+          "zh": "爸爸是这旧的女士。",
+          "startMs": 33000,
+          "endMs": 36100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 36450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The giant shoe looked good.",
+          "zh": "这巨人鞋看好的。",
+          "startMs": 42000,
+          "endMs": 46100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 46450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A SHOE They took it to the carnival.",
+          "zh": "一个鞋他们拿它到这狂欢节。",
+          "startMs": 42000,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car broke down.",
+          "zh": "这汽车打破向下。",
+          "startMs": 59760,
+          "endMs": 72100
+        }
+      ],
+      "startMs": 59610,
+      "endMs": 72450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" everyone said.",
+          "zh": "哦不！ 每个人说。",
+          "startMs": 72000,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 71850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" said Wilma.",
+          "zh": "来在……上！ 说 Wilma。",
+          "startMs": 80000,
+          "endMs": 84100
+        }
+      ],
+      "startMs": 79850,
+      "endMs": 84450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A SHOE Biff, Chip, and Wilf pushed.",
+          "zh": "一个鞋 Biff， Chip， 和 Wilf 推。",
+          "startMs": 87390,
+          "endMs": 95100
+        }
+      ],
+      "startMs": 87240,
+      "endMs": 95450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" said Kipper.",
+          "zh": "来在……上！ 说 Kipper。",
+          "startMs": 95000,
+          "endMs": 98100
+        }
+      ],
+      "startMs": 94850,
+      "endMs": 98450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" said everyone.",
+          "zh": "来在……上！ 说每个人。",
+          "startMs": 98000,
+          "endMs": 103100
+        }
+      ],
+      "startMs": 97850,
+      "endMs": 103450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was an old lady.",
+          "zh": "那里是一个旧的女士。",
+          "startMs": 110000,
+          "endMs": 112100
+        },
+        {
+          "en": "She lived in a shoe.",
+          "zh": "她住在……里一个鞋。",
+          "startMs": 112030,
+          "endMs": 115100
+        }
+      ],
+      "startMs": 109850,
+      "endMs": 115450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had so many children.",
+          "zh": "她有所以许多孩子们。",
+          "startMs": 115000,
+          "endMs": 120100
+        }
+      ],
+      "startMs": 114850,
+      "endMs": 120450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a good job, too.",
+          "zh": "它是一个好的工作， 也。",
+          "startMs": 125000,
+          "endMs": 129100
+        }
+      ],
+      "startMs": 124850,
+      "endMs": 129450
+    },
+    {
+      "sentences": [],
+      "startMs": 143589,
+      "endMs": 144089,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 144089,
+      "endMs": 144269,
+      "illustrationOnly": true
+    }
+  ]
+}

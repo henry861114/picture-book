@@ -1,0 +1,273 @@
+{
+  "id": "L2-031",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked.",
+          "zh": "Floppy 吠叫。",
+          "startMs": 0,
+          "endMs": 490
+        }
+      ],
+      "startMs": 0,
+      "endMs": 840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked and barked.",
+          "zh": "Floppy 吠叫和吠叫。",
+          "startMs": 0,
+          "endMs": 7150
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7500
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" said Biff.",
+          "zh": "什么是它？ 说 Biff。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [],
+      "startMs": 3830,
+      "endMs": 4630,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" she said.",
+          "zh": "什么是它？ 她说。",
+          "startMs": 17000,
+          "endMs": 19600
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf looked.",
+          "zh": "Wilf 看。",
+          "startMs": 7920,
+          "endMs": 8720
+        }
+      ],
+      "startMs": 7920,
+      "endMs": 8720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" he said.",
+          "zh": "什么是它？ 他说。",
+          "startMs": 17000,
+          "endMs": 19600
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" said Wilma.",
+          "zh": "什么是它？ 说 Wilma。",
+          "startMs": 17000,
+          "endMs": 19600
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Is it a frog?\"",
+          "zh": "是它一个青蛙？",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" said Chip.",
+          "zh": "什么是它？ 说 Chip。",
+          "startMs": 17000,
+          "endMs": 19600
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Is it a lizard?\"",
+          "zh": "是它一个蜥蜴？",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked at it.",
+          "zh": "妈妈看在它。",
+          "startMs": 25790,
+          "endMs": 29100
+        }
+      ],
+      "startMs": 25640,
+      "endMs": 29450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" said the children.",
+          "zh": "什么是它？ 说这孩子们。",
+          "startMs": 17000,
+          "endMs": 19600
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a salamander,\" said Mum.",
+          "zh": "它是一个蝾螈， 说妈妈。",
+          "startMs": 26770,
+          "endMs": 31540
+        }
+      ],
+      "startMs": 26770,
+      "endMs": 31540
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's lost,\" she said.",
+          "zh": "它是丢失， 她说。",
+          "startMs": 29000,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 28850,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The salamander was safe.",
+          "zh": "这蝾螈是安全的。",
+          "startMs": 33508,
+          "endMs": 38340
+        }
+      ],
+      "startMs": 33508,
+      "endMs": 38340
+    },
+    {
+      "sentences": [
+        {
+          "en": "What is it?",
+          "zh": "什么是它？",
+          "startMs": 38340,
+          "endMs": 39678
+        },
+        {
+          "en": "To help children practise describing things.",
+          "zh": "到帮助孩子们练习描述东西。",
+          "startMs": 39678,
+          "endMs": 45031
+        },
+        {
+          "en": "Think of an animal and describe it in two or three sentences.",
+          "zh": "想的一个动物和描述它在……里二或者三句子。",
+          "startMs": 45031,
+          "endMs": 52451
+        },
+        {
+          "en": "Can children guess the animal you are describing?",
+          "zh": "能孩子们猜测这动物你是描述？",
+          "startMs": 52451,
+          "endMs": 58412
+        },
+        {
+          "en": "Children then describe an animal for you to guess.",
+          "zh": "孩子们然后描述一个动物为了你到猜测。",
+          "startMs": 58412,
+          "endMs": 64494
+        },
+        {
+          "en": "Have several goes each.",
+          "zh": "有几个去每个。",
+          "startMs": 64494,
+          "endMs": 67292
+        },
+        {
+          "en": "You can use these ideas straight away or on another day.",
+          "zh": "你能使用这些主意直的离开或者在……上另一个一天。",
+          "startMs": 67292,
+          "endMs": 74104
+        },
+        {
+          "en": "• Ask children to count the number of times 'what' is repeated in the story.",
+          "zh": "• 问孩子们到数数这数字的时间 '什么' 是不停的在……里这故事。",
+          "startMs": 74104,
+          "endMs": 83349
+        },
+        {
+          "en": "Practise spelling 'what'.",
+          "zh": "练习拼写 '什么'。",
+          "startMs": 83349,
+          "endMs": 86390
+        },
+        {
+          "en": "Find out more about salamanders on the Internet or in the library.",
+          "zh": "找到出更多关于蝾螈在……上这互联网或者在……里这图书馆。",
+          "startMs": 86390,
+          "endMs": 94419
+        }
+      ],
+      "startMs": 38340,
+      "endMs": 94419
+    },
+    {
+      "sentences": [],
+      "startMs": 94419,
+      "endMs": 94719,
+      "illustrationOnly": true
+    }
+  ]
+}

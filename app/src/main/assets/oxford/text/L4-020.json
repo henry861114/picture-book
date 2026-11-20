@@ -1,0 +1,273 @@
+{
+  "id": "L4-020",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim found a bat.",
+          "zh": "Nadim 找到一个球板。",
+          "startMs": 0,
+          "endMs": 7700
+        },
+        {
+          "en": "It was broken.",
+          "zh": "它是打破。",
+          "startMs": 7600,
+          "endMs": 9700
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim mended the bat.",
+          "zh": "Nadim 缝补这球板。",
+          "startMs": 13600,
+          "endMs": 15700
+        },
+        {
+          "en": "His dad helped.",
+          "zh": "他的爸爸帮助。",
+          "startMs": 16600,
+          "endMs": 18700
+        }
+      ],
+      "startMs": 13450,
+      "endMs": 19050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bat looked good.",
+          "zh": "这球板看好的。",
+          "startMs": 21600,
+          "endMs": 23700
+        }
+      ],
+      "startMs": 21450,
+      "endMs": 24050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had a robot.",
+          "zh": "Chip 有一个机器人。",
+          "startMs": 28980,
+          "endMs": 30700
+        },
+        {
+          "en": "The robot was broken.",
+          "zh": "这机器人是打破。",
+          "startMs": 30600,
+          "endMs": 32700
+        }
+      ],
+      "startMs": 28830,
+      "endMs": 33050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip liked Nadim's bat.",
+          "zh": "Chip 喜欢 Nadim 球板。",
+          "startMs": 32600,
+          "endMs": 35700
+        },
+        {
+          "en": "He swapped the robot for the bat.",
+          "zh": "他交换这机器人为了这球板。",
+          "startMs": 35600,
+          "endMs": 39700
+        }
+      ],
+      "startMs": 32450,
+      "endMs": 40050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim mended the robot.",
+          "zh": "Nadim 缝补这机器人。",
+          "startMs": 42600,
+          "endMs": 45700
+        },
+        {
+          "en": "He painted it silver.",
+          "zh": "他油漆它银。",
+          "startMs": 51600,
+          "endMs": 54700
+        }
+      ],
+      "startMs": 42450,
+      "endMs": 55050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The robot looked good.",
+          "zh": "这机器人看好的。",
+          "startMs": 54600,
+          "endMs": 57700
+        }
+      ],
+      "startMs": 54450,
+      "endMs": 58050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a skateboard.",
+          "zh": "Biff 有一个滑板。",
+          "startMs": 59600,
+          "endMs": 62700
+        },
+        {
+          "en": "It had no wheels.",
+          "zh": "它有不车轮。",
+          "startMs": 62600,
+          "endMs": 64700
+        }
+      ],
+      "startMs": 59450,
+      "endMs": 65050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff swapped it for the robot.",
+          "zh": "Biff 交换它为了这机器人。",
+          "startMs": 65600,
+          "endMs": 68700
+        }
+      ],
+      "startMs": 65450,
+      "endMs": 69050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim mended the skateboard.",
+          "zh": "Nadim 缝补这滑板。",
+          "startMs": 71600,
+          "endMs": 74700
+        },
+        {
+          "en": "He put on new wheels.",
+          "zh": "他放在……上新的车轮。",
+          "startMs": 77600,
+          "endMs": 80700
+        }
+      ],
+      "startMs": 71450,
+      "endMs": 81050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a good skateboard now, he said.",
+          "zh": "它是一个好的滑板现在， 他说。",
+          "startMs": 83600,
+          "endMs": 88700
+        }
+      ],
+      "startMs": 83450,
+      "endMs": 89050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had a bike.",
+          "zh": "Wilma 有一个自行车。",
+          "startMs": 91600,
+          "endMs": 93700
+        },
+        {
+          "en": "The bike was broken.",
+          "zh": "这自行车是打破。",
+          "startMs": 93600,
+          "endMs": 95700
+        }
+      ],
+      "startMs": 91450,
+      "endMs": 96050
+    },
+    {
+      "sentences": [
+        {
+          "en": "She swapped it for the skateboard.",
+          "zh": "她交换它为了这滑板。",
+          "startMs": 95600,
+          "endMs": 98700
+        }
+      ],
+      "startMs": 95450,
+      "endMs": 99050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim mended the bike.",
+          "zh": "Nadim 缝补这自行车。",
+          "startMs": 102600,
+          "endMs": 104700
+        },
+        {
+          "en": "He painted it black.",
+          "zh": "他油漆它黑色的。",
+          "startMs": 109600,
+          "endMs": 111700
+        }
+      ],
+      "startMs": 102450,
+      "endMs": 112050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bike looked good.",
+          "zh": "这自行车看好的。",
+          "startMs": 115710,
+          "endMs": 117700
+        }
+      ],
+      "startMs": 115560,
+      "endMs": 118050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Not bad,\" said Nadim.",
+          "zh": "不坏的， 说 Nadim。",
+          "startMs": 122600,
+          "endMs": 124310
+        }
+      ],
+      "startMs": 122450,
+      "endMs": 124660
+    },
+    {
+      "sentences": [],
+      "startMs": 136020,
+      "endMs": 136520,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 136520,
+      "endMs": 136659,
+      "illustrationOnly": true
+    }
+  ]
+}

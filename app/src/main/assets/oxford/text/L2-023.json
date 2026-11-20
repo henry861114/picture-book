@@ -1,0 +1,207 @@
+{
+  "id": "L2-023",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had a little box.",
+          "zh": "爸爸有一个小的盒子。",
+          "startMs": 0,
+          "endMs": 5710
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6060
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a present for Mum.",
+          "zh": "它是一个礼物为了妈妈。",
+          "startMs": 5610,
+          "endMs": 10040
+        }
+      ],
+      "startMs": 5460,
+      "endMs": 10390
+    },
+    {
+      "sentences": [],
+      "startMs": 13242,
+      "endMs": 14042,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有一个主意。",
+          "startMs": 11610,
+          "endMs": 19710
+        }
+      ],
+      "startMs": 11460,
+      "endMs": 20060
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted to make Mum laugh.",
+          "zh": "他想要到做妈妈笑。",
+          "startMs": 19610,
+          "endMs": 25710
+        }
+      ],
+      "startMs": 19460,
+      "endMs": 26060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad had a party.",
+          "zh": "妈妈和爸爸有一个聚会。",
+          "startMs": 27300,
+          "endMs": 35710
+        }
+      ],
+      "startMs": 27150,
+      "endMs": 36060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有一个主意。",
+          "startMs": 28850,
+          "endMs": 31390
+        }
+      ],
+      "startMs": 28700,
+      "endMs": 31740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum gave Dad a present.",
+          "zh": "妈妈给爸爸一个礼物。",
+          "startMs": 37300,
+          "endMs": 45710
+        }
+      ],
+      "startMs": 37150,
+      "endMs": 46060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad gave Mum a big box.",
+          "zh": "爸爸给妈妈一个大的盒子。",
+          "startMs": 46000,
+          "endMs": 60710
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 61060
+    },
+    {
+      "sentences": [
+        {
+          "en": "AÇM Mum had a smaller box.",
+          "zh": "一个Ç米妈妈有一个小的盒子。",
+          "startMs": 40360,
+          "endMs": 63710
+        }
+      ],
+      "startMs": 40210,
+      "endMs": 64060
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" she asked.",
+          "zh": "什么是它？ 她问。",
+          "startMs": 63610,
+          "endMs": 70710
+        }
+      ],
+      "startMs": 63460,
+      "endMs": 71060
+    },
+    {
+      "sentences": [
+        {
+          "en": "The present got smaller... and smaller",
+          "zh": "这礼物得到小的。。。 和小的",
+          "startMs": 71000,
+          "endMs": 80710
+        }
+      ],
+      "startMs": 70850,
+      "endMs": 81060
+    },
+    {
+      "sentences": [
+        {
+          "en": "and smaller.",
+          "zh": "和小的。",
+          "startMs": 80610,
+          "endMs": 83710
+        },
+        {
+          "en": "\"This is for you,\" said Dad.",
+          "zh": "这个是为了你， 说爸爸。",
+          "startMs": 83610,
+          "endMs": 90710
+        }
+      ],
+      "startMs": 80460,
+      "endMs": 91060
+    },
+    {
+      "sentences": [],
+      "startMs": 90064,
+      "endMs": 90864,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"And this is for you,\" said Mum.",
+          "zh": "和这个是为了你， 说妈妈。",
+          "startMs": 90610,
+          "endMs": 97010
+        }
+      ],
+      "startMs": 90460,
+      "endMs": 97360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh Dad!\" said Mum.",
+          "zh": "哦爸爸！ 说妈妈。",
+          "startMs": 98760,
+          "endMs": 101950
+        },
+        {
+          "en": "\"Oh Mum!\" said Dad.",
+          "zh": "哦妈妈！ 说爸爸。",
+          "startMs": 102610,
+          "endMs": 110710
+        }
+      ],
+      "startMs": 98610,
+      "endMs": 111060
+    }
+  ]
+}

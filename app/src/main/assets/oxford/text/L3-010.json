@@ -1,0 +1,225 @@
+{
+  "id": "L3-010",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked at a cat.",
+          "zh": "Floppy 吠叫在一个猫。",
+          "startMs": 0,
+          "endMs": 20340
+        },
+        {
+          "en": "The cat ran up a tree.",
+          "zh": "这猫跑向上一个树。",
+          "startMs": 20240,
+          "endMs": 25100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 25450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was cross with Floppy.",
+          "zh": "Biff 是叉形和……一起 Floppy。",
+          "startMs": 25040,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 24890,
+      "endMs": 30450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma climbed on the wall.",
+          "zh": "Wilma 爬在……上这墙。",
+          "startMs": 30000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 39450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma climbed up the tree.",
+          "zh": "Wilma 爬向上这树。",
+          "startMs": 39000,
+          "endMs": 46100
+        }
+      ],
+      "startMs": 38850,
+      "endMs": 46450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She couldn't get the cat.",
+          "zh": "她不能得到这猫。",
+          "startMs": 46000,
+          "endMs": 54100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 54450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma couldn't get down.",
+          "zh": "Wilma 不能得到向下。",
+          "startMs": 54530,
+          "endMs": 60330
+        }
+      ],
+      "startMs": 54380,
+      "endMs": 60680
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's dad was cross.",
+          "zh": "Wilma 爸爸是叉形。",
+          "startMs": 60230,
+          "endMs": 66100
+        }
+      ],
+      "startMs": 60080,
+      "endMs": 66450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put the ladder up.",
+          "zh": "他放这梯子向上。",
+          "startMs": 66000,
+          "endMs": 70100
+        }
+      ],
+      "startMs": 65850,
+      "endMs": 70450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma climbed down.",
+          "zh": "Wilma 爬向下。",
+          "startMs": 70000,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 69850,
+      "endMs": 81450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's dad climbed the tree.",
+          "zh": "Wilma 爸爸爬这树。",
+          "startMs": 81530,
+          "endMs": 91100
+        }
+      ],
+      "startMs": 81380,
+      "endMs": 91450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't get the cat.",
+          "zh": "他不能得到这猫。",
+          "startMs": 91000,
+          "endMs": 99100
+        }
+      ],
+      "startMs": 90850,
+      "endMs": 99450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's dad was stuck.",
+          "zh": "Wilma 爸爸是 stuck。",
+          "startMs": 99530,
+          "endMs": 109590
+        }
+      ],
+      "startMs": 99380,
+      "endMs": 109940
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat jumped down.",
+          "zh": "这猫跳向下。",
+          "startMs": 109490,
+          "endMs": 119100
+        }
+      ],
+      "startMs": 109340,
+      "endMs": 119450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The fireman put a ladder up.",
+          "zh": "这消防队员放一个梯子向上。",
+          "startMs": 119530,
+          "endMs": 131830
+        }
+      ],
+      "startMs": 119380,
+      "endMs": 132180
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's dad climbed down.",
+          "zh": "Wilma 爸爸爬向下。",
+          "startMs": 131730,
+          "endMs": 144100
+        }
+      ],
+      "startMs": 131580,
+      "endMs": 144450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said everyone.",
+          "zh": "哦不！ 说每个人。",
+          "startMs": 145990,
+          "endMs": 149100
+        }
+      ],
+      "startMs": 145840,
+      "endMs": 149450
+    },
+    {
+      "sentences": [],
+      "startMs": 149500,
+      "endMs": 150300,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 150300,
+      "endMs": 150650,
+      "illustrationOnly": true
+    }
+  ]
+}

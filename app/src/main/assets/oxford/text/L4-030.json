@@ -1,0 +1,375 @@
+{
+  "id": "L4-030",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were outside.",
+          "zh": "这孩子们是外面。",
+          "startMs": 0,
+          "endMs": 3260
+        },
+        {
+          "en": "They were playing football.",
+          "zh": "他们是玩足球运动。",
+          "startMs": 3160,
+          "endMs": 10100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf kicked the ball.",
+          "zh": "Wilf 踢这球。",
+          "startMs": 15000,
+          "endMs": 15150
+        },
+        {
+          "en": "It landed in a bush.",
+          "zh": "它拥有大量土地的在……里一个灌木。",
+          "startMs": 15000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 14850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "- Me \"Sorry,\" said Wilf.",
+          "zh": "- 我对不起， 说 Wilf。",
+          "startMs": 23000,
+          "endMs": 23150
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 23500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf couldn't get the ball.",
+          "zh": "Wilf 不能得到这球。",
+          "startMs": 29620,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 29470,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can get it,\" said Kipper.",
+          "zh": "我能得到它， 说 Kipper。",
+          "startMs": 34000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 33850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper found a case.",
+          "zh": "Kipper 找到一个箱子。",
+          "startMs": 41000,
+          "endMs": 43100
+        }
+      ],
+      "startMs": 40850,
+      "endMs": 43450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at this,\" he said.",
+          "zh": "看在这个， 他说。",
+          "startMs": 45000,
+          "endMs": 47100
+        },
+        {
+          "en": "\"I found it in the bush.\"",
+          "zh": "我找到它在……里这灌木。",
+          "startMs": 47000,
+          "endMs": 49100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 49450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at the case.",
+          "zh": "爸爸看在这箱子。",
+          "startMs": 54000,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't open it.",
+          "zh": "他不能打开它。",
+          "startMs": 58030,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 57880,
+      "endMs": 60450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf looked at the case.",
+          "zh": "Wilf 看在这箱子。",
+          "startMs": 54000,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What can be in it?\" he asked.",
+          "zh": "什么能是在……里它？ 他问。",
+          "startMs": 66000,
+          "endMs": 69140
+        },
+        {
+          "en": "\"It looks important.\"",
+          "zh": "它看重要的。",
+          "startMs": 69040,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 65850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is in it?\" asked Wilma.",
+          "zh": "什么是在……里它？ 问 Wilma。",
+          "startMs": 75000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 77450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't know,\" said Chip, \"but it looks very important.\"",
+          "zh": "我不知道， 说 Chip， 但是它看非常重要的。",
+          "startMs": 78000,
+          "endMs": 82100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 82450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is in the case?\" asked Kipper.",
+          "zh": "什么是在……里这箱子？ 问 Kipper。",
+          "startMs": 85030,
+          "endMs": 88100
+        }
+      ],
+      "startMs": 84880,
+      "endMs": 88450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't know,\" said Biff, \"but it looks very, very important.\"",
+          "zh": "我不知道， 说 Biff， 但是它看非常， 非常重要的。",
+          "startMs": 89000,
+          "endMs": 94100
+        }
+      ],
+      "startMs": 88850,
+      "endMs": 94450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is in this case?\" asked Dad.",
+          "zh": "什么是在……里这个箱子？ 问爸爸。",
+          "startMs": 98000,
+          "endMs": 101100
+        }
+      ],
+      "startMs": 97850,
+      "endMs": 101450
+    },
+    {
+      "sentences": [
+        {
+          "en": "We don't know,\" said the police officer, \"but it is very important.\"",
+          "zh": "我们不知道， 说这警察部门军官， 但是它是非常重要的。",
+          "startMs": 102000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 101850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man came in a big car.",
+          "zh": "一个男人来在……里一个大的汽车。",
+          "startMs": 115030,
+          "endMs": 117100
+        },
+        {
+          "en": "\"Who is he?\" asked Kipper.",
+          "zh": "谁是他？ 问 Kipper。",
+          "startMs": 120000,
+          "endMs": 122100
+        }
+      ],
+      "startMs": 114880,
+      "endMs": 122450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't know,\" said Dad, \"but he looks important.\"",
+          "zh": "我不知道， 说爸爸， 但是他看重要的。",
+          "startMs": 123000,
+          "endMs": 127100
+        }
+      ],
+      "startMs": 122850,
+      "endMs": 127450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man took the case.",
+          "zh": "这男人拿这箱子。",
+          "startMs": 132000,
+          "endMs": 134100
+        }
+      ],
+      "startMs": 131850,
+      "endMs": 134450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's my case,\" he said.",
+          "zh": "它是我的箱子， 他说。",
+          "startMs": 134000,
+          "endMs": 136100
+        },
+        {
+          "en": "\"Thank you.",
+          "zh": "谢谢你。",
+          "startMs": 137000,
+          "endMs": 137130
+        },
+        {
+          "en": "It was stolen.",
+          "zh": "它是 stolen。",
+          "startMs": 137030,
+          "endMs": 138140
+        },
+        {
+          "en": "It is very important.\"",
+          "zh": "它是非常重要的。",
+          "startMs": 138040,
+          "endMs": 140100
+        }
+      ],
+      "startMs": 133850,
+      "endMs": 140450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man got in the car.",
+          "zh": "这男人得到在……里这汽车。",
+          "startMs": 145030,
+          "endMs": 147100
+        }
+      ],
+      "startMs": 144880,
+      "endMs": 147450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Excuse me,\" said Wilma.",
+          "zh": "借口我， 说 Wilma。",
+          "startMs": 147000,
+          "endMs": 150100
+        },
+        {
+          "en": "\"What is in the case?\"",
+          "zh": "什么是在……里这箱子？",
+          "startMs": 150000,
+          "endMs": 151100
+        }
+      ],
+      "startMs": 146850,
+      "endMs": 151450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ah!\" said the man.",
+          "zh": "啊！ 说这男人。",
+          "startMs": 157000,
+          "endMs": 159100
+        },
+        {
+          "en": "\"My sandwiches!",
+          "zh": "我的三明治！",
+          "startMs": 159000,
+          "endMs": 161100
+        }
+      ],
+      "startMs": 156850,
+      "endMs": 161450
+    },
+    {
+      "sentences": [],
+      "startMs": 168270,
+      "endMs": 168746,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 168770,
+      "endMs": 168746,
+      "illustrationOnly": true
+    }
+  ]
+}

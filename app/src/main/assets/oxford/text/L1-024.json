@@ -1,0 +1,106 @@
+{
+  "id": "L1-024",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "I see Biff.",
+          "zh": "我看见 Biff。",
+          "startMs": 0,
+          "endMs": 10580
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10930
+    },
+    {
+      "sentences": [
+        {
+          "en": "I see Chip.",
+          "zh": "我看见 Chip。",
+          "startMs": 0,
+          "endMs": 20230
+        }
+      ],
+      "startMs": 0,
+      "endMs": 20580
+    },
+    {
+      "sentences": [
+        {
+          "en": "I see Mum and Dad.",
+          "zh": "我看见妈妈和爸爸。",
+          "startMs": 0,
+          "endMs": 31620
+        }
+      ],
+      "startMs": 0,
+      "endMs": 31970
+    },
+    {
+      "sentences": [
+        {
+          "en": "We see Kipper.",
+          "zh": "我们看见 Kipper。",
+          "startMs": 32330,
+          "endMs": 32980
+        }
+      ],
+      "startMs": 32180,
+      "endMs": 33330
+    },
+    {
+      "sentences": [
+        {
+          "en": "We see Floppy.",
+          "zh": "我们看见 Floppy。",
+          "startMs": 31000,
+          "endMs": 37250
+        }
+      ],
+      "startMs": 31000,
+      "endMs": 37250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip.",
+          "zh": "Biff 和 Chip。",
+          "startMs": 44400,
+          "endMs": 49580
+        }
+      ],
+      "startMs": 44250,
+      "endMs": 49930
+    },
+    {
+      "sentences": [
+        {
+          "en": "I see me.",
+          "zh": "我看见我。",
+          "startMs": 58820,
+          "endMs": 60400
+        }
+      ],
+      "startMs": 58670,
+      "endMs": 60750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff Chip Kipper Mum and Dad LITT Floppy and Chip",
+          "zh": "BiffChipKipper 妈妈和爸爸 LITT Floppy 和 Chip",
+          "startMs": 51570,
+          "endMs": 80000
+        }
+      ],
+      "startMs": 51570,
+      "endMs": 80000
+    }
+  ]
+}

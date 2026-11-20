@@ -1,0 +1,1045 @@
+{
+  "id": "L7-001",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf came to play with Chip.",
+          "zh": "Wilf 来到玩和……一起 Chip。",
+          "startMs": 0,
+          "endMs": 2580
+        },
+        {
+          "en": "They made a rocket ship out of bits and pieces.",
+          "zh": "他们做一个火箭轮船出的一小块和块。",
+          "startMs": 2610,
+          "endMs": 5560
+        },
+        {
+          "en": "The rocket ship looked quite good.",
+          "zh": "这火箭轮船看相当好的。",
+          "startMs": 13320,
+          "endMs": 19740
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 20090
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Chip played in the rocket ship.",
+          "zh": "Wilf 和 Chip 玩在……里这火箭轮船。",
+          "startMs": 19770,
+          "endMs": 22860
+        },
+        {
+          "en": "They pretended to be spacemen.",
+          "zh": "他们假装的到是太空人。",
+          "startMs": 22890,
+          "endMs": 24660
+        },
+        {
+          "en": "\"The rocket is going to take off,\" said Wilf.",
+          "zh": "这火箭是去到拿离开， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 24960,
+          "endMs": 29260
+        },
+        {
+          "en": "\"Five, four, three, two.\" Called Chip.",
+          "zh": "五。。。 四。。。 三。。。 二。。。 来在……上， 叫 Chip。",
+          "startMs": 29290,
+          "endMs": 42500
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 20090,
+      "endMs": 42850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran up.",
+          "zh": "Floppy 跑向上。",
+          "startMs": 42530,
+          "endMs": 43920
+        },
+        {
+          "en": "He wanted to get in the rocket ship with Wilf and Chip.",
+          "zh": "他想要到得到在……里这火箭轮船和……一起 Wilf 和 Chip。",
+          "startMs": 43920,
+          "endMs": 44120
+        },
+        {
+          "en": "\"Go away, Floppy,\" called Chip.",
+          "zh": "去离开， Floppy， 叫 Chip。",
+          "startMs": 44120,
+          "endMs": 45360
+        },
+        {
+          "en": "\"The rocket is going to take off!\"",
+          "zh": "这火箭是去到拿离开！",
+          "startMs": 46260,
+          "endMs": 48600
+        },
+        {
+          "en": "Just then, it began to rain.",
+          "zh": "刚刚然后， 它开始到雨。",
+          "startMs": 63270,
+          "endMs": 65640
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 42850,
+      "endMs": 65990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim came to play.",
+          "zh": "Nadim 来到玩。",
+          "startMs": 65670,
+          "endMs": 67390
+        },
+        {
+          "en": "He had his computer with him, but he liked the look of the rocket ship.",
+          "zh": "他有他的电脑和……一起他， 但是他喜欢这看的这火箭轮船。",
+          "startMs": 67390,
+          "endMs": 67590
+        },
+        {
+          "en": "He wanted to play in it too. Said Chip.",
+          "zh": "他想要到玩在……里它也。 哦！ 说 Chip。",
+          "startMs": 67590,
+          "endMs": 67790
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 65990,
+      "endMs": 68140
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There's not room for all of us,\" said Chip.",
+          "zh": "有不房间为了全部的我们， 说 Chip。",
+          "startMs": 67790,
+          "endMs": 70290
+        },
+        {
+          "en": "\"Let's go inside and play with Nadim's computer.\"",
+          "zh": "让我们去里面和玩和……一起 Nadim 电脑。",
+          "startMs": 71380,
+          "endMs": 75140
+        },
+        {
+          "en": "They played a game on the computer.",
+          "zh": "他们玩一个游戏在……上这电脑。",
+          "startMs": 80290,
+          "endMs": 82540
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 68140,
+      "endMs": 82890
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was called Red Planet.",
+          "zh": "它是叫红色的行星。",
+          "startMs": 82770,
+          "endMs": 84840
+        },
+        {
+          "en": "They had to land a rocket on the planet.",
+          "zh": "他们有到陆地一个火箭在……上这行星。",
+          "startMs": 85290,
+          "endMs": 88760
+        },
+        {
+          "en": "Wilf and Chip crashed the rocket.",
+          "zh": "Wilf 和 Chip 锵锵作响这火箭。",
+          "startMs": 88790,
+          "endMs": 91920
+        },
+        {
+          "en": "Nadim didn't.",
+          "zh": "Nadim 没有。",
+          "startMs": 91950,
+          "endMs": 93140
+        },
+        {
+          "en": "He was good at the game.",
+          "zh": "他是好的在这游戏。",
+          "startMs": 93170,
+          "endMs": 95000
+        },
+        {
+          "en": "\"Come on,\" Called Chip.",
+          "zh": "来在……上！ 来在……上， 叫 Chip。",
+          "startMs": 105940,
+          "endMs": 107920
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 82890,
+      "endMs": 108270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 107950,
+          "endMs": 110660
+        },
+        {
+          "en": "Chip and Wilf pulled Nadim away from the computer and ran into Biff's room.",
+          "zh": "Chip 和 Wilf 拉 Nadim 离开从这电脑和跑进入 Biff 房间。",
+          "startMs": 110660,
+          "endMs": 110860
+        },
+        {
+          "en": "\"It's time for an adventure.\" \"Come on,\" The magic took them to a rocket ship.",
+          "zh": "它是时间为了一个冒险。 来在……上！",
+          "startMs": 110860,
+          "endMs": 126900
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 108270,
+      "endMs": 127250
+    },
+    {
+      "sentences": [
+        {
+          "en": "It took Floppy too.",
+          "zh": "它拿 Floppy 也。",
+          "startMs": 126930,
+          "endMs": 128760
+        },
+        {
+          "en": "The rocket looked as if it was about to take off, but the door was open.",
+          "zh": "这火箭看像如果它是关于到拿离开， 但是这门是打开。",
+          "startMs": 129060,
+          "endMs": 134360
+        },
+        {
+          "en": "Nadim wanted to look inside the rocket.",
+          "zh": "Nadim 想要到看里面这火箭。",
+          "startMs": 134510,
+          "endMs": 137340
+        },
+        {
+          "en": "He called.",
+          "zh": "来在……上， 他叫。",
+          "startMs": 138560,
+          "endMs": 139500
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 127250,
+      "endMs": 139850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip didn't want to go inside.",
+          "zh": "Chip 没有想要到去里面。",
+          "startMs": 140190,
+          "endMs": 142120
+        },
+        {
+          "en": "\"It may not be safe,\" he said.",
+          "zh": "它梅不是安全的， 他说。",
+          "startMs": 142150,
+          "endMs": 146200
+        },
+        {
+          "en": "\"Why not?\" Said Nadim.",
+          "zh": "为什么？ » 说 Nadim。",
+          "startMs": 146230,
+          "endMs": 147880
+        },
+        {
+          "en": "\"This is a magic adventure.\"",
+          "zh": "这个是一个魔法冒险。",
+          "startMs": 148420,
+          "endMs": 150240
+        },
+        {
+          "en": "They went inside the rocket. Said Nadim.",
+          "zh": "他们去里面这火箭。 » 说 Nadim。",
+          "startMs": 154920,
+          "endMs": 157640
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 140040,
+      "endMs": 157990
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was nobody there.",
+          "zh": "那里是没有人那里。",
+          "startMs": 157670,
+          "endMs": 158220
+        },
+        {
+          "en": "\"Look at this computer,\" said Nadim.",
+          "zh": "看在这个电脑， 说 Nadim。",
+          "startMs": 158340,
+          "endMs": 161680
+        },
+        {
+          "en": "Floppy jumped up and put his paw on a button.",
+          "zh": "Floppy 跳向上和放他的爪在……上一个纽扣。",
+          "startMs": 163240,
+          "endMs": 167940
+        },
+        {
+          "en": "\"Five, four, three, two, one.\"",
+          "zh": "五。。。 四。。。 三。。。 二。。。 一。",
+          "startMs": 171840,
+          "endMs": 179300
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 157990,
+      "endMs": 179650
+    },
+    {
+      "sentences": [
+        {
+          "en": "The rocket began to take off.",
+          "zh": "这火箭开始到拿离开。",
+          "startMs": 179330,
+          "endMs": 181710
+        },
+        {
+          "en": "Up it went and out into space.",
+          "zh": "向上它去和出进入空间。",
+          "startMs": 182540,
+          "endMs": 185220
+        },
+        {
+          "en": "\"Oh no!\" Said Chip.",
+          "zh": "哦不！ 哦！ 说 Chip。",
+          "startMs": 185460,
+          "endMs": 189120
+        },
+        {
+          "en": "\"I don't know where we're going.\" He said.",
+          "zh": "我不知道哪里我们是去。 啊唷！",
+          "startMs": 189150,
+          "endMs": 196330
+        },
+        {
+          "en": "They went to the window and looked out.",
+          "zh": "做不瘦的出的这窗户他们去到这窗户和看出。",
+          "startMs": 210960,
+          "endMs": 214160
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 179650,
+      "endMs": 214510
+    },
+    {
+      "sentences": [
+        {
+          "en": "They began to float about inside the rocket.",
+          "zh": "他们开始到浮关于里面这火箭。",
+          "startMs": 214190,
+          "endMs": 217230
+        },
+        {
+          "en": "Nadim found some boots.",
+          "zh": "Nadim 找到一些靴子。",
+          "startMs": 217230,
+          "endMs": 217430
+        },
+        {
+          "en": "He put them on.",
+          "zh": "他放他们在……上。",
+          "startMs": 217430,
+          "endMs": 217630
+        },
+        {
+          "en": "\"We must put these boots on,\" he said.",
+          "zh": "我们必须放这些靴子在……上， 他说。",
+          "startMs": 217630,
+          "endMs": 217830
+        },
+        {
+          "en": "\"They will keep us down on the floor.\" Said Nadim.",
+          "zh": "他们将保持我们向下在……上这地板。 » 说 Nadim。",
+          "startMs": 217830,
+          "endMs": 218030
+        },
+        {
+          "en": "Nadim made the rocket land.",
+          "zh": "Nadim 做这火箭陆地。",
+          "startMs": 233450,
+          "endMs": 235520
+        },
+        {
+          "en": "\"I wouldn't like to do that again,\" They saw a big red planet.",
+          "zh": "我不会喜欢到做那个再一次， 他说。",
+          "startMs": 235580,
+          "endMs": 241360
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 214510,
+      "endMs": 241710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We are going to land on that planet,\" said Nadim.",
+          "zh": "我们是去到陆地在……上那个行星， 说 Nadim。",
+          "startMs": 241360,
+          "endMs": 241560
+        },
+        {
+          "en": "\"We will soon be there.\" He said.",
+          "zh": "我们将很快是那里。 啊唷！ 她说。",
+          "startMs": 241560,
+          "endMs": 241760
+        },
+        {
+          "en": "Thought Wilf.",
+          "zh": "Biff 想的 Gran。",
+          "startMs": 243340,
+          "endMs": 244780
+        },
+        {
+          "en": "There was red dust all over the planet.",
+          "zh": "那里是红色的灰尘全部在……上方这行星。",
+          "startMs": 248490,
+          "endMs": 251960
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 241710,
+      "endMs": 252310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a good job Nadim knows about computers,\" thought Wilf.",
+          "zh": "Nadim 知道关于电脑， 想 Wilf。",
+          "startMs": 251990,
+          "endMs": 255690
+        },
+        {
+          "en": "\"I wouldn't like to crash here.\"",
+          "zh": "我不会喜欢到锵锵作响这里。",
+          "startMs": 255690,
+          "endMs": 255890
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 252310,
+      "endMs": 256240
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were red rocks and red mountains.",
+          "zh": "那里是红色的岩石和红色的山。",
+          "startMs": 255890,
+          "endMs": 256090
+        },
+        {
+          "en": "Floppy didn't like the look of it.",
+          "zh": "Floppy 没有喜欢这看的它。",
+          "startMs": 256090,
+          "endMs": 258360
+        },
+        {
+          "en": "He began to bark and bark.",
+          "zh": "他开始到吠叫和吠叫。",
+          "startMs": 258390,
+          "endMs": 263240
+        },
+        {
+          "en": "\"There are no trees,\" he thought.",
+          "zh": "那里是不树， 他想。",
+          "startMs": 263270,
+          "endMs": 266960
+        },
+        {
+          "en": "They looked in the space buggy and found some space suits.",
+          "zh": "他们看在……里这空间折叠式童车和找到一些宇航服。",
+          "startMs": 276240,
+          "endMs": 279940
+        },
+        {
+          "en": "\"Let's put these space suits on,\" Said Wilf.",
+          "zh": "他看在这小的宇航服。 帮助！ 说 Wilf。",
+          "startMs": 279970,
+          "endMs": 283620
+        },
+        {
+          "en": "\"Then we can go outside.\"",
+          "zh": "然后我们能去外面。",
+          "startMs": 283650,
+          "endMs": 285480
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 256240,
+      "endMs": 285830
+    },
+    {
+      "sentences": [
+        {
+          "en": "They wanted to go outside and look at the planet.",
+          "zh": "他们想要到去外面和看在这行星。",
+          "startMs": 285510,
+          "endMs": 289210
+        },
+        {
+          "en": "They found a space buggy. Said Wilf.",
+          "zh": "他们找到一个空间折叠式童车。 帮助！ 说 Wilf。",
+          "startMs": 289210,
+          "endMs": 289410
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 285830,
+      "endMs": 289760
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Do you think it will be safe outside?\" Asked Chip.",
+          "zh": "做你想它将是安全的外面？ 问 Chip。 什么是它？ 问 Chip。",
+          "startMs": 289410,
+          "endMs": 289610
+        },
+        {
+          "en": "\"I don't know,\" said Wilf.",
+          "zh": "我不知道， 说 Wilf。",
+          "startMs": 289610,
+          "endMs": 291680
+        },
+        {
+          "en": "Thought Floppy.",
+          "zh": "哦不！ 想 Floppy。",
+          "startMs": 320400,
+          "endMs": 321480
+        },
+        {
+          "en": "Suddenly the ground cracked and a big hole opened up.",
+          "zh": "突然地这地面有裂纹的和一个大的洞打开向上。",
+          "startMs": 324420,
+          "endMs": 330520
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 289760,
+      "endMs": 330870
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went out on the planet in the buggy.",
+          "zh": "他们去出在……上这行星在……里这折叠式童车。",
+          "startMs": 330550,
+          "endMs": 333920
+        },
+        {
+          "en": "The buggy bumped over the rocks and the red dust flew up.",
+          "zh": "这折叠式童车撞在……上方这岩石和这红色的灰尘飞向上。",
+          "startMs": 333920,
+          "endMs": 334120
+        },
+        {
+          "en": "\"I don't like this,\" thought Floppy.",
+          "zh": "我不喜欢这个， 想 Floppy。",
+          "startMs": 334120,
+          "endMs": 334320
+        },
+        {
+          "en": "\"I'm not made for space adventures.\" \"Oh, help!\"",
+          "zh": "我是不做为了空间冒险。 帮助！",
+          "startMs": 334320,
+          "endMs": 334520
+        },
+        {
+          "en": "They fell down and down inside the planet.",
+          "zh": "他们落下向下和向下里面这行星。",
+          "startMs": 342450,
+          "endMs": 350230
+        },
+        {
+          "en": "\"I don't like this,\" thought Floppy.",
+          "zh": "我不喜欢这个， 想 Floppy。",
+          "startMs": 355780,
+          "endMs": 360440
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 330870,
+      "endMs": 360790
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help,\" said Chip, Wilf, and Nadim as the buggy fell into the hole.",
+          "zh": "哦帮助， 说 Chip， Wilf， 和 Nadim 像这折叠式童车落下进入这洞。",
+          "startMs": 360470,
+          "endMs": 365490
+        },
+        {
+          "en": "Thought Floppy.",
+          "zh": "哦不！ 想 Floppy。",
+          "startMs": 365490,
+          "endMs": 365690
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 360790,
+      "endMs": 366040
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want to go home.\" \"What a place,\" Said Wilf.",
+          "zh": "我想要到去家。 什么一个地方！ 说 Wilf。 帮助！",
+          "startMs": 365690,
+          "endMs": 379460
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 366040,
+      "endMs": 379810
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all landed with a bump.",
+          "zh": "他们全部拥有大量土地的和……一起一个撞。",
+          "startMs": 379490,
+          "endMs": 381870
+        },
+        {
+          "en": "The buggy landed with a crash and broke in two.",
+          "zh": "这折叠式童车拥有大量土地的和……一起一个锵锵作响和打破在……里二。",
+          "startMs": 381870,
+          "endMs": 382070
+        },
+        {
+          "en": "They were inside a big cave.",
+          "zh": "他们是里面一个大的洞穴。",
+          "startMs": 382070,
+          "endMs": 382270
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 379810,
+      "endMs": 382620
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at it.\"",
+          "zh": "看在它。",
+          "startMs": 382270,
+          "endMs": 382470
+        },
+        {
+          "en": "Chip looked at the buggy.",
+          "zh": "Chip 看在这折叠式童车。",
+          "startMs": 382470,
+          "endMs": 383040
+        },
+        {
+          "en": "\"It's broken,\" He said.",
+          "zh": "它是打破， 他说。 啊唷！",
+          "startMs": 383070,
+          "endMs": 385720
+        },
+        {
+          "en": "\"It's had it!\"",
+          "zh": "它是有它！",
+          "startMs": 385750,
+          "endMs": 387300
+        },
+        {
+          "en": "\"How will we get back to the rocket?\" \"Oh, no!\" Said Nadim.",
+          "zh": "如何将我们得到回来到这火箭？ 哦不！ » 说 Nadim。",
+          "startMs": 387330,
+          "endMs": 404580
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 382620,
+      "endMs": 404930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy began to bark.",
+          "zh": "Floppy 开始到吠叫。",
+          "startMs": 404610,
+          "endMs": 406330
+        },
+        {
+          "en": "There were some creatures in the cave.",
+          "zh": "那里是一些动物在……里这洞穴。",
+          "startMs": 406330,
+          "endMs": 406530
+        },
+        {
+          "en": "They looked like funny little people.",
+          "zh": "他们看喜欢有趣的小的人们。",
+          "startMs": 406530,
+          "endMs": 406730
+        },
+        {
+          "en": "\"Look at them!",
+          "zh": "看在他们！",
+          "startMs": 406730,
+          "endMs": 406930
+        },
+        {
+          "en": "I hope they like us.\"",
+          "zh": "我希望他们喜欢我们。",
+          "startMs": 406930,
+          "endMs": 413680
+        },
+        {
+          "en": "Floppy's spacesuit began to fill with air.",
+          "zh": "Floppy 宇航服开始到装满和……一起空气。",
+          "startMs": 427070,
+          "endMs": 429770
+        },
+        {
+          "en": "It got bigger and bigger.",
+          "zh": "它得到大的和大的。",
+          "startMs": 429800,
+          "endMs": 431480
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 404930,
+      "endMs": 431830
+    },
+    {
+      "sentences": [
+        {
+          "en": "The creatures looked at the boys.",
+          "zh": "这动物看在这男孩。",
+          "startMs": 431510,
+          "endMs": 433890
+        },
+        {
+          "en": "They climbed on the broken buggy and pulled out a spacesuit.",
+          "zh": "他们爬在……上这打破折叠式童车和拉出一个宇航服。",
+          "startMs": 433890,
+          "endMs": 434090
+        },
+        {
+          "en": "One of them turned a tap on Floppy's spacesuit.",
+          "zh": "一的他们转动一个龙头在……上 Floppy 宇航服。",
+          "startMs": 434090,
+          "endMs": 434290
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 431830,
+      "endMs": 434640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then Floppy began to float.",
+          "zh": "然后 Floppy 开始到浮。",
+          "startMs": 434290,
+          "endMs": 434490
+        },
+        {
+          "en": "\"Get Floppy!\" Yelled Chip.",
+          "zh": "Floppy！ 看出！ 叫喊 Chip。",
+          "startMs": 439240,
+          "endMs": 441600
+        },
+        {
+          "en": "\"Don't let him float away!\"",
+          "zh": "不让他浮离开！",
+          "startMs": 441810,
+          "endMs": 443400
+        },
+        {
+          "en": "Wilf had a good idea.",
+          "zh": "Wilf 有一个好的主意。",
+          "startMs": 461580,
+          "endMs": 461780
+        },
+        {
+          "en": "He took a spacesuit out and filled it with air.",
+          "zh": "他拿一个宇航服出和他充满它和……一起空气。",
+          "startMs": 461810,
+          "endMs": 464280
+        },
+        {
+          "en": "The spacesuit got bigger and bigger.",
+          "zh": "这宇航服得到大的和大的。",
+          "startMs": 468080,
+          "endMs": 471660
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 434640,
+      "endMs": 472010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf asked the creatures how to get out of the cave.",
+          "zh": "Wilf 问这动物如何到得到出的这洞穴。",
+          "startMs": 471690,
+          "endMs": 475720
+        },
+        {
+          "en": "They told him that there was no way out.",
+          "zh": "他们告诉他那个那里是不方式出。",
+          "startMs": 475720,
+          "endMs": 475920
+        },
+        {
+          "en": "They said that they had never been outside.",
+          "zh": "他们说那个他们有从不是外面。",
+          "startMs": 475920,
+          "endMs": 476120
+        },
+        {
+          "en": "\"Hold on!\"",
+          "zh": "去在……上！",
+          "startMs": 481850,
+          "endMs": 483950
+        },
+        {
+          "en": "Called Wilf, \"and don't let go!\"",
+          "zh": "Wilf， 和不让去！",
+          "startMs": 484110,
+          "endMs": 487250
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 472010,
+      "endMs": 487600
+    },
+    {
+      "sentences": [
+        {
+          "en": "It began to float up and up. Said Chip.",
+          "zh": "它开始到浮向上和向上。 哦！ 说 Chip。",
+          "startMs": 487280,
+          "endMs": 490650
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 487600,
+      "endMs": 491000
+    },
+    {
+      "sentences": [
+        {
+          "en": "The spacesuit floated up out of the cave.",
+          "zh": "这宇航服浮向上出的这洞穴。",
+          "startMs": 490650,
+          "endMs": 490850
+        },
+        {
+          "en": "\"We can float back to the rocket,\" said Chip.",
+          "zh": "我们能浮回来到这火箭， 说 Chip。",
+          "startMs": 490850,
+          "endMs": 493340
+        },
+        {
+          "en": "\"What a good idea!\"",
+          "zh": "什么一个好的主意！",
+          "startMs": 494070,
+          "endMs": 495720
+        },
+        {
+          "en": "\"I hope it won't go pop,\" thought Floppy.",
+          "zh": "我希望它不会去砰， 想 Floppy。",
+          "startMs": 495780,
+          "endMs": 499320
+        },
+        {
+          "en": "Thought Floppy. Said Nadim.",
+          "zh": "哦不！ 想 Floppy。 » 说 Nadim。",
+          "startMs": 499320,
+          "endMs": 511220
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 491000,
+      "endMs": 511570
+    },
+    {
+      "sentences": [
+        {
+          "en": "They floated back to the rocket.",
+          "zh": "他们浮回来到这火箭。",
+          "startMs": 511250,
+          "endMs": 513630
+        },
+        {
+          "en": "Wilf let the air out of the spacesuit and it came down to the ground.",
+          "zh": "Wilf 让这空气出的这宇航服和它来向下到这地面。",
+          "startMs": 513630,
+          "endMs": 513830
+        },
+        {
+          "en": "\"Good old Wilf!\"",
+          "zh": "好的旧的 Wilf！ 说 Nadim。",
+          "startMs": 513830,
+          "endMs": 514030
+        },
+        {
+          "en": "\"I don't like floating,\" thought Floppy.",
+          "zh": "我不喜欢漂浮的， 想 Floppy。",
+          "startMs": 514030,
+          "endMs": 519430
+        },
+        {
+          "en": "They went inside the rocket and it took off.",
+          "zh": "他们去里面这火箭。",
+          "startMs": 519460,
+          "endMs": 523040
+        },
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 535610,
+          "endMs": 537680
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 511570,
+      "endMs": 538030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim turned on the computer and looked at the screen.",
+          "zh": "Nadim 转动在……上这电脑和看在这屏风。",
+          "startMs": 537710,
+          "endMs": 541410
+        },
+        {
+          "en": "\"We'll soon be home,\" he said.",
+          "zh": "我们会很快是家， 他说。",
+          "startMs": 541410,
+          "endMs": 541610
+        },
+        {
+          "en": "\"That's good!\" Thought Floppy.",
+          "zh": "STET 那是好的！ 哦不！ 想 Floppy。",
+          "startMs": 541610,
+          "endMs": 544840
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 538030,
+      "endMs": 545190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Home Sweet Home Just then the magic key began to glow.",
+          "zh": "家含糖的家刚刚然后这魔法钥匙开始到光亮。",
+          "startMs": 544870,
+          "endMs": 548900
+        },
+        {
+          "en": "\"They won't have to land the rocket.",
+          "zh": "他们不会有到陆地这火箭。",
+          "startMs": 548900,
+          "endMs": 549100
+        },
+        {
+          "en": "Dogs don't like space adventures.\" Said Wilf.",
+          "zh": "狗不喜欢空间冒险。 帮助！ 说 Wilf。",
+          "startMs": 549100,
+          "endMs": 566420
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 545190,
+      "endMs": 566770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back home.",
+          "zh": "这魔法拿他们回来家。",
+          "startMs": 566450,
+          "endMs": 568830
+        },
+        {
+          "en": "\"I liked that adventure,\" said Wilf.",
+          "zh": "我喜欢那个冒险， 说 Wilf。",
+          "startMs": 568830,
+          "endMs": 569030
+        },
+        {
+          "en": "He looked at the little spacesuit.",
+          "zh": "他看在这小的宇航服。",
+          "startMs": 569030,
+          "endMs": 569230
+        },
+        {
+          "en": "\"So did I!\"",
+          "zh": "我刚刚做。",
+          "startMs": 569230,
+          "endMs": 570040
+        },
+        {
+          "en": "\"So did I,\" said Nadim, \"but I'm glad I didn't have to land that rocket again.\" You.",
+          "zh": "我， 说 Nadim， 但是我是高兴的我没有有到陆地那个火箭再一次。 做你？",
+          "startMs": 570070,
+          "endMs": 578974
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 566770,
+      "endMs": 579324
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 579324,
+      "endMs": 579325
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 579325,
+      "endMs": 579326
+    }
+  ]
+}

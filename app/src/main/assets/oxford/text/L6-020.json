@@ -1,0 +1,773 @@
+{
+  "id": "L6-020",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mirror Island\" Chip Chip was in his bedroom.",
+          "zh": "",
+          "startMs": 350,
+          "endMs": 7060
+        },
+        {
+          "en": "He was busy drawing.",
+          "zh": "他是忙碌的图画。",
+          "startMs": 7090,
+          "endMs": 9920
+        },
+        {
+          "en": "\"Chip!\" Called Biff.",
+          "zh": "Chip。 Biff 喊道。",
+          "startMs": 9960,
+          "endMs": 13060
+        },
+        {
+          "en": "\"Wilf and Wilma are here!\"",
+          "zh": "Wilf 和 Wilma 是这里！",
+          "startMs": 13610,
+          "endMs": 17320
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 200,
+      "endMs": 17670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip went downstairs.",
+          "zh": "Chip 去在楼下。",
+          "startMs": 19820,
+          "endMs": 23920
+        },
+        {
+          "en": "Chip showed them his drawing.",
+          "zh": "Chip 展示他们他的图画。",
+          "startMs": 23950,
+          "endMs": 26420
+        },
+        {
+          "en": "He had made a pattern.",
+          "zh": "他有做一个图案。",
+          "startMs": 26450,
+          "endMs": 28200
+        },
+        {
+          "en": "\"What is it?\" Asked Wilf.",
+          "zh": "“这是什么？” Wilf 问道。",
+          "startMs": 28640,
+          "endMs": 33790
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 19670,
+      "endMs": 34140
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks like a word,\" said Wilma.",
+          "zh": "它看喜欢一个单词， 说 Wilma。",
+          "startMs": 33820,
+          "endMs": 36380
+        },
+        {
+          "en": "\"Come up to my room,\" said Chip.",
+          "zh": "来向上到我的房间， 说 Chip。 Chip 说道。",
+          "startMs": 37960,
+          "endMs": 41060
+        },
+        {
+          "en": "\"Then I can show you.\"",
+          "zh": "然后我能展示你。",
+          "startMs": 41940,
+          "endMs": 43200
+        },
+        {
+          "en": "They went up to Chip's room.",
+          "zh": "他们去向上到 Chip 房间。",
+          "startMs": 43820,
+          "endMs": 46920
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 34140,
+      "endMs": 47270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gid chip Chip put a mirror on the paper.",
+          "zh": "Chip 放一个镜子在……上这纸。",
+          "startMs": 51350,
+          "endMs": 55040
+        },
+        {
+          "en": "The pattern said \"Chip\" in mirror writing.",
+          "zh": "这图案说 Chip 在……里镜子写。",
+          "startMs": 55070,
+          "endMs": 59920
+        },
+        {
+          "en": "Biff wanted to do some mirror writing,.",
+          "zh": "Biff 想要到做一些镜子写但是 Chip 有跑出的纸。",
+          "startMs": 59950,
+          "endMs": 63920
+        },
+        {
+          "en": "But Chip had run out of paper.",
+          "zh": "Biff 想要到做一些镜子写但是 Chip 有跑出的纸。",
+          "startMs": 63950,
+          "endMs": 66920
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 51200,
+      "endMs": 67270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went to her room to get some paper.",
+          "zh": "Biff 去到她房间到得到一些纸。",
+          "startMs": 67820,
+          "endMs": 72680
+        },
+        {
+          "en": "The magic key was glowing.",
+          "zh": "魔法钥匙在闪闪发光。",
+          "startMs": 72820,
+          "endMs": 77440
+        },
+        {
+          "en": "It was time for an adventure.",
+          "zh": "它是时间为了一个冒险。",
+          "startMs": 77470,
+          "endMs": 80950
+        },
+        {
+          "en": "\"Come here everybody,\" she called.",
+          "zh": "来这里每个人， 她叫。",
+          "startMs": 80980,
+          "endMs": 82060
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 67670,
+      "endMs": 82410
+    },
+    {
+      "sentences": [
+        {
+          "en": "She called.",
+          "zh": "她喊道。",
+          "startMs": 82090,
+          "endMs": 83920
+        },
+        {
+          "en": "The magic took them to an island.",
+          "zh": "这魔法拿他们到一个岛屿。",
+          "startMs": 87820,
+          "endMs": 92920
+        },
+        {
+          "en": "\"We have been here before,\" said Wilma.",
+          "zh": "我们有是这里在……之前， 说 Wilma。 Wilma 说道。",
+          "startMs": 92950,
+          "endMs": 97060
+        },
+        {
+          "en": "\"We met some pirates,\" said Wilf.",
+          "zh": "我们遇见一些海盗， 说 Wilf。",
+          "startMs": 97090,
+          "endMs": 100110
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 82410,
+      "endMs": 100460
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help!\" said Wilf.",
+          "zh": "哦帮助！ 说 Wilf。",
+          "startMs": 112010,
+          "endMs": 113950
+        },
+        {
+          "en": "Wilma saw some footprints in the sand.",
+          "zh": "Wilma 看见一些脚印在……里这沙。",
+          "startMs": 113980,
+          "endMs": 116690
+        },
+        {
+          "en": "\"There must be someone on the island,\" she said.",
+          "zh": "那里必须是某人在……上这岛屿， 她说。",
+          "startMs": 116690,
+          "endMs": 117090
+        },
+        {
+          "en": "\"Oh help!\" Said Wilf.",
+          "zh": "“哎呀，救命！” Wilf 说道。",
+          "startMs": 117090,
+          "endMs": 117290
+        },
+        {
+          "en": "\"There he is.\"",
+          "zh": "那里他是。",
+          "startMs": 117290,
+          "endMs": 117490
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 111860,
+      "endMs": 117840
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"He looks fierce,\" said Biff.",
+          "zh": "他看凶猛的， 说 Biff。 Biff 说道。",
+          "startMs": 118240,
+          "endMs": 124340
+        },
+        {
+          "en": "\"Run for it!\"",
+          "zh": "跑为了它！",
+          "startMs": 125420,
+          "endMs": 126940
+        },
+        {
+          "en": "The children began to run.",
+          "zh": "孩子们开始跑起来。",
+          "startMs": 128100,
+          "endMs": 130760
+        },
+        {
+          "en": "\"Stop!\" Called the man.",
+          "zh": "“停下！” 停！ 叫这男人。",
+          "startMs": 131570,
+          "endMs": 135920
+        },
+        {
+          "en": "\"Come back!\"",
+          "zh": "“回来！”",
+          "startMs": 135950,
+          "endMs": 137010
+        },
+        {
+          "en": "And he began to cry.",
+          "zh": "和他开始到哭。",
+          "startMs": 137170,
+          "endMs": 138920
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 118090,
+      "endMs": 139270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why are you crying?\" Asked Wilma.",
+          "zh": "为什么是你哭？ 问 Wilma。 Wilma 问道。",
+          "startMs": 139820,
+          "endMs": 144060
+        },
+        {
+          "en": "\"Do I frighten you?\" Asked the man.",
+          "zh": "做我使你？ 问这男人。 那个人问道。",
+          "startMs": 144090,
+          "endMs": 148830
+        },
+        {
+          "en": "\"Yes,\" Said Biff.",
+          "zh": "“可以！” Biff 说道。",
+          "startMs": 148860,
+          "endMs": 152080
+        },
+        {
+          "en": "\"You look so fierce.",
+          "zh": "你看所以凶猛的。",
+          "startMs": 152160,
+          "endMs": 153920
+        },
+        {
+          "en": "You have such long hair.\"",
+          "zh": "你有这样的长的头发。",
+          "startMs": 153950,
+          "endMs": 155920
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 139670,
+      "endMs": 156270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't look that bad, do I?\" Do I?\" Asked the man.",
+          "zh": "我不看那个坏的， 做我？ 问这男人。 “我也是！” 那个人问道。",
+          "startMs": 160580,
+          "endMs": 168060
+        },
+        {
+          "en": "Chip gave him the mirror.",
+          "zh": "Chip 给他这镜子。",
+          "startMs": 168600,
+          "endMs": 170910
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 160430,
+      "endMs": 171260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man looked in it.",
+          "zh": "这男人看在……里它。",
+          "startMs": 171270,
+          "endMs": 173170
+        },
+        {
+          "en": "\"Oh no!\" Screamed the man.",
+          "zh": "“哎呀，不好了。” 哦不！ 尖叫这男人。",
+          "startMs": 174040,
+          "endMs": 178160
+        },
+        {
+          "en": "\"I look terrible!",
+          "zh": "我看可怕的！",
+          "startMs": 178190,
+          "endMs": 179920
+        },
+        {
+          "en": "No wonder you were frightened.\"",
+          "zh": "不惊奇你是受惊的。",
+          "startMs": 180030,
+          "endMs": 183130
+        },
+        {
+          "en": "He began to cry again.",
+          "zh": "他开始到哭再一次。",
+          "startMs": 183820,
+          "endMs": 186320
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 171260,
+      "endMs": 186670
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"My name is Captain Crow,\" he said.",
+          "zh": "我的名字是船长乌鸦， 他说。",
+          "startMs": 190990,
+          "endMs": 214900
+        },
+        {
+          "en": "\"I've been alone for ten months and six days.",
+          "zh": "我已经是独自为了十月和六一天。",
+          "startMs": 214930,
+          "endMs": 218300
+        },
+        {
+          "en": "My crew took the ship.\"",
+          "zh": "我的全体船员拿这轮船。",
+          "startMs": 218300,
+          "endMs": 218500
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 190840,
+      "endMs": 218850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why did they do that?\" Asked Wilf.",
+          "zh": "为什么做他们做那个？ 问 Wilf。 Wilf 问道。",
+          "startMs": 218500,
+          "endMs": 218700
+        },
+        {
+          "en": "\"We couldn't find the treasure,\" said Captain Crow.",
+          "zh": "我们不能找到这宝藏， 说船长乌鸦。 它看奇怪的， 说船长乌鸦。",
+          "startMs": 218700,
+          "endMs": 218900
+        },
+        {
+          "en": "\"They said I was useless.\"",
+          "zh": "他们说我是无用的。",
+          "startMs": 218900,
+          "endMs": 219100
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 218850,
+      "endMs": 219450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Captain Crow had a treasure map.",
+          "zh": "船长乌鸦有一个宝藏地图。",
+          "startMs": 221130,
+          "endMs": 223820
+        },
+        {
+          "en": "The children looked at it.",
+          "zh": "这孩子们看在它。",
+          "startMs": 223850,
+          "endMs": 225920
+        },
+        {
+          "en": "\"It looks odd,\" Said Captain Crow.",
+          "zh": "“看起来真漂亮。” 它看奇怪的， 说船长乌鸦。",
+          "startMs": 225950,
+          "endMs": 230780
+        },
+        {
+          "en": "\"I couldn't understand it.\"",
+          "zh": "我不能理解它。",
+          "startMs": 230830,
+          "endMs": 233000
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 220980,
+      "endMs": 233350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at these funny words,\" Said Biff.",
+          "zh": "看在这些有趣的单词， 说 Biff。 Biff 说道。",
+          "startMs": 234850,
+          "endMs": 238910
+        },
+        {
+          "en": "\"What do they mean?\"",
+          "zh": "什么做他们意思是？",
+          "startMs": 238960,
+          "endMs": 241770
+        },
+        {
+          "en": "\"I think I understand it,\" said Chip.",
+          "zh": "我想我理解它， 说 Chip。 Chip 说道。",
+          "startMs": 241800,
+          "endMs": 246080
+        },
+        {
+          "en": "\"It's in mirror writing!\"",
+          "zh": "它是在……里镜子写！",
+          "startMs": 246110,
+          "endMs": 248100
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 234700,
+      "endMs": 248450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip put the mirror on the map.",
+          "zh": "Chip 放这镜子在……上这地图。",
+          "startMs": 251820,
+          "endMs": 256920
+        },
+        {
+          "en": "Captain Crow could read the writing.",
+          "zh": "船长乌鸦能读这写。",
+          "startMs": 256950,
+          "endMs": 258810
+        },
+        {
+          "en": "\"It says, Here lies the treasure,\" he said.",
+          "zh": "它说， 这里躺这宝藏， 他说。",
+          "startMs": 259990,
+          "endMs": 265610
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 251670,
+      "endMs": 265960
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 266030,
+          "endMs": 267470
+        },
+        {
+          "en": "He began to run.",
+          "zh": "他开始到跑。",
+          "startMs": 267500,
+          "endMs": 270620
+        },
+        {
+          "en": "\"Where are you going?\" Said Biff.",
+          "zh": "“你们要去哪里？” Biff 说道。",
+          "startMs": 270820,
+          "endMs": 274920
+        },
+        {
+          "en": "\"To get my spade!\" Said Captain Crow.",
+          "zh": "到得到我的锹！ 说船长乌鸦。 它看奇怪的， 说船长乌鸦。",
+          "startMs": 274950,
+          "endMs": 280320
+        },
+        {
+          "en": "\"Come on!\" Said Wilmer.",
+          "zh": "“快来！” Wilma 说道。",
+          "startMs": 280850,
+          "endMs": 283950
+        },
+        {
+          "en": "\"It looks as if we have some digging to do.\"",
+          "zh": "它看像如果我们有一些翻土到做。",
+          "startMs": 284740,
+          "endMs": 291060
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 265960,
+      "endMs": 291410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Captain Crow looked at the map.",
+          "zh": "船长乌鸦看在这地图。",
+          "startMs": 292210,
+          "endMs": 295920
+        },
+        {
+          "en": "\"This is the place to dig,\" he said.",
+          "zh": "这个是这地方到掘， 他说。",
+          "startMs": 295950,
+          "endMs": 299750
+        },
+        {
+          "en": "He dug and dug.",
+          "zh": "他 dug 和 dug。",
+          "startMs": 299780,
+          "endMs": 301820
+        },
+        {
+          "en": "Soon he had dug a deep hole.",
+          "zh": "很快他有 dug 一个深的洞。",
+          "startMs": 302940,
+          "endMs": 307360
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 292060,
+      "endMs": 307710
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last the spade hit a wooden box.",
+          "zh": "在最后的这锹击一个木制的盒子。",
+          "startMs": 307390,
+          "endMs": 312250
+        },
+        {
+          "en": "\"It's a big chest,\" said Captain Crow.",
+          "zh": "它是一个大的胸膛， 说船长乌鸦。 它看奇怪的， 说船长乌鸦。",
+          "startMs": 312280,
+          "endMs": 315060
+        },
+        {
+          "en": "\"Thanks to you and your mirror, I've found the treasure!\"",
+          "zh": "谢谢到你和你的镜子， 我已经找到这宝藏！",
+          "startMs": 316050,
+          "endMs": 321200
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 307710,
+      "endMs": 321550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Captain Crow opened the chest.",
+          "zh": "船长乌鸦打开这胸膛。",
+          "startMs": 326770,
+          "endMs": 330120
+        },
+        {
+          "en": "Everyone gasped.",
+          "zh": "每个人喘气。",
+          "startMs": 330850,
+          "endMs": 332270
+        },
+        {
+          "en": "It was full of gold and silver.",
+          "zh": "它是满的的黄金和银。 喊船长乌鸦。",
+          "startMs": 332300,
+          "endMs": 335790
+        },
+        {
+          "en": "\"Hooray!\" Shouted Captain Crow.",
+          "zh": "太棒了！ 帮助！ 喊船长乌鸦。",
+          "startMs": 336000,
+          "endMs": 340380
+        },
+        {
+          "en": "\"I'm rich!\"",
+          "zh": "我是富有的！",
+          "startMs": 340410,
+          "endMs": 341870
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 326620,
+      "endMs": 342220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilmer saw a ship.",
+          "zh": "Wilma 看见一个轮船。",
+          "startMs": 347180,
+          "endMs": 348860
+        },
+        {
+          "en": "It was sailing past the island.",
+          "zh": "它是帆船运动过这岛屿。",
+          "startMs": 348890,
+          "endMs": 352580
+        },
+        {
+          "en": "\"Help!\" Shouted Captain Crow.",
+          "zh": "“救命！” 帮助！ 喊船长乌鸦。",
+          "startMs": 352610,
+          "endMs": 355870
+        },
+        {
+          "en": "\"I'm over here.",
+          "zh": "我是在……上方这里。",
+          "startMs": 355900,
+          "endMs": 358920
+        },
+        {
+          "en": "Come and rescue me!\" Said Wilf.",
+          "zh": "来和解救我！ Wilf 说道。",
+          "startMs": 358950,
+          "endMs": 365060
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 347030,
+      "endMs": 365410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It can't see you,\" said Wilf.",
+          "zh": "它不能看见你， 说 Wilf。",
+          "startMs": 365090,
+          "endMs": 367440
+        },
+        {
+          "en": "Wilmer had a good idea.",
+          "zh": "Wilma 有个好主意。",
+          "startMs": 368820,
+          "endMs": 371920
+        },
+        {
+          "en": "\"Use the mirror,\" she cried.",
+          "zh": "使用这镜子， 她哭。",
+          "startMs": 371950,
+          "endMs": 377750
+        },
+        {
+          "en": "\"Flash it at the ship!\"",
+          "zh": "闪光它在这轮船！",
+          "startMs": 377780,
+          "endMs": 379830
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 365410,
+      "endMs": 380180
+    },
+    {
+      "sentences": [
+        {
+          "en": "The ship flashed back at Captain Crow.",
+          "zh": "这轮船闪光回来在船长乌鸦。",
+          "startMs": 381820,
+          "endMs": 386920
+        },
+        {
+          "en": "\"Now I can leave the island!\" He yelled.",
+          "zh": "我能离开这岛屿！ 他叫喊。 他大喊道。",
+          "startMs": 386950,
+          "endMs": 390980
+        },
+        {
+          "en": "\"Help me hide the treasure.",
+          "zh": "帮助我把这宝藏。",
+          "startMs": 392220,
+          "endMs": 393940
+        },
+        {
+          "en": "I will come back for it one day.\"",
+          "zh": "我将来回来为了它一一天。",
+          "startMs": 395260,
+          "endMs": 397770
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 381670,
+      "endMs": 398120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 403170,
+          "endMs": 405920
+        },
+        {
+          "en": "\"It's time for us to go,\" said Biff.",
+          "zh": "它是时间为了我们到去， 说 Biff。 Biff 说道。",
+          "startMs": 406960,
+          "endMs": 412060
+        },
+        {
+          "en": "\"You can keep the mirror,\" Said Chip, \"to have a shave and a haircut.\"",
+          "zh": "“你没法把他们弄进去！”",
+          "startMs": 412090,
+          "endMs": 422060
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 403020,
+      "endMs": 422410
+    },
+    {
+      "sentences": [],
+      "pdfPage": 25,
+      "startMs": 422410,
+      "endMs": 422411
+    }
+  ]
+}

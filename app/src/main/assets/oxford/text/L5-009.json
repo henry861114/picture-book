@@ -1,0 +1,574 @@
+{
+  "id": "L5-009",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were at school.",
+          "zh": "孩子们在学校。",
+          "startMs": 3860,
+          "endMs": 7960
+        },
+        {
+          "en": "They made a little theater.",
+          "zh": "他们做了一个小剧场。",
+          "startMs": 8770,
+          "endMs": 10470
+        },
+        {
+          "en": "They made it out of a box.",
+          "zh": "他们用一个盒子做成了小剧场。",
+          "startMs": 12100,
+          "endMs": 13870
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 14220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put on a play.",
+          "zh": "孩子们上演了一出戏。",
+          "startMs": 27800,
+          "endMs": 30900
+        },
+        {
+          "en": "The play was about a wizard.",
+          "zh": "这部剧讲的是一个巫师的故事。",
+          "startMs": 30930,
+          "endMs": 33870
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 27650,
+      "endMs": 34220
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was called Wizard Blot.",
+          "zh": "他名叫巫师 Blot。",
+          "startMs": 35970,
+          "endMs": 38550
+        },
+        {
+          "en": "Wizard Blot made mistakes.",
+          "zh": "巫师 Blot 犯了错误。",
+          "startMs": 38910,
+          "endMs": 41230
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 35820,
+      "endMs": 41580
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wizard Blot made a spell.",
+          "zh": "巫师 Blot 施了一个咒语。",
+          "startMs": 46960,
+          "endMs": 48870
+        },
+        {
+          "en": "The spell went wrong.",
+          "zh": "咒语出错了。",
+          "startMs": 49770,
+          "endMs": 51670
+        },
+        {
+          "en": "\"Oh, yeah!",
+          "zh": "“哦，好啊！",
+          "startMs": 53000,
+          "endMs": 54390
+        },
+        {
+          "en": "\"Oh dear!",
+          "zh": "哎呀。",
+          "startMs": 54390,
+          "endMs": 56220
+        },
+        {
+          "en": "Oh dear!\" said Wizard 4 Blot.",
+          "zh": "“哎呀！”巫师 Blot 说道。",
+          "startMs": 56250,
+          "endMs": 57510
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 46810,
+      "endMs": 57860
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone laughed.",
+          "zh": "大家都笑了。",
+          "startMs": 58230,
+          "endMs": 60330
+        },
+        {
+          "en": "Everyone liked the play.",
+          "zh": "大家都喜欢这部戏剧。",
+          "startMs": 63780,
+          "endMs": 67770
+        },
+        {
+          "en": "Mrs May liked Wizard Blot.",
+          "zh": "太太。",
+          "startMs": 67770,
+          "endMs": 69510
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 58080,
+      "endMs": 69860
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was in her room.",
+          "zh": "Biff 在她的房间里。",
+          "startMs": 74770,
+          "endMs": 77710
+        },
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 78060,
+          "endMs": 80210
+        },
+        {
+          "en": "\"Chip!",
+          "zh": "Chip！",
+          "startMs": 82910,
+          "endMs": 83510
+        },
+        {
+          "en": "Chip!\" called Biff.",
+          "zh": "Chip！”Biff 喊道。",
+          "startMs": 83910,
+          "endMs": 85370
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 74620,
+      "endMs": 85720
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip ran into Biff's bedroom.",
+          "zh": "Chip 跑进了 Biff 的卧室。",
+          "startMs": 86680,
+          "endMs": 89040
+        },
+        {
+          "en": "The magic took them inside the little house.",
+          "zh": "魔法把他们带进了小房子里。",
+          "startMs": 89770,
+          "endMs": 93450
+        },
+        {
+          "en": "The magic took them to Wizard Blot's house.",
+          "zh": "魔法把他们带到了巫师 Blot 的家。",
+          "startMs": 103860,
+          "endMs": 107070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 86530,
+      "endMs": 107420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Wizard wanted some help.",
+          "zh": "巫师需要一些帮助。",
+          "startMs": 107820,
+          "endMs": 109870
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 107670,
+      "endMs": 110220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come in!\" Said the Wizard.",
+          "zh": "“进来吧！” 巫师说道。",
+          "startMs": 111390,
+          "endMs": 114370
+        },
+        {
+          "en": "\"I wanted one helper, but two will do.\" \"Come in!\" Said the Wizard.",
+          "zh": "“我想要一个帮手，但两个也行。” “进来吧！” 巫师说道。",
+          "startMs": 114400,
+          "endMs": 127100
+        },
+        {
+          "en": "\"You can wash up.",
+          "zh": "“你们可以先洗漱一下。",
+          "startMs": 127650,
+          "endMs": 129370
+        },
+        {
+          "en": "Then you can tidy up.\"",
+          "zh": "然后你们可以收拾一下！”",
+          "startMs": 129400,
+          "endMs": 131170
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 111240,
+      "endMs": 131520
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked at the mess.",
+          "zh": "Biff 和 Chip 看着这乱七八糟的样子。",
+          "startMs": 132270,
+          "endMs": 135210
+        },
+        {
+          "en": "\"Don't be lazy,\" \"Come in!\" said the Wizard.",
+          "zh": "“别偷懒！”",
+          "startMs": 136010,
+          "endMs": 139010
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 132120,
+      "endMs": 139360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Or I'll turn you into frogs.\" [Music].",
+          "zh": "“不然我就把你们变成青蛙！” （欢快的音乐）。",
+          "startMs": 139910,
+          "endMs": 148010
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 139760,
+      "endMs": 148360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip did the washing up.",
+          "zh": "Biff 和 Chip 洗碗。",
+          "startMs": 151770,
+          "endMs": 154910
+        },
+        {
+          "en": "\"I don't like this,\" Said Chip.",
+          "zh": "“我不喜欢这样！” Chip 说道。",
+          "startMs": 159270,
+          "endMs": 163370
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 151620,
+      "endMs": 163720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But I don't want to be a frog.\"",
+          "zh": "“但我不想变成青蛙！”",
+          "startMs": 163400,
+          "endMs": 165850
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 163720,
+      "endMs": 166200
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't like ironing,\" \"We don't want to be frogs.\" Oh, no!",
+          "zh": "“我不喜欢熨衣服！”",
+          "startMs": 170930,
+          "endMs": 187570
+        },
+        {
+          "en": "Biff dropped a bottle.",
+          "zh": "Biff 掉了一瓶东西。",
+          "startMs": 187600,
+          "endMs": 189430
+        },
+        {
+          "en": "It was vanishing cream.",
+          "zh": "那是隐身霜。",
+          "startMs": 189460,
+          "endMs": 191370
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 170780,
+      "endMs": 191720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help!\" said Biff.",
+          "zh": "“救命！”Biff 说道。",
+          "startMs": 191400,
+          "endMs": 195010
+        },
+        {
+          "en": "\"This is vanishing cream.\"",
+          "zh": "“这是隐身霜！”",
+          "startMs": 195040,
+          "endMs": 197010
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 191720,
+      "endMs": 197360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Vanis Crea Chip looked at his hands.",
+          "zh": "Chip 看了看自己的手。",
+          "startMs": 201910,
+          "endMs": 204010
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 201760,
+      "endMs": 204360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" He said.",
+          "zh": "哎呀。 他说。",
+          "startMs": 204300,
+          "endMs": 206880
+        },
+        {
+          "en": "\"Bits of us are vanishing.",
+          "zh": "“我们的一部分正在消失！”",
+          "startMs": 207270,
+          "endMs": 209370
+        },
+        {
+          "en": "Vanish Crea He rubbed his face.",
+          "zh": "他揉了揉脸。",
+          "startMs": 211910,
+          "endMs": 214010
+        },
+        {
+          "en": "\"Oh,.",
+          "zh": "“哇！",
+          "startMs": 216910,
+          "endMs": 217010
+        },
+        {
+          "en": "No!\" Said Biff.",
+          "zh": "“不！” Biff 说道。",
+          "startMs": 217390,
+          "endMs": 219470
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 204360,
+      "endMs": 219820
+    },
+    {
+      "sentences": [],
+      "pdfPage": 19,
+      "startMs": 219820,
+      "endMs": 219821
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Your face is vanishing.\"",
+          "zh": "“你的脸正在消失！”",
+          "startMs": 219690,
+          "endMs": 221370
+        },
+        {
+          "en": "A man came to the house.",
+          "zh": "一个男人来到这栋房子。",
+          "startMs": 228380,
+          "endMs": 230370
+        },
+        {
+          "en": "He climbed through the window.",
+          "zh": "他从窗户爬了进来。",
+          "startMs": 231430,
+          "endMs": 233370
+        },
+        {
+          "en": "[Music].",
+          "zh": "（欢快的音乐）。",
+          "startMs": 234500,
+          "endMs": 238010
+        },
+        {
+          "en": "The man didn't see Biff and Chip.",
+          "zh": "那个人没有看到 Biff 和 Chip。",
+          "startMs": 239290,
+          "endMs": 242370
+        },
+        {
+          "en": "He took all the Wizard's computer disks.",
+          "zh": "他拿走了巫师的所有电脑磁盘。",
+          "startMs": 242400,
+          "endMs": 246370
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 219821,
+      "endMs": 246720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help!",
+          "zh": "“救命！”",
+          "startMs": 254410,
+          "endMs": 256030
+        },
+        {
+          "en": "Help!\" said the man.",
+          "zh": "“救命！”那个人喊道。",
+          "startMs": 256770,
+          "endMs": 258870
+        },
+        {
+          "en": "\"I'm being attacked by the washing.",
+          "zh": "“我被洗衣服袭击了！”",
+          "startMs": 259270,
+          "endMs": 262110
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 254260,
+      "endMs": 262460
+    },
+    {
+      "sentences": [
+        {
+          "en": "Thing Wizard Blot came back.",
+          "zh": "巫师 Blot 回来了。",
+          "startMs": 264370,
+          "endMs": 266010
+        },
+        {
+          "en": "Biff told him about the vanishing cream.",
+          "zh": "Biff 告诉他隐身霜的事。",
+          "startMs": 266770,
+          "endMs": 269870
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 264220,
+      "endMs": 270220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip gave Wizard Blot the computer disks.",
+          "zh": "Chip 把电脑磁盘给了巫师 Blot。",
+          "startMs": 275060,
+          "endMs": 278070
+        },
+        {
+          "en": "The Wizard was pleased.",
+          "zh": "巫师很高兴。",
+          "startMs": 278930,
+          "endMs": 280870
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 274910,
+      "endMs": 281220
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "该回家了。",
+          "startMs": 284270,
+          "endMs": 286370
+        },
+        {
+          "en": "\"Thank you,\" Said Wizard Blot.",
+          "zh": "“谢谢你。” 巫师 Blot 说道。",
+          "startMs": 287410,
+          "endMs": 291010
+        },
+        {
+          "en": "\"You come again.\"",
+          "zh": "“你再来啊！”",
+          "startMs": 291300,
+          "endMs": 293400
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 284120,
+      "endMs": 293750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a little bottle.",
+          "zh": "Biff 拿着一个小瓶子。",
+          "startMs": 307140,
+          "endMs": 308870
+        },
+        {
+          "en": "\"Don't drop it,\" said Chip.",
+          "zh": "“别把它弄掉了，”Chip 说。 Chip 说道。",
+          "startMs": 309910,
+          "endMs": 312510
+        },
+        {
+          "en": "\"It's vanishing cream.\"",
+          "zh": "“这是隐身霜！”",
+          "startMs": 312940,
+          "endMs": 314870
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 306990,
+      "endMs": 315220
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 315220,
+      "endMs": 315221
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 315221,
+      "endMs": 315222
+    }
+  ]
+}

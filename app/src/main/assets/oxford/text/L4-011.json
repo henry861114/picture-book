@@ -1,0 +1,405 @@
+{
+  "id": "L4-011",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went to school.",
+          "zh": "Biff 和 Chip 去到学校。",
+          "startMs": 0,
+          "endMs": 5100
+        },
+        {
+          "en": "They went with Wilf and Wilma.",
+          "zh": "他们去和……一起 Wilf 和 Wilma。",
+          "startMs": 5000,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip liked Mrs May.",
+          "zh": "Biff 和 Chip 喜欢太太梅。",
+          "startMs": 13000,
+          "endMs": 16100
+        },
+        {
+          "en": "They were in her class.",
+          "zh": "他们是在……里她班级。",
+          "startMs": 16000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 12850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf liked Mrs May.",
+          "zh": "Wilf 喜欢太太梅。",
+          "startMs": 19000,
+          "endMs": 21370
+        },
+        {
+          "en": "He was in her class too.",
+          "zh": "他是在……里她班级也。",
+          "startMs": 21270,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was story time.",
+          "zh": "它是故事时间。",
+          "startMs": 28260,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 28110,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The story was The Wizard of Oz.",
+          "zh": "这故事是这男巫的盎司。",
+          "startMs": 31000,
+          "endMs": 34100
+        },
+        {
+          "en": "It was about a girl and her dog.",
+          "zh": "它是关于一个女孩和她狗。",
+          "startMs": 34000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 30850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girl was Dorothy.",
+          "zh": "这女孩是 Dorothy。",
+          "startMs": 42000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a storm.",
+          "zh": "那里是一个暴风雨。",
+          "startMs": 45000,
+          "endMs": 47100
+        },
+        {
+          "en": "The wind blew the house away.",
+          "zh": "这风 blew 这房子离开。",
+          "startMs": 47000,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 51450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dorothy met the Scarecrow.",
+          "zh": "Dorothy 遇见这稻草人。",
+          "startMs": 54460,
+          "endMs": 57100
+        },
+        {
+          "en": "She met the Tin Man.",
+          "zh": "她遇见这锡男人。",
+          "startMs": 57000,
+          "endMs": 59100
+        },
+        {
+          "en": "She met the Lion.",
+          "zh": "她遇见这狮子。",
+          "startMs": 59000,
+          "endMs": 61100
+        }
+      ],
+      "startMs": 54310,
+      "endMs": 61450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dorothy met a witch.",
+          "zh": "Dorothy 遇见一个女巫。",
+          "startMs": 61000,
+          "endMs": 64100
+        }
+      ],
+      "startMs": 60850,
+      "endMs": 64450
+    },
+    {
+      "sentences": [
+        {
+          "en": "I n There was a storm.",
+          "zh": "我的那里是一个暴风雨。",
+          "startMs": 69000,
+          "endMs": 71100
+        },
+        {
+          "en": "It was playtime.",
+          "zh": "它是游戏时间。",
+          "startMs": 71000,
+          "endMs": 72610
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 72960
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children couldn't play outside.",
+          "zh": "这孩子们不能玩外面。",
+          "startMs": 75000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played inside.",
+          "zh": "这孩子们玩里面。",
+          "startMs": 85000,
+          "endMs": 88100
+        },
+        {
+          "en": "They played The Wizard of Oz.",
+          "zh": "他们玩这男巫的盎司。",
+          "startMs": 88000,
+          "endMs": 91100
+        }
+      ],
+      "startMs": 84850,
+      "endMs": 91450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May liked the little play.",
+          "zh": "太太梅喜欢这小的玩。",
+          "startMs": 91000,
+          "endMs": 95100
+        }
+      ],
+      "startMs": 90850,
+      "endMs": 95450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May put on a play.",
+          "zh": "太太梅放在……上一个玩。",
+          "startMs": 100000,
+          "endMs": 103100
+        },
+        {
+          "en": "The play was The Wizard of Oz.",
+          "zh": "这玩是这男巫的盎司。",
+          "startMs": 103000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 99850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 109420,
+          "endMs": 111100
+        }
+      ],
+      "startMs": 109270,
+      "endMs": 111450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was the Tin Man.",
+          "zh": "Chip 是这锡男人。",
+          "startMs": 115000,
+          "endMs": 117100
+        },
+        {
+          "en": "Wilf was the Lion.",
+          "zh": "Wilf 是这狮子。",
+          "startMs": 117000,
+          "endMs": 119520
+        }
+      ],
+      "startMs": 114850,
+      "endMs": 119870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was a witch.",
+          "zh": "Biff 是一个女巫。",
+          "startMs": 119420,
+          "endMs": 122100
+        }
+      ],
+      "startMs": 119270,
+      "endMs": 122450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 126600,
+          "endMs": 129100
+        },
+        {
+          "en": "He painted a house.",
+          "zh": "他油漆一个房子。",
+          "startMs": 129000,
+          "endMs": 131270
+        }
+      ],
+      "startMs": 126450,
+      "endMs": 131620
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped him.",
+          "zh": "这孩子们帮助他。",
+          "startMs": 131170,
+          "endMs": 134100
+        }
+      ],
+      "startMs": 131020,
+      "endMs": 134450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mums and dads came.",
+          "zh": "这妈妈和爸爸来。",
+          "startMs": 131170,
+          "endMs": 145150
+        },
+        {
+          "en": "They liked the play.",
+          "zh": "他们喜欢这玩。",
+          "startMs": 145000,
+          "endMs": 149100
+        }
+      ],
+      "startMs": 131020,
+      "endMs": 149450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good play!\" they said.",
+          "zh": "什么一个好的玩！ 他们说。",
+          "startMs": 149000,
+          "endMs": 154100
+        }
+      ],
+      "startMs": 148850,
+      "endMs": 154450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children liked the play.",
+          "zh": "这孩子们喜欢这玩。",
+          "startMs": 160000,
+          "endMs": 163100
+        },
+        {
+          "en": "They gave Mrs May some flowers.",
+          "zh": "他们给太太梅一些花。",
+          "startMs": 163000,
+          "endMs": 166100
+        }
+      ],
+      "startMs": 159850,
+      "endMs": 166450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It was good fun,\" said Wilf.",
+          "zh": "它是好的乐趣， 说 Wilf。",
+          "startMs": 166000,
+          "endMs": 170100
+        }
+      ],
+      "startMs": 165850,
+      "endMs": 170450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 175000,
+          "endMs": 175700
+        },
+        {
+          "en": "There was a storm.",
+          "zh": "那里是一个暴风雨。",
+          "startMs": 175600,
+          "endMs": 180100
+        },
+        {
+          "en": "\"It's like the play,\" said Chip.",
+          "zh": "它是喜欢这玩， 说 Chip。",
+          "startMs": 180000,
+          "endMs": 184100
+        }
+      ],
+      "startMs": 174850,
+      "endMs": 184450
+    },
+    {
+      "sentences": [],
+      "startMs": 193190,
+      "endMs": 193745,
+      "illustrationOnly": true
+    }
+  ]
+}

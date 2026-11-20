@@ -1,0 +1,219 @@
+{
+  "id": "L2-036",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad played his trumpet.",
+          "zh": "爸爸玩他的小号。",
+          "startMs": 0,
+          "endMs": 8450
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He played in the house.",
+          "zh": "他玩在……里这房子。",
+          "startMs": 8450,
+          "endMs": 19204
+        }
+      ],
+      "startMs": 8450,
+      "endMs": 19204
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked at Dad.",
+          "zh": "Floppy 吠叫在爸爸。",
+          "startMs": 19204,
+          "endMs": 28290
+        }
+      ],
+      "startMs": 19204,
+      "endMs": 28290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad played in the garage.",
+          "zh": "爸爸玩在……里这车库。",
+          "startMs": 26850,
+          "endMs": 45350
+        }
+      ],
+      "startMs": 26700,
+      "endMs": 45700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked at Dad.",
+          "zh": "Floppy 吠叫在爸爸。",
+          "startMs": 47420,
+          "endMs": 54180
+        }
+      ],
+      "startMs": 47270,
+      "endMs": 54530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad played in the shed.",
+          "zh": "爸爸玩在……里这她。",
+          "startMs": 54450,
+          "endMs": 59030
+        }
+      ],
+      "startMs": 54300,
+      "endMs": 59380
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked at Dad.",
+          "zh": "Floppy 吠叫在爸爸。",
+          "startMs": 47420,
+          "endMs": 54180
+        }
+      ],
+      "startMs": 47270,
+      "endMs": 54530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad played in a band.",
+          "zh": "爸爸玩在……里一个乐队。",
+          "startMs": 54450,
+          "endMs": 57990
+        }
+      ],
+      "startMs": 54300,
+      "endMs": 58340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad played his trumpet.",
+          "zh": "爸爸玩他的小号。",
+          "startMs": 69560,
+          "endMs": 73290
+        }
+      ],
+      "startMs": 69410,
+      "endMs": 73640
+    },
+    {
+      "sentences": [
+        {
+          "en": "The band played in the park.",
+          "zh": "这乐队玩在……里这公园。",
+          "startMs": 96800,
+          "endMs": 106340
+        }
+      ],
+      "startMs": 96650,
+      "endMs": 106690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy went to the park.",
+          "zh": "Floppy 去到这公园。",
+          "startMs": 106610,
+          "endMs": 117860
+        }
+      ],
+      "startMs": 106460,
+      "endMs": 118210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The band played.",
+          "zh": "这乐队玩。",
+          "startMs": 96800,
+          "endMs": 101840
+        }
+      ],
+      "startMs": 96650,
+      "endMs": 102190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked.",
+          "zh": "Floppy 吠叫。",
+          "startMs": 120160,
+          "endMs": 132660
+        }
+      ],
+      "startMs": 120010,
+      "endMs": 133010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked and barked.",
+          "zh": "Floppy 吠叫和吠叫。",
+          "startMs": 106610,
+          "endMs": 136900
+        }
+      ],
+      "startMs": 106460,
+      "endMs": 137250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The band couldn't play.",
+          "zh": "这乐队不能玩。",
+          "startMs": 136800,
+          "endMs": 143740
+        }
+      ],
+      "startMs": 136650,
+      "endMs": 144090
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a bad dog!\" said Dad.",
+          "zh": "什么一个坏的狗！ 说爸爸。",
+          "startMs": 143640,
+          "endMs": 149960
+        }
+      ],
+      "startMs": 143490,
+      "endMs": 150310
+    },
+    {
+      "sentences": [],
+      "startMs": 150690,
+      "endMs": 151112,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 151190,
+      "endMs": 151112,
+      "illustrationOnly": true
+    }
+  ]
+}

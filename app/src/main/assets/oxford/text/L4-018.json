@@ -1,0 +1,429 @@
+{
+  "id": "L4-018",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "sentences": [],
+      "startMs": 800,
+      "endMs": 1600
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were outside.",
+          "zh": "这孩子们是外面。",
+          "startMs": 1600,
+          "endMs": 8325
+        },
+        {
+          "en": "A hot air balloon went by.",
+          "zh": "一个热的空气气球去由。",
+          "startMs": 8325,
+          "endMs": 15050
+        }
+      ],
+      "startMs": 1600,
+      "endMs": 15050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May had a secret.",
+          "zh": "太太梅有一个秘密。",
+          "startMs": 15050,
+          "endMs": 17865
+        },
+        {
+          "en": "She told Wilf what it was.",
+          "zh": "她告诉 Wilf 什么它是。",
+          "startMs": 17865,
+          "endMs": 21350
+        }
+      ],
+      "startMs": 15050,
+      "endMs": 21350
+    },
+    {
+      "sentences": [
+        {
+          "en": "She wanted to go in a balloon.",
+          "zh": "她想要到去在……里一个气球。",
+          "startMs": 21350,
+          "endMs": 31375
+        }
+      ],
+      "startMs": 21350,
+      "endMs": 31375
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to watch television.",
+          "zh": "它是时间到手表电视。",
+          "startMs": 31375,
+          "endMs": 39952
+        },
+        {
+          "en": "The television went wrong.",
+          "zh": "这电视去错误的。",
+          "startMs": 39952,
+          "endMs": 46920
+        }
+      ],
+      "startMs": 31375,
+      "endMs": 46920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\"",
+          "zh": "哦不！",
+          "startMs": 46920,
+          "endMs": 48044
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 48044,
+          "endMs": 49169
+        }
+      ],
+      "startMs": 46920,
+      "endMs": 49169
+    },
+    {
+      "sentences": [
+        {
+          "en": "The photocopier went wrong.",
+          "zh": "这复印机去错误的。",
+          "startMs": 36100,
+          "endMs": 56340
+        }
+      ],
+      "startMs": 35950,
+      "endMs": 56690
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh blow!\"",
+          "zh": "哦吹！",
+          "startMs": 55491,
+          "endMs": 57963
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 57963,
+          "endMs": 59940
+        }
+      ],
+      "startMs": 55491,
+      "endMs": 59940
+    },
+    {
+      "sentences": [
+        {
+          "en": "No in put No input No input No No input Noint un The computer went wrong.",
+          "zh": "不在……里放不投入不投入不不投入 Noint un 这电脑去错误的。",
+          "startMs": 59940,
+          "endMs": 77032
+        }
+      ],
+      "startMs": 59940,
+      "endMs": 77032
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff \"Oh bother!\"",
+          "zh": "Biff 哦两个都！",
+          "startMs": 77032,
+          "endMs": 81172
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 81172,
+          "endMs": 83120
+        }
+      ],
+      "startMs": 77032,
+      "endMs": 83120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma came home.",
+          "zh": "Wilf 和 Wilma 来家。",
+          "startMs": 83120,
+          "endMs": 89110
+        },
+        {
+          "en": "They had a letter.",
+          "zh": "他们有一个信。",
+          "startMs": 89110,
+          "endMs": 93422
+        }
+      ],
+      "startMs": 83120,
+      "endMs": 93422
+    },
+    {
+      "sentences": [
+        {
+          "en": "The school wanted money.",
+          "zh": "这学校想要钱。",
+          "startMs": 93422,
+          "endMs": 99178
+        },
+        {
+          "en": "Wilf had an idea.",
+          "zh": "Wilf 有一个主意。",
+          "startMs": 99178,
+          "endMs": 103256
+        }
+      ],
+      "startMs": 93422,
+      "endMs": 103256
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked Wilf's idea.",
+          "zh": "每个人喜欢 Wilf 主意。",
+          "startMs": 103256,
+          "endMs": 109681
+        },
+        {
+          "en": "\"It's a good idea!\" everyone said.",
+          "zh": "它是一个好的主意！ 每个人说。",
+          "startMs": 109681,
+          "endMs": 117772
+        }
+      ],
+      "startMs": 103256,
+      "endMs": 117772
+    },
+    {
+      "sentences": [
+        {
+          "en": "At the School First prize: A ride in a hot-air balloon!",
+          "zh": "在这学校第一奖品： 一个骑在……里一个夸夸其谈气球！",
+          "startMs": 117772,
+          "endMs": 130942
+        },
+        {
+          "en": "Many other prizes too!",
+          "zh": "许多其他撬开也！",
+          "startMs": 130942,
+          "endMs": 136210
+        },
+        {
+          "en": "Come and have fun !!!",
+          "zh": "来和有乐趣！！！",
+          "startMs": 136210,
+          "endMs": 141239
+        },
+        {
+          "en": "Tickets only £ 1:00 All proceeds to the school fund!!!",
+          "zh": "票只有 £ 1：00 全部收益到这学校基金！！！",
+          "startMs": 141239,
+          "endMs": 154170
+        },
+        {
+          "en": "Everyone bought tickets.",
+          "zh": "每个人买票。",
+          "startMs": 154170,
+          "endMs": 159917
+        }
+      ],
+      "startMs": 117772,
+      "endMs": 159917
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May bought lots of tickets.",
+          "zh": "太太梅买许多的票。",
+          "startMs": 154360,
+          "endMs": 157460
+        }
+      ],
+      "startMs": 154210,
+      "endMs": 157810
+    },
+    {
+      "sentences": [
+        {
+          "en": "She wanted to go in the balloon.",
+          "zh": "她想要到去在……里这气球。",
+          "startMs": 159360,
+          "endMs": 162460
+        }
+      ],
+      "startMs": 159210,
+      "endMs": 162810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May won the prize.",
+          "zh": "太太梅赢这奖品。",
+          "startMs": 166360,
+          "endMs": 169460
+        },
+        {
+          "en": "She won a ride in the balloon.",
+          "zh": "她赢一个骑在……里这气球。",
+          "startMs": 169360,
+          "endMs": 172460
+        }
+      ],
+      "startMs": 166210,
+      "endMs": 172810
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a letter.",
+          "zh": "他们有一个信。",
+          "startMs": 187078,
+          "endMs": 191292
+        }
+      ],
+      "startMs": 187078,
+      "endMs": 191292
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May went up in the balloon.",
+          "zh": "太太梅去向上在……里这气球。",
+          "startMs": 178360,
+          "endMs": 181460
+        },
+        {
+          "en": "\"Hooray,\" shouted everyone.",
+          "zh": "好耶， 喊每个人。",
+          "startMs": 185360,
+          "endMs": 187460
+        }
+      ],
+      "startMs": 178210,
+      "endMs": 187810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 189860,
+          "endMs": 191460
+        }
+      ],
+      "startMs": 189710,
+      "endMs": 191810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May saw the stream.",
+          "zh": "太太梅看见这溪流。",
+          "startMs": 200360,
+          "endMs": 203460
+        },
+        {
+          "en": "She saw the houses.",
+          "zh": "她看见这房子。",
+          "startMs": 203360,
+          "endMs": 206460
+        }
+      ],
+      "startMs": 200210,
+      "endMs": 206810
+    },
+    {
+      "sentences": [
+        {
+          "en": "She looked down at the park.",
+          "zh": "她看向下在这公园。",
+          "startMs": 206360,
+          "endMs": 209460
+        },
+        {
+          "en": "She took this photograph.",
+          "zh": "她拿这个照片。",
+          "startMs": 212360,
+          "endMs": 215460
+        }
+      ],
+      "startMs": 206210,
+      "endMs": 215810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The The school made lots of money.",
+          "zh": "这这学校做许多的钱。",
+          "startMs": 220690,
+          "endMs": 223460
+        },
+        {
+          "en": "They bought lots of things.",
+          "zh": "他们买许多的东西。",
+          "startMs": 223360,
+          "endMs": 226460
+        }
+      ],
+      "startMs": 220540,
+      "endMs": 226810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May was pleased.",
+          "zh": "太太梅是请。",
+          "startMs": 248350,
+          "endMs": 253373
+        },
+        {
+          "en": "She gave Wilf a present.",
+          "zh": "她给 Wilf 一个礼物。",
+          "startMs": 253373,
+          "endMs": 259400
+        }
+      ],
+      "startMs": 248350,
+      "endMs": 259400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Thank you,\" said Wilf.",
+          "zh": "谢谢你， 说 Wilf。",
+          "startMs": 259400,
+          "endMs": 260200
+        }
+      ],
+      "startMs": 259400,
+      "endMs": 260200
+    },
+    {
+      "sentences": [],
+      "startMs": 260200,
+      "endMs": 260700,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 260700,
+      "endMs": 260598,
+      "illustrationOnly": true
+    }
+  ]
+}

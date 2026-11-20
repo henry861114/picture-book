@@ -1,0 +1,581 @@
+{
+  "id": "L6-018",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were doing a project on the Olympic Games.",
+          "zh": "这孩子们是做一个项目在……上这奥林匹克运动会的游戏。",
+          "startMs": 29,
+          "endMs": 6040
+        },
+        {
+          "en": "\"Tomorrow we will go to the museum and next week it's sports day,\" said Mrs May.",
+          "zh": "",
+          "startMs": 6160,
+          "endMs": 18420
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 18770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Everyone can enter a race on sports day,\" said Mrs May.",
+          "zh": "每个人能进来一个速度竞赛在……上运动一天， 说太太梅。",
+          "startMs": 18450,
+          "endMs": 24020
+        },
+        {
+          "en": "I think the girls should have a sewing race, laughed one of the boys.",
+          "zh": "我想这女孩应该有一个缝纫速度竞赛！ 笑一的这男孩。",
+          "startMs": 24050,
+          "endMs": 28880
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 18770,
+      "endMs": 29230
+    },
+    {
+      "sentences": [
+        {
+          "en": "After school, Anneena and Wilma went to play with Biff.",
+          "zh": "在……之后学校， Anneena 和 Wilma 去到玩和……一起 Biff。",
+          "startMs": 30680,
+          "endMs": 34480
+        },
+        {
+          "en": "Anneena was cross.",
+          "zh": "Anneena 是叉形。",
+          "startMs": 35360,
+          "endMs": 37100
+        },
+        {
+          "en": "\"Some boys are so silly,\" she said.",
+          "zh": "一些男孩是所以傻的， 她说。",
+          "startMs": 37130,
+          "endMs": 42620
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 42650,
+          "endMs": 44640
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 30530,
+      "endMs": 44990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the girls back in time, to a village in Greece.",
+          "zh": "这魔法拿这女孩回来在……里时间， 到一个村庄在……里希腊。",
+          "startMs": 62490,
+          "endMs": 66940
+        },
+        {
+          "en": "A boy was calling to the villagers, \"Follow me to the games,\" He said.",
+          "zh": "一个男孩是叫到这村民。 他说。",
+          "startMs": 66970,
+          "endMs": 73700
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 62340,
+      "endMs": 74050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can we go too?\" Asked Biff.",
+          "zh": "能我们去也？ 问 Biff。 Biff 问道。",
+          "startMs": 73860,
+          "endMs": 77640
+        },
+        {
+          "en": "\"Anyone can come!\"",
+          "zh": "任何人能来！ 说这男孩。",
+          "startMs": 77900,
+          "endMs": 79730
+        },
+        {
+          "en": "Said the boy, \"as long as they are male.\"",
+          "zh": "像长的像他们是雄性的。",
+          "startMs": 81670,
+          "endMs": 89540
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 74050,
+      "endMs": 89890
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men and the boys from the village went to the games. Said Anneena.",
+          "zh": "这男人们和这男孩从这村庄去到这游戏。 阿尼娜说。",
+          "startMs": 89570,
+          "endMs": 94920
+        },
+        {
+          "en": "\"Let's follow them,\" said Biff.",
+          "zh": "让我们跟随他们， 说 Biff。 Biff 说道。",
+          "startMs": 98880,
+          "endMs": 106180
+        },
+        {
+          "en": "They only let men and boys into the games, \"We'll never get in,\" Said Biff.",
+          "zh": "他们只有让男人们和男孩在……里到这游戏。 Biff 说道。",
+          "startMs": 109420,
+          "endMs": 116980
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 89890,
+      "endMs": 117330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Outside the games, there were lots of guards.",
+          "zh": "外面这游戏， 那里是许多的警卫。",
+          "startMs": 117010,
+          "endMs": 120050
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 117330,
+      "endMs": 120400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I wish we could see!\" Said Wilma.",
+          "zh": "我希望我们能看见！ 说 Wilma。",
+          "startMs": 120050,
+          "endMs": 126650
+        },
+        {
+          "en": "Anneena had an idea.",
+          "zh": "Anneena 有一个主意。",
+          "startMs": 127180,
+          "endMs": 128360
+        },
+        {
+          "en": "\"Let's climb a tree,\" she said.",
+          "zh": "让我们爬一个树， 她说。",
+          "startMs": 128390,
+          "endMs": 133740
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 120400,
+      "endMs": 134090
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girls climbed an olive tree.",
+          "zh": "这女孩爬一个油橄榄树。",
+          "startMs": 133770,
+          "endMs": 146640
+        },
+        {
+          "en": "They could see the games.",
+          "zh": "他们能看见这游戏。",
+          "startMs": 146670,
+          "endMs": 148360
+        },
+        {
+          "en": "They watched a race.",
+          "zh": "他们手表一个速度竞赛。",
+          "startMs": 148390,
+          "endMs": 149480
+        },
+        {
+          "en": "Lots of men ran with shields.",
+          "zh": "许多的男人们跑和……一起盾牌。",
+          "startMs": 151120,
+          "endMs": 153360
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 134090,
+      "endMs": 153710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The winner won a prize.",
+          "zh": "这获胜者赢一个奖品。",
+          "startMs": 163030,
+          "endMs": 165040
+        },
+        {
+          "en": "The prize was a vase.",
+          "zh": "这奖品是一个花瓶。",
+          "startMs": 165360,
+          "endMs": 167380
+        },
+        {
+          "en": "A man put a crown on the winner's head.",
+          "zh": "一个男人放一个王冠在……上这获胜者头。",
+          "startMs": 167410,
+          "endMs": 174240
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 162880,
+      "endMs": 174590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then the girls watched some men throwing discs as far as they could.",
+          "zh": "然后这女孩手表一些男人们扔圆盘像远像他们能。",
+          "startMs": 174270,
+          "endMs": 177740
+        },
+        {
+          "en": "\"Hey you!\" Shouted a girl.",
+          "zh": "“嘿！” 嗨你！ 喊一个女孩。",
+          "startMs": 181380,
+          "endMs": 191540
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 174590,
+      "endMs": 191890
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girl was under the tree.",
+          "zh": "这女孩是在……下方这树。",
+          "startMs": 191570,
+          "endMs": 193400
+        },
+        {
+          "en": "\"If anyone catches you here, you'll be in for the high jump!\" She said.",
+          "zh": "如果任何人抓住你这里， 你会是在……里为了这高的跳！ 她说。",
+          "startMs": 193430,
+          "endMs": 199480
+        },
+        {
+          "en": "Asked Biff. \"I'm picking olives,\" Said the girl.",
+          "zh": "Biff 问道。 我是挑选油橄榄， 说这女孩。",
+          "startMs": 202190,
+          "endMs": 206100
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 191890,
+      "endMs": 206450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Then, why are you here?\"",
+          "zh": "然后， 为什么是你这里？ 问 Biff。",
+          "startMs": 206130,
+          "endMs": 208180
+        },
+        {
+          "en": "\"My name is Hera.",
+          "zh": "我的名字是 Hera。",
+          "startMs": 208180,
+          "endMs": 208380
+        },
+        {
+          "en": "You'd better come with me to the village.\" Said Mila.",
+          "zh": "You'd 更好的来和……一起我到这村庄。 Wilma 说道。",
+          "startMs": 208380,
+          "endMs": 215810
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 206450,
+      "endMs": 216160
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the village, they met Hera's friend, Mila.",
+          "zh": "在……里这村庄， 他们遇见 Hera's 朋友， Mila。",
+          "startMs": 215840,
+          "endMs": 218920
+        },
+        {
+          "en": "\"It's always quiet when the games are on,\" said Mila.",
+          "zh": "它是总是安静的当……时这游戏是在……上， 说 Mila。",
+          "startMs": 219040,
+          "endMs": 222600
+        },
+        {
+          "en": "\"It's so boring!\"",
+          "zh": "它是所以令人厌倦的！",
+          "startMs": 224300,
+          "endMs": 226600
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 216160,
+      "endMs": 226950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, Anneena had an idea.",
+          "zh": "突然地， Anneena 有一个主意。",
+          "startMs": 227420,
+          "endMs": 229720
+        },
+        {
+          "en": "\"Can you get all of your friends together?\" She asked.",
+          "zh": "能你得到全部的你的朋友们一起？ 她问。 她问道。",
+          "startMs": 229750,
+          "endMs": 238600
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 227270,
+      "endMs": 238950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girls in the village came to the meeting.",
+          "zh": "这女孩在……里这村庄来到这遇见。",
+          "startMs": 240090,
+          "endMs": 242520
+        },
+        {
+          "en": "\"This is my grandmother,\" said Mila.",
+          "zh": "这个是我的外婆， 说 Mila。 Wilma 说道。",
+          "startMs": 242640,
+          "endMs": 245740
+        },
+        {
+          "en": "\"She paints the vases for the games.\"",
+          "zh": "她油漆这花瓶为了这游戏。",
+          "startMs": 245770,
+          "endMs": 248600
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 239940,
+      "endMs": 248950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Listen, everyone,\" \"Why should boys have all the fun?",
+          "zh": "听每个人， 说 Anneena。",
+          "startMs": 249020,
+          "endMs": 255620
+        },
+        {
+          "en": "Let's have a girls' Olympic Games!\"",
+          "zh": "让我们有一个女孩' 奥林匹克运动会的游戏！",
+          "startMs": 255800,
+          "endMs": 258240
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 248950,
+      "endMs": 258590
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were all sorts of races and all the girls took part.",
+          "zh": "那里是全部种类的速度竞赛和全部这女孩拿部分。",
+          "startMs": 262380,
+          "endMs": 271320
+        },
+        {
+          "en": "There was a three-legged race and a sack race.",
+          "zh": "那里是一个三条腿的速度竞赛和一个大口袋速度竞赛。",
+          "startMs": 271350,
+          "endMs": 274040
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 262230,
+      "endMs": 274390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mila's grandmother gave the girls some old plates.",
+          "zh": "Mila's 外婆给这女孩一些旧的盘子。",
+          "startMs": 279020,
+          "endMs": 283080
+        },
+        {
+          "en": "The girls threw them like disks.",
+          "zh": "这女孩扔他们喜欢圆盘。",
+          "startMs": 283110,
+          "endMs": 285920
+        },
+        {
+          "en": "They threw them as far as they could.",
+          "zh": "他们扔他们像远像他们能。",
+          "startMs": 285950,
+          "endMs": 298580
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 278870,
+      "endMs": 298930
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girls had an olive-and-spoon race.",
+          "zh": "这女孩有一个 olive-and-spoon 速度竞赛。",
+          "startMs": 298610,
+          "endMs": 300120
+        },
+        {
+          "en": "Biff dropped her olives and Hera slipped on them!",
+          "zh": "Biff 掉下她油橄榄和 Hera 滑倒在……上他们！",
+          "startMs": 301460,
+          "endMs": 311400
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 298930,
+      "endMs": 311750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mila's grandmother painted the girls on a vase.",
+          "zh": "Mila's 外婆油漆这女孩在……上一个花瓶。",
+          "startMs": 311430,
+          "endMs": 318120
+        },
+        {
+          "en": "Hera made some crowns from olive twigs.",
+          "zh": "Hera 做一些王冠从油橄榄细枝。",
+          "startMs": 318150,
+          "endMs": 320400
+        },
+        {
+          "en": "\"We're all winners!\" She said.",
+          "zh": "我们是全部获胜者！ 她说。",
+          "startMs": 320560,
+          "endMs": 329560
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 311750,
+      "endMs": 329910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boys and the men came back.",
+          "zh": "这男孩和这男人们来回来。",
+          "startMs": 329590,
+          "endMs": 331420
+        },
+        {
+          "en": "\"Girls doing sports?\" Said one boy.",
+          "zh": "女孩做运动？ 说一男孩。",
+          "startMs": 333410,
+          "endMs": 336400
+        },
+        {
+          "en": "\"That will never catch on!\"",
+          "zh": "那个将从不抓住在……上！",
+          "startMs": 336860,
+          "endMs": 339300
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然，魔法钥匙开始发光。",
+          "startMs": 342060,
+          "endMs": 357620
+        },
+        {
+          "en": "The next day, Mrs. May took the class to the museum.",
+          "zh": "他把这事告诉了",
+          "startMs": 357650,
+          "endMs": 361050
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 329910,
+      "endMs": 361400
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a display about the Greek Olympics.",
+          "zh": "那里是一个陈列品关于这希腊的奥林匹克运动会的。",
+          "startMs": 361080,
+          "endMs": 364920
+        },
+        {
+          "en": "In a glass case there was a broken vase.",
+          "zh": "在……里一个玻璃箱子那里是一个打破花瓶。",
+          "startMs": 364950,
+          "endMs": 367940
+        },
+        {
+          "en": "\"A long time ago, a girls' Olympics began,\" Said Mrs. May.",
+          "zh": "一个长的时间以前， 一个女孩' 奥林匹克运动会的开始， 说太太梅。 老师说道。",
+          "startMs": 369740,
+          "endMs": 378820
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 361400,
+      "endMs": 379170
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mila looked at the boys, \"And did the idea catch on?\" She asked.",
+          "zh": "和做这主意抓住在……上？ 她问。 她问道。",
+          "startMs": 382240,
+          "endMs": 402420
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 382090,
+      "endMs": 402770
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 402770,
+      "endMs": 402771
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 402771,
+      "endMs": 402772
+    }
+  ]
+}

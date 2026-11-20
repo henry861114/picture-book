@@ -1,0 +1,309 @@
+{
+  "id": "L3-002",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Will you look after Sniff today?\"",
+          "zh": "将你看在……之后吸气在今天？",
+          "startMs": 0,
+          "endMs": 5100
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 5590,
+          "endMs": 6340
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma were happy.",
+          "zh": "Wilf 和 Wilma 是快乐的。",
+          "startMs": 7000,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They wanted to look after the puppy.",
+          "zh": "他们想要到看在……之后这幼犬。",
+          "startMs": 15000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 14850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took Sniff to the park.",
+          "zh": "他们拿吸气到这公园。",
+          "startMs": 19000,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The puppy was excited.",
+          "zh": "这幼犬是兴奋的。",
+          "startMs": 28580,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 28430,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sniff liked to roll on her back... jump up for a stick ...",
+          "zh": "吸气喜欢到使滚动在……上她回来。。。 跳向上为了一个枝条。。。",
+          "startMs": 40000,
+          "endMs": 45580
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 45930
+    },
+    {
+      "sentences": [
+        {
+          "en": "run after a ball ... and bark at a cat.",
+          "zh": "跑在……之后一个球。。。 和吠叫在一个猫。",
+          "startMs": 29485,
+          "endMs": 34901
+        }
+      ],
+      "startMs": 29485,
+      "endMs": 34901
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then Sniff went in the mud.",
+          "zh": "然后吸气去在……里这淤泥。",
+          "startMs": 34901,
+          "endMs": 37820
+        },
+        {
+          "en": "She ran after a duck.",
+          "zh": "她跑在……之后一个鸭。",
+          "startMs": 37820,
+          "endMs": 40090
+        }
+      ],
+      "startMs": 34901,
+      "endMs": 40090
+    },
+    {
+      "sentences": [
+        {
+          "en": "She jumped in the pond, and she barked at a dog.",
+          "zh": "她跳在……里这池塘， 和她吠叫在一个狗。",
+          "startMs": 40090,
+          "endMs": 49340
+        }
+      ],
+      "startMs": 40090,
+      "endMs": 49340
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am hot,\" said Wilf.",
+          "zh": "我是热的， 说 Wilf。",
+          "startMs": 49340,
+          "endMs": 51581
+        },
+        {
+          "en": "\"I want a rest.\"",
+          "zh": "我想要一个休息。",
+          "startMs": 51581,
+          "endMs": 53210
+        }
+      ],
+      "startMs": 49340,
+      "endMs": 53210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am hot, too,\" said Wilma.",
+          "zh": "我是热的， 也， 说 Wilma。",
+          "startMs": 53210,
+          "endMs": 57429
+        },
+        {
+          "en": "\"I want a drink.\"",
+          "zh": "我想要一个喝。",
+          "startMs": 57429,
+          "endMs": 59990
+        }
+      ],
+      "startMs": 53210,
+      "endMs": 59990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum couldn't find Sniff.",
+          "zh": "妈妈不能找到吸气。",
+          "startMs": 59990,
+          "endMs": 63513
+        }
+      ],
+      "startMs": 59990,
+      "endMs": 63513
+    },
+    {
+      "sentences": [
+        {
+          "en": "She couldn't find Wilf and Wilma.",
+          "zh": "她不能找到 Wilf 和 Wilma。",
+          "startMs": 63513,
+          "endMs": 69970
+        }
+      ],
+      "startMs": 63513,
+      "endMs": 69970
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad looked and looked.",
+          "zh": "妈妈和爸爸看和看。",
+          "startMs": 69970,
+          "endMs": 72263
+        }
+      ],
+      "startMs": 69970,
+      "endMs": 72263
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"They must be lost\" said Mum.",
+          "zh": "他们必须是丢失说妈妈。",
+          "startMs": 72263,
+          "endMs": 75690
+        }
+      ],
+      "startMs": 72263,
+      "endMs": 75690
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were fast asleep.",
+          "zh": "他们是快的睡着的。",
+          "startMs": 75690,
+          "endMs": 79273
+        },
+        {
+          "en": "\"They are worn out,\" said Dad.",
+          "zh": "他们是穿出， 说爸爸。",
+          "startMs": 79273,
+          "endMs": 84160
+        }
+      ],
+      "startMs": 75690,
+      "endMs": 84160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look for a vowel To help the child to notice that the same vowel can make different sounds in words.",
+          "zh": "看为了一个元音到帮助这孩子到布告那个这同样的元音能做不同的声音在……里单词。",
+          "startMs": 84160,
+          "endMs": 98035
+        },
+        {
+          "en": "• Choose a vowel, e.",
+          "zh": "• 选择一个元音， 呃。",
+          "startMs": 98035,
+          "endMs": 100810
+        },
+        {
+          "en": "Ask the child to find all the words on page 1 that have an 'o'.",
+          "zh": "问这孩子到找到全部这单词在……上页 1 那个有一个 '噢'。",
+          "startMs": 100810,
+          "endMs": 109551
+        },
+        {
+          "en": "Read all the words..",
+          "zh": "读全部这单词。。",
+          "startMs": 109551,
+          "endMs": 112326
+        },
+        {
+          "en": "• On pages 2 and 3, you find and read all the words that have an 'o' in them.",
+          "zh": "• 在……上页 2 和 3， 你找到和读全部这单词那个有一个 '噢' 在……里他们。",
+          "startMs": 112326,
+          "endMs": 123010
+        },
+        {
+          "en": "Go on taking turns throughout the book.",
+          "zh": "去在……上拿转动遍及这书。",
+          "startMs": 123010,
+          "endMs": 128421
+        },
+        {
+          "en": "Play the game again, using a different vowel.",
+          "zh": "玩这游戏再一次， 我们一个不同的元音。",
+          "startMs": 128421,
+          "endMs": 134665
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 134665,
+          "endMs": 142574
+        },
+        {
+          "en": "• Together, think of other things that Sniff might have done in the park, e. chase the squirrel, take the rubbish out of the bin, etc.",
+          "zh": "• 一起， 想的其他东西那个吸气可能有做完在……里这公园， 呃。 茶色这松鼠， 拿这垃圾出的这邠， etc。",
+          "startMs": 142574,
+          "endMs": 161166
+        },
+        {
+          "en": "If the child has a pet, ask him/her to explain how they feed, groom and play with the animal.",
+          "zh": "如果这孩子有一个宠物， 问他/她到解释如何他们给， 新郎和玩和……一起这动物。",
+          "startMs": 161166,
+          "endMs": 174070
+        }
+      ],
+      "startMs": 84160,
+      "endMs": 174070
+    },
+    {
+      "sentences": [],
+      "startMs": 174070,
+      "endMs": 175041,
+      "illustrationOnly": true
+    }
+  ]
+}

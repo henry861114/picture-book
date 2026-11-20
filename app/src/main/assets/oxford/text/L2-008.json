@@ -1,0 +1,207 @@
+{
+  "id": "L2-008",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The baby-sitter came.",
+          "zh": "这 baby-sitter 来。",
+          "startMs": 0,
+          "endMs": 13810
+        }
+      ],
+      "startMs": 0,
+      "endMs": 14160
+    },
+    {
+      "sentences": [],
+      "startMs": 17580,
+      "endMs": 18630,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go back to bed,\" said Dad.",
+          "zh": "去回来到床， 说爸爸。",
+          "startMs": 18710,
+          "endMs": 21810
+        }
+      ],
+      "startMs": 18560,
+      "endMs": 22160
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children came downstairs.",
+          "zh": "这孩子们来在楼下。",
+          "startMs": 27710,
+          "endMs": 30810
+        }
+      ],
+      "startMs": 27560,
+      "endMs": 31160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We couldn't sleep,\" they said.",
+          "zh": "我们不能睡觉， 他们说。",
+          "startMs": 34710,
+          "endMs": 38810
+        }
+      ],
+      "startMs": 34560,
+      "endMs": 39160
+    },
+    {
+      "sentences": [],
+      "startMs": 43950,
+      "endMs": 46650,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted a story.",
+          "zh": "他想要一个故事。",
+          "startMs": 45710,
+          "endMs": 48810
+        }
+      ],
+      "startMs": 45560,
+      "endMs": 49160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was hungry.",
+          "zh": "Biff 是饿的。",
+          "startMs": 54710,
+          "endMs": 56810
+        }
+      ],
+      "startMs": 54560,
+      "endMs": 57160
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a sandwich.",
+          "zh": "他们做一个三明治。",
+          "startMs": 56710,
+          "endMs": 59810
+        }
+      ],
+      "startMs": 56560,
+      "endMs": 60160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted a pillow fight.",
+          "zh": "Chip 想要一个枕头打架。",
+          "startMs": 70710,
+          "endMs": 73810
+        }
+      ],
+      "startMs": 70560,
+      "endMs": 74160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone joined in.",
+          "zh": "每个人连接在……里。",
+          "startMs": 73710,
+          "endMs": 75810
+        }
+      ],
+      "startMs": 73560,
+      "endMs": 76160
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went back to bed.",
+          "zh": "这孩子们去回来到床。",
+          "startMs": 84710,
+          "endMs": 87810
+        }
+      ],
+      "startMs": 84560,
+      "endMs": 88160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a mess!\" said the baby-sitter.",
+          "zh": "什么一个脏乱！ 说这 baby-sitter。",
+          "startMs": 89710,
+          "endMs": 91630
+        }
+      ],
+      "startMs": 89560,
+      "endMs": 91980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad came back.",
+          "zh": "妈妈和爸爸来回来。",
+          "startMs": 100710,
+          "endMs": 109810
+        }
+      ],
+      "startMs": 100560,
+      "endMs": 110160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Was everyone good?\" said Mum.",
+          "zh": "是每个人好的？ 说妈妈。",
+          "startMs": 109710,
+          "endMs": 114260
+        }
+      ],
+      "startMs": 109560,
+      "endMs": 114610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Yes and no,\" said the baby-sitter.",
+          "zh": "是和不， 说这 baby-sitter。",
+          "startMs": 118710,
+          "endMs": 119800
+        }
+      ],
+      "startMs": 118560,
+      "endMs": 120150
+    },
+    {
+      "sentences": [],
+      "startMs": 121050,
+      "endMs": 126424,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 126424,
+      "endMs": 126741,
+      "illustrationOnly": true
+    }
+  ]
+}

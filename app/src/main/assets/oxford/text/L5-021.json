@@ -1,0 +1,587 @@
+{
+  "id": "L5-021",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tually FLAI Mum was going to make a cake.",
+          "zh": "妈妈要去做蛋糕。",
+          "startMs": 29,
+          "endMs": 11530
+        },
+        {
+          "en": "She wanted Kipper to help.",
+          "zh": "她想让 Kipper 帮忙。",
+          "startMs": 11560,
+          "endMs": 13390
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 13740
+    },
+    {
+      "sentences": [
+        {
+          "en": "First Mum gave Kipper an apron.",
+          "zh": "首先，妈妈给 Kipper 系上了一条围裙。",
+          "startMs": 14430,
+          "endMs": 19530
+        },
+        {
+          "en": "Then she looked at his hands.",
+          "zh": "然后，她看了看 Kipper 的手。",
+          "startMs": 19560,
+          "endMs": 22350
+        },
+        {
+          "en": "\"What dirty hands!\" Said Mum Mum looked at Kipper's nails.",
+          "zh": "“手真脏！”妈妈说。 妈妈说道。",
+          "startMs": 23460,
+          "endMs": 31390
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 14280,
+      "endMs": 31740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper's nails were long.",
+          "zh": "Kipper 的指甲很长。",
+          "startMs": 32290,
+          "endMs": 34390
+        },
+        {
+          "en": "\"Let me cut them,\" said Mum.",
+          "zh": "“让我来剪吧，”妈妈说。",
+          "startMs": 34430,
+          "endMs": 41530
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 32140,
+      "endMs": 41880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper made a fuss.",
+          "zh": "Kipper 大吵大闹起来。",
+          "startMs": 42290,
+          "endMs": 44390
+        },
+        {
+          "en": "He didn't want Mum to cut his nails.",
+          "zh": "他不想让妈妈给他剪指甲。",
+          "startMs": 44420,
+          "endMs": 48390
+        },
+        {
+          "en": "He didn't want to wash his hands. Said Mum.",
+          "zh": "他不想洗手。 妈妈说道。",
+          "startMs": 49380,
+          "endMs": 53220
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 42140,
+      "endMs": 53570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I must cut your nails,\" said Mum \"No!",
+          "zh": "“我必须给你剪指甲，”妈妈说，“不！",
+          "startMs": 53250,
+          "endMs": 55290
+        },
+        {
+          "en": "\"No, no, no!\" Said Kipper.",
+          "zh": "Kipper 说道。",
+          "startMs": 57360,
+          "endMs": 60670
+        },
+        {
+          "en": "No!\" said Kipper and he ran out of the room.",
+          "zh": "Kipper 和他跑出了房间。",
+          "startMs": 60670,
+          "endMs": 65530
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 53570,
+      "endMs": 65880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ran into Biff's room.",
+          "zh": "Kipper 跑进了 Biff 的房间。",
+          "startMs": 70290,
+          "endMs": 73390
+        },
+        {
+          "en": "Biff looked at Kipper's long dirty nails.",
+          "zh": "Biff 看了看 Kipper 又长又脏的指甲。",
+          "startMs": 73420,
+          "endMs": 76660
+        },
+        {
+          "en": "\"Yuck!\" \"Yuk!\" said Biff.",
+          "zh": "“哎呀！ Biff 说道。",
+          "startMs": 77460,
+          "endMs": 80350
+        },
+        {
+          "en": "\"You look like a troll.\" Said Kipper.",
+          "zh": "“你看起来像个巨魔！” Kipper 说道。",
+          "startMs": 80380,
+          "endMs": 84130
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 70140,
+      "endMs": 84480
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's not fair,\" said Kipper.",
+          "zh": "“这不公平，”Kipper 说。",
+          "startMs": 84430,
+          "endMs": 85710
+        },
+        {
+          "en": "But then the key began to glow.",
+          "zh": "但这时，钥匙开始发光。",
+          "startMs": 87330,
+          "endMs": 89770
+        },
+        {
+          "en": "It was time for a magic adventure.",
+          "zh": "是时候踏上魔法冒险之旅了。",
+          "startMs": 92290,
+          "endMs": 95390
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 84480,
+      "endMs": 95740
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a stream.",
+          "zh": "魔法把他们带到了一条小溪边。",
+          "startMs": 107860,
+          "endMs": 117480
+        },
+        {
+          "en": "There was a bridge over the stream.",
+          "zh": "小溪上有一座桥。",
+          "startMs": 117510,
+          "endMs": 121390
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 107710,
+      "endMs": 121740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted to cross the bridge.",
+          "zh": "Biff 想过桥。",
+          "startMs": 122290,
+          "endMs": 126310
+        },
+        {
+          "en": "\"We can pick the flowers over there?",
+          "zh": "“我们可以去那边采花！”",
+          "startMs": 126340,
+          "endMs": 129670
+        },
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 129670,
+          "endMs": 130530
+        },
+        {
+          "en": "\"Come on!\"",
+          "zh": "来吧。",
+          "startMs": 131440,
+          "endMs": 132360
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 122140,
+      "endMs": 132710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ran after Biff.",
+          "zh": "Kipper 跟在 Biff 后面跑。",
+          "startMs": 133290,
+          "endMs": 138770
+        },
+        {
+          "en": "But there were trolls under the bridge.",
+          "zh": "但是桥下有巨怪。",
+          "startMs": 143290,
+          "endMs": 147590
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 133140,
+      "endMs": 147940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the trolls jumped out.",
+          "zh": "突然，巨怪们跳了出来。",
+          "startMs": 149390,
+          "endMs": 152550
+        },
+        {
+          "en": "\"Oh no!\" Said Kipper.",
+          "zh": "哎呀。 Kipper 说道。",
+          "startMs": 153320,
+          "endMs": 157160
+        },
+        {
+          "en": "\"Trolls can be nasty.",
+          "zh": "“巨魔有时很讨厌。”",
+          "startMs": 157340,
+          "endMs": 158940
+        },
+        {
+          "en": "\"This is the toll bridge to come across.\"",
+          "zh": "“这是一座要收费的桥！”",
+          "startMs": 170290,
+          "endMs": 175630
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 149240,
+      "endMs": 175980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hip, hip, hooray!\" Sang the trolls. Said Kipper.",
+          "zh": "“嗨，嗨，万岁！” 巨魔们唱道。",
+          "startMs": 175630,
+          "endMs": 181190
+        },
+        {
+          "en": "\"No, no!",
+          "zh": "“不！”",
+          "startMs": 181220,
+          "endMs": 183050
+        },
+        {
+          "en": "We will not!\" Sang the trolls.",
+          "zh": "我们不会！” 巨魔们唱道。",
+          "startMs": 183080,
+          "endMs": 188070
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 175980,
+      "endMs": 188420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Will you eat us up?\" Said a troll.",
+          "zh": "“你会把我们吃掉吗？” 一个巨魔说道。",
+          "startMs": 188100,
+          "endMs": 191140
+        },
+        {
+          "en": "\"Nobody likes us,\" Said a troll.",
+          "zh": "“没有人喜欢我们！” 一个巨魔说道。",
+          "startMs": 197320,
+          "endMs": 201220
+        },
+        {
+          "en": "\"We want to have a party, but nobody wants to come.\"",
+          "zh": "“我们想开派对，但没人愿意来！”",
+          "startMs": 201400,
+          "endMs": 206500
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 188420,
+      "endMs": 206850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We are not nasty,\" said a troll.",
+          "zh": "“我们并不坏，”一个巨魔说道。",
+          "startMs": 206530,
+          "endMs": 209240
+        },
+        {
+          "en": "\"We just look nasty.'",
+          "zh": "“我们只是看起来很凶。”",
+          "startMs": 209240,
+          "endMs": 209440
+        },
+        {
+          "en": "The trolls went under the bridge.",
+          "zh": "巨怪们走到了桥下。",
+          "startMs": 209440,
+          "endMs": 216390
+        },
+        {
+          "en": "They got the party food and set out the party.",
+          "zh": "他们准备了派对食物，布置好了派对。",
+          "startMs": 216420,
+          "endMs": 216470
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 206850,
+      "endMs": 216820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Tuck in!\" Said a troll.",
+          "zh": "“开动吧！” 一个巨魔说道。",
+          "startMs": 217430,
+          "endMs": 220570
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 217280,
+      "endMs": 220920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Yuck!\" Said Kipper.",
+          "zh": "“哎呀！ Kipper 说道。",
+          "startMs": 226460,
+          "endMs": 229530
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 226310,
+      "endMs": 229880
+    },
+    {
+      "sentences": [
+        {
+          "en": "The trolls had long dirty nails. Said Biff.",
+          "zh": "巨怪的指甲又长又脏。 Biff 说道。",
+          "startMs": 229560,
+          "endMs": 232600
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 229880,
+      "endMs": 232950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at her long, dirty nails.'",
+          "zh": "“看看她又长又脏的指甲。”",
+          "startMs": 232600,
+          "endMs": 233570
+        },
+        {
+          "en": "\"Look at the troll food,\" said Biff.",
+          "zh": "“看看巨怪的食物，”Biff 说。",
+          "startMs": 234430,
+          "endMs": 236400
+        },
+        {
+          "en": "\"Have a slug bun!\"",
+          "zh": "“来尝尝蛞蝓馅饼！”",
+          "startMs": 237260,
+          "endMs": 241520
+        },
+        {
+          "en": "\"Tuck in,\" said a troll.",
+          "zh": "“开动吧，”一个巨魔说道。",
+          "startMs": 241520,
+          "endMs": 241720
+        },
+        {
+          "en": "\"Or some slime jelly!\"",
+          "zh": "“或者来点黏液果冻！”",
+          "startMs": 241720,
+          "endMs": 246530
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 232950,
+      "endMs": 246880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said another troll.",
+          "zh": "另一个巨魔说道。",
+          "startMs": 251500,
+          "endMs": 253650
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 251350,
+      "endMs": 254000
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Have a mud mint,\" said another troll.",
+          "zh": "“来一块泥薄荷吧，”另一个巨魔说道。",
+          "startMs": 253650,
+          "endMs": 253850
+        },
+        {
+          "en": "\"Mud mints are yummy.\" \"Yuck!\" \"Yuk!\" said Biff.",
+          "zh": "“虫子真好吃！” “哎呀！ Biff 说道。",
+          "startMs": 253850,
+          "endMs": 259530
+        },
+        {
+          "en": "\"Have some bug pie!\" Said a troll.",
+          "zh": "“来点虫子馅饼！” 一个巨魔说道。",
+          "startMs": 260290,
+          "endMs": 264390
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 254000,
+      "endMs": 264740
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Yuck!\" \"Yuk!\" said Kipper.",
+          "zh": "“哎呀！ Kipper 说道。",
+          "startMs": 264420,
+          "endMs": 267150
+        },
+        {
+          "en": "\"Look at his hands.\"",
+          "zh": "“看看他的手！”",
+          "startMs": 267180,
+          "endMs": 270010
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 264740,
+      "endMs": 270360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the key began to glow.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 276150,
+          "endMs": 278860
+        },
+        {
+          "en": "The adventure was over.",
+          "zh": "“冒险结束了！”",
+          "startMs": 279290,
+          "endMs": 283390
+        },
+        {
+          "en": "\"At last!\" Said Kipper.",
+          "zh": "“终于来了！” Kipper 说道。",
+          "startMs": 285020,
+          "endMs": 287390
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 276000,
+      "endMs": 287740
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them home.",
+          "zh": "魔法把他们带回了家。",
+          "startMs": 301660,
+          "endMs": 303930
+        },
+        {
+          "en": "Kipper washed his hands.",
+          "zh": "Kipper 洗了手。",
+          "startMs": 304270,
+          "endMs": 306300
+        },
+        {
+          "en": "Then he went to get his nails cut.",
+          "zh": "然后他去剪指甲了。",
+          "startMs": 310290,
+          "endMs": 317390
+        },
+        {
+          "en": "\"I'm not a troll!\" Said Kipper.",
+          "zh": "“我不是巨怪！” Kipper 说道。",
+          "startMs": 320290,
+          "endMs": 323490
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 301510,
+      "endMs": 323840
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Trolls have dirty hands and long nails!",
+          "zh": "“巨魔的手又脏又长指甲！",
+          "startMs": 323520,
+          "endMs": 327540
+        },
+        {
+          "en": "Yuck!\"",
+          "zh": "“哎呀！",
+          "startMs": 328280,
+          "endMs": 329530
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 323840,
+      "endMs": 329880
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 329880,
+      "endMs": 329881
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 329881,
+      "endMs": 329882
+    }
+  ]
+}

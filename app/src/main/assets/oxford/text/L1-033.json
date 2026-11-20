@@ -1,0 +1,128 @@
+{
+  "id": "L1-033",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at all the dogs.",
+          "zh": "看在全部这狗。",
+          "startMs": 0,
+          "endMs": 4740
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5090
+    },
+    {
+      "sentences": [
+        {
+          "en": "We like this dog.",
+          "zh": "我们喜欢这个狗。",
+          "startMs": 4640,
+          "endMs": 9740
+        }
+      ],
+      "startMs": 4490,
+      "endMs": 10090
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is a little dog.",
+          "zh": "这个是一个小的狗。",
+          "startMs": 9640,
+          "endMs": 14740
+        }
+      ],
+      "startMs": 9490,
+      "endMs": 15090
+    },
+    {
+      "sentences": [
+        {
+          "en": "We like this dog.",
+          "zh": "我们喜欢这个狗。",
+          "startMs": 4640,
+          "endMs": 9740
+        }
+      ],
+      "startMs": 4490,
+      "endMs": 10090
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is a big dog.",
+          "zh": "这个是一个大的狗。",
+          "startMs": 29000,
+          "endMs": 33740
+        }
+      ],
+      "startMs": 28850,
+      "endMs": 34090
+    },
+    {
+      "sentences": [
+        {
+          "en": "We all like this dog.",
+          "zh": "我们全部喜欢这个狗。",
+          "startMs": 33640,
+          "endMs": 38740
+        }
+      ],
+      "startMs": 33490,
+      "endMs": 39090
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is the top dog.",
+          "zh": "这个是这顶狗。",
+          "startMs": 38640,
+          "endMs": 45740
+        }
+      ],
+      "startMs": 38490,
+      "endMs": 46090
+    },
+    {
+      "sentences": [
+        {
+          "en": "We like Floppy best of all.",
+          "zh": "我们喜欢 Floppy 最好的的全部。",
+          "startMs": 45640,
+          "endMs": 51740
+        }
+      ],
+      "startMs": 45490,
+      "endMs": 52090
+    },
+    {
+      "sentences": [],
+      "startMs": 51650,
+      "endMs": 57722,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 57722,
+      "endMs": 58078,
+      "illustrationOnly": true
+    }
+  ]
+}

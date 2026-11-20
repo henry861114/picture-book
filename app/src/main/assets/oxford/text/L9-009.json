@@ -1,0 +1,1471 @@
+{
+  "id": "L9-009",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went to the supermarket.",
+          "zh": "爸爸去到这超市。",
+          "startMs": 0,
+          "endMs": 3780
+        },
+        {
+          "en": "He took Biff and Chip.",
+          "zh": "他拿 Biff 和 Chip。",
+          "startMs": 3780,
+          "endMs": 5770
+        },
+        {
+          "en": "He wanted them to help.",
+          "zh": "他想要他们到帮助。",
+          "startMs": 5770,
+          "endMs": 8780
+        },
+        {
+          "en": "\"You can choose some cereal,\" said Dad.",
+          "zh": "你能选择一些谷物， 说爸爸。 Gran， 说爸爸。",
+          "startMs": 9680,
+          "endMs": 13780
+        },
+        {
+          "en": "\"Do you want cornflakes?\"",
+          "zh": "做你想要小麦小薄片？",
+          "startMs": 13780,
+          "endMs": 14780
+        },
+        {
+          "en": "\"Can we get some crunch butts?\" Asked Biff.",
+          "zh": "能我们得到一些嘎吱嘎吱地嚼芽？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 15680,
+          "endMs": 18670
+        },
+        {
+          "en": "\"All right,\" Said Dad, \"just for a treat.\"",
+          "zh": "全部正确的！",
+          "startMs": 18670,
+          "endMs": 21780
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 22130
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the cheese counter.",
+          "zh": "他们去到这奶酪柜台。",
+          "startMs": 24960,
+          "endMs": 27640
+        },
+        {
+          "en": "A lady was selling special cheese.",
+          "zh": "一个女士是卖特别的奶酪。",
+          "startMs": 27640,
+          "endMs": 30780
+        },
+        {
+          "en": "\"This is Dutch cheese,\" said the lady.",
+          "zh": "这个是荷兰的奶酪， 说这女士。 帮助！ 喊这女士。",
+          "startMs": 31680,
+          "endMs": 34650
+        },
+        {
+          "en": "\"It is called Edam.",
+          "zh": "它是叫 Edam。",
+          "startMs": 34650,
+          "endMs": 36780
+        },
+        {
+          "en": "It is made in Holland.\"",
+          "zh": "它是做在……里这荷兰。",
+          "startMs": 36780,
+          "endMs": 38780
+        },
+        {
+          "en": "The lady let them taste some Edam cheese.",
+          "zh": "这女士让他们味道一些 Edam 奶酪。",
+          "startMs": 39680,
+          "endMs": 42780
+        },
+        {
+          "en": "\"I like it,\" said Chip.",
+          "zh": "我喜欢它， 说 Chip。 ， 说 Chip。",
+          "startMs": 43680,
+          "endMs": 45780
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 24810,
+      "endMs": 46130
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a special offer.",
+          "zh": "那里是一个特别的提出。",
+          "startMs": 45780,
+          "endMs": 47780
+        },
+        {
+          "en": "\"Buy two cheeses and you get a free baseball cap,\" said the lady.",
+          "zh": "买二奶酪和你得到一个自由的棒球运动便帽， 说这女士。 帮助！ 喊这女士。",
+          "startMs": 48680,
+          "endMs": 53780
+        },
+        {
+          "en": "Dad bought two cheeses and gave the cap to Chip.",
+          "zh": "爸爸买二奶酪和给这便帽到 Chip。",
+          "startMs": 54710,
+          "endMs": 57780
+        },
+        {
+          "en": "\"That's not fair,\" said Biff.",
+          "zh": "那是不公正的， 说 Biff。 ， 说 Biff。",
+          "startMs": 58680,
+          "endMs": 61660
+        },
+        {
+          "en": "So, in the end, Dad bought four cheeses.",
+          "zh": "爸爸买四奶酪。",
+          "startMs": 61660,
+          "endMs": 64780
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 46130,
+      "endMs": 65130
+    },
+    {
+      "sentences": [
+        {
+          "en": "ExIT Dad took the shopping to the car.",
+          "zh": "爸爸拿这商店到这汽车。",
+          "startMs": 68680,
+          "endMs": 69420
+        },
+        {
+          "en": "There was a lot to carry.",
+          "zh": "那里是一个许多到搬运。",
+          "startMs": 69420,
+          "endMs": 72780
+        },
+        {
+          "en": "Dad put the cheeses on top of the car.",
+          "zh": "爸爸放这奶酪在……上顶的这汽车。",
+          "startMs": 73680,
+          "endMs": 76780
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 77680,
+          "endMs": 77780
+        },
+        {
+          "en": "He forgot all about them and drove off with the cheeses on the roof.",
+          "zh": "他忘记全部关于他们和驾驶离开和……一起这奶酪在……上这屋顶。",
+          "startMs": 77780,
+          "endMs": 82780
+        },
+        {
+          "en": "\"Why are people waving at us?\" Asked Biff.",
+          "zh": "为什么是人们波浪在我们？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 83710,
+          "endMs": 87780
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 68530,
+      "endMs": 88130
+    },
+    {
+      "sentences": [
+        {
+          "en": "A dog ran into the road.",
+          "zh": "一个狗跑进入这路。",
+          "startMs": 88680,
+          "endMs": 90780
+        },
+        {
+          "en": "Dad stopped suddenly.",
+          "zh": "爸爸停突然地。",
+          "startMs": 90780,
+          "endMs": 92780
+        },
+        {
+          "en": "The cheeses slid off the roof.",
+          "zh": "这奶酪滑行离开这屋顶。",
+          "startMs": 92780,
+          "endMs": 94780
+        },
+        {
+          "en": "They fell on to the road and rolled down the hill.",
+          "zh": "他们落下在……上到这路和使滚动向下这小山。",
+          "startMs": 95680,
+          "endMs": 98780
+        },
+        {
+          "en": "\"Help!\" Said Dad.",
+          "zh": "帮助！ Gran， 说爸爸。",
+          "startMs": 99680,
+          "endMs": 101780
+        },
+        {
+          "en": "He ran after the cheeses.",
+          "zh": "他跑在……之后这奶酪。",
+          "startMs": 101780,
+          "endMs": 103780
+        },
+        {
+          "en": "\"It's chase the cheese,\" laughed Biff.",
+          "zh": "它是茶色这奶酪， 笑 Biff。 哦不， 笑 Wilf。",
+          "startMs": 104680,
+          "endMs": 108780
+        },
+        {
+          "en": "\"Poor old Dad,\" said Chip.",
+          "zh": "爸爸， 说 Chip。",
+          "startMs": 109680,
+          "endMs": 111780
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 88530,
+      "endMs": 112130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Two of the cheeses were run over by a lorry.",
+          "zh": "二的这奶酪是跑在……上方由一个卡车。",
+          "startMs": 114680,
+          "endMs": 116660
+        },
+        {
+          "en": "They were squashed flat.",
+          "zh": "他们是拥挤水平的。",
+          "startMs": 116660,
+          "endMs": 119780
+        },
+        {
+          "en": "One was badly dented.",
+          "zh": "一是差凹痕。",
+          "startMs": 120680,
+          "endMs": 122200
+        },
+        {
+          "en": "Only one was alright.",
+          "zh": "只有一是全部正确的。",
+          "startMs": 122200,
+          "endMs": 124620
+        },
+        {
+          "en": "Dad pulled a face.",
+          "zh": "爸爸拉一个脸。",
+          "startMs": 124620,
+          "endMs": 126780
+        },
+        {
+          "en": "\"What a shame!\" He said.",
+          "zh": "什么一个羞愧感！ 他说。",
+          "startMs": 127680,
+          "endMs": 129780
+        },
+        {
+          "en": "\"You sound cheesed off,\" laughed Biff.",
+          "zh": "你声音奶酪离开， 笑 Biff。 哦不， 笑 Wilf。",
+          "startMs": 130680,
+          "endMs": 134780
+        },
+        {
+          "en": "\"It's not funny,\" said Dad.",
+          "zh": "它是不有趣的， 说爸爸。 Gran， 说爸爸。",
+          "startMs": 135680,
+          "endMs": 137780
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 114530,
+      "endMs": 138130
+    },
+    {
+      "sentences": [
+        {
+          "en": "At home, Biff and Chip went to Biff's room.",
+          "zh": "在家， Biff 和 Chip 去到 Biff 房间。",
+          "startMs": 139710,
+          "endMs": 142600
+        },
+        {
+          "en": "They wanted to play some music.",
+          "zh": "他们想要到玩一些音乐。",
+          "startMs": 142600,
+          "endMs": 144780
+        },
+        {
+          "en": "Suddenly the key glowed.",
+          "zh": "突然地这钥匙光亮。",
+          "startMs": 145680,
+          "endMs": 147780
+        },
+        {
+          "en": "\"It's time for an adventure,\" said Biff.",
+          "zh": "它是时间为了一个冒险， 说 Biff。 ， 说 Biff。",
+          "startMs": 149680,
+          "endMs": 152780
+        },
+        {
+          "en": "\"I hope it's not an adventure about cheese,\" said Chip.",
+          "zh": "我希望它是不一个冒险关于奶酪， 说 Chip。 ， 说 Chip。",
+          "startMs": 153680,
+          "endMs": 156780
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 139560,
+      "endMs": 157130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back in time.",
+          "zh": "这魔法拿他们回来在……里时间。",
+          "startMs": 168710,
+          "endMs": 170780
+        },
+        {
+          "en": "It took them to Holland.",
+          "zh": "它拿他们到这荷兰。",
+          "startMs": 170780,
+          "endMs": 172780
+        },
+        {
+          "en": "They were on a high bank called a dyke.",
+          "zh": "他们是在……上一个高的岸叫一个堤。",
+          "startMs": 173680,
+          "endMs": 175780
+        },
+        {
+          "en": "On one side the land was very flat.",
+          "zh": "在……上一私德这陆地是非常水平的。",
+          "startMs": 176680,
+          "endMs": 178780
+        },
+        {
+          "en": "On the other side was the sea.",
+          "zh": "在……上这其他私德是这海。",
+          "startMs": 178780,
+          "endMs": 181780
+        },
+        {
+          "en": "The dyke kept the sea away from the land.",
+          "zh": "这堤保持这海离开从这陆地。",
+          "startMs": 182680,
+          "endMs": 184780
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 168560,
+      "endMs": 185130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked around.",
+          "zh": "Chip 看圆形的。",
+          "startMs": 184780,
+          "endMs": 186780
+        },
+        {
+          "en": "\"There are windmills everywhere,\" he said.",
+          "zh": "那里是风车到处， 他说。",
+          "startMs": 188680,
+          "endMs": 191660
+        },
+        {
+          "en": "\"I think we're in Holland.\"",
+          "zh": "我想我们是在……里这荷兰。",
+          "startMs": 191660,
+          "endMs": 192780
+        },
+        {
+          "en": "\"The land is very flat,\" said Biff.",
+          "zh": "这陆地是非常水平的， 说 Biff。 ， 说 Biff。",
+          "startMs": 193710,
+          "endMs": 196470
+        },
+        {
+          "en": "\"But I can't see any houses.\" \"Come on,\" Said Chip.",
+          "zh": "我不能看见任何房子。 来在……上！ ， 说 Chip。",
+          "startMs": 196470,
+          "endMs": 200490
+        },
+        {
+          "en": "\"Let's try to find a village.\"",
+          "zh": "让我们尝试到找到一个村庄。",
+          "startMs": 200490,
+          "endMs": 202780
+        },
+        {
+          "en": "They began to walk.",
+          "zh": "他们开始到走。",
+          "startMs": 203680,
+          "endMs": 204780
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 185130,
+      "endMs": 205130
+    },
+    {
+      "sentences": [
+        {
+          "en": "A horse and cart came along.",
+          "zh": "一个马和大车来沿着。",
+          "startMs": 208680,
+          "endMs": 210780
+        },
+        {
+          "en": "A boy was driving it.",
+          "zh": "一个男孩是驾驶它。",
+          "startMs": 210780,
+          "endMs": 212780
+        },
+        {
+          "en": "On the back of it were some large round cheeses.",
+          "zh": "在……上这回来的它是一些大的圆形的奶酪。",
+          "startMs": 213680,
+          "endMs": 216780
+        },
+        {
+          "en": "\"How far is it to the nearest village?\" Asked Biff.",
+          "zh": "如何远是它到这在……附近村庄？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 217680,
+          "endMs": 220780
+        },
+        {
+          "en": "\"It's quite a long way,\" said the boy.",
+          "zh": "它是相当一个长的方式， 说这男孩。 我的名字是 Hans， 说这男孩。",
+          "startMs": 221710,
+          "endMs": 223780
+        },
+        {
+          "en": "\"Jump up on the cart.",
+          "zh": "跳向上在……上这大车。",
+          "startMs": 223780,
+          "endMs": 225780
+        },
+        {
+          "en": "I'll give you a lift.\" Said the boy.",
+          "zh": "我会给你一个拿起。 我的名字是 Hans， 说这男孩。",
+          "startMs": 225780,
+          "endMs": 229780
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 208530,
+      "endMs": 230130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"My name is Hans,\" said the boy.",
+          "zh": "我的名字是 Hans， 说这男孩。",
+          "startMs": 229780,
+          "endMs": 229980
+        },
+        {
+          "en": "\"I'm taking these cheeses to market.\" \"I'm Biff,\" Said Biff.",
+          "zh": "我是拿这些奶酪到市场。 ， 说 Biff。",
+          "startMs": 229980,
+          "endMs": 234920
+        },
+        {
+          "en": "\"And this is Chip.\" \"What funny names!\" Said Hans.",
+          "zh": "和这个是 Chip。 什么有趣的名字！ 说 Hans。",
+          "startMs": 234920,
+          "endMs": 239780
+        },
+        {
+          "en": "The horse began to trot.",
+          "zh": "这马开始到小跑。",
+          "startMs": 240680,
+          "endMs": 241780
+        },
+        {
+          "en": "The cheeses began to bump around in the back of the cart.",
+          "zh": "这奶酪开始到撞在……周围在……里这回来的这大车。",
+          "startMs": 241780,
+          "endMs": 245780
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 230130,
+      "endMs": 246130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This cart looks a bit old,\" said Chip.",
+          "zh": "这个大车看一个一小块旧的， 说 Chip。 ， 说 Chip。",
+          "startMs": 249710,
+          "endMs": 252680
+        },
+        {
+          "en": "\"Should you go so fast?\" \"No,\" Said Hans.",
+          "zh": "应该你去所以快的？ 现在！ ， 说 Chip。",
+          "startMs": 252680,
+          "endMs": 256780
+        },
+        {
+          "en": "\"No,\" said Hans, \"but I'm late for market.",
+          "zh": "不， 说 Hans， 但是我是晚的为了市场。",
+          "startMs": 256780,
+          "endMs": 257780
+        },
+        {
+          "en": "I have to sell all these cheeses.\"",
+          "zh": "我有到卖全部这些奶酪。",
+          "startMs": 257780,
+          "endMs": 259780
+        },
+        {
+          "en": "They went past a man on a bicycle.",
+          "zh": "他们去过一个男人在……上一个自行车。",
+          "startMs": 260680,
+          "endMs": 262780
+        },
+        {
+          "en": "\"Slow down,\" Called Biff.",
+          "zh": "她慢的向下。 快的！ 叫喊 Biff。",
+          "startMs": 262780,
+          "endMs": 265780
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 249560,
+      "endMs": 266130
+    },
+    {
+      "sentences": [
+        {
+          "en": "At that moment a wheel came off the cart.",
+          "zh": "在那个片刻一个车轮来离开这大车。",
+          "startMs": 266680,
+          "endMs": 269660
+        },
+        {
+          "en": "\"Oh help!\" Shouted Biff.",
+          "zh": "帮助！ 哦不！ 喊 Biff。",
+          "startMs": 269660,
+          "endMs": 272780
+        },
+        {
+          "en": "The cheeses slid off and rolled round the man on the bicycle.",
+          "zh": "这奶酪滑行离开和使滚动圆形的这男人在……上这自行车。",
+          "startMs": 273680,
+          "endMs": 276780
+        },
+        {
+          "en": "\"Look out!\" Shouted the man.",
+          "zh": "看。 嗨！ 喊这大的男人。",
+          "startMs": 277710,
+          "endMs": 279780
+        },
+        {
+          "en": "He fell off his bike and his cheese bounced out of his basket.",
+          "zh": "他落下离开他的自行车和他的奶酪反弹出的他的篮子。",
+          "startMs": 279780,
+          "endMs": 284780
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 266530,
+      "endMs": 285130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man jumped up and down with rage.",
+          "zh": "这男人跳向上和向下和……一起狂怒。",
+          "startMs": 288680,
+          "endMs": 291660
+        },
+        {
+          "en": "\"Look at my bike!\" He shouted.",
+          "zh": "看在我的自行车！ 他喊。 拉！ 他喊。",
+          "startMs": 291660,
+          "endMs": 293780
+        },
+        {
+          "en": "\"And where's my cheese?",
+          "zh": "和哪里我的奶酪？",
+          "startMs": 294680,
+          "endMs": 295780
+        },
+        {
+          "en": "Which one of these cheeses is mine?\"",
+          "zh": "哪个一的这些奶酪是我的？",
+          "startMs": 295780,
+          "endMs": 298780
+        },
+        {
+          "en": "Hans looked at all the cheeses on the ground.",
+          "zh": "Hans 看在全部这奶酪在……上这地面。",
+          "startMs": 299680,
+          "endMs": 302670
+        },
+        {
+          "en": "\"What does it matter?\" He said.",
+          "zh": "什么做它事情？ 他说。",
+          "startMs": 302670,
+          "endMs": 304780
+        },
+        {
+          "en": "\"They're all the same.",
+          "zh": "他们是全部这同样的。",
+          "startMs": 305710,
+          "endMs": 307660
+        },
+        {
+          "en": "Pick any one.\"",
+          "zh": "拿任何一。",
+          "startMs": 307660,
+          "endMs": 308780
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 288530,
+      "endMs": 309130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man picked up the cheeses.",
+          "zh": "这男人挑选向上这奶酪。",
+          "startMs": 309680,
+          "endMs": 311040
+        },
+        {
+          "en": "He looked at each one.",
+          "zh": "他看在每个一。",
+          "startMs": 311040,
+          "endMs": 312780
+        },
+        {
+          "en": "\"I must find my cheese,\" he shouted.",
+          "zh": "我必须找到我的奶酪， 他喊。",
+          "startMs": 313680,
+          "endMs": 316760
+        },
+        {
+          "en": "At last he found it.",
+          "zh": "在最后的他找到它。",
+          "startMs": 316760,
+          "endMs": 318780
+        },
+        {
+          "en": "\"This one is mine,\" he said.",
+          "zh": "这个一是我的， 他说。",
+          "startMs": 319680,
+          "endMs": 321780
+        },
+        {
+          "en": "Hans looked at the broken cart.",
+          "zh": "Hans 看在这打破大车。",
+          "startMs": 321780,
+          "endMs": 324780
+        },
+        {
+          "en": "\"I'll never get these cheeses to market now,\" he groaned.",
+          "zh": "我会从不得到这些奶酪到市场现在， 他呻吟。",
+          "startMs": 325680,
+          "endMs": 328780
+        },
+        {
+          "en": "\"Let's carry them,\" said Chip.",
+          "zh": "让我们搬运他们， 说 Chip。 ， 说 Chip。",
+          "startMs": 329680,
+          "endMs": 331880
+        },
+        {
+          "en": "\"We'll help you.\"",
+          "zh": "我们会帮助你。",
+          "startMs": 331880,
+          "endMs": 333780
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 309530,
+      "endMs": 334130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hans put the cheeses in some sacks.",
+          "zh": "Hans 放这奶酪在……里一些大口袋。",
+          "startMs": 336680,
+          "endMs": 338160
+        },
+        {
+          "en": "Biff and Chip helped him carry them.",
+          "zh": "Biff 和 Chip 帮助他搬运他们。",
+          "startMs": 338160,
+          "endMs": 342780
+        },
+        {
+          "en": "The sacks were heavy and it was hard work.",
+          "zh": "这大口袋是重的和它是困难的工作。",
+          "startMs": 343680,
+          "endMs": 345920
+        },
+        {
+          "en": "The road was very long and straight.",
+          "zh": "这路是非常长的和直的。",
+          "startMs": 345920,
+          "endMs": 348780
+        },
+        {
+          "en": "It ran along the top of the dyke.",
+          "zh": "它跑沿着这顶的这堤。",
+          "startMs": 349680,
+          "endMs": 351750
+        },
+        {
+          "en": "The sea was just below the road.",
+          "zh": "这海是刚刚在这路。",
+          "startMs": 351750,
+          "endMs": 354780
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 336530,
+      "endMs": 355130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Phew!",
+          "zh": "哦！",
+          "startMs": 355680,
+          "endMs": 355810
+        },
+        {
+          "en": "This sack is heavy,\" said Biff.",
+          "zh": "这个大口袋是重的， 说 Biff。 ， 说 Biff。",
+          "startMs": 355810,
+          "endMs": 359050
+        },
+        {
+          "en": "Suddenly they heard someone shouting.",
+          "zh": "突然地他们听见某人喊。",
+          "startMs": 359050,
+          "endMs": 362780
+        },
+        {
+          "en": "It was a girl.",
+          "zh": "它是一个女孩。",
+          "startMs": 363710,
+          "endMs": 365060
+        },
+        {
+          "en": "They ran to see what was wrong.",
+          "zh": "他们跑到看见什么是错误的。",
+          "startMs": 365060,
+          "endMs": 367780
+        },
+        {
+          "en": "Water was spouting through the dike.",
+          "zh": "水是嘴穿过这堤。",
+          "startMs": 368680,
+          "endMs": 370780
+        },
+        {
+          "en": "The girl was trying to stop it.",
+          "zh": "这女孩是令人厌烦的到停它。",
+          "startMs": 370780,
+          "endMs": 372780
+        },
+        {
+          "en": "\"Help!\" She shouted.",
+          "zh": "帮助！ 她喊。",
+          "startMs": 373680,
+          "endMs": 376780
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 355530,
+      "endMs": 377130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girl held her hands over the leak but water was still pouring through.",
+          "zh": "这女孩拿着她手在……上方这裂缝但是水是仍然瓢泼的穿过。",
+          "startMs": 379680,
+          "endMs": 384780
+        },
+        {
+          "en": "\"My name is Trudy,\" she said.",
+          "zh": "我的名字是 Trudy， 她说。",
+          "startMs": 385680,
+          "endMs": 388660
+        },
+        {
+          "en": "\"We must stop the water.",
+          "zh": "我们必须停这水。",
+          "startMs": 388660,
+          "endMs": 390780
+        },
+        {
+          "en": "If the hole gets bigger, the dyke will burst.\"",
+          "zh": "如果这洞得到大的， 这堤将使破裂。",
+          "startMs": 391710,
+          "endMs": 394780
+        },
+        {
+          "en": "\"If that happens, there will be a terrible flood,\" said Hans.",
+          "zh": "如果那个发生， 那里将是一个可怕的洪水， 说 Hans。 ， 说 Chip。",
+          "startMs": 395680,
+          "endMs": 399780
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 379530,
+      "endMs": 400130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The hole was getting bigger and bigger.",
+          "zh": "这洞是得到大的和大的。",
+          "startMs": 400680,
+          "endMs": 402780
+        },
+        {
+          "en": "The water began to pour through even faster.",
+          "zh": "这水开始到倒出穿过竟然快的。",
+          "startMs": 402780,
+          "endMs": 405780
+        },
+        {
+          "en": "They couldn't stop it with their hands.",
+          "zh": "他们不能停它和……一起他们的手。",
+          "startMs": 406680,
+          "endMs": 408780
+        },
+        {
+          "en": "Biff had an idea.",
+          "zh": "Biff 有一个主意。",
+          "startMs": 408780,
+          "endMs": 410780
+        },
+        {
+          "en": "\"Push the cheeses into the hole,\" she said.",
+          "zh": "推这奶酪进入这洞， 她说。",
+          "startMs": 411680,
+          "endMs": 414670
+        },
+        {
+          "en": "\"They have wax around them.",
+          "zh": "他们有蜂蜡圆形的他们。",
+          "startMs": 414670,
+          "endMs": 416780
+        },
+        {
+          "en": "They might keep back the water.\"",
+          "zh": "他们可能保持回来这水。",
+          "startMs": 417680,
+          "endMs": 419780
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 400530,
+      "endMs": 420130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip pulled the sacks down the bank and they pushed the cheeses into the hole.",
+          "zh": "Chip 拉这大口袋向下这岸和他们推这奶酪进入这洞。",
+          "startMs": 422680,
+          "endMs": 427780
+        },
+        {
+          "en": "\"We need one more,\" said Trudy.",
+          "zh": "我们必须一更多， 说 Trudy。 从不头脑， 说 Trudy。",
+          "startMs": 428680,
+          "endMs": 430970
+        },
+        {
+          "en": "Just then the man went past.",
+          "zh": "刚刚然后这男人去过。",
+          "startMs": 430970,
+          "endMs": 433780
+        },
+        {
+          "en": "\"Help us, please,\" yelled Hans.",
+          "zh": "帮助我们， 请， 叫喊 Hans。 是， 请！",
+          "startMs": 434680,
+          "endMs": 437330
+        },
+        {
+          "en": "\"The dike is leaking.\"",
+          "zh": "这堤是裂缝。",
+          "startMs": 437330,
+          "endMs": 439780
+        },
+        {
+          "en": "\"Now I'm in a hurry,\" Said the man.",
+          "zh": "不， 我是在……里一个急忙， 说这男人。 什么一个狗！ 说这男人。",
+          "startMs": 440680,
+          "endMs": 444780
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 422530,
+      "endMs": 445130
+    },
+    {
+      "sentences": [
+        {
+          "en": "They filled the hole as well as they could.",
+          "zh": "他们充满这洞像好像他们能。",
+          "startMs": 445680,
+          "endMs": 447660
+        },
+        {
+          "en": "Water still came through in places.",
+          "zh": "水仍然来穿过在……里地方。",
+          "startMs": 447660,
+          "endMs": 449780
+        },
+        {
+          "en": "\"I'll have to go and get help,\" Said Trudy.",
+          "zh": "T'll 有到去和得到帮助， 说 Trudy。 从不头脑， 说 Trudy。",
+          "startMs": 450710,
+          "endMs": 453670
+        },
+        {
+          "en": "\"But why wouldn't that man help us?\"",
+          "zh": "但是为什么不会那个男人帮助我们？",
+          "startMs": 453670,
+          "endMs": 456780
+        },
+        {
+          "en": "Jip went with Trudy.",
+          "zh": "Chip 去和……一起 Trudy。",
+          "startMs": 457680,
+          "endMs": 459780
+        },
+        {
+          "en": "Biff and Hans stayed to try and stop the leak getting worse.",
+          "zh": "Biff 和 Hans 停留到尝试和停这裂缝得到更坏的。",
+          "startMs": 459780,
+          "endMs": 463780
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 445530,
+      "endMs": 464130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Trudy and Chip ran to a windmill.",
+          "zh": "Chip 跑到一个风车。",
+          "startMs": 466680,
+          "endMs": 469780
+        },
+        {
+          "en": "\"I hope someone is there who can help us,\" said Trudy.",
+          "zh": "我希望某人是那里谁能帮助我们， 说 Trudy。 从不头脑， 说 Trudy。",
+          "startMs": 470680,
+          "endMs": 474780
+        },
+        {
+          "en": "Near the windmill, they saw the man's bike.",
+          "zh": "在……附近这风车， 他们看见这男人自行车。",
+          "startMs": 475710,
+          "endMs": 478600
+        },
+        {
+          "en": "It was leaning against a fence.",
+          "zh": "它是倾斜的紧靠着一个分册。",
+          "startMs": 478600,
+          "endMs": 480780
+        },
+        {
+          "en": "\"That's odd,\" Said Jip.",
+          "zh": "那是奇怪的， 说 Chip。 ， 说 Chip。",
+          "startMs": 481680,
+          "endMs": 482440
+        },
+        {
+          "en": "\"I thought that man was in a hurry.\"",
+          "zh": "我想那个男人是在……里一个急忙。",
+          "startMs": 482440,
+          "endMs": 484780
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 466530,
+      "endMs": 485130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Trudy and Chip looked through the window.",
+          "zh": "Chip 看穿过这窗户。",
+          "startMs": 485680,
+          "endMs": 487780
+        },
+        {
+          "en": "The man was inside.",
+          "zh": "这男人是里面。",
+          "startMs": 487780,
+          "endMs": 489780
+        },
+        {
+          "en": "He had a knife.",
+          "zh": "他有一个刀。",
+          "startMs": 489780,
+          "endMs": 490780
+        },
+        {
+          "en": "He was cutting the cheese in half.",
+          "zh": "他是切这奶酪在……里一半。",
+          "startMs": 491680,
+          "endMs": 493780
+        },
+        {
+          "en": "\"Why is he doing that?\" Said Jip.",
+          "zh": "为什么他做那个？ 说 Chip。",
+          "startMs": 494680,
+          "endMs": 496780
+        },
+        {
+          "en": "\"It looks like he doesn't want anyone to see him.\" \"Shhh,\" \"Ssh!\" whispered Trudy.",
+          "zh": "它看喜欢他不想要任何人到看见他。 低语 Trudy。 哦， Hugh！ 她低语到 Hugh。",
+          "startMs": 496780,
+          "endMs": 501780
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 485530,
+      "endMs": 502130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside the cheese were some diamonds.",
+          "zh": "里面这奶酪是一些钻石。",
+          "startMs": 506000,
+          "endMs": 508780
+        },
+        {
+          "en": "\"I'm so clever,\" Laughed the man.",
+          "zh": "我是所以聪明的， 笑这男人。",
+          "startMs": 509680,
+          "endMs": 512780
+        },
+        {
+          "en": "\"No one will find out that I stole the diamonds.",
+          "zh": "不一将找到出那个我 stole 这钻石。",
+          "startMs": 513680,
+          "endMs": 515780
+        },
+        {
+          "en": "The cheese was a clever place to hide them.\"",
+          "zh": "这奶酪是一个聪明的地方到把他们。",
+          "startMs": 515780,
+          "endMs": 518780
+        },
+        {
+          "en": "\"He's a thief,\" whispered Chip.",
+          "zh": "他是一个小偷， 低语 Chip。 哦不！ 低语 Chip。",
+          "startMs": 519680,
+          "endMs": 522660
+        },
+        {
+          "en": "\"We must do something.\"",
+          "zh": "我们必须做某物。",
+          "startMs": 522660,
+          "endMs": 523780
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 505850,
+      "endMs": 524130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Trudy and Chip ran to find Trudy's father.",
+          "zh": "Chip 跑到找到 Trudy's 爸爸。",
+          "startMs": 524680,
+          "endMs": 527760
+        },
+        {
+          "en": "They told him about the leaking dyke.",
+          "zh": "他们告诉他关于这裂缝堤。",
+          "startMs": 527760,
+          "endMs": 529780
+        },
+        {
+          "en": "\"We filled it up with cheeses,\" said Trudy.",
+          "zh": "我们充满它向上和……一起奶酪， 说 Trudy。 从不头脑， 说 Trudy。",
+          "startMs": 530680,
+          "endMs": 534780
+        },
+        {
+          "en": "\"What year was that?\" Asked Trudy's father.",
+          "zh": "是什么这事情？ 谁的主意是那个？ 问 Trudy's 爸爸。",
+          "startMs": 535710,
+          "endMs": 538780
+        },
+        {
+          "en": "Then Chip told him about the man with the stolen diamonds hidden in the cheese.",
+          "zh": "然后 Chip 告诉他关于这男人和……一起这 stolen 钻石 hidden 在……里这奶酪。",
+          "startMs": 539680,
+          "endMs": 544780
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 524530,
+      "endMs": 545130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Trudy's father called the villagers and they ran to the windmill.",
+          "zh": "Trudy's 爸爸叫这村民和他们跑到这风车。",
+          "startMs": 547680,
+          "endMs": 551780
+        },
+        {
+          "en": "The mayor was with them.",
+          "zh": "这市长是和……一起他们。",
+          "startMs": 552680,
+          "endMs": 553780
+        },
+        {
+          "en": "The thief was inside the windmill.",
+          "zh": "这小偷是里面这风车。",
+          "startMs": 553780,
+          "endMs": 556780
+        },
+        {
+          "en": "He was still looking at the diamonds.",
+          "zh": "他是仍然看在这钻石。",
+          "startMs": 557680,
+          "endMs": 559780
+        },
+        {
+          "en": "\"Those diamonds belong to my wife,\" said the Mayor.",
+          "zh": "那些钻石属于某人到我的妻子， 说这市长。 谢谢你， 说这市长妻子。",
+          "startMs": 560680,
+          "endMs": 563780
+        },
+        {
+          "en": "\"They belong from my house.\"",
+          "zh": "你 stole 他们从我的房子。",
+          "startMs": 564710,
+          "endMs": 566780
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 547530,
+      "endMs": 567130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The villagers tied the thief to the windmill.",
+          "zh": "这村民租给雇工的这小偷到这风车。",
+          "startMs": 567680,
+          "endMs": 569780
+        },
+        {
+          "en": "\"Help!\" He shouted.",
+          "zh": "帮助！ 拉！ 他喊。",
+          "startMs": 570680,
+          "endMs": 572780
+        },
+        {
+          "en": "\"Let me down!\"",
+          "zh": "让我向下！",
+          "startMs": 572780,
+          "endMs": 573780
+        },
+        {
+          "en": "\"That will teach him,\" said Trudy.",
+          "zh": "那个将教他， 说 Trudy。 从不头脑， 说 Trudy。",
+          "startMs": 574680,
+          "endMs": 576780
+        },
+        {
+          "en": "\"He wouldn't help us.\"",
+          "zh": "他不会帮助我们。",
+          "startMs": 576780,
+          "endMs": 578780
+        },
+        {
+          "en": "\"Well, he can stay there until we fix the dike,\" Said the mayor.",
+          "zh": "好， 他能停留那里直到我们已经固定的这堤， 说这市长。 谢谢你， 说这市长妻子。",
+          "startMs": 579680,
+          "endMs": 583780
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 567530,
+      "endMs": 584130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The villagers mended the dike.",
+          "zh": "这村民缝补这堤。",
+          "startMs": 589680,
+          "endMs": 591780
+        },
+        {
+          "en": "Hans helped, and so did Biff and Chip.",
+          "zh": "他拿 Biff 和 Chip。",
+          "startMs": 591780,
+          "endMs": 593780
+        },
+        {
+          "en": "\"Phew!",
+          "zh": "哦！",
+          "startMs": 594710,
+          "endMs": 595460
+        },
+        {
+          "en": "This adventure is hard work,\" said Biff.",
+          "zh": "这个冒险是困难的工作， 说 Biff。 ， 说 Biff。",
+          "startMs": 595460,
+          "endMs": 598780
+        },
+        {
+          "en": "\"The cheeses were heavy but the sand is even heavier.",
+          "zh": "这奶酪是重的但是这沙是竟然重的。",
+          "startMs": 599680,
+          "endMs": 602780
+        },
+        {
+          "en": "\"I don't want to see another cheese,\" said Chip.",
+          "zh": "我不想要到看见另一个奶酪， 说 Chip。 ， 说 Chip。",
+          "startMs": 603680,
+          "endMs": 606780
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 589530,
+      "endMs": 607130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hans looked worried.",
+          "zh": "Hans 看发愁的。",
+          "startMs": 607680,
+          "endMs": 608780
+        },
+        {
+          "en": "\"There will be no money this week,\" he said.",
+          "zh": "那里将是不钱这个星期， 他说。",
+          "startMs": 609680,
+          "endMs": 612780
+        },
+        {
+          "en": "\"My cart is broken.",
+          "zh": "我的大车是打破。",
+          "startMs": 613680,
+          "endMs": 614410
+        },
+        {
+          "en": "Now I have no cheeses to sell.\" \"Never mind,\" Said Trudy.",
+          "zh": "我有不奶酪到卖。 从不头脑， 说 Trudy。",
+          "startMs": 614410,
+          "endMs": 619780
+        },
+        {
+          "en": "\"You helped save the dike.\"",
+          "zh": "你帮助挽救这堤。",
+          "startMs": 619780,
+          "endMs": 621780
+        },
+        {
+          "en": "\"And we caught a thief,\" said Chip.",
+          "zh": "和我们抓住一个小偷， 说 Chip。",
+          "startMs": 622710,
+          "endMs": 624770
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 607530,
+      "endMs": 625120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Jip.",
+          "zh": "， 说 Chip。",
+          "startMs": 624770,
+          "endMs": 625780
+        },
+        {
+          "en": "Everyone went to the village.",
+          "zh": "每个人去到这村庄。",
+          "startMs": 629680,
+          "endMs": 631780
+        },
+        {
+          "en": "\"Thank you,\" said the Mayor's wife.",
+          "zh": "谢谢你， Gran。",
+          "startMs": 632680,
+          "endMs": 634780
+        },
+        {
+          "en": "\"I got my diamonds back.",
+          "zh": "我得到我的钻石回来。",
+          "startMs": 634780,
+          "endMs": 637780
+        },
+        {
+          "en": "Here is a reward.\"",
+          "zh": "这里是一个报偿。",
+          "startMs": 637780,
+          "endMs": 638780
+        },
+        {
+          "en": "\"Three cheers for Trudy and Hans and their friends,\" said the Mayor.",
+          "zh": "三向为了 Trudy 和 Hans 和他们的朋友们， 说这市长。 谢谢你， 说这市长妻子。",
+          "startMs": 639680,
+          "endMs": 644780
+        },
+        {
+          "en": "\"They stopped a bad flood.",
+          "zh": "他们停一个坏的洪水。",
+          "startMs": 645680,
+          "endMs": 646850
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 625120,
+      "endMs": 647200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Using cheeses was a brilliant idea.",
+          "zh": "我们奶酪是一个明亮的主意。",
+          "startMs": 646850,
+          "endMs": 649780
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 650710,
+          "endMs": 652780
+        },
+        {
+          "en": "It was time for Biff and Chip to go.",
+          "zh": "它是时间为了 Biff 和 Chip 到去。",
+          "startMs": 652780,
+          "endMs": 654780
+        },
+        {
+          "en": "Hans bought two cheeses from the market.",
+          "zh": "Hans 买二奶酪从这市场。",
+          "startMs": 655680,
+          "endMs": 658660
+        },
+        {
+          "en": "He gave them to Biff and Chip.",
+          "zh": "他给他们到 Biff 和 Chip。",
+          "startMs": 658660,
+          "endMs": 660780
+        },
+        {
+          "en": "They gave Hans and Trudy their baseball caps.",
+          "zh": "他们给 Hans 和 Trudy 他们的棒球运动大写字母。",
+          "startMs": 661680,
+          "endMs": 664780
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 647200,
+      "endMs": 665130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Goodbye,\" \"Goodbye,\" they said.",
+          "zh": "再见， 他们说。",
+          "startMs": 665680,
+          "endMs": 667780
+        },
+        {
+          "en": "The magic took Biff and Chip home.",
+          "zh": "这魔法拿 Biff 和 Chip 家。",
+          "startMs": 680710,
+          "endMs": 682780
+        },
+        {
+          "en": "Dad came into Biff's bedroom.",
+          "zh": "爸爸来进入 Biff 卧室。",
+          "startMs": 682780,
+          "endMs": 685780
+        },
+        {
+          "en": "\"Where are your free baseball caps?\" He asked.",
+          "zh": "哪里是你的自由的棒球运动大写字母？ 他问。 我们已经丢失他们， 说 Biff。 这承载停。",
+          "startMs": 686680,
+          "endMs": 689780
+        },
+        {
+          "en": "Um ... we've lost them,\" said Biff.",
+          "zh": "好， 说 Biff。",
+          "startMs": 690680,
+          "endMs": 694780
+        },
+        {
+          "en": "Dad was cross.",
+          "zh": "爸爸是叉形。",
+          "startMs": 694780,
+          "endMs": 696780
+        },
+        {
+          "en": "\"He's cheesed off again,\" said Chip.",
+          "zh": "他是奶酪离开再一次， 说 Chip。 ， 说 Chip。",
+          "startMs": 697680,
+          "endMs": 700780
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 665530,
+      "endMs": 701130
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 701130,
+      "endMs": 701131
+    }
+  ]
+}

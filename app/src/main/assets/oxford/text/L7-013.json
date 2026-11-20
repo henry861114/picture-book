@@ -1,0 +1,1195 @@
+{
+  "id": "L7-013",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family was going on holiday.",
+          "zh": "这家庭是去在……上假期。",
+          "startMs": 4780,
+          "endMs": 13360
+        },
+        {
+          "en": "They were taking Biff and Chip.",
+          "zh": "他们是拿 Biff 和 Chip。",
+          "startMs": 13360,
+          "endMs": 13560
+        },
+        {
+          "en": "Mum and Dad were busy packing the car.",
+          "zh": "妈妈和爸爸是忙碌的收拾行囊这汽车。",
+          "startMs": 17000,
+          "endMs": 21100
+        },
+        {
+          "en": "\"Will you pack these for us, please?\" Asked Wilma.",
+          "zh": "将你盒这些为了我们， 请？ 问 Wilma。 什么是它？ 问 Wilma。 是， 说爸爸。",
+          "startMs": 21130,
+          "endMs": 27360
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 4630,
+      "endMs": 27710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There will be lots to do,\" said Dad.",
+          "zh": "那里将是许多到做， 说爸爸。",
+          "startMs": 28860,
+          "endMs": 34960
+        },
+        {
+          "en": "\"You won't need those.\" \"We will,\" Said Wilf.",
+          "zh": "你不会必须那些。 嗨 Wilf！ 帮助！ 说 Wilf。",
+          "startMs": 34960,
+          "endMs": 37100
+        },
+        {
+          "en": "\"We must take the game station.",
+          "zh": "我们必须拿这游戏火车站。",
+          "startMs": 37100,
+          "endMs": 39100
+        },
+        {
+          "en": "I've got a great new game.\" Said Wilma.",
+          "zh": "我已经得到一个很棒的新的游戏。 » 说 Nadim。",
+          "startMs": 40530,
+          "endMs": 45780
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 28710,
+      "endMs": 46130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We want to watch these films,\" said Wilma.",
+          "zh": "我们想要到手表这些电影， 说 Wilma。",
+          "startMs": 47000,
+          "endMs": 50540
+        },
+        {
+          "en": "\"We haven't seen some of them yet.\"",
+          "zh": "我们没有看见一些的他们还。",
+          "startMs": 50860,
+          "endMs": 54440
+        },
+        {
+          "en": "\"And can we take the CD player?\" Asked Biff.",
+          "zh": "和能我们拿这光碟玩？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 54470,
+          "endMs": 56240
+        },
+        {
+          "en": "[car horn] It was a long journey.",
+          "zh": "",
+          "startMs": 59860,
+          "endMs": 66500
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 46850,
+      "endMs": 66850
+    },
+    {
+      "sentences": [
+        {
+          "en": "It took hours.",
+          "zh": "它拿他们到罗马。",
+          "startMs": 66530,
+          "endMs": 67920
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 66850,
+      "endMs": 68270
+    },
+    {
+      "sentences": [
+        {
+          "en": "They stopped for a break.",
+          "zh": "它有到是做完在……之前早饭。",
+          "startMs": 67920,
+          "endMs": 68120
+        },
+        {
+          "en": "\"Let's get a drink\" said Mum.",
+          "zh": "让我们得到一些漂流木。 说妈妈。 Kipper， 说妈妈。 是什么那个？ 笑话 Wilf。",
+          "startMs": 68130,
+          "endMs": 77100
+        },
+        {
+          "en": "At last they arrived at the cottage.",
+          "zh": "在最后的他们到达在这小屋。",
+          "startMs": 77330,
+          "endMs": 82260
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 68270,
+      "endMs": 82610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We're in the middle of a forest,\" said Wilf.",
+          "zh": "我们是在……里这中间的一个为了， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 86000,
+          "endMs": 93100
+        },
+        {
+          "en": "\"We're in the middle of nowhere,\" said Wilma.",
+          "zh": "我们是在……里这中间的哪里都不， 说 Wilma。 » 说 Nadim。",
+          "startMs": 93130,
+          "endMs": 96100
+        },
+        {
+          "en": "They went inside the cottage.",
+          "zh": "他们去里面这小屋。",
+          "startMs": 103000,
+          "endMs": 106100
+        },
+        {
+          "en": "Mum and Dad began to unpack the car.",
+          "zh": "妈妈和爸爸开始到打开这汽车。",
+          "startMs": 108120,
+          "endMs": 110960
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 85850,
+      "endMs": 111310
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a big television in the front room.",
+          "zh": "那里是一个大的电视在……里这前面房间。",
+          "startMs": 111000,
+          "endMs": 118100
+        },
+        {
+          "en": "\"Great,\" \"Great!\" said Chip.",
+          "zh": "很棒的！ 说 Chip。",
+          "startMs": 118100,
+          "endMs": 118300
+        },
+        {
+          "en": "\"Let's watch TV.\"",
+          "zh": "让我们手表电视。",
+          "startMs": 118300,
+          "endMs": 118500
+        },
+        {
+          "en": "\"We could play some games,\" said Wilf.",
+          "zh": "我们能玩一些游戏， 说 Wilf。",
+          "startMs": 122000,
+          "endMs": 124780
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 111310,
+      "endMs": 125130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Wilf.",
+          "zh": "帮助！ 说 Wilf。",
+          "startMs": 124810,
+          "endMs": 125870
+        },
+        {
+          "en": "\"Could you bring in our game station, Dad?\" \"Not now,\" \"Later,\" said Dad.",
+          "zh": "能你带来在……里我们的游戏火车站， 爸爸？ 不现在， 说爸爸。",
+          "startMs": 126000,
+          "endMs": 133100
+        },
+        {
+          "en": "\"Come and help us unpack the car.\"",
+          "zh": "来和帮助我们打开这汽车。",
+          "startMs": 133100,
+          "endMs": 133300
+        },
+        {
+          "en": "At breakfast Wilma put on a film.",
+          "zh": "在早饭 Wilma 放在……上一个电影。",
+          "startMs": 143860,
+          "endMs": 149260
+        },
+        {
+          "en": "Dad sighed.",
+          "zh": "爸爸叹气。",
+          "startMs": 149290,
+          "endMs": 150350
+        },
+        {
+          "en": "\"Get dressed everyone.",
+          "zh": "得到连衣裙每个人。",
+          "startMs": 150350,
+          "endMs": 150550
+        },
+        {
+          "en": "We didn't come on holiday to watch TV.\"",
+          "zh": "我们没有来在……上假期到手表电视。",
+          "startMs": 150550,
+          "endMs": 150750
+        },
+        {
+          "en": "\"Can we watch this first?\"",
+          "zh": "能我们手表这个第一？ 问 Wilma。",
+          "startMs": 159860,
+          "endMs": 161960
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 125130,
+      "endMs": 162310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Wilma. \"Let's watch TV.\" \"Okay,\" Wilma said.",
+          "zh": "» 说 Nadim。 让我们手表电视。 Wilma 有一个主意。",
+          "startMs": 161960,
+          "endMs": 162160
+        },
+        {
+          "en": "\"Get dressed everyone.",
+          "zh": "得到连衣裙每个人。",
+          "startMs": 162160,
+          "endMs": 163380
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 162310,
+      "endMs": 163730
+    },
+    {
+      "sentences": [
+        {
+          "en": "We didn't come on holiday to watch TV.\"",
+          "zh": "我们没有来在……上假期到手表电视。",
+          "startMs": 163380,
+          "endMs": 163580
+        },
+        {
+          "en": "\"Can we watch this first?\" Asked Wilma.",
+          "zh": "能我们手表这个第一？ 问 Wilma。 什么是它？ 问 Wilma。",
+          "startMs": 163580,
+          "endMs": 163780
+        },
+        {
+          "en": "\"Later,\" Said Dad.",
+          "zh": "告诉我后来。 是， 说爸爸。",
+          "startMs": 165000,
+          "endMs": 168100
+        },
+        {
+          "en": "\"Let's go out.\"",
+          "zh": "让我们去出。",
+          "startMs": 168130,
+          "endMs": 169520
+        },
+        {
+          "en": "\"Where's the beach today?\" Said Mum.",
+          "zh": "有远也许多到做。 Kipper， 说妈妈。",
+          "startMs": 182000,
+          "endMs": 185100
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 163730,
+      "endMs": 185450
+    },
+    {
+      "sentences": [
+        {
+          "en": "But nobody said anything.",
+          "zh": "但是没有人说任何东西。",
+          "startMs": 185130,
+          "endMs": 186960
+        },
+        {
+          "en": "Wilf and Biff were busy playing a game.",
+          "zh": "Wilf 和 Biff 是忙碌的玩一个游戏。",
+          "startMs": 188030,
+          "endMs": 191240
+        },
+        {
+          "en": "Chip and Wilma were listening to a CD.",
+          "zh": "Chip 和 Wilma 是听到一个光碟。",
+          "startMs": 192860,
+          "endMs": 198520
+        },
+        {
+          "en": "Suddenly all the lights went out.",
+          "zh": "突然地全部这轻的去出。",
+          "startMs": 204170,
+          "endMs": 206860
+        },
+        {
+          "en": "The television and the CD player went off.",
+          "zh": "这电视和这光碟玩去离开。",
+          "startMs": 207860,
+          "endMs": 213880
+        },
+        {
+          "en": "\"What's happened?\" Called Biff.",
+          "zh": "是什么发生？ 叫 Biff。 太太梅！ 叫 Biff。",
+          "startMs": 213910,
+          "endMs": 215640
+        },
+        {
+          "en": "Dad came in with a torch.",
+          "zh": "爸爸来在……里和……一起一个手电筒。",
+          "startMs": 215860,
+          "endMs": 218860
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 185450,
+      "endMs": 219210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"There's been a power cut,\" He said.",
+          "zh": "有是一个控制力切！ 他说。 啊唷！",
+          "startMs": 219000,
+          "endMs": 223100
+        },
+        {
+          "en": "Mum found a lamp.",
+          "zh": "妈妈找到一个灯。",
+          "startMs": 223130,
+          "endMs": 227020
+        },
+        {
+          "en": "\"What if the power doesn't come back on?\"",
+          "zh": "什么如果这控制力不来回来在……上？",
+          "startMs": 227050,
+          "endMs": 229640
+        },
+        {
+          "en": "Asked Chip, looking at the TV.",
+          "zh": "Chip， 看在这电视。",
+          "startMs": 229860,
+          "endMs": 232960
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 219210,
+      "endMs": 233310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We'll have to do without it,\" Said Dad.",
+          "zh": "我们会有到做没有它， 说爸爸。 是， 说爸爸。",
+          "startMs": 232990,
+          "endMs": 236700
+        },
+        {
+          "en": "\"Oh, no!\" Said the children.",
+          "zh": "哦不！ 说这孩子们。",
+          "startMs": 236860,
+          "endMs": 241440
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 233310,
+      "endMs": 241790
+    },
+    {
+      "sentences": [
+        {
+          "en": "That night the power didn't come back on.",
+          "zh": "那个夜晚这控制力没有来回来在……上。",
+          "startMs": 245000,
+          "endMs": 248100
+        },
+        {
+          "en": "\"It may be off for a long time,\" Said Dad.",
+          "zh": "它梅是离开为了一个长的时间， 说爸爸。 是， 说爸爸。",
+          "startMs": 248130,
+          "endMs": 252040
+        },
+        {
+          "en": "It was time to eat.",
+          "zh": "它是时间到吃。",
+          "startMs": 252980,
+          "endMs": 254320
+        },
+        {
+          "en": "They all sat round the table and had supper by candlelight.",
+          "zh": "他们全部坐圆形的这桌子和有晚饭由烛光。",
+          "startMs": 254350,
+          "endMs": 259030
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 244850,
+      "endMs": 259380
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was fun eating in the dark.",
+          "zh": "它是乐趣吃在……里这黑暗的。",
+          "startMs": 260440,
+          "endMs": 262260
+        },
+        {
+          "en": "They took it in turns to tell stories.",
+          "zh": "他们拿它在……里转动到告诉故事。",
+          "startMs": 263040,
+          "endMs": 265960
+        },
+        {
+          "en": "Dad told them a funny story about a time when he was a little boy.",
+          "zh": "爸爸告诉他们一个有趣的故事关于一个时间当……时他是一个小的男孩。",
+          "startMs": 266030,
+          "endMs": 272240
+        },
+        {
+          "en": "It made them all laugh.",
+          "zh": "它做他们全部笑。",
+          "startMs": 272270,
+          "endMs": 274960
+        },
+        {
+          "en": "That night the power didn't come back on.",
+          "zh": "那个夜晚这控制力没有来回来在……上。",
+          "startMs": 280860,
+          "endMs": 285240
+        },
+        {
+          "en": "The children had to use the lamp to go to bed.",
+          "zh": "这孩子们有到使用这灯到去到床。",
+          "startMs": 285270,
+          "endMs": 288640
+        },
+        {
+          "en": "Chip made a shadow on the wall with his hands.",
+          "zh": "Chip 做一个阴影在……上这墙和……一起他的手。",
+          "startMs": 288860,
+          "endMs": 293000
+        },
+        {
+          "en": "\"Guess what it is,\" he said.",
+          "zh": "猜测什么它是， 他说。",
+          "startMs": 293030,
+          "endMs": 296540
+        },
+        {
+          "en": "Wilma shone a torch under her chin.",
+          "zh": "Wilma shone 一个手电筒在……下方她下巴。",
+          "startMs": 297240,
+          "endMs": 301240
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 260290,
+      "endMs": 301590
+    },
+    {
+      "sentences": [
+        {
+          "en": "The light made her face look scary.",
+          "zh": "这轻的做她脸看可怕的。 她说。",
+          "startMs": 301270,
+          "endMs": 304960
+        },
+        {
+          "en": "\"Ooh!\" \"Whoooh!\" she said.",
+          "zh": "呼呼声！ 哦不！ 她说。",
+          "startMs": 305000,
+          "endMs": 310100
+        },
+        {
+          "en": "\"I'm a monster.\" Everyone laughed.",
+          "zh": "我是一个怪物。 每个人笑。",
+          "startMs": 310130,
+          "endMs": 318290
+        },
+        {
+          "en": "Then Mum came in and said it was time to go to sleep.",
+          "zh": "然后妈妈来在……里和说它是时间到去到睡觉。",
+          "startMs": 318860,
+          "endMs": 323920
+        },
+        {
+          "en": "The next morning there was still no power.",
+          "zh": "这下一个早晨那里是仍然不控制力。",
+          "startMs": 331860,
+          "endMs": 336140
+        },
+        {
+          "en": "So the family spent all day on the beach.",
+          "zh": "所以这家庭花费全部一天在……上这海滩。",
+          "startMs": 336170,
+          "endMs": 339960
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 301590,
+      "endMs": 340310
+    },
+    {
+      "sentences": [
+        {
+          "en": "They played lots of games.",
+          "zh": "他们玩许多的游戏。",
+          "startMs": 340390,
+          "endMs": 342960
+        },
+        {
+          "en": "\"It's late,\" Said Mum.",
+          "zh": "它是一个风筝。 Kipper， 说妈妈。",
+          "startMs": 342990,
+          "endMs": 346120
+        },
+        {
+          "en": "\"It's time to go.\"",
+          "zh": "它是时间到去。",
+          "startMs": 346150,
+          "endMs": 347960
+        },
+        {
+          "en": "\"Can't we stay a bit longer?\" Asked Wilf.",
+          "zh": "不能我们停留一个一小块长的？ 问 Wilf。 是什么那个？ 笑话 Wilf。",
+          "startMs": 349000,
+          "endMs": 353100
+        },
+        {
+          "en": "\"I've got an idea,\" said Dad.",
+          "zh": "我已经得到一个主意， 说爸爸。 是， 说爸爸。",
+          "startMs": 353130,
+          "endMs": 356930
+        },
+        {
+          "en": "\"Let's build a fire.",
+          "zh": "让我们建造一个火。",
+          "startMs": 357000,
+          "endMs": 359100
+        },
+        {
+          "en": "We could cook supper.\"",
+          "zh": "我们能做饭晚饭。",
+          "startMs": 359100,
+          "endMs": 361100
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 340310,
+      "endMs": 361450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Brilliant!\"",
+          "zh": "明亮的！ 说 Chip。",
+          "startMs": 361130,
+          "endMs": 362960
+        },
+        {
+          "en": "\"Brilliant!\" they all shouted.",
+          "zh": "明亮的！ 他们全部喊。",
+          "startMs": 363000,
+          "endMs": 365100
+        },
+        {
+          "en": "\"Let's get some driftwood.\" Said Mum.",
+          "zh": "让我们得到一些漂流木。 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 365130,
+          "endMs": 368420
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 361450,
+      "endMs": 368770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'll go and get the food,\" Said Dad.",
+          "zh": "我会去和得到这食物， 说爸爸。 是， 说爸爸。",
+          "startMs": 368860,
+          "endMs": 372960
+        },
+        {
+          "en": "It was getting dark by the time the fire was finished.",
+          "zh": "它是得到黑暗的由这时间这火是结束了的。",
+          "startMs": 377000,
+          "endMs": 382100
+        },
+        {
+          "en": "\"Hey, Wilf, that looks like a giant bird's nest,\" Said Mum.",
+          "zh": "那个看喜欢一个巨人鸟窝， 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 386000,
+          "endMs": 392100
+        },
+        {
+          "en": "\"You light it, not lay an egg in it!\"",
+          "zh": "你轻的它， 不安放一个鸡蛋在……里它！",
+          "startMs": 392130,
+          "endMs": 394520
+        },
+        {
+          "en": "Dad cooked lots of food on the fire.",
+          "zh": "爸爸做饭许多的食物在……上这火。",
+          "startMs": 397860,
+          "endMs": 400850
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 368770,
+      "endMs": 401200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then Mum toasted some marshmallows.",
+          "zh": "然后妈妈烤面包片一些棉花软糖。",
+          "startMs": 400850,
+          "endMs": 401100
+        },
+        {
+          "en": "They all sat and looked at the stars.",
+          "zh": "他们全部坐和看在这星星。",
+          "startMs": 403760,
+          "endMs": 406340
+        },
+        {
+          "en": "\"I have a surprise,\" said Dad.",
+          "zh": "我有一个意想不到的事物， 说爸爸。 是， 说爸爸。",
+          "startMs": 406340,
+          "endMs": 409100
+        },
+        {
+          "en": "\"Sparklers!\" \"Sorry,\" \"Sorry,\" said Dad the next morning.",
+          "zh": "烟花棒！ 我是对不起。",
+          "startMs": 409130,
+          "endMs": 429100
+        },
+        {
+          "en": "\"Still no power.\"",
+          "zh": "仍然不控制力。",
+          "startMs": 429100,
+          "endMs": 431100
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 401200,
+      "endMs": 431450
+    },
+    {
+      "sentences": [
+        {
+          "en": "We can do without it,\" Smiled Chip.",
+          "zh": "我们能做没有它。 哦！ 说 Chip。",
+          "startMs": 431100,
+          "endMs": 434100
+        },
+        {
+          "en": "\"Last night was magic,\" said Wilf.",
+          "zh": "最后的夜晚是魔法， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 434100,
+          "endMs": 438100
+        },
+        {
+          "en": "\"What shall we do tonight?\" Asked Biff.",
+          "zh": "什么将我们做今夜？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 439180,
+          "endMs": 444600
+        },
+        {
+          "en": "That night Wilma had a good idea.",
+          "zh": "那个夜晚 Wilma 有一个好的主意。",
+          "startMs": 446860,
+          "endMs": 450740
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 431450,
+      "endMs": 451090
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We could play hide and seek,\" she said.",
+          "zh": "我们能玩把和寻找， 她说。",
+          "startMs": 451000,
+          "endMs": 454160
+        },
+        {
+          "en": "\"If you are 'It' you have a torch.\"",
+          "zh": "它' 你有一个手电筒。",
+          "startMs": 455000,
+          "endMs": 459100
+        },
+        {
+          "en": "Everyone hid around the dark cottage.",
+          "zh": "每个人 hid 在……周围这黑暗的小屋。",
+          "startMs": 459130,
+          "endMs": 463100
+        },
+        {
+          "en": "Wilf was It'.",
+          "zh": "Wilf 是它'。",
+          "startMs": 463130,
+          "endMs": 464520
+        },
+        {
+          "en": "He counted to a hundred.",
+          "zh": "他数数到一个一百。",
+          "startMs": 464520,
+          "endMs": 464720
+        },
+        {
+          "en": "Wilf looked in every room.",
+          "zh": "Wilf 看在……里每个房间。",
+          "startMs": 470000,
+          "endMs": 473100
+        },
+        {
+          "en": "\"Found you, Biff!\"",
+          "zh": "找到你， Biff！ 他叫。",
+          "startMs": 477000,
+          "endMs": 478920
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 451090,
+      "endMs": 479270
+    },
+    {
+      "sentences": [
+        {
+          "en": "He called.",
+          "zh": "来在……上， 他叫。",
+          "startMs": 478950,
+          "endMs": 480010
+        },
+        {
+          "en": "Biff was hiding behind a big plant.",
+          "zh": "Biff 是躲藏在……后面一个大的植物。",
+          "startMs": 480010,
+          "endMs": 480360
+        },
+        {
+          "en": "He found Chip lying in the bath.",
+          "zh": "他找到 Chip 说谎在……里这洗澡。",
+          "startMs": 480920,
+          "endMs": 485300
+        },
+        {
+          "en": "Wilma was behind the TV.",
+          "zh": "Wilma 是在……后面这电视。",
+          "startMs": 505000,
+          "endMs": 508100
+        },
+        {
+          "en": "Mum was under a bed.",
+          "zh": "妈妈是在……下方一个床。",
+          "startMs": 508130,
+          "endMs": 510180
+        },
+        {
+          "en": "But where was Dad?",
+          "zh": "但是哪里是爸爸？",
+          "startMs": 510180,
+          "endMs": 510380
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 479270,
+      "endMs": 510730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the moon came out from behind the clouds.",
+          "zh": "突然地， 这月亮来出从在……后面这云。",
+          "startMs": 510380,
+          "endMs": 510580
+        },
+        {
+          "en": "It lit up the windows.",
+          "zh": "它 lit 向上这窗户。",
+          "startMs": 510580,
+          "endMs": 510780
+        },
+        {
+          "en": "Dad was hiding behind the curtains.",
+          "zh": "爸爸是躲藏在……后面这窗帘。",
+          "startMs": 510780,
+          "endMs": 510980
+        },
+        {
+          "en": "That gives me an idea,\" thought Wilma.",
+          "zh": "那个给我一个主意， 想 Wilma。",
+          "startMs": 510980,
+          "endMs": 514320
+        },
+        {
+          "en": "The next day Biff, Chip and Wilf went with Wilma to the woods.",
+          "zh": "这下一个一天 Biff， Chip 和 Wilf 去和……一起 Wilma 到这木头。",
+          "startMs": 517000,
+          "endMs": 523100
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 510730,
+      "endMs": 523450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why have we brought the boxes and a sheet?\" Asked Chip.",
+          "zh": "为什么有我们带来这盒子和一个床单？ 问 Chip。 什么是它？ 问 Chip。",
+          "startMs": 526860,
+          "endMs": 531500
+        },
+        {
+          "en": "\"And why are we here so early?\" Yawned Wilf.",
+          "zh": "和为什么是我们这里所以提早的？ 打哈欠 Wilf。 嗨 Wilf！",
+          "startMs": 531530,
+          "endMs": 535520
+        },
+        {
+          "en": "\"There's loads to do before tonight.\" Wilma's eyes sparkled.",
+          "zh": "有装载到做在……之前今夜。 Wilma 眼睛发光。",
+          "startMs": 537000,
+          "endMs": 541100
+        },
+        {
+          "en": "\"This evening, we are going to do a shadow play!\"",
+          "zh": "这个晚上， 我们是去到做一个阴影玩！",
+          "startMs": 544920,
+          "endMs": 550120
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 526710,
+      "endMs": 550470
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Brilliant!\" Said Chip.",
+          "zh": "明亮的！ 说 Chip。 哦！",
+          "startMs": 550150,
+          "endMs": 552960
+        },
+        {
+          "en": "\"What's that?\"",
+          "zh": "是什么那个？",
+          "startMs": 552990,
+          "endMs": 554960
+        },
+        {
+          "en": "The children worked all day.",
+          "zh": "这孩子们工作全部一天。",
+          "startMs": 556860,
+          "endMs": 561460
+        },
+        {
+          "en": "They cut out shapes from the cardboard boxes.",
+          "zh": "他们切出形状从这硬纸板盒子。",
+          "startMs": 561860,
+          "endMs": 566220
+        },
+        {
+          "en": "Wilf tied the sheet between two trees.",
+          "zh": "Wilf 租给雇工的这床单在……之间二树。",
+          "startMs": 566860,
+          "endMs": 572360
+        },
+        {
+          "en": "\"What are you doing?\" Dad asked.",
+          "zh": "什么是你做？ 爸爸问。",
+          "startMs": 574860,
+          "endMs": 578960
+        },
+        {
+          "en": "\"It's a surprise,\" said Wilma.",
+          "zh": "它是一个意想不到的事物， 说 Wilma。",
+          "startMs": 579000,
+          "endMs": 581410
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 550470,
+      "endMs": 581760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Wilma.",
+          "zh": "» 说 Nadim。",
+          "startMs": 582340,
+          "endMs": 583270
+        },
+        {
+          "en": "There was a golden sunset that evening.",
+          "zh": "那里是一个金色的日落时分那个晚上。",
+          "startMs": 583300,
+          "endMs": 587280
+        },
+        {
+          "en": "The children had put down lots of candles in jars.",
+          "zh": "这孩子们有放向下许多的蜡烛在……里震动。",
+          "startMs": 587310,
+          "endMs": 590740
+        },
+        {
+          "en": "\"How beautiful!\" Said Mum.",
+          "zh": "如何美丽的！ 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 591940,
+          "endMs": 594940
+        },
+        {
+          "en": "\"It's like magic!\" Gasped Dad.",
+          "zh": "它是喜欢魔法！ 喘气爸爸。 它是喜欢魔法！ 喘气爸爸。",
+          "startMs": 594970,
+          "endMs": 600260
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 582190,
+      "endMs": 600610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly Biff turned out the lamp.",
+          "zh": "突然地 Biff 转动向上这灯。",
+          "startMs": 602860,
+          "endMs": 607220
+        },
+        {
+          "en": "The sheet glowed.",
+          "zh": "这床单光亮。",
+          "startMs": 611000,
+          "endMs": 614100
+        },
+        {
+          "en": "The play began.",
+          "zh": "这玩开始。",
+          "startMs": 614130,
+          "endMs": 617200
+        },
+        {
+          "en": "It was about elves.",
+          "zh": "它是关于 elves。",
+          "startMs": 617860,
+          "endMs": 621780
+        },
+        {
+          "en": "The elves were cardboard puppets.",
+          "zh": "这 elves 是硬纸板木偶。",
+          "startMs": 621860,
+          "endMs": 626300
+        },
+        {
+          "en": "Wilf and Chip moved the puppets around.",
+          "zh": "Wilf 和 Chip 移动这木偶在……周围。",
+          "startMs": 628360,
+          "endMs": 631160
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 602710,
+      "endMs": 631510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff did the elves' voices.",
+          "zh": "Biff 做这 elves' 说话声。",
+          "startMs": 631190,
+          "endMs": 634660
+        },
+        {
+          "en": "Wilma played the guitar.",
+          "zh": "Wilma 玩这吉他。",
+          "startMs": 634860,
+          "endMs": 638880
+        },
+        {
+          "en": "They all sang songs.",
+          "zh": "他们全部唱歌歌曲。",
+          "startMs": 638910,
+          "endMs": 643000
+        },
+        {
+          "en": "It was a good story.",
+          "zh": "它是一个好的故事。",
+          "startMs": 648860,
+          "endMs": 651860
+        },
+        {
+          "en": "It was funny and sad.",
+          "zh": "它是有趣的和伤心的。",
+          "startMs": 651890,
+          "endMs": 655120
+        },
+        {
+          "en": "It made Mum laugh and Dad cry.",
+          "zh": "它做妈妈笑和爸爸哭。",
+          "startMs": 655150,
+          "endMs": 659960
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 631510,
+      "endMs": 660310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The play had finished.",
+          "zh": "这玩有结束了的。",
+          "startMs": 662860,
+          "endMs": 666360
+        },
+        {
+          "en": "Everyone bowed.",
+          "zh": "每个人呻吟。",
+          "startMs": 670330,
+          "endMs": 671960
+        },
+        {
+          "en": "\"Hooray!\" Shouted Mum.",
+          "zh": "这食物是准备好的。 喊 Gran。",
+          "startMs": 676000,
+          "endMs": 677590
+        },
+        {
+          "en": "\"Well done!\" \"Now,\" \"Now,\" said Dad \"I've got a surprise.\" \"What is it?\" Asked Wilma.",
+          "zh": "好做完！ 啊唷！",
+          "startMs": 677620,
+          "endMs": 687690
+        },
+        {
+          "en": "\"You'll see,\" Smiled Dad.",
+          "zh": "你会看见， 微笑爸爸。",
+          "startMs": 688050,
+          "endMs": 690960
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 662710,
+      "endMs": 691310
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went back to the cottage.",
+          "zh": "他们去回来到这小屋。",
+          "startMs": 692860,
+          "endMs": 695980
+        },
+        {
+          "en": "It was pitch black.",
+          "zh": "它是场地黑色的。",
+          "startMs": 696010,
+          "endMs": 697530
+        },
+        {
+          "en": "\"We can't see anything,\" said Wilf.",
+          "zh": "我们不能看见任何东西， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 698000,
+          "endMs": 702100
+        },
+        {
+          "en": "\"I said 'you'll see' and now you can,\" said Dad.",
+          "zh": "我说 '你会看见' 和现在你能， 说爸爸。 是， 说爸爸。",
+          "startMs": 702130,
+          "endMs": 707100
+        },
+        {
+          "en": "He turned on the power.",
+          "zh": "他转动在……上这控制力。",
+          "startMs": 707130,
+          "endMs": 708960
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 692710,
+      "endMs": 709310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad laughed.",
+          "zh": "爸爸笑。",
+          "startMs": 714160,
+          "endMs": 715960
+        },
+        {
+          "en": "\"Surprise!\" He said.",
+          "zh": "意想不到的事物！ 他说。 啊唷！",
+          "startMs": 715990,
+          "endMs": 718960
+        },
+        {
+          "en": "\"I wanted you to enjoy the holiday without TV.",
+          "zh": "我想要你到享受这假期没有电视。",
+          "startMs": 719160,
+          "endMs": 723160
+        },
+        {
+          "en": "There was no power cut.\"",
+          "zh": "那里是不控制力切。",
+          "startMs": 723190,
+          "endMs": 724760
+        },
+        {
+          "en": "\"Turn it off again,\" said the children.",
+          "zh": "转动它离开再一次， 说这孩子们。 哦不！ 说这孩子们。",
+          "startMs": 725000,
+          "endMs": 729100
+        },
+        {
+          "en": "\"We can do without it.\"",
+          "zh": "我们能做没有它。",
+          "startMs": 729100,
+          "endMs": 732100
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 714010,
+      "endMs": 732450
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 732450,
+      "endMs": 732451
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 732451,
+      "endMs": 732452
+    }
+  ]
+}

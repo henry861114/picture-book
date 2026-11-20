@@ -1,0 +1,1063 @@
+{
+  "id": "L8-001",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was sad because the magic key would not glow.",
+          "zh": "Kipper 是伤心的因为这魔法钥匙会不光亮。",
+          "startMs": 29,
+          "endMs": 5070
+        },
+        {
+          "en": "He looked at the key for a long time.",
+          "zh": "他看在这钥匙为了一个长的时间。",
+          "startMs": 5100,
+          "endMs": 8170
+        },
+        {
+          "en": "At last he fell asleep.",
+          "zh": "在最后的他落下睡着的。",
+          "startMs": 8170,
+          "endMs": 10070
+        },
+        {
+          "en": "Suddenly, the key glowed and the magic began to work.",
+          "zh": "突然地， 这钥匙光亮和这魔法开始到工作。",
+          "startMs": 10100,
+          "endMs": 15070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 15420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper's toys were coming to life.",
+          "zh": "Kipper 玩具是来到生命。",
+          "startMs": 20970,
+          "endMs": 24370
+        },
+        {
+          "en": "Teddy gave Kipper a shake.",
+          "zh": "Kipper 一个抖动。",
+          "startMs": 24370,
+          "endMs": 26070
+        },
+        {
+          "en": "\"Wake up,\" He said.",
+          "zh": "醒来向上！ Biff， 他说。",
+          "startMs": 26070,
+          "endMs": 28220
+        },
+        {
+          "en": "\"The magic key is glowing.",
+          "zh": "这魔法钥匙是发光的。",
+          "startMs": 32010,
+          "endMs": 33840
+        },
+        {
+          "en": "The magic is working.\"",
+          "zh": "这魔法是有工作的。",
+          "startMs": 33840,
+          "endMs": 34040
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 20820,
+      "endMs": 34390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper sat up and rubbed his eyes.",
+          "zh": "Kipper 坐向上和按摩他的眼睛。",
+          "startMs": 35860,
+          "endMs": 38500
+        },
+        {
+          "en": "He looked at his toys.",
+          "zh": "他看在他的玩具。",
+          "startMs": 39170,
+          "endMs": 41070
+        },
+        {
+          "en": "\"Come on, Kipper,\" Said Katsimir.",
+          "zh": "来在……上， 说 Kipper。 来在……上， Kipper， 说 Catsimir。",
+          "startMs": 41100,
+          "endMs": 43490
+        },
+        {
+          "en": "\"Hurry up!",
+          "zh": "急忙向上！",
+          "startMs": 43520,
+          "endMs": 44580
+        },
+        {
+          "en": "It's time for a magic adventure.\"",
+          "zh": "它是时间为了一个魔法冒险。",
+          "startMs": 46100,
+          "endMs": 48070
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 35710,
+      "endMs": 48420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The toys ran to the little house.",
+          "zh": "这玩具跑到这小的房子。",
+          "startMs": 51850,
+          "endMs": 54740
+        },
+        {
+          "en": "\"Hurry up, Kipper.\" Called Teddy.",
+          "zh": "急忙向上！ Kipper， 叫泰迪熊。",
+          "startMs": 54740,
+          "endMs": 54940
+        },
+        {
+          "en": "\"Be quick, or it will be too late.\"",
+          "zh": "是快的， 或者它将是也晚的。",
+          "startMs": 54940,
+          "endMs": 57070
+        },
+        {
+          "en": "Kipper could feel the magic working.",
+          "zh": "Kipper 能感觉这魔法有工作的。",
+          "startMs": 60850,
+          "endMs": 63340
+        },
+        {
+          "en": "It pulled him inside the magic house.",
+          "zh": "它拉他里面这魔法房子。",
+          "startMs": 63970,
+          "endMs": 66070
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 51700,
+      "endMs": 66420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic whizzed Kipper round and round.",
+          "zh": "这魔法飕飕飞过 Kipper 圆形的和圆形的。",
+          "startMs": 66100,
+          "endMs": 69750
+        },
+        {
+          "en": "\"Oh, help!\" Called Kipper.",
+          "zh": "帮助！ 哦帮助， 叫 Kipper。",
+          "startMs": 69750,
+          "endMs": 70070
+        },
+        {
+          "en": "\"I feel different.",
+          "zh": "我感觉不同的。",
+          "startMs": 73970,
+          "endMs": 76190
+        },
+        {
+          "en": "This is a different sort of magic.\"",
+          "zh": "这个是一个不同的种类的魔法。",
+          "startMs": 76220,
+          "endMs": 77070
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 66420,
+      "endMs": 77420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to an airport.",
+          "zh": "这魔法拿他们到一个岛屿。",
+          "startMs": 84230,
+          "endMs": 86900
+        },
+        {
+          "en": "It was a very busy airport.",
+          "zh": "它是一个非常忙碌的机场。",
+          "startMs": 86900,
+          "endMs": 87100
+        },
+        {
+          "en": "Katsimir was excited.",
+          "zh": "Catsimir 是兴奋的。",
+          "startMs": 87100,
+          "endMs": 89070
+        },
+        {
+          "en": "\"Maybe we can catch a plane,\" he said.",
+          "zh": "也许我们能抓住一个飞机， 他说。",
+          "startMs": 89070,
+          "endMs": 92070
+        },
+        {
+          "en": "\"Maybe we can have an exciting adventure!\"",
+          "zh": "也许我们能有一个令人激动的冒险！",
+          "startMs": 93660,
+          "endMs": 96270
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 84080,
+      "endMs": 96620
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were bears everywhere.",
+          "zh": "那里是承载到处。",
+          "startMs": 96270,
+          "endMs": 97970
+        },
+        {
+          "en": "They were going to Switzerland.",
+          "zh": "他们是去到瑞士。",
+          "startMs": 97970,
+          "endMs": 100070
+        },
+        {
+          "en": "\"They're going to the Teddy Bears' Picnic,\" said Teddy.",
+          "zh": "他们是去到这泰迪熊承载' 野餐， 说泰迪熊。 来在……上， 说泰迪熊。",
+          "startMs": 100070,
+          "endMs": 104070
+        },
+        {
+          "en": "\"They have one every year\" \"Maybe we can go too,\" said Bunbury.",
+          "zh": "他们有一每个年",
+          "startMs": 106500,
+          "endMs": 114070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 96620,
+      "endMs": 114420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was not so sure.",
+          "zh": "Kipper 是不所以确信的。",
+          "startMs": 117830,
+          "endMs": 120090
+        },
+        {
+          "en": "\"How can we?\" He asked.",
+          "zh": "如何能我们停他？ 他追赶它！",
+          "startMs": 120090,
+          "endMs": 120290
+        },
+        {
+          "en": "\"Of course we can go,\" said Teddy.",
+          "zh": "的进程我们能去， 说泰迪熊。 来在……上， 说泰迪熊。",
+          "startMs": 120290,
+          "endMs": 122070
+        },
+        {
+          "en": "\"This is a magic adventure.\"",
+          "zh": "这个是一个魔法冒险。",
+          "startMs": 125970,
+          "endMs": 129070
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 117680,
+      "endMs": 129420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper and his friends went on the aeroplane to Switzerland.",
+          "zh": "Kipper 和他的朋友们去在……上这飞机到瑞士。",
+          "startMs": 135860,
+          "endMs": 142200
+        },
+        {
+          "en": "They flew over lakes and mountains.",
+          "zh": "他们飞在……上方湖和山。",
+          "startMs": 142230,
+          "endMs": 144910
+        },
+        {
+          "en": "\"What a beautiful place for a picnic!\" Said Kipper.",
+          "zh": "什么一个美丽的地方为了一个野餐！ 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 144940,
+          "endMs": 149370
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 135710,
+      "endMs": 149720
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the plane landed everyone got off.",
+          "zh": "当……时这飞机拥有大量土地的每个人得到离开。",
+          "startMs": 150830,
+          "endMs": 155230
+        },
+        {
+          "en": "There were lots and lots of bears.",
+          "zh": "那里是许多和许多的承载。",
+          "startMs": 155260,
+          "endMs": 158290
+        },
+        {
+          "en": "Kipper had never seen so many.",
+          "zh": "Kipper 有从不看见所以许多。",
+          "startMs": 158320,
+          "endMs": 160930
+        },
+        {
+          "en": "They had come from all over the world.",
+          "zh": "他们有来从全部在……上方这世界。",
+          "startMs": 161300,
+          "endMs": 166280
+        },
+        {
+          "en": "\"It's going to be a big picnic,\" said Kipper.",
+          "zh": "它是去到是一个大的野餐， 说 Kipper。",
+          "startMs": 166310,
+          "endMs": 168830
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 150680,
+      "endMs": 169180
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Kipper.",
+          "zh": "哦帮助， 说 Kipper。",
+          "startMs": 168860,
+          "endMs": 169920
+        },
+        {
+          "en": "There was a bus at the airport.",
+          "zh": "那里是一个公共汽车在这机场。",
+          "startMs": 169920,
+          "endMs": 172130
+        },
+        {
+          "en": "It was going to the Teddy Bears' Picnic.",
+          "zh": "它是去到这泰迪熊承载' 野餐。",
+          "startMs": 173070,
+          "endMs": 176070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 169180,
+      "endMs": 176420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on,\" Said Katsimir.",
+          "zh": "来在……上！ 来在……上， Kipper， 说 Catsimir。",
+          "startMs": 176070,
+          "endMs": 176270
+        },
+        {
+          "en": "\"If we run, we can catch this bus.\" Kipper liked Switzerland.",
+          "zh": "来在……上， 说 Catsimir， 如果我们跑我们能抓住这个公共汽车。 Kipper 喜欢瑞士。",
+          "startMs": 176270,
+          "endMs": 179610
+        },
+        {
+          "en": "\"It's beautiful here,\" said Kipper.",
+          "zh": "它是美丽的这里， 说 Kipper。",
+          "startMs": 183330,
+          "endMs": 186270
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 176420,
+      "endMs": 186620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Kipper.",
+          "zh": "哦帮助， 说 Kipper。",
+          "startMs": 186270,
+          "endMs": 188070
+        },
+        {
+          "en": "It was fun on top of the bus.",
+          "zh": "它是乐趣在……上顶的这公共汽车。",
+          "startMs": 189510,
+          "endMs": 191290
+        },
+        {
+          "en": "The bears waved at everyone and everyone waved back.",
+          "zh": "这承载波浪在每个人和每个人波浪回来。",
+          "startMs": 191320,
+          "endMs": 195190
+        },
+        {
+          "en": "At last the bus arrived.",
+          "zh": "在最后的这公共汽车到达。",
+          "startMs": 195220,
+          "endMs": 198690
+        },
+        {
+          "en": "Everyone got off.",
+          "zh": "每个人得到离开。",
+          "startMs": 198720,
+          "endMs": 200070
+        },
+        {
+          "en": "\"I've never seen so many bears,\" said Kipper.",
+          "zh": "我已经从不看见所以许多承载， 说 Kipper。",
+          "startMs": 203970,
+          "endMs": 207430
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 186620,
+      "endMs": 207780
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Kipper.",
+          "zh": "哦帮助， 说 Kipper。",
+          "startMs": 215330,
+          "endMs": 217070
+        },
+        {
+          "en": "\"We'd better stay together, in case we get lost.\"",
+          "zh": "We'd 更好的停留一起， 在……里箱子我们得到丢失。",
+          "startMs": 217100,
+          "endMs": 220470
+        },
+        {
+          "en": "Kipper and his friends found a good place to sit.",
+          "zh": "Kipper 和他的朋友们找到一个好的地方到坐。",
+          "startMs": 220470,
+          "endMs": 220670
+        },
+        {
+          "en": "Suddenly, everyone shouted and cheered.",
+          "zh": "突然地， 每个人喊和向。",
+          "startMs": 220670,
+          "endMs": 220870
+        },
+        {
+          "en": "A famous bear had come onto the stage.",
+          "zh": "一个著名的承载有来在……上到这舞台。",
+          "startMs": 220870,
+          "endMs": 223270
+        },
+        {
+          "en": "He waved at the crowd.",
+          "zh": "他波浪在这人群。",
+          "startMs": 223270,
+          "endMs": 225070
+        },
+        {
+          "en": "\"Welcome to the Teddy Bears' Picnic,\" he said.",
+          "zh": "欢迎到这泰迪熊承载' 野餐， 他说。",
+          "startMs": 228970,
+          "endMs": 232930
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 215180,
+      "endMs": 233280
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "Biff， 他说。",
+          "startMs": 232960,
+          "endMs": 234020
+        },
+        {
+          "en": "\"I know him,\" said Kipper.",
+          "zh": "我知道他， 说 Kipper。",
+          "startMs": 234020,
+          "endMs": 234220
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 233280,
+      "endMs": 234570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Kipper.",
+          "zh": "哦帮助， 说 Kipper。",
+          "startMs": 234220,
+          "endMs": 234630
+        },
+        {
+          "en": "\"He's a very famous bear indeed.",
+          "zh": "他是一个非常著名的承载确实。",
+          "startMs": 234660,
+          "endMs": 236890
+        },
+        {
+          "en": "I've read all his books.\"",
+          "zh": "我已经读全部他的书。",
+          "startMs": 236920,
+          "endMs": 238070
+        },
+        {
+          "en": "Another famous bear came onto the stage.",
+          "zh": "另一个著名的承载来在……上到这舞台。",
+          "startMs": 239830,
+          "endMs": 244270
+        },
+        {
+          "en": "He began to tell jokes and sing funny songs.",
+          "zh": "他开始到告诉笑话和唱歌有趣的歌曲。",
+          "startMs": 244270,
+          "endMs": 246070
+        },
+        {
+          "en": "Everyone laughed and cheered.",
+          "zh": "每个人笑和向。",
+          "startMs": 246070,
+          "endMs": 249070
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 234570,
+      "endMs": 249420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I know that famous bear, too,\" said Kipper.",
+          "zh": "我知道那个著名的承载， 也， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 249100,
+          "endMs": 253070
+        },
+        {
+          "en": "\"I've seen him on TV.\"",
+          "zh": "我已经看见他在……上电视。",
+          "startMs": 253070,
+          "endMs": 255070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 249420,
+      "endMs": 255420
+    },
+    {
+      "sentences": [
+        {
+          "en": "A famous pop group came onto the stage.",
+          "zh": "一个著名的砰群来在……上到这舞台。",
+          "startMs": 255070,
+          "endMs": 257780
+        },
+        {
+          "en": "They played while the bears had their picnic.",
+          "zh": "他们玩当……的时候这承载有他们的野餐。",
+          "startMs": 257780,
+          "endMs": 261070
+        },
+        {
+          "en": "\"This is the best picnic I've ever been to,\" said Kipper.",
+          "zh": "这个是这最好的野餐我已经在任何时候是到， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 261070,
+          "endMs": 267070
+        },
+        {
+          "en": "Glenys Funnore Jackson Kipper had an autograph book.",
+          "zh": "Kipper 有一个亲笔签名书。",
+          "startMs": 268970,
+          "endMs": 271070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 255420,
+      "endMs": 271420
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted some of the famous bears to sign their names.",
+          "zh": "他想要一些的这著名的承载到符号他们的名字。",
+          "startMs": 271070,
+          "endMs": 275070
+        },
+        {
+          "en": "\"I can show them to Biff and Chip,\" said Kipper.",
+          "zh": "我能展示他们到 Biff 和 Chip， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 275070,
+          "endMs": 279070
+        },
+        {
+          "en": "\"Then they'll know I've had a magic adventure.\"",
+          "zh": "然后他们会知道我已经有一个魔法冒险。",
+          "startMs": 279070,
+          "endMs": 282070
+        },
+        {
+          "en": "They went to find the famous bears.",
+          "zh": "他们去到找到这著名的承载。",
+          "startMs": 282280,
+          "endMs": 285350
+        },
+        {
+          "en": "But there was trouble.",
+          "zh": "但是那里是问题。",
+          "startMs": 285350,
+          "endMs": 287070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 271420,
+      "endMs": 287420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some nasty bears were pushing the famous bears into a car.",
+          "zh": "一些令人难受的承载是推这著名的承载进入一个汽车。",
+          "startMs": 287070,
+          "endMs": 292070
+        },
+        {
+          "en": "\"It's a kidnap,\" said Bunbury.",
+          "zh": "它是一个绑架罪， 说 Bunbury。",
+          "startMs": 292070,
+          "endMs": 295430
+        },
+        {
+          "en": "\"We must do something.\"",
+          "zh": "我们必须做某物。",
+          "startMs": 295430,
+          "endMs": 298070
+        },
+        {
+          "en": "The car sped away.",
+          "zh": "这汽车 sped 离开。",
+          "startMs": 300970,
+          "endMs": 301560
+        },
+        {
+          "en": "Katsimir saw a van.",
+          "zh": "Catsimir 看见一个送货车。",
+          "startMs": 301560,
+          "endMs": 305070
+        },
+        {
+          "en": "\"Come on!\" He shouted.",
+          "zh": "来在……上！ 哈！ 他喊。",
+          "startMs": 305070,
+          "endMs": 307340
+        },
+        {
+          "en": "\"Get in!",
+          "zh": "得到在……里！",
+          "startMs": 307340,
+          "endMs": 308370
+        },
+        {
+          "en": "We can follow the kidnappers in this van!\"",
+          "zh": "我们能跟随这绑匪在……里这个送货车！",
+          "startMs": 308370,
+          "endMs": 312070
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 287420,
+      "endMs": 312420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Catsimir drove the van as fast as he could.",
+          "zh": "Catsimir 驾驶这送货车像快的像他能。",
+          "startMs": 312070,
+          "endMs": 315330
+        },
+        {
+          "en": "The car went even faster.",
+          "zh": "这汽车去竟然快的。",
+          "startMs": 315330,
+          "endMs": 317230
+        },
+        {
+          "en": "It drove up a mountain road.",
+          "zh": "它驾驶向上一个山路。",
+          "startMs": 317230,
+          "endMs": 319070
+        },
+        {
+          "en": "\"Faster!",
+          "zh": "Biff 是累的。",
+          "startMs": 319070,
+          "endMs": 320160
+        },
+        {
+          "en": "Faster!\" Called Bunbury.",
+          "zh": "Biff 是累的。 快的， 快的， 叫 Bunbury。",
+          "startMs": 320160,
+          "endMs": 323070
+        },
+        {
+          "en": "\"Don't lose them!\" Called Teddy.",
+          "zh": "不丢失他们！ 叫泰迪熊。 Kipper， 叫泰迪熊。",
+          "startMs": 323070,
+          "endMs": 327070
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 312420,
+      "endMs": 327420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car drove through some big gates and stopped in front of a house.",
+          "zh": "这汽车驾驶穿过一些大的大门和停在……里前面的一个房子。",
+          "startMs": 331000,
+          "endMs": 336250
+        },
+        {
+          "en": "The famous bears were pushed inside.",
+          "zh": "这著名的承载是推里面。",
+          "startMs": 336250,
+          "endMs": 338070
+        },
+        {
+          "en": "\"It looks dangerous,\" Said Kipper.",
+          "zh": "它看精彩的。 哦帮助， 说 Kipper。",
+          "startMs": 338070,
+          "endMs": 340840
+        },
+        {
+          "en": "\"But we must rescue them.",
+          "zh": "T've 刚刚解救它在……里这小舢板。",
+          "startMs": 340840,
+          "endMs": 342600
+        },
+        {
+          "en": "I have a plan.\"",
+          "zh": "我有一个计划。",
+          "startMs": 342600,
+          "endMs": 344070
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 330850,
+      "endMs": 344420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper and Catsimir went to the house.",
+          "zh": "Kipper 和 Catsimir 去到这房子。",
+          "startMs": 344070,
+          "endMs": 347070
+        },
+        {
+          "en": "Kipper rang a bell.",
+          "zh": "Kipper 嚷一个铃。",
+          "startMs": 347070,
+          "endMs": 349270
+        },
+        {
+          "en": "Some nasty bears came to the door.",
+          "zh": "一些令人难受的承载来到这门。",
+          "startMs": 349270,
+          "endMs": 351070
+        },
+        {
+          "en": "\"Free honey!\" Called Kipper.",
+          "zh": "自由的哈尼！ 叫 Kipper。 哦帮助， 叫 Kipper。",
+          "startMs": 351070,
+          "endMs": 355070
+        },
+        {
+          "en": "\"Free honey for every bear.\"",
+          "zh": "自由的哈尼为了每个承载。",
+          "startMs": 355070,
+          "endMs": 358070
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 344420,
+      "endMs": 358420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The nasty bears were greedy and they couldn't resist the honey.",
+          "zh": "这令人难受的承载是贪食的和他们不能抵抗这哈尼。",
+          "startMs": 361970,
+          "endMs": 367070
+        },
+        {
+          "en": "They didn't see what Teddy and Bunbury were doing.",
+          "zh": "他们没有看见什么泰迪熊和 Bunbury 是做。",
+          "startMs": 367070,
+          "endMs": 370370
+        },
+        {
+          "en": "Teddy went to the car and took out the keys.",
+          "zh": "泰迪熊去到这汽车和拿出这钥匙。",
+          "startMs": 370370,
+          "endMs": 373070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 361820,
+      "endMs": 373420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Bunbury went to the back of the house and looked through a window.",
+          "zh": "Bunbury 去到这回来的这房子和看穿过一个窗户。",
+          "startMs": 373070,
+          "endMs": 377550
+        },
+        {
+          "en": "He saw the famous bears.",
+          "zh": "他看见这著名的承载。",
+          "startMs": 377550,
+          "endMs": 379540
+        },
+        {
+          "en": "They were tied up.",
+          "zh": "他们是租给雇工的向上。",
+          "startMs": 379540,
+          "endMs": 381070
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 373420,
+      "endMs": 381420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Bunbury set the famous bears free.",
+          "zh": "Bunbury 设置这著名的承载自由的。",
+          "startMs": 383970,
+          "endMs": 385670
+        },
+        {
+          "en": "Then they all climbed out of the window.",
+          "zh": "然后他们全部爬出的这窗户。",
+          "startMs": 385670,
+          "endMs": 390070
+        },
+        {
+          "en": "\"Come on!\" Said Teddy.",
+          "zh": "来在……上！ 来在……上， 说泰迪熊。",
+          "startMs": 390070,
+          "endMs": 392550
+        },
+        {
+          "en": "\"Follow me and don't make a sound.\"",
+          "zh": "跟随我和不做一个声音。",
+          "startMs": 392550,
+          "endMs": 396070
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 383820,
+      "endMs": 396420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The famous bears crept into the honey van.",
+          "zh": "这著名的承载 crept 进入这哈尼送货车。",
+          "startMs": 396070,
+          "endMs": 399370
+        },
+        {
+          "en": "The nasty bears didn't see them because they were too busy eating the honey.",
+          "zh": "这令人难受的承载没有看见他们因为他们是也忙碌的吃这哈尼。",
+          "startMs": 399370,
+          "endMs": 405070
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 396420,
+      "endMs": 405420
+    },
+    {
+      "sentences": [
+        {
+          "en": "One of the nasty bears saw that the famous bears were escaping.",
+          "zh": "一的这令人难受的承载看见那个这著名的承载是逃跑。",
+          "startMs": 407970,
+          "endMs": 413070
+        },
+        {
+          "en": "\"They're in the honey van!\" He shouted.",
+          "zh": "他们是在……里这哈尼送货车！ 他喊。 哈！ 他喊。",
+          "startMs": 413070,
+          "endMs": 417070
+        },
+        {
+          "en": "\"Go after it!\"",
+          "zh": "去在……之后它！",
+          "startMs": 417070,
+          "endMs": 418070
+        },
+        {
+          "en": "Katsimir drove the honey van as fast as he could.",
+          "zh": "Catsimir 驾驶这送货车像快的像他能。",
+          "startMs": 418070,
+          "endMs": 422070
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 407820,
+      "endMs": 422420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The nasty bears ran after the van but they got stuck in the honey.",
+          "zh": "这令人难受的承载跑在……之后这送货车但是他们得到 stuck 在……里这哈尼。 喊 Kipper。",
+          "startMs": 422070,
+          "endMs": 427070
+        },
+        {
+          "en": "\"Hooray!\" Shouted Kipper.",
+          "zh": "但是什么？ 呻吟 Kipper。",
+          "startMs": 427070,
+          "endMs": 431070
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 422420,
+      "endMs": 431420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The famous bears were pleased with Kipper and his friends.",
+          "zh": "这著名的承载是请和……一起 Kipper 和他的朋友们。",
+          "startMs": 434970,
+          "endMs": 439070
+        },
+        {
+          "en": "\"You were very clever,\" they said.",
+          "zh": "你是非常聪明的， 他们说。",
+          "startMs": 439070,
+          "endMs": 442070
+        },
+        {
+          "en": "\"Thanks to you the Teddy Bears' Picnic can go on!\"",
+          "zh": "谢谢到你这泰迪熊承载' 野餐能去在……上！",
+          "startMs": 442070,
+          "endMs": 448070
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 434820,
+      "endMs": 448420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 449970,
+          "endMs": 450850
+        },
+        {
+          "en": "It was time for Kipper's adventure to end.",
+          "zh": "它是时间为了 Kipper 冒险到末尾。",
+          "startMs": 450850,
+          "endMs": 455070
+        },
+        {
+          "en": "\"I can't wait to tell Biff and Chip about it,\" he said.",
+          "zh": "我不能等到告诉 Biff 和 Chip 关于它， 他说。",
+          "startMs": 455070,
+          "endMs": 459020
+        },
+        {
+          "en": "He said, said Kipper.",
+          "zh": "Biff， 他说。",
+          "startMs": 459020,
+          "endMs": 475070
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 449820,
+      "endMs": 475420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The magic key glowed last night,\" said Kipper.",
+          "zh": "这魔法钥匙光亮最后的夜晚， 说 Kipper。",
+          "startMs": 475070,
+          "endMs": 475270
+        },
+        {
+          "en": "\"I had a magic adventure.\"",
+          "zh": "我有一个魔法冒险。",
+          "startMs": 475270,
+          "endMs": 477070
+        },
+        {
+          "en": "\"We don't believe you,\" said Biff.",
+          "zh": "我们不相信你， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 477070,
+          "endMs": 480070
+        },
+        {
+          "en": "\"No, it was just a dream,\" said Chip.",
+          "zh": "不， 它是刚刚一个梦， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 480070,
+          "endMs": 484070
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 475420,
+      "endMs": 484420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 484420,
+      "endMs": 484421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 484421,
+      "endMs": 484422
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "L1-022",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on, Dad!",
+          "zh": "去在……上， 爸爸！",
+          "startMs": 0,
+          "endMs": 4290
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get Biff.",
+          "zh": "得到 Biff。",
+          "startMs": 9990,
+          "endMs": 10460
+        }
+      ],
+      "startMs": 9840,
+      "endMs": 10810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on, Dad!",
+          "zh": "去在……上， 爸爸！",
+          "startMs": 0,
+          "endMs": 4290
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on dad.",
+          "zh": "去在……上爸爸。",
+          "startMs": 12100,
+          "endMs": 15850
+        }
+      ],
+      "startMs": 11950,
+      "endMs": 16200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on, Dad!",
+          "zh": "去在……上， 爸爸！",
+          "startMs": 12100,
+          "endMs": 15850
+        }
+      ],
+      "startMs": 11950,
+      "endMs": 16200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get chip go on dad.",
+          "zh": "得到 Chip 去在……上爸爸。",
+          "startMs": 21870,
+          "endMs": 25450
+        }
+      ],
+      "startMs": 21720,
+      "endMs": 25800
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on, Mum!",
+          "zh": "去在……上， 妈妈！",
+          "startMs": 31330,
+          "endMs": 34390
+        }
+      ],
+      "startMs": 31180,
+      "endMs": 34740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get dad.",
+          "zh": "得到爸爸。",
+          "startMs": 42190,
+          "endMs": 44290
+        }
+      ],
+      "startMs": 42040,
+      "endMs": 44640
+    }
+  ]
+}

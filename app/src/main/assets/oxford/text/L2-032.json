@@ -1,0 +1,225 @@
+{
+  "id": "L2-032",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May had a puppy.",
+          "zh": "太太梅有一个幼犬。",
+          "startMs": 0,
+          "endMs": 2100
+        },
+        {
+          "en": "It was called Sniff.",
+          "zh": "它是叫吸气。",
+          "startMs": 2000,
+          "endMs": 4120
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sniff ran off.",
+          "zh": "吸气跑离开。",
+          "startMs": 10520,
+          "endMs": 12620
+        }
+      ],
+      "startMs": 10370,
+      "endMs": 12970
+    },
+    {
+      "sentences": [],
+      "startMs": 8350,
+      "endMs": 10133,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May was upset.",
+          "zh": "太太梅是使苦恼。",
+          "startMs": 22240,
+          "endMs": 22390
+        }
+      ],
+      "startMs": 22090,
+      "endMs": 22740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sniff was lost.",
+          "zh": "吸气是丢失。",
+          "startMs": 24560,
+          "endMs": 30040
+        }
+      ],
+      "startMs": 24410,
+      "endMs": 30390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked.",
+          "zh": "Biff 和 Chip 看。",
+          "startMs": 38000,
+          "endMs": 38150
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 38500
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't find Sniff.",
+          "zh": "他们不能找到吸气。",
+          "startMs": 38000,
+          "endMs": 42780
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 43130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma looked.",
+          "zh": "Wilf 和 Wilma 看。",
+          "startMs": 51890,
+          "endMs": 53780
+        }
+      ],
+      "startMs": 51740,
+      "endMs": 54130
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't find Sniff.",
+          "zh": "他们不能找到吸气。",
+          "startMs": 38000,
+          "endMs": 42780
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 43130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad looked.",
+          "zh": "妈妈和爸爸看。",
+          "startMs": 65200,
+          "endMs": 67300
+        }
+      ],
+      "startMs": 65050,
+      "endMs": 67650
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't find Sniff.",
+          "zh": "他们不能找到吸气。",
+          "startMs": 53680,
+          "endMs": 56980
+        }
+      ],
+      "startMs": 53530,
+      "endMs": 57330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked.",
+          "zh": "每个人看。",
+          "startMs": 75000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 77450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nobody could find Sniff.",
+          "zh": "没有人能找到吸气。",
+          "startMs": 77000,
+          "endMs": 79300
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 79650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy looked for his bone.",
+          "zh": "Floppy 看为了他的骨头。",
+          "startMs": 82680,
+          "endMs": 86320
+        }
+      ],
+      "startMs": 82530,
+      "endMs": 86670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sniff was by the tree.",
+          "zh": "吸气是由这树。",
+          "startMs": 91400,
+          "endMs": 93500
+        }
+      ],
+      "startMs": 91250,
+      "endMs": 93850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a clever dog!\" said everyone.",
+          "zh": "什么一个聪明的狗！ 说每个人。",
+          "startMs": 93720,
+          "endMs": 101720
+        }
+      ],
+      "startMs": 93720,
+      "endMs": 101720
+    },
+    {
+      "sentences": [],
+      "startMs": 101720,
+      "endMs": 104603,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said everyone.",
+          "zh": "说每个人。",
+          "startMs": 101600,
+          "endMs": 103700
+        }
+      ],
+      "startMs": 101450,
+      "endMs": 104050
+    }
+  ]
+}

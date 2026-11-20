@@ -1,0 +1,648 @@
+{
+  "id": "L6-009",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Chip had a new book.",
+          "zh": "Chip 有一本新书。",
+          "startMs": 0,
+          "endMs": 100
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was about a princess who couldn't laugh.",
+          "zh": "这本书讲的是一个不会笑的公主。",
+          "startMs": 5780,
+          "endMs": 9200
+        },
+        {
+          "en": "Nobody could make her laugh.",
+          "zh": "没有人能让她笑出来。",
+          "startMs": 9230,
+          "endMs": 12050
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 5630,
+      "endMs": 12400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had an idea.",
+          "zh": "Chip 有了一个主意。",
+          "startMs": 12050,
+          "endMs": 12250
+        },
+        {
+          "en": "\"Try and make me laugh,\" he said.",
+          "zh": "“试试逗我笑，”他说。",
+          "startMs": 17790,
+          "endMs": 20430
+        },
+        {
+          "en": "Biff made a funny face, but she couldn't make Chip laugh.",
+          "zh": "Biff 做了个鬼脸，但她没能让 Chip 笑出来。",
+          "startMs": 24860,
+          "endMs": 30880
+        },
+        {
+          "en": "Biff put on a funny wig.",
+          "zh": "Biff 戴上了一顶滑稽的假发。",
+          "startMs": 30910,
+          "endMs": 33600
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 12400,
+      "endMs": 33950
+    },
+    {
+      "sentences": [
+        {
+          "en": "She told a funny joke, but she still couldn't make Chip laugh.",
+          "zh": "她讲了一个有趣的笑话，但还是没能让 Chip 笑出来。",
+          "startMs": 33630,
+          "endMs": 37990
+        },
+        {
+          "en": "\"It's no good,\" she said.",
+          "zh": "它是不好的， 她说。",
+          "startMs": 38070,
+          "endMs": 41470
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 33950,
+      "endMs": 41820
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had some joke teeth.",
+          "zh": "Kipper 有一副假牙。",
+          "startMs": 45000,
+          "endMs": 48310
+        },
+        {
+          "en": "The joke teeth were new.",
+          "zh": "这副假牙是新的。",
+          "startMs": 48310,
+          "endMs": 48510
+        },
+        {
+          "en": "The teeth went click, click, click.",
+          "zh": "假牙发出咔哒、咔哒、咔哒的声音。",
+          "startMs": 49700,
+          "endMs": 51240
+        },
+        {
+          "en": "Everyone laughed and laughed.",
+          "zh": "大家都哈哈大笑起来。",
+          "startMs": 51240,
+          "endMs": 53100
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 44850,
+      "endMs": 53450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 57380,
+          "endMs": 62280
+        },
+        {
+          "en": "The children ran into Biff's room.",
+          "zh": "孩子们跑进了 Biff 的房间。",
+          "startMs": 62860,
+          "endMs": 67960
+        },
+        {
+          "en": "The magic took them on a new adventure.",
+          "zh": "魔法带他们踏上了一段新的冒险之旅。",
+          "startMs": 68860,
+          "endMs": 73880
+        },
+        {
+          "en": "The children were in a village.",
+          "zh": "孩子们来到一个村庄。",
+          "startMs": 84390,
+          "endMs": 87920
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 57230,
+      "endMs": 88270
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw a notice on a tree.",
+          "zh": "他们看到树上贴着一张告示。",
+          "startMs": 89000,
+          "endMs": 90100
+        },
+        {
+          "en": "It was about a princess who couldn't laugh.",
+          "zh": "这本书讲的是一个不会笑的公主。",
+          "startMs": 90130,
+          "endMs": 115960
+        },
+        {
+          "en": "Kipper had an idea.",
+          "zh": "Kipper 有了一个主意。",
+          "startMs": 115960,
+          "endMs": 116160
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 88850,
+      "endMs": 116510
+    },
+    {
+      "sentences": [
+        {
+          "en": "He still had the joke teeth.",
+          "zh": "他还有那副假牙。",
+          "startMs": 116160,
+          "endMs": 118370
+        },
+        {
+          "en": "\"I can make the princess laugh,\" he said.",
+          "zh": "我能做这公主笑， 他说。",
+          "startMs": 118370,
+          "endMs": 118770
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 116510,
+      "endMs": 119120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Boo BIG JOKES The king was in the village.",
+          "zh": "国王在村子里。",
+          "startMs": 118770,
+          "endMs": 118970
+        },
+        {
+          "en": "A girl told him a joke.",
+          "zh": "一个女孩给他讲了一个笑话。",
+          "startMs": 118970,
+          "endMs": 119170
+        },
+        {
+          "en": "\"That's not funny,\" Said the king.",
+          "zh": "“这不好笑。” 国王说道。",
+          "startMs": 119170,
+          "endMs": 119370
+        },
+        {
+          "en": "\"That won't make the princess laugh.\"",
+          "zh": "“那不会让公主笑。”",
+          "startMs": 119370,
+          "endMs": 119570
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 119120,
+      "endMs": 119920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Who's next?\" Called the king.",
+          "zh": "“下一个是谁？” 国王喊道。",
+          "startMs": 119570,
+          "endMs": 122960
+        },
+        {
+          "en": "\"I am,\" said a man.",
+          "zh": "“我来，”",
+          "startMs": 122990,
+          "endMs": 125100
+        },
+        {
+          "en": "\"Oh no!\" Groaned the king.",
+          "zh": "“哎呀，不好了。” 国王呻吟了一声。",
+          "startMs": 125130,
+          "endMs": 127960
+        },
+        {
+          "en": "\"Not another chicken!\"",
+          "zh": "“又是一个胆小鬼。”",
+          "startMs": 127990,
+          "endMs": 130090
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 119920,
+      "endMs": 130440
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the king.",
+          "zh": "孩子们去找国王。",
+          "startMs": 133900,
+          "endMs": 136990
+        },
+        {
+          "en": "\"We can make the princess laugh,\" said Biff.",
+          "zh": "我们能做这公主笑， 说 Biff。 Biff 说道。",
+          "startMs": 137060,
+          "endMs": 141100
+        },
+        {
+          "en": "\"How?\" Asked the king.",
+          "zh": "“怎么做？” 国王问道。",
+          "startMs": 141130,
+          "endMs": 144120
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 133750,
+      "endMs": 144470
+    },
+    {
+      "sentences": [
+        {
+          "en": "The teeth went click, click, click.",
+          "zh": "假牙发出咔哒、咔哒、咔哒的声音。",
+          "startMs": 144180,
+          "endMs": 147050
+        },
+        {
+          "en": "Everyone laughed and laughed.",
+          "zh": "大家都哈哈大笑起来。",
+          "startMs": 147900,
+          "endMs": 150560
+        },
+        {
+          "en": "\"That will make the princess laugh,\" Said the king.",
+          "zh": "“这会让公主笑起来。” 国王说道。",
+          "startMs": 154860,
+          "endMs": 159280
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 144470,
+      "endMs": 159630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper dropped the teeth.",
+          "zh": "Kipper 把牙齿扔了下来。",
+          "startMs": 162890,
+          "endMs": 164990
+        },
+        {
+          "en": "A dog caught them and ran off with them in its mouth.",
+          "zh": "一个狗抓住他们和跑离开和……一起他们在……里它的嘴。",
+          "startMs": 165860,
+          "endMs": 169500
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 162740,
+      "endMs": 169850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop that dog!\" Shouted the king.",
+          "zh": "“拦住那条狗！” 国王喊道。",
+          "startMs": 172860,
+          "endMs": 176560
+        },
+        {
+          "en": "\"Stop that dog and get the teeth.\"",
+          "zh": "停那个狗和得到这牙齿。",
+          "startMs": 176890,
+          "endMs": 179180
+        },
+        {
+          "en": "Everyone ran after the dog.",
+          "zh": "所有人都追着狗跑。",
+          "startMs": 180200,
+          "endMs": 182560
+        },
+        {
+          "en": "\"Get the teeth!\" Shouted the king.",
+          "zh": "“把牙齿拿回来！” 国王喊道。",
+          "startMs": 185860,
+          "endMs": 188960
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 172710,
+      "endMs": 189310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dog was too fast.",
+          "zh": "小狗跑得太快了。",
+          "startMs": 191890,
+          "endMs": 193990
+        },
+        {
+          "en": "Nobody could catch it.",
+          "zh": "谁也抓不住它。",
+          "startMs": 193990,
+          "endMs": 196100
+        },
+        {
+          "en": "\"Stop that dog!\" Shouted the king.",
+          "zh": "“拦住那条狗！” 国王喊道。",
+          "startMs": 197290,
+          "endMs": 200200
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 191740,
+      "endMs": 200550
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dog ran this way and that.",
+          "zh": "小狗一会儿跑这边，一会儿跑那边。",
+          "startMs": 200230,
+          "endMs": 202980
+        },
+        {
+          "en": "People tried to grab it, but it was too fast.",
+          "zh": "人们试图抓住它，但它跑得太快了。",
+          "startMs": 206860,
+          "endMs": 213100
+        },
+        {
+          "en": "\"Get the teeth!\" Shouted Kipper.",
+          "zh": "“把牙齿拿回来！” Kipper 喊道。",
+          "startMs": 213130,
+          "endMs": 215100
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 200550,
+      "endMs": 215450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The king ran after the dog.",
+          "zh": "国王追着狗跑。",
+          "startMs": 217890,
+          "endMs": 221010
+        },
+        {
+          "en": "Everyone ran after the king.",
+          "zh": "所有人都跟着国王跑。",
+          "startMs": 221200,
+          "endMs": 223380
+        },
+        {
+          "en": "The king fell over.",
+          "zh": "国王摔倒了。",
+          "startMs": 227140,
+          "endMs": 228960
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 217740,
+      "endMs": 229310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dog saw a bone and it stopped.",
+          "zh": "小狗看到了一根骨头，就停了下来。",
+          "startMs": 231880,
+          "endMs": 235960
+        },
+        {
+          "en": "Chip grabbed the dog and the dog dropped the teeth.",
+          "zh": "Chip 一把抓住小狗，小狗把假牙掉了下来。",
+          "startMs": 235990,
+          "endMs": 240320
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 231730,
+      "endMs": 240670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper picked up the joke teeth.",
+          "zh": "Kipper 捡起了那副假牙。",
+          "startMs": 246890,
+          "endMs": 251510
+        },
+        {
+          "en": "Everyone looked at them.",
+          "zh": "所有人都看着它们。",
+          "startMs": 251540,
+          "endMs": 252170
+        },
+        {
+          "en": "The teeth were broken.",
+          "zh": "假牙坏了。",
+          "startMs": 252200,
+          "endMs": 254520
+        },
+        {
+          "en": "\"Oh no!\" Said the king.",
+          "zh": "“哎呀，不好了。” 国王说道。",
+          "startMs": 254860,
+          "endMs": 258700
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 246740,
+      "endMs": 259050
+    },
+    {
+      "sentences": [
+        {
+          "en": "The king put the teeth on a cushion.",
+          "zh": "国王把假牙放在一个垫子上。",
+          "startMs": 258840,
+          "endMs": 261840
+        },
+        {
+          "en": "\"What a pity!\" He said.",
+          "zh": "“真可惜！” 他说。",
+          "startMs": 261870,
+          "endMs": 264700
+        },
+        {
+          "en": "\"Now they won't make the princess laugh.\"",
+          "zh": "“现在它们再也逗不笑公主了。”",
+          "startMs": 264950,
+          "endMs": 268050
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 259050,
+      "endMs": 268400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The princess heard the noise.",
+          "zh": "公主听到了声音。",
+          "startMs": 273890,
+          "endMs": 278150
+        },
+        {
+          "en": "She looked out of a window.",
+          "zh": "她朝窗外看去。",
+          "startMs": 278180,
+          "endMs": 279170
+        },
+        {
+          "en": "She saw the king and she started to laugh.",
+          "zh": "她看见了国王，然后她开始笑起来。",
+          "startMs": 279200,
+          "endMs": 282960
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 273740,
+      "endMs": 283310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The king had mud on his clothes.",
+          "zh": "国王的衣服上沾满了泥巴。",
+          "startMs": 286860,
+          "endMs": 289960
+        },
+        {
+          "en": "He had the teeth on the cushion.",
+          "zh": "他把牙齿放在了垫子上。",
+          "startMs": 290070,
+          "endMs": 293170
+        },
+        {
+          "en": "He looked so funny that the princess laughed and laughed.",
+          "zh": "他看起来太滑稽了，公主笑个不停。",
+          "startMs": 293200,
+          "endMs": 297280
+        },
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 308360,
+          "endMs": 308980
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 286710,
+      "endMs": 309330
+    },
+    {
+      "sentences": [
+        {
+          "en": "The king looked at the princess.",
+          "zh": "国王看着公主。",
+          "startMs": 309010,
+          "endMs": 311390
+        },
+        {
+          "en": "\"I've made the princess laugh,\" he said.",
+          "zh": "我已经做这公主笑， 他说。",
+          "startMs": 311390,
+          "endMs": 311590
+        },
+        {
+          "en": "Everyone laughed and cheered.",
+          "zh": "大家都笑了起来，欢呼起来。",
+          "startMs": 311590,
+          "endMs": 312430
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 318140,
+          "endMs": 320460
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 309330,
+      "endMs": 320810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children home.",
+          "zh": "魔法把孩子们带回了家。",
+          "startMs": 331000,
+          "endMs": 331100
+        },
+        {
+          "en": "But nobody saw the children go.",
+          "zh": "但没有人看到孩子们离开。",
+          "startMs": 334130,
+          "endMs": 336300
+        },
+        {
+          "en": "Everyone was laughing.",
+          "zh": "大家都笑了起来。",
+          "startMs": 337860,
+          "endMs": 338640
+        },
+        {
+          "en": "\"I don't know,\" Said Chip.",
+          "zh": "“我不知道。",
+          "startMs": 350000,
+          "endMs": 350100
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 330850,
+      "endMs": 350450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What made the princess laugh?\" Asked Kipper.",
+          "zh": "“是什么让公主笑起来了？” Kipper 问道。",
+          "startMs": 350130,
+          "endMs": 350240
+        },
+        {
+          "en": "\"But people laugh at silly things.\" (upbeat music).",
+          "zh": "“我不知道，”Chip 说，“但是人们会为傻乎乎的事情发笑。” （欢快的音乐）。",
+          "startMs": 351560,
+          "endMs": 355580
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 350450,
+      "endMs": 355930
+    },
+    {
+      "sentences": [],
+      "pdfPage": 25,
+      "startMs": 355930,
+      "endMs": 355931
+    }
+  ]
+}

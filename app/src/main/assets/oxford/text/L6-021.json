@@ -1,0 +1,659 @@
+{
+  "id": "L6-021",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Don't be silly.' Everyone was in the playground.",
+          "zh": "每个人是在……里这游乐场。",
+          "startMs": 29,
+          "endMs": 7260
+        },
+        {
+          "en": "Nadeem had a surprise.",
+          "zh": "Nadim 有一个意想不到的事物。",
+          "startMs": 7290,
+          "endMs": 9980
+        },
+        {
+          "en": "It was a plastic snake.",
+          "zh": "它是一个塑料蛇。",
+          "startMs": 10010,
+          "endMs": 12920
+        },
+        {
+          "en": "He had bought it on holiday.",
+          "zh": "他有买它在……上假期。",
+          "startMs": 12950,
+          "endMs": 18920
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 19270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May called everyone inside.",
+          "zh": "太太梅叫每个人里面。",
+          "startMs": 18950,
+          "endMs": 22000
+        },
+        {
+          "en": "Anneena had an idea.",
+          "zh": "Anneena 有一个主意。",
+          "startMs": 23260,
+          "endMs": 26560
+        },
+        {
+          "en": "She wanted to play a trick on Mrs May.",
+          "zh": "她想要到玩一个诡计在……上太太梅。",
+          "startMs": 26590,
+          "endMs": 29940
+        },
+        {
+          "en": "\"Leave the snake here,\" she said.",
+          "zh": "离开这蛇这里， 她说。",
+          "startMs": 30820,
+          "endMs": 34520
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 19270,
+      "endMs": 34870
+    },
+    {
+      "sentences": [
+        {
+          "en": "SKy by The children went inside.",
+          "zh": "孩子们走进了教室。",
+          "startMs": 34960,
+          "endMs": 38060
+        },
+        {
+          "en": "Mrs May told them to sit down.",
+          "zh": "太太梅告诉他们到坐向下。",
+          "startMs": 38090,
+          "endMs": 41240
+        },
+        {
+          "en": "\"Mrs May!",
+          "zh": "太太梅！",
+          "startMs": 42470,
+          "endMs": 43950
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 34870,
+      "endMs": 44300
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May!' called Anneena.",
+          "zh": "太太梅！ 叫 Anneena。",
+          "startMs": 43980,
+          "endMs": 46600
+        },
+        {
+          "en": "can see a snake in the playground!' 'I can see it too!' said Wilf.",
+          "zh": "我能看见一个蛇在……里这游乐场！",
+          "startMs": 47980,
+          "endMs": 58060
+        },
+        {
+          "en": "Everyone said they could see it.",
+          "zh": "每个人说他们能看见它。",
+          "startMs": 58200,
+          "endMs": 60920
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 44300,
+      "endMs": 61270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May looked outside.",
+          "zh": "太太梅看外面。",
+          "startMs": 61090,
+          "endMs": 63560
+        },
+        {
+          "en": "\"There is a snake outside,\" she said.",
+          "zh": "那里是一个蛇外面， 她说。",
+          "startMs": 63880,
+          "endMs": 68950
+        },
+        {
+          "en": "Mrs May gave Anneena a plastic bag.",
+          "zh": "太太梅给 Anneena 一个塑料包。",
+          "startMs": 69330,
+          "endMs": 73140
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 61270,
+      "endMs": 73490
+    },
+    {
+      "sentences": [
+        {
+          "en": "She told her to put the snake in the bag.",
+          "zh": "她告诉她到放这蛇在……里这包。",
+          "startMs": 73170,
+          "endMs": 78920
+        },
+        {
+          "en": "\"Oh, Mrs May, you knew it was a plastic snake!\"",
+          "zh": "哦， 太太梅， 你知道它是一个塑料蛇！ 说 Biff。",
+          "startMs": 78950,
+          "endMs": 83170
+        },
+        {
+          "en": "\"Now for my snake,\" said Mrs May.",
+          "zh": "不， 说太太梅。",
+          "startMs": 87860,
+          "endMs": 93760
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 73490,
+      "endMs": 94110
+    },
+    {
+      "sentences": [
+        {
+          "en": "'What snake is that?' said Biff.",
+          "zh": "什么蛇是那个？ 说 Biff。",
+          "startMs": 93920,
+          "endMs": 97130
+        },
+        {
+          "en": "'The adder,' said Mrs May.",
+          "zh": "Nadim， 说太太梅。",
+          "startMs": 97820,
+          "endMs": 101080
+        },
+        {
+          "en": "\"You can all do some addition sums!\"",
+          "zh": "你能全部做一些加法款项！",
+          "startMs": 101140,
+          "endMs": 104290
+        },
+        {
+          "en": "Everyone was doing addition sums.",
+          "zh": "每个人是做加法款项。",
+          "startMs": 105770,
+          "endMs": 108240
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 94110,
+      "endMs": 108590
+    },
+    {
+      "sentences": [
+        {
+          "en": "The sums were hard.",
+          "zh": "这款项是困难的。",
+          "startMs": 110260,
+          "endMs": 113430
+        },
+        {
+          "en": "Then Wilf looked outside.",
+          "zh": "然后 Wilf 看外面。",
+          "startMs": 113460,
+          "endMs": 113730
+        },
+        {
+          "en": "'Look!' he yelled.",
+          "zh": "看！ 他叫喊。",
+          "startMs": 113760,
+          "endMs": 117240
+        },
+        {
+          "en": "There was a donkey in the playground.",
+          "zh": "那里是一个驴在……里这游乐场。",
+          "startMs": 120860,
+          "endMs": 124960
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 110110,
+      "endMs": 125310
+    },
+    {
+      "sentences": [
+        {
+          "en": "'It's a donkey!' called Anneena.",
+          "zh": "它是一个驴！ 叫 Anneena。",
+          "startMs": 125410,
+          "endMs": 130670
+        },
+        {
+          "en": "'Mrs May!",
+          "zh": "太太梅！",
+          "startMs": 130700,
+          "endMs": 130950
+        },
+        {
+          "en": "Mrs May!' everyone called.",
+          "zh": "太太梅！ 每个人叫。",
+          "startMs": 130950,
+          "endMs": 135060
+        },
+        {
+          "en": "'There's a donkey in the playground!' Mrs May looked cross.",
+          "zh": "有一个驴在……里这游乐场！",
+          "startMs": 135090,
+          "endMs": 140120
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 125310,
+      "endMs": 140470
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Is it made of plastic too?' she said.",
+          "zh": "是它做的塑料， 也？ 她说。",
+          "startMs": 140890,
+          "endMs": 145690
+        },
+        {
+          "en": "'It's true, Mrs May!' said Wilf.",
+          "zh": "太太梅！ 说 Wilf。",
+          "startMs": 145720,
+          "endMs": 147340
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 140740,
+      "endMs": 147690
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Look out of the window!' Mrs May looked out of the window.",
+          "zh": "太太梅看出的这窗户。",
+          "startMs": 151240,
+          "endMs": 159330
+        },
+        {
+          "en": "She saw the donkey.",
+          "zh": "她看见这驴。",
+          "startMs": 159360,
+          "endMs": 162060
+        },
+        {
+          "en": "\"Someone will have to catch it,\" said Anneena.",
+          "zh": "某人将有到抓住它， 说 Anneena。",
+          "startMs": 162090,
+          "endMs": 165980
+        },
+        {
+          "en": "\"Mrs May can catch it with a plastic bag!\"",
+          "zh": "太太梅能抓住它和……一起一个塑料包！ 叫 Nadim。",
+          "startMs": 167120,
+          "endMs": 170360
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 151090,
+      "endMs": 170710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May was cross.",
+          "zh": "太太梅是叉形。",
+          "startMs": 172080,
+          "endMs": 173680
+        },
+        {
+          "en": "'Don't be silly, Nadim,' she said.",
+          "zh": "不是傻的， Nadim！ 她说。",
+          "startMs": 173820,
+          "endMs": 177360
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 171930,
+      "endMs": 177710
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Should we phone Animal Rescue?' asked Biff.",
+          "zh": "应该我们电话动物解救？ 问 Biff。",
+          "startMs": 181920,
+          "endMs": 187320
+        },
+        {
+          "en": "\"That's a good idea, Biff,\" said Mrs May.",
+          "zh": "Biff， 说太太梅。",
+          "startMs": 187350,
+          "endMs": 191090
+        },
+        {
+          "en": "'Sit quietly while I go to the phone.' At playtime, the children talked about the donkey.",
+          "zh": "在游戏时间这孩子们谈话关于这驴。",
+          "startMs": 191120,
+          "endMs": 199080
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 181770,
+      "endMs": 199430
+    },
+    {
+      "sentences": [
+        {
+          "en": "'It was easy to catch,' began Wilf.",
+          "zh": "它是容易的到抓住。。。 开始 Wilf。",
+          "startMs": 199940,
+          "endMs": 203680
+        },
+        {
+          "en": "\"But then it wouldn't move,\" said Anneena.",
+          "zh": "但是然后它不会移动， 说 Anneena。",
+          "startMs": 203820,
+          "endMs": 207580
+        },
+        {
+          "en": "'Two people pulled it,' began Chip.",
+          "zh": "二人们拉它。。。 开始 Chip。",
+          "startMs": 212150,
+          "endMs": 216270
+        },
+        {
+          "en": "'And two people pushed it,' said Biff.",
+          "zh": "和二人们推它！ 说 Biff。",
+          "startMs": 216300,
+          "endMs": 220700
+        },
+        {
+          "en": "\"We didn't do any more work!\"",
+          "zh": "我们没有做任何更多工作！ 说 Nadim。",
+          "startMs": 220730,
+          "endMs": 223850
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 199790,
+      "endMs": 224200
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Well, it's time to work now,' said Mrs May.",
+          "zh": "好， 它是时间到工作现在！",
+          "startMs": 225940,
+          "endMs": 229510
+        },
+        {
+          "en": "\"Come back to the classroom.",
+          "zh": "来回来到这教室。",
+          "startMs": 229540,
+          "endMs": 230150
+        },
+        {
+          "en": "You can learn to spell something.' 'Spell what?' Mrs May,' said Wilf.",
+          "zh": "你能学习到咒语某物。",
+          "startMs": 234050,
+          "endMs": 242060
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 225790,
+      "endMs": 242410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Donkey!\" said Mrs May.",
+          "zh": "不， 说太太梅。",
+          "startMs": 242090,
+          "endMs": 244990
+        },
+        {
+          "en": "Everyone was doing spelling.",
+          "zh": "每个人是做拼写。",
+          "startMs": 245100,
+          "endMs": 248200
+        },
+        {
+          "en": "Wilf looked into the playground.",
+          "zh": "Wilf 看进入这游乐场。",
+          "startMs": 249070,
+          "endMs": 250910
+        },
+        {
+          "en": "'Look!' he yelled.",
+          "zh": "看！ 他叫喊。",
+          "startMs": 252930,
+          "endMs": 254890
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 242410,
+      "endMs": 255240
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a goose outside.",
+          "zh": "那里是一个鹅外面。",
+          "startMs": 256740,
+          "endMs": 259790
+        },
+        {
+          "en": "'It's a goose!' said Anneena.",
+          "zh": "它是一个鹅！ 说 Anneena。",
+          "startMs": 259820,
+          "endMs": 260110
+        },
+        {
+          "en": "\"Mrs May!",
+          "zh": "太太梅！",
+          "startMs": 263970,
+          "endMs": 266790
+        },
+        {
+          "en": "There's a goose in the playground!' Mrs May looked cross.",
+          "zh": "有一个鹅在……里这游乐场！",
+          "startMs": 266790,
+          "endMs": 270610
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 256590,
+      "endMs": 270960
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't be silly, Anneena,\" she said.",
+          "zh": "不是傻的， Nadim！ 她说。",
+          "startMs": 274370,
+          "endMs": 278350
+        },
+        {
+          "en": "'It's true, Mrs May!' said Chip.",
+          "zh": "太太梅！ 说 Chip。",
+          "startMs": 278570,
+          "endMs": 282010
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 274220,
+      "endMs": 282360
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Look out of the window!' Mrs May looked out of the window.",
+          "zh": "太太梅看出的这窗户。",
+          "startMs": 282770,
+          "endMs": 288060
+        },
+        {
+          "en": "'Oh my goodness!' she said.",
+          "zh": "哦我的美德！ 她说。",
+          "startMs": 288090,
+          "endMs": 291680
+        },
+        {
+          "en": "\"But it may not be a goose.",
+          "zh": "但是它梅不是一个鹅。",
+          "startMs": 293480,
+          "endMs": 298250
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 282620,
+      "endMs": 298600
+    },
+    {
+      "sentences": [
+        {
+          "en": "It may be a gander.' 'Will you call Animal Rescue?' said Nadim.",
+          "zh": "将你叫动物解救？ 说 Nadim。",
+          "startMs": 298280,
+          "endMs": 305060
+        },
+        {
+          "en": "\"Yes,\" said Mrs May.",
+          "zh": "是， 说太太梅。",
+          "startMs": 305090,
+          "endMs": 307510
+        },
+        {
+          "en": "'But I'm going to shoo it onto the field.",
+          "zh": "但是我是去到嘘它在……上到这田地。",
+          "startMs": 308300,
+          "endMs": 311090
+        },
+        {
+          "en": "It can't stay in the playground.' The children wanted to help.",
+          "zh": "它不能停留在……里这游乐场。",
+          "startMs": 311120,
+          "endMs": 315790
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 298600,
+      "endMs": 316140
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No,\" said Mrs May.",
+          "zh": "不， 说太太梅。",
+          "startMs": 316650,
+          "endMs": 319180
+        },
+        {
+          "en": "She went outside and waved her arms at the gander.",
+          "zh": "她去外面和波浪她武器在这雄鹅。",
+          "startMs": 321220,
+          "endMs": 325920
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 316500,
+      "endMs": 326270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The gander looked at Mrs May.",
+          "zh": "这雄鹅看在太太梅。",
+          "startMs": 327880,
+          "endMs": 331980
+        },
+        {
+          "en": "Then it began to chase her.",
+          "zh": "然后它开始到茶色她。",
+          "startMs": 332570,
+          "endMs": 335590
+        },
+        {
+          "en": "\"The gander has pecked Mrs May on the bottom!\"",
+          "zh": "这雄鹅有啄太太梅在……上这底部！ 叫喊 Biff。",
+          "startMs": 336820,
+          "endMs": 340630
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 327730,
+      "endMs": 340980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May came inside.",
+          "zh": "太太梅来里面。",
+          "startMs": 343170,
+          "endMs": 344960
+        },
+        {
+          "en": "\"Are you all right, Mrs May?\"",
+          "zh": "是你全部正确的， 太太梅？ 问 Anneena。",
+          "startMs": 346140,
+          "endMs": 352910
+        },
+        {
+          "en": "\"Yes, thank you,\" said Mrs May.",
+          "zh": "是， 谢谢你， 说太太梅。",
+          "startMs": 352940,
+          "endMs": 353570
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 343020,
+      "endMs": 353920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I've got a joke,\" said Nadim.",
+          "zh": "我已经得到一个笑话， 说 Nadim。",
+          "startMs": 357850,
+          "endMs": 361310
+        },
+        {
+          "en": "'What fruit do ganders like?' 'We don't know,' said Chip.",
+          "zh": "什么水果做雄鹅喜欢？",
+          "startMs": 362050,
+          "endMs": 369270
+        },
+        {
+          "en": "'Goosberries!' laughed Nadim.",
+          "zh": "醋栗！ 笑 Nadim。",
+          "startMs": 369350,
+          "endMs": 374060
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 357700,
+      "endMs": 374410
+    },
+    {
+      "sentences": [],
+      "pdfPage": 25,
+      "startMs": 374410,
+      "endMs": 374411
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "L2-018",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy wanted a new basket.",
+          "zh": "Floppy 想要一个新的篮子。",
+          "startMs": 0,
+          "endMs": 6300
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Biff went to the market.",
+          "zh": "妈妈和 Biff 去到这市场。",
+          "startMs": 11080,
+          "endMs": 13180
+        }
+      ],
+      "startMs": 10930,
+      "endMs": 13530
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got a new basket.",
+          "zh": "他们得到一个新的篮子。",
+          "startMs": 13080,
+          "endMs": 16300
+        }
+      ],
+      "startMs": 12930,
+      "endMs": 16650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Biff went to the toilet.",
+          "zh": "妈妈和 Biff 去到这抽水马桶。",
+          "startMs": 21880,
+          "endMs": 23980
+        }
+      ],
+      "startMs": 21730,
+      "endMs": 24330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy,\" said Biff.",
+          "zh": "Floppy， 说 Biff。",
+          "startMs": 26520,
+          "endMs": 31550
+        }
+      ],
+      "startMs": 26370,
+      "endMs": 31900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy saw a cat.",
+          "zh": "Floppy 看见一个猫。",
+          "startMs": 31450,
+          "endMs": 37240
+        }
+      ],
+      "startMs": 31300,
+      "endMs": 37590
+    },
+    {
+      "sentences": [
+        {
+          "en": "He chased it.",
+          "zh": "他追赶它。",
+          "startMs": 37140,
+          "endMs": 40620
+        }
+      ],
+      "startMs": 36990,
+      "endMs": 40970
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat jumped over the oranges.",
+          "zh": "这猫跳在……上方这橙色的。",
+          "startMs": 49160,
+          "endMs": 51420
+        }
+      ],
+      "startMs": 49010,
+      "endMs": 51770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Crash went the oranges.",
+          "zh": "锵锵作响去这橙色的。",
+          "startMs": 55610,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 55460,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat jumped over some plates.",
+          "zh": "这猫跳在……上方一些盘子。",
+          "startMs": 62120,
+          "endMs": 64220
+        }
+      ],
+      "startMs": 61970,
+      "endMs": 64570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Crash went the plates.",
+          "zh": "锵锵作响去这盘子。",
+          "startMs": 68440,
+          "endMs": 70140
+        }
+      ],
+      "startMs": 68290,
+      "endMs": 70490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cat jumped over some clothes.",
+          "zh": "这猫跳在……上方一些衣服。",
+          "startMs": 74680,
+          "endMs": 77020
+        }
+      ],
+      "startMs": 74530,
+      "endMs": 77370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Got you!\" said a man.",
+          "zh": "得到你！ 说一个男人。",
+          "startMs": 79880,
+          "endMs": 81900
+        }
+      ],
+      "startMs": 79730,
+      "endMs": 82250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was cross.",
+          "zh": "每个人是叉形。",
+          "startMs": 85570,
+          "endMs": 90620
+        }
+      ],
+      "startMs": 85420,
+      "endMs": 90970
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a bad dog!\" everyone said.",
+          "zh": "什么一个坏的狗！ 每个人说。",
+          "startMs": 91880,
+          "endMs": 95260
+        }
+      ],
+      "startMs": 91730,
+      "endMs": 95610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good dog!\" said Mum.",
+          "zh": "什么一个好的狗！ 说妈妈。",
+          "startMs": 103160,
+          "endMs": 105640
+        }
+      ],
+      "startMs": 103010,
+      "endMs": 105990
+    },
+    {
+      "sentences": [],
+      "startMs": 108324,
+      "endMs": 108824,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 108824,
+      "endMs": 108860,
+      "illustrationOnly": true
+    }
+  ]
+}

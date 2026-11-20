@@ -1,0 +1,213 @@
+{
+  "id": "L3-012",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad sat on the rug.",
+          "zh": "妈妈和爸爸坐在……上这小地毯。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played by the stream.",
+          "zh": "这孩子们玩由这溪流。",
+          "startMs": 11000,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went on the bridge.",
+          "zh": "Biff 去在……上这桥梁。",
+          "startMs": 16000,
+          "endMs": 20100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 20450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They dropped sticks in the water.",
+          "zh": "他们掉下枝条在……里这水。",
+          "startMs": 27420,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 27270,
+      "endMs": 31450
+    },
+    {
+      "sentences": [],
+      "startMs": 40864,
+      "endMs": 41664,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper climbed up.",
+          "zh": "Kipper 爬向上。",
+          "startMs": 40000,
+          "endMs": 43100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 43450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He dropped Teddy in the water.",
+          "zh": "他掉下泰迪熊在……里这水。",
+          "startMs": 46000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "IN \"Get Teddy,\" said Kipper.",
+          "zh": "在……里得到泰迪熊， 说 Kipper。",
+          "startMs": 46620,
+          "endMs": 61100
+        }
+      ],
+      "startMs": 46470,
+      "endMs": 61450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff couldn't get Teddy.",
+          "zh": "Biff 不能得到泰迪熊。",
+          "startMs": 65000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 64850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get Teddy,\" said Kipper.",
+          "zh": "得到泰迪熊， 说 Kipper。",
+          "startMs": 73000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 72850,
+      "endMs": 77450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum couldn't get Teddy.",
+          "zh": "妈妈不能得到泰迪熊。",
+          "startMs": 81000,
+          "endMs": 85100
+        }
+      ],
+      "startMs": 80850,
+      "endMs": 85450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want Teddy,\" said Kipper.",
+          "zh": "我想要泰迪熊， 说 Kipper。",
+          "startMs": 88000,
+          "endMs": 92100
+        }
+      ],
+      "startMs": 87850,
+      "endMs": 92450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad couldn't get Teddy.",
+          "zh": "爸爸不能得到泰迪熊。",
+          "startMs": 97000,
+          "endMs": 100100
+        }
+      ],
+      "startMs": 96850,
+      "endMs": 100450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad fell in.",
+          "zh": "爸爸落下在……里。",
+          "startMs": 107000,
+          "endMs": 110100
+        }
+      ],
+      "startMs": 106850,
+      "endMs": 110450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splash!",
+          "zh": "溅泼声！",
+          "startMs": 114208,
+          "endMs": 116630
+        }
+      ],
+      "startMs": 114208,
+      "endMs": 116630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am a frogman,\" said Dad.",
+          "zh": "我是一个蛙人， 说爸爸。",
+          "startMs": 118000,
+          "endMs": 122100
+        }
+      ],
+      "startMs": 117850,
+      "endMs": 122450
+    },
+    {
+      "sentences": [],
+      "startMs": 125971,
+      "endMs": 126471,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 126471,
+      "endMs": 126662,
+      "illustrationOnly": true
+    }
+  ]
+}

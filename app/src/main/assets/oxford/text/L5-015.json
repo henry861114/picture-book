@@ -1,0 +1,551 @@
+{
+  "id": "L5-015",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had a little garden.",
+          "zh": "Biff 和 Chip 有一个小花园。",
+          "startMs": 3860,
+          "endMs": 6960
+        },
+        {
+          "en": "They planted seeds and they put in plants.",
+          "zh": "他们播下种子，种上植物。",
+          "startMs": 6990,
+          "endMs": 9290
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 9640
+    },
+    {
+      "sentences": [
+        {
+          "en": "The birds liked the garden.",
+          "zh": "小鸟们喜欢这个花园。",
+          "startMs": 11830,
+          "endMs": 16970
+        },
+        {
+          "en": "They ate the seeds and pecked the plants.",
+          "zh": "它们啄食种子，啄食植物。",
+          "startMs": 17000,
+          "endMs": 20310
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 11680,
+      "endMs": 20660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was cross.",
+          "zh": "Biff 很生气。",
+          "startMs": 20340,
+          "endMs": 22070
+        },
+        {
+          "en": "\"Look at the birds,\" she said.",
+          "zh": "“看看这些鸟，”她说。",
+          "startMs": 23130,
+          "endMs": 27520
+        },
+        {
+          "en": "\"Go away!",
+          "zh": "“走开！",
+          "startMs": 27520,
+          "endMs": 31000
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 20660,
+      "endMs": 31350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had an idea.",
+          "zh": "Biff 和 Chip 想出了一个主意。",
+          "startMs": 35830,
+          "endMs": 37930
+        },
+        {
+          "en": "\"Let's make a scarecrow,\" they said.",
+          "zh": "“我们来做一个稻草人吧，”他们说。",
+          "startMs": 37970,
+          "endMs": 42590
+        },
+        {
+          "en": "\"What a good idea,\" said Mum.",
+          "zh": "“好主意，”妈妈说。",
+          "startMs": 42620,
+          "endMs": 45070
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 35680,
+      "endMs": 45420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got some old clothes and made the scarecrow's body.",
+          "zh": "他们找了一些旧衣服，做成了稻草人的身体。",
+          "startMs": 45100,
+          "endMs": 49850
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 45420,
+      "endMs": 50200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum helped them.",
+          "zh": "妈妈帮了他们。",
+          "startMs": 50340,
+          "endMs": 52070
+        },
+        {
+          "en": "Biff got a bag.",
+          "zh": "Biff 拿来一个袋子。",
+          "startMs": 59970,
+          "endMs": 60070
+        },
+        {
+          "en": "Chip painted a face on it.",
+          "zh": "Chip 在袋子上画了一张脸。",
+          "startMs": 60070,
+          "endMs": 61100
+        },
+        {
+          "en": "Mum made the scarecrow's hair.",
+          "zh": "妈妈做了稻草人的头发。",
+          "startMs": 65660,
+          "endMs": 67360
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 50200,
+      "endMs": 67710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted the scarecrow to be a boy.",
+          "zh": "Chip 希望稻草人是个男孩。",
+          "startMs": 72970,
+          "endMs": 75290
+        },
+        {
+          "en": "He called it Fred.",
+          "zh": "他给稻草人取名叫 Fred。",
+          "startMs": 75980,
+          "endMs": 77730
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 72820,
+      "endMs": 78080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted it to be a girl.",
+          "zh": "Biff 希望稻草人是个女孩。",
+          "startMs": 80970,
+          "endMs": 82990
+        },
+        {
+          "en": "\"All scarecrows are boys,\" said Chip.",
+          "zh": "“所有的稻草人都应该是男孩，”Chip 说。 Chip 说道。",
+          "startMs": 82990,
+          "endMs": 88690
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 80820,
+      "endMs": 89040
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 88720,
+          "endMs": 90550
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 89040,
+      "endMs": 90900
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them inside the little house.",
+          "zh": "魔法把他们带进了小房子里。",
+          "startMs": 91830,
+          "endMs": 97530
+        },
+        {
+          "en": "The magic took them to a field.",
+          "zh": "魔法把他们带到了田野里。",
+          "startMs": 107870,
+          "endMs": 111330
+        },
+        {
+          "en": "The scarecrow came to life.",
+          "zh": "稻草人活了过来。",
+          "startMs": 111360,
+          "endMs": 114010
+        },
+        {
+          "en": "\"I'm alive!\" Called Fred.",
+          "zh": "我还活着。 他们叫了 Fred。",
+          "startMs": 114040,
+          "endMs": 117070
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 91680,
+      "endMs": 117420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Fred jumped in the air.",
+          "zh": "Fred 跳了起来。",
+          "startMs": 118410,
+          "endMs": 119930
+        },
+        {
+          "en": "\"It's magic!\" He called.",
+          "zh": "太神奇了。 他喊道。",
+          "startMs": 119990,
+          "endMs": 123230
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 118260,
+      "endMs": 123580
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were some scarecrows in the lane.",
+          "zh": "小路上有几个稻草人。",
+          "startMs": 126970,
+          "endMs": 128690
+        },
+        {
+          "en": "Fred waved at them.",
+          "zh": "Fred 向它们挥手。",
+          "startMs": 128690,
+          "endMs": 130710
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 126820,
+      "endMs": 131060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Fred ran up to the scarecrows.",
+          "zh": "Fred 跑向稻草人。",
+          "startMs": 132070,
+          "endMs": 135810
+        },
+        {
+          "en": "\"Hello!\" He called.",
+          "zh": "你好。 他喊道。",
+          "startMs": 135840,
+          "endMs": 137100
+        },
+        {
+          "en": "\"Where are you going?\"",
+          "zh": "你们要去哪里？",
+          "startMs": 137130,
+          "endMs": 138510
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 131920,
+      "endMs": 138860
+    },
+    {
+      "sentences": [
+        {
+          "en": "A scarecrow pointed to a barn.",
+          "zh": "一个稻草人指了指一间谷仓。",
+          "startMs": 141840,
+          "endMs": 144470
+        },
+        {
+          "en": "\"We're going to the barn dance.",
+          "zh": "“我们要去参加谷仓舞会。",
+          "startMs": 144830,
+          "endMs": 149490
+        },
+        {
+          "en": "You can come too.\"",
+          "zh": "你们也可以来。”",
+          "startMs": 149520,
+          "endMs": 150130
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 141690,
+      "endMs": 150480
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then the scarecrows looked at Biff and Chip.",
+          "zh": "然后，稻草人们看向 Biff 和 Chip。",
+          "startMs": 150160,
+          "endMs": 153930
+        },
+        {
+          "en": "\"Oh dear, you can't come.\"",
+          "zh": "你们不能来。",
+          "startMs": 153960,
+          "endMs": 157010
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 150480,
+      "endMs": 157360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip weren't scarecrows.",
+          "zh": "Biff 和 Chip 不是稻草人。",
+          "startMs": 160860,
+          "endMs": 165640
+        },
+        {
+          "en": "They couldn't go to the dance but Fred had an idea.",
+          "zh": "他们不能去参加舞会，但 Fred 想出了一个主意。",
+          "startMs": 165670,
+          "endMs": 168930
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 160710,
+      "endMs": 169280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Fred made Biff and Chip into scarecrows.",
+          "zh": "Fred 把比思和 Chip 变成了稻草人。",
+          "startMs": 169080,
+          "endMs": 172290
+        },
+        {
+          "en": "They went to the dance.",
+          "zh": "他们去了舞会。",
+          "startMs": 172690,
+          "endMs": 175070
+        },
+        {
+          "en": "\"Come on!\" Called Fred.",
+          "zh": "来吧。 他们叫了 Fred。",
+          "startMs": 178830,
+          "endMs": 182290
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 169280,
+      "endMs": 182640
+    },
+    {
+      "sentences": [
+        {
+          "en": "The band began to play.",
+          "zh": "乐队开始演奏。",
+          "startMs": 182320,
+          "endMs": 184370
+        },
+        {
+          "en": "\"Let's dance.\"",
+          "zh": "我们来跳舞吧。",
+          "startMs": 184370,
+          "endMs": 184570
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 182640,
+      "endMs": 184920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff began to dance with the scarecrows.",
+          "zh": "Biff 开始和稻草人们跳舞。",
+          "startMs": 184570,
+          "endMs": 186960
+        },
+        {
+          "en": "\"This is fun,\" called Chip.",
+          "zh": "“这真好玩，”Chip 喊道。 Chip 喊道。",
+          "startMs": 191960,
+          "endMs": 196070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 184920,
+      "endMs": 196420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff danced with Fred.",
+          "zh": "Biff 和 Fred 跳起了舞。",
+          "startMs": 199970,
+          "endMs": 200520
+        },
+        {
+          "en": "Chip danced with Biff.",
+          "zh": "Chip 和 Biff 跳舞。",
+          "startMs": 200520,
+          "endMs": 203650
+        },
+        {
+          "en": "They all danced with the scarecrows.",
+          "zh": "他们都和稻草人们跳起了舞。",
+          "startMs": 203680,
+          "endMs": 207230
+        },
+        {
+          "en": "\"See?\"",
+          "zh": "看见了吗？",
+          "startMs": 208860,
+          "endMs": 209620
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 199820,
+      "endMs": 209970
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"See!\" said Biff.",
+          "zh": "“看吧！”Biff 说。",
+          "startMs": 210040,
+          "endMs": 211610
+        },
+        {
+          "en": "\"There are girl scarecrows.",
+          "zh": "“这里有女稻草人。",
+          "startMs": 211640,
+          "endMs": 214700
+        },
+        {
+          "en": "I told you so.\"",
+          "zh": "我早跟你说了。",
+          "startMs": 215120,
+          "endMs": 217070
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 209970,
+      "endMs": 217420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the key glowed.",
+          "zh": "突然，钥匙发出了光。",
+          "startMs": 218830,
+          "endMs": 221930
+        },
+        {
+          "en": "It was time to go home.",
+          "zh": "该回家了。",
+          "startMs": 222410,
+          "endMs": 225510
+        },
+        {
+          "en": "\"Oh no!\" Said Fred.",
+          "zh": "哎呀。 Fred 说道。",
+          "startMs": 225540,
+          "endMs": 230610
+        },
+        {
+          "en": "Biff and Chip had an idea.",
+          "zh": "Biff 和 Chip 想出了一个主意。",
+          "startMs": 239960,
+          "endMs": 241920
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 218680,
+      "endMs": 242270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them home. Said Mum.",
+          "zh": "魔法把他们带回了家。 妈妈说道。",
+          "startMs": 241950,
+          "endMs": 244660
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 242270,
+      "endMs": 245010
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I didn't know there were girl scarecrows,\" said Mum.",
+          "zh": "“我不知道还有女稻草人，”妈妈说。",
+          "startMs": 245970,
+          "endMs": 249390
+        },
+        {
+          "en": "\"Well, there are,\" said Chip.",
+          "zh": "“嗯，有啊，”Chip 说。 Chip 说道。",
+          "startMs": 251010,
+          "endMs": 256070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 245820,
+      "endMs": 256420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 256420,
+      "endMs": 256421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 256421,
+      "endMs": 256422
+    }
+  ]
+}

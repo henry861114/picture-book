@@ -1,0 +1,147 @@
+{
+  "id": "L1-047",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "See me skip.",
+          "zh": "看见我蹦蹦跳跳地走。",
+          "startMs": 0,
+          "endMs": 2320
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2670
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is the way.",
+          "zh": "这个是这方式。",
+          "startMs": 4700,
+          "endMs": 17470
+        }
+      ],
+      "startMs": 4550,
+      "endMs": 17820
+    },
+    {
+      "sentences": [
+        {
+          "en": "I like to do this every day.",
+          "zh": "我喜欢到做这个每个一天。",
+          "startMs": 38420,
+          "endMs": 42000
+        }
+      ],
+      "startMs": 38270,
+      "endMs": 42350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on, Dad.",
+          "zh": "来在……上， 爸爸。",
+          "startMs": 45660,
+          "endMs": 45970
+        },
+        {
+          "en": "Can you skip too?\"",
+          "zh": "能你蹦蹦跳跳地走也？",
+          "startMs": 45870,
+          "endMs": 49280
+        }
+      ],
+      "startMs": 45510,
+      "endMs": 49630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Yes, I can.",
+          "zh": "是， 我能。",
+          "startMs": 49180,
+          "endMs": 50710
+        },
+        {
+          "en": "I skip like you.\"",
+          "zh": "我蹦蹦跳跳地走喜欢你。",
+          "startMs": 50610,
+          "endMs": 53280
+        }
+      ],
+      "startMs": 49030,
+      "endMs": 53630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me.",
+          "zh": "看在我。",
+          "startMs": 56180,
+          "endMs": 56650
+        },
+        {
+          "en": "Look at me go!\"",
+          "zh": "看在我去！",
+          "startMs": 56550,
+          "endMs": 60280
+        }
+      ],
+      "startMs": 56030,
+      "endMs": 60630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look out, Dad!\"",
+          "zh": "看出， 爸爸！",
+          "startMs": 60180,
+          "endMs": 64280
+        }
+      ],
+      "startMs": 60030,
+      "endMs": 64630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 64180,
+          "endMs": 66820
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 66720,
+          "endMs": 69280
+        }
+      ],
+      "startMs": 64030,
+      "endMs": 69630
+    },
+    {
+      "sentences": [],
+      "startMs": 75880,
+      "endMs": 76199,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 76380,
+      "endMs": 76199,
+      "illustrationOnly": true
+    }
+  ]
+}

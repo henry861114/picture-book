@@ -1,0 +1,207 @@
+{
+  "id": "L4-005",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin went to a mosque school.",
+          "zh": "Yasmin 去到一个清真寺学校。",
+          "startMs": 0,
+          "endMs": 7220
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam wanted to go.",
+          "zh": "亚当想要到去。",
+          "startMs": 7920,
+          "endMs": 11670
+        }
+      ],
+      "startMs": 7770,
+      "endMs": 12020
+    },
+    {
+      "sentences": [
+        {
+          "en": "But he was too little.",
+          "zh": "但是他是也小的。",
+          "startMs": 11570,
+          "endMs": 16260
+        }
+      ],
+      "startMs": 11420,
+      "endMs": 16610
+    },
+    {
+      "sentences": [],
+      "startMs": 13700,
+      "endMs": 14500,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted to look inside.",
+          "zh": "他想要到看里面。",
+          "startMs": 16160,
+          "endMs": 23100
+        }
+      ],
+      "startMs": 16010,
+      "endMs": 23450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam couldn't see.",
+          "zh": "亚当不能看见。",
+          "startMs": 23570,
+          "endMs": 25700
+        }
+      ],
+      "startMs": 23420,
+      "endMs": 26050
+    },
+    {
+      "sentences": [
+        {
+          "en": "He climbed on the lamp post.",
+          "zh": "他爬在……上这灯柱。",
+          "startMs": 25600,
+          "endMs": 32620
+        }
+      ],
+      "startMs": 25450,
+      "endMs": 32970
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam got stuck.",
+          "zh": "亚当得到 stuck。",
+          "startMs": 33250,
+          "endMs": 35380
+        }
+      ],
+      "startMs": 33100,
+      "endMs": 35730
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said his Mum.",
+          "zh": "哦不！ 说他的妈妈。",
+          "startMs": 35280,
+          "endMs": 42460
+        }
+      ],
+      "startMs": 35130,
+      "endMs": 42810
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help!\" called Adam.",
+          "zh": "帮助！ 叫亚当。",
+          "startMs": 42360,
+          "endMs": 44960
+        }
+      ],
+      "startMs": 42210,
+      "endMs": 45310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone ran to help.",
+          "zh": "每个人跑到帮助。",
+          "startMs": 46000,
+          "endMs": 52860
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 53210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The firemen came.",
+          "zh": "这消防队员来。",
+          "startMs": 53210,
+          "endMs": 55660
+        }
+      ],
+      "startMs": 53060,
+      "endMs": 56010
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got Adam out.",
+          "zh": "他们得到亚当出。",
+          "startMs": 55560,
+          "endMs": 62300
+        }
+      ],
+      "startMs": 55410,
+      "endMs": 62650
+    },
+    {
+      "sentences": [],
+      "startMs": 54780,
+      "endMs": 55580,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You can go to mosque school,\" said Grandad.",
+          "zh": "你能去到清真寺学校， 说外公。",
+          "startMs": 62200,
+          "endMs": 71060
+        }
+      ],
+      "startMs": 62050,
+      "endMs": 71410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Printed in China by Imago \"Hooray!\" said Adam.",
+          "zh": "印刷的在……里瓷由 Imago 好耶！ 说亚当。",
+          "startMs": 64680,
+          "endMs": 75160
+        }
+      ],
+      "startMs": 64680,
+      "endMs": 75160
+    },
+    {
+      "sentences": [],
+      "startMs": 75160,
+      "endMs": 76419,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 76419,
+      "endMs": 76719,
+      "illustrationOnly": true
+    }
+  ]
+}

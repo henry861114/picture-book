@@ -1,0 +1,111 @@
+{
+  "id": "L1-029",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come and look at this.",
+          "zh": "来和看在这个。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come and look at this.",
+          "zh": "来和看在这个。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it a big monster?",
+          "zh": "是它一个大的怪物？",
+          "startMs": 14000,
+          "endMs": 16100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 16450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come and look at this.",
+          "zh": "来和看在这个。",
+          "startMs": 20000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it a big dinosaur?",
+          "zh": "是它一个大的恐龙？",
+          "startMs": 28000,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 27850,
+      "endMs": 31450
+    },
+    {
+      "sentences": [],
+      "startMs": 43809,
+      "endMs": 44609,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it a big giant?",
+          "zh": "是它一个大的巨人？",
+          "startMs": 41000,
+          "endMs": 43100
+        }
+      ],
+      "startMs": 40850,
+      "endMs": 43450
+    },
+    {
+      "sentences": [
+        {
+          "en": "No.",
+          "zh": "不。",
+          "startMs": 47000,
+          "endMs": 47150
+        },
+        {
+          "en": "It is Dad.",
+          "zh": "它是爸爸。",
+          "startMs": 47000,
+          "endMs": 49100
+        }
+      ],
+      "startMs": 46850,
+      "endMs": 49450
+    }
+  ]
+}

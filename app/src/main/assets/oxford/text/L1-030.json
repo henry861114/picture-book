@@ -1,0 +1,159 @@
+{
+  "id": "L1-030",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a wet day.",
+          "zh": "它是一个湿的一天。",
+          "startMs": 0,
+          "endMs": 2050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2400
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a windy day.",
+          "zh": "它是一个多风的一天。",
+          "startMs": 7950,
+          "endMs": 11050
+        }
+      ],
+      "startMs": 7800,
+      "endMs": 11400
+    },
+    {
+      "sentences": [
+        {
+          "en": "I went to the shops.",
+          "zh": "我去到这商店。",
+          "startMs": 11950,
+          "endMs": 15050
+        }
+      ],
+      "startMs": 11800,
+      "endMs": 15400
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a sunny day.",
+          "zh": "它是一个桑尼一天。",
+          "startMs": 0,
+          "endMs": 2050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2400
+    },
+    {
+      "sentences": [
+        {
+          "en": "I went to the pool.",
+          "zh": "我去到这池塘。",
+          "startMs": 11950,
+          "endMs": 13250
+        }
+      ],
+      "startMs": 11800,
+      "endMs": 13600
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a hot day.",
+          "zh": "它是一个热的一天。",
+          "startMs": 0,
+          "endMs": 2050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2400
+    },
+    {
+      "sentences": [
+        {
+          "en": "I went to the park.",
+          "zh": "我去到这公园。",
+          "startMs": 11950,
+          "endMs": 13250
+        }
+      ],
+      "startMs": 11800,
+      "endMs": 13600
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a fun day.",
+          "zh": "它是一个乐趣一天。",
+          "startMs": 0,
+          "endMs": 2050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2400
+    },
+    {
+      "sentences": [
+        {
+          "en": "• Ask your child to look through the rest of the book and identify who else is in Kipper's diary.",
+          "zh": "• 问你的孩子到看穿过这休息的这书和辨认谁其他是在……里 Kipper 记事簿。",
+          "startMs": 8181,
+          "endMs": 16906
+        },
+        {
+          "en": "• Ask: Which two days of the week are missing from the diary?",
+          "zh": "• 问： 哪个二一天的这星期是小姐从这记事簿？",
+          "startMs": 16906,
+          "endMs": 22393
+        },
+        {
+          "en": "First published 2000 For inspirational support plus TEACHERS: This edition published 2011 free resources and eBooks ISEN 978-0-19-848068-6 book is prohibited.",
+          "zh": "第一出版 2000 为了鼓舞人心的支持加老师： 这个一版印刷数出版 2011 自由的资源和电子书 ISEN 978-0-19-848068-6 书是禁止。",
+          "startMs": 22393,
+          "endMs": 36604
+        },
+        {
+          "en": "All rights reserved.",
+          "zh": "全部正确的矜持的。",
+          "startMs": 36604,
+          "endMs": 38403
+        },
+        {
+          "en": "Help your child's reading grown in sustainable forests.",
+          "zh": "帮助你的孩子读成熟的在……里能维持的森林。",
+          "startMs": 38403,
+          "endMs": 43350
+        },
+        {
+          "en": "The manufacturing natural, recyclable product made from wood with essential tips, fun activities and free eBooks process conforms to the environmental regulations of the country of origin.",
+          "zh": "这制造业正常的， 可回收利用的产品做从木头和……一起完全必要的尖端， 乐趣活跃和自由的电子书过程遵从到这环境的规定的这国家的产地。",
+          "startMs": 43350,
+          "endMs": 60260
+        }
+      ],
+      "startMs": 8181,
+      "endMs": 60260
+    },
+    {
+      "sentences": [],
+      "startMs": 60260,
+      "endMs": 60676,
+      "illustrationOnly": true
+    }
+  ]
+}

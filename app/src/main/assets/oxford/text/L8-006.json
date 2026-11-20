@@ -1,0 +1,1063 @@
+{
+  "id": "L8-006",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had been to London with Gran.",
+          "zh": "Biff 和 Chip 有是到伦敦和……一起 Gran。",
+          "startMs": 3860,
+          "endMs": 7400
+        },
+        {
+          "en": "They had some pictures which they put into a scrapbook.",
+          "zh": "他们有一些图画哪个他们放进入一个剪贴簿。",
+          "startMs": 7830,
+          "endMs": 12250
+        },
+        {
+          "en": "They wanted to take the book to school.",
+          "zh": "他们想要到拿这书到学校。",
+          "startMs": 12280,
+          "endMs": 13690
+        },
+        {
+          "en": "Gran came into Biff's room to look at the children's scrapbook.",
+          "zh": "Gran 外国的钱 foun 在……附近 BuckinghamA Gran 来进入 Biff 房间到看在这孩子们剪贴簿。",
+          "startMs": 17830,
+          "endMs": 23230
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 23580
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We had a great time in London,\" said Biff.",
+          "zh": "我们有一个很棒的时间在……里伦敦， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 23260,
+          "endMs": 27070
+        },
+        {
+          "en": "\"Thank you, Gran.\" Gran was pleased.",
+          "zh": "谢谢你， Gran。 Gran 是请。",
+          "startMs": 27070,
+          "endMs": 27270
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 23580,
+      "endMs": 27620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Serap book London Suddenly, the magic key glowed.",
+          "zh": "突然地， 这魔法钥匙光亮。",
+          "startMs": 27270,
+          "endMs": 31070
+        },
+        {
+          "en": "It was time for an adventure.",
+          "zh": "它是时间为了一个冒险。",
+          "startMs": 31070,
+          "endMs": 33070
+        },
+        {
+          "en": "The magic took the children into the little house.",
+          "zh": "这魔法拿这孩子们进入这小的房子。",
+          "startMs": 36830,
+          "endMs": 40410
+        },
+        {
+          "en": "But did it take Gran?",
+          "zh": "但是做它拿 Gran？",
+          "startMs": 40440,
+          "endMs": 42490
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 27620,
+      "endMs": 42840
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back in time to a street on a foggy day.",
+          "zh": "这魔法拿他们回来在……里时间到一个街道在……上一个有雾的一天。",
+          "startMs": 50000,
+          "endMs": 56070
+        },
+        {
+          "en": "A boy was standing under a gas lamp.",
+          "zh": "一个男孩是站在……下方一个气体灯。",
+          "startMs": 56070,
+          "endMs": 59070
+        },
+        {
+          "en": "He looked at the children in surprise.",
+          "zh": "他看在这孩子们在……里意想不到的事物。",
+          "startMs": 59070,
+          "endMs": 62070
+        },
+        {
+          "en": "\"Excuse me,\" Said Biff.",
+          "zh": "借口我， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 62070,
+          "endMs": 65090
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 49850,
+      "endMs": 65440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Do you know where we are?\" \"Don't you know?\" Said the boy.",
+          "zh": "做你知道哪里我们是？ 不你知道任何东西？",
+          "startMs": 68990,
+          "endMs": 73090
+        },
+        {
+          "en": "\"This is London.\"",
+          "zh": "这个是伦敦。",
+          "startMs": 73090,
+          "endMs": 73290
+        },
+        {
+          "en": "He took his cap off.",
+          "zh": "他拿他的便帽离开。",
+          "startMs": 73290,
+          "endMs": 73490
+        },
+        {
+          "en": "It wasn't a boy.",
+          "zh": "它不是有趣的。",
+          "startMs": 73490,
+          "endMs": 75070
+        },
+        {
+          "en": "It was a girl.",
+          "zh": "它是！",
+          "startMs": 75070,
+          "endMs": 77070
+        },
+        {
+          "en": "\"I'm called Vicky,\" Said the girl.",
+          "zh": "我是叫 Vicky， 说这女孩。",
+          "startMs": 77070,
+          "endMs": 80090
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 68840,
+      "endMs": 80440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm called Vicky after the queen.\" \"What queen?\" Asked Biff.",
+          "zh": "我是叫 Vicky 在……之后这女王。 什么女王？ 问 Biff。 为什么？ 问 Biff。",
+          "startMs": 80090,
+          "endMs": 86070
+        },
+        {
+          "en": "\"Queen Victoria,\" Said Vicky.",
+          "zh": "女王维多利亚， 说 Vicky。 来在……上， 然后， 说 Vicky。",
+          "startMs": 86070,
+          "endMs": 89090
+        },
+        {
+          "en": "\"Don't you know anything?\" \"I'm hungry,\" Said Vicky.",
+          "zh": "不你知道任何东西？ 来在……上， 然后， 说 Vicky。",
+          "startMs": 89090,
+          "endMs": 94090
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 80440,
+      "endMs": 94440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Have you got any money?\" \"No, sorry,\" said the children.",
+          "zh": "有你得到任何钱？ 对不起， Biff。",
+          "startMs": 94090,
+          "endMs": 99070
+        },
+        {
+          "en": "\"Come on, then,\" said Vicky.",
+          "zh": "来在……上， 然后， 说 Vicky。",
+          "startMs": 99070,
+          "endMs": 102090
+        },
+        {
+          "en": "\"I know where we are.\"",
+          "zh": "做你知道哪里我们是？",
+          "startMs": 102090,
+          "endMs": 104070
+        },
+        {
+          "en": "\"Come on, then,\" said Vicky.",
+          "zh": "来在……上， 然后， 说 Vicky。",
+          "startMs": 104070,
+          "endMs": 106090
+        },
+        {
+          "en": "\"I know where we can get some.",
+          "zh": "我知道哪里我们能得到一些。",
+          "startMs": 106090,
+          "endMs": 108070
+        },
+        {
+          "en": "Follow me.\"",
+          "zh": "跟随我。",
+          "startMs": 108070,
+          "endMs": 110070
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 94440,
+      "endMs": 110420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They followed Vicky down winding streets.",
+          "zh": "他们跟随 Vicky 向下蜿蜒的街道。",
+          "startMs": 112970,
+          "endMs": 116070
+        },
+        {
+          "en": "At last, they came to a blacksmith's.",
+          "zh": "在最后的， 他们来到一个铁匠。",
+          "startMs": 116070,
+          "endMs": 119070
+        },
+        {
+          "en": "The blacksmith was looking at a horse's hoof.",
+          "zh": "这铁匠是看在一个马蹄。",
+          "startMs": 119070,
+          "endMs": 123070
+        },
+        {
+          "en": "The horse needed a new shoe.",
+          "zh": "这马必须一个新的鞋。",
+          "startMs": 123070,
+          "endMs": 125070
+        },
+        {
+          "en": "\"Got any jobs, mister?\" Asked Vicky.",
+          "zh": "得到任何工作， 先生？ 问 Vicky。 得到任何工作， 先生？ 问 Vicky。",
+          "startMs": 125070,
+          "endMs": 128070
+        },
+        {
+          "en": "\"I'll give you a penny to pump the bellows,\" Said the blacksmith.",
+          "zh": "T'll 给你一个便士到泵这风箱， 说这铁匠。 在最后的， 他们来到一个铁匠。",
+          "startMs": 128070,
+          "endMs": 133070
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 112820,
+      "endMs": 133420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children pumped and pumped until the fire glowed hot.",
+          "zh": "这孩子们泵和泵直到这火光亮热的。",
+          "startMs": 133070,
+          "endMs": 137070
+        },
+        {
+          "en": "It was hard work.",
+          "zh": "它是困难的工作。",
+          "startMs": 137070,
+          "endMs": 139070
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 133420,
+      "endMs": 139420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were hot and thirsty.",
+          "zh": "这孩子们是热的和渴的。",
+          "startMs": 142970,
+          "endMs": 145070
+        },
+        {
+          "en": "Vicky took them to a pump and everyone had a drink.",
+          "zh": "Vicky 拿他们到一个泵和每个人有一个喝。",
+          "startMs": 145070,
+          "endMs": 149070
+        },
+        {
+          "en": "Then Vicky pumped the water and the children washed their faces.",
+          "zh": "然后 Vicky 泵这水和这孩子们洗他们的脸。",
+          "startMs": 149070,
+          "endMs": 154070
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 142820,
+      "endMs": 154420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were hungry.",
+          "zh": "这孩子们是饿的。",
+          "startMs": 154070,
+          "endMs": 156070
+        },
+        {
+          "en": "Vicky took them to a baker's shop.",
+          "zh": "Vicky 拿他们到一个面包师傅商店。",
+          "startMs": 156070,
+          "endMs": 158070
+        },
+        {
+          "en": "She bought some bread with the penny.",
+          "zh": "她买一些面包和……一起这便士。",
+          "startMs": 158070,
+          "endMs": 161070
+        },
+        {
+          "en": "She gave some to Biff, Chip and Kipper.",
+          "zh": "她给一些到 Biff， Chip 和 Kipper。",
+          "startMs": 161070,
+          "endMs": 164070
+        },
+        {
+          "en": "The bread was hot and it smelled good.",
+          "zh": "这面包是热的和它气味好的。",
+          "startMs": 164070,
+          "endMs": 168070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 154420,
+      "endMs": 168420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next, Vicky took them to a street with a high wall.",
+          "zh": "下一个， Vicky 拿他们到一个街道和……一起一个高的墙。",
+          "startMs": 170970,
+          "endMs": 175070
+        },
+        {
+          "en": "A boy called Jack was waiting there.",
+          "zh": "一个男孩叫杰克是等那里。",
+          "startMs": 175070,
+          "endMs": 178070
+        },
+        {
+          "en": "He looked at Biff, Chip and Kipper.",
+          "zh": "他看在 Biff， Chip 和 Kipper。",
+          "startMs": 178070,
+          "endMs": 181070
+        },
+        {
+          "en": "\"Who are they?\" He asked.",
+          "zh": "谁是他们？ 他问。 他追赶它！",
+          "startMs": 181070,
+          "endMs": 184070
+        },
+        {
+          "en": "\"They're my new friends,\" she said.",
+          "zh": "他们是我的新的朋友们， 她说。",
+          "startMs": 184070,
+          "endMs": 186140
+        },
+        {
+          "en": "She said, said Biff.",
+          "zh": "Biff， 他说。",
+          "startMs": 186140,
+          "endMs": 198070
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 170820,
+      "endMs": 198420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all climbed on the wall.",
+          "zh": "他们全部爬在……上这墙。",
+          "startMs": 198070,
+          "endMs": 198270
+        },
+        {
+          "en": "They had to help Kipper up.",
+          "zh": "他们有到帮助 Kipper 向上。",
+          "startMs": 198270,
+          "endMs": 198470
+        },
+        {
+          "en": "They could see a big house.",
+          "zh": "他们能看见一个大的房子。",
+          "startMs": 198470,
+          "endMs": 198670
+        },
+        {
+          "en": "\"It's Buckingham Palace,\" said Biff.",
+          "zh": "它是 Buckingham 宫， 说 Biff。",
+          "startMs": 198670,
+          "endMs": 198870
+        },
+        {
+          "en": "\"We saw it when we went to London with Gran.\"",
+          "zh": "我们看见它当……时我们去到伦敦和……一起 Gran。",
+          "startMs": 198870,
+          "endMs": 202070
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 198420,
+      "endMs": 202420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a light flashed at a window.",
+          "zh": "突然地， 一个轻的闪光在一个窗户。",
+          "startMs": 206970,
+          "endMs": 210070
+        },
+        {
+          "en": "It flashed on and off.",
+          "zh": "它闪光在……上和离开。",
+          "startMs": 210070,
+          "endMs": 212070
+        },
+        {
+          "en": "It was flashing at Jack and Vicky.",
+          "zh": "它是防雨板在杰克和 Vicky。",
+          "startMs": 212070,
+          "endMs": 215070
+        },
+        {
+          "en": "Jack had a lamp.",
+          "zh": "杰克有一个灯。",
+          "startMs": 215460,
+          "endMs": 217070
+        },
+        {
+          "en": "He shone it back.",
+          "zh": "他 shone 它回来。",
+          "startMs": 217070,
+          "endMs": 219070
+        },
+        {
+          "en": "\"Good,\" \"Good,\" he said.",
+          "zh": "去！ 好的， 他说。",
+          "startMs": 219070,
+          "endMs": 221070
+        },
+        {
+          "en": "\"Come on, follow me!\" \"Keep down,\" There were three children inside.",
+          "zh": "来在……上， 跟随我！",
+          "startMs": 221070,
+          "endMs": 243070
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 206820,
+      "endMs": 243420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children jumped off the wall and ran to the palace.",
+          "zh": "这孩子们跳离开这墙和跑到这宫。",
+          "startMs": 243070,
+          "endMs": 243270
+        },
+        {
+          "en": "\"Keep down,\" called Jack, \"and run fast.\"",
+          "zh": "保持向下， 叫杰克， 和跑快的。",
+          "startMs": 243270,
+          "endMs": 243470
+        },
+        {
+          "en": "Someone opened a window and they all ran towards it. Said Vicky.",
+          "zh": "某人打开一个窗户和他们全部跑向它。 来在……上， 然后， 说 Vicky。",
+          "startMs": 243470,
+          "endMs": 252070
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 243420,
+      "endMs": 252420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were the grandchildren of Queen Victoria.",
+          "zh": "他们是这孙子的女王维多利亚。",
+          "startMs": 252070,
+          "endMs": 252270
+        },
+        {
+          "en": "\"They're staying with the Queen but it isn't much fun for them,\" said Vicky.",
+          "zh": "他们是停留和……一起这女王但是它不是许多乐趣为了他们， 说 Vicky。",
+          "startMs": 252270,
+          "endMs": 252470
+        },
+        {
+          "en": "\"We come to play with them every night.\"",
+          "zh": "我们来到玩和……一起他们每个夜晚。",
+          "startMs": 252470,
+          "endMs": 255070
+        },
+        {
+          "en": "\"They're my new friends,\" Said Vicky.",
+          "zh": "他们是我的新的朋友们， 她说。 来在……上， 然后， 说 Vicky。",
+          "startMs": 258970,
+          "endMs": 262070
+        },
+        {
+          "en": "\"Great.",
+          "zh": "Gran！",
+          "startMs": 263970,
+          "endMs": 264820
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 252420,
+      "endMs": 265170
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Queen's grandchildren looked at Biff, Chip and Kipper.",
+          "zh": "这女王孙子看在 Biff， Chip 和 Kipper。",
+          "startMs": 264820,
+          "endMs": 265020
+        },
+        {
+          "en": "\"They've come to play tonight.\"",
+          "zh": "他们已经来到玩今夜。",
+          "startMs": 265020,
+          "endMs": 265220
+        },
+        {
+          "en": "Now we can have some real fun,\" Said one of the grandchildren.",
+          "zh": "很棒的， 现在我们能有一些真的乐趣， 说一的这孙子。",
+          "startMs": 265220,
+          "endMs": 269070
+        },
+        {
+          "en": "After that, they played hopscotch.",
+          "zh": "在……之后那个他们玩跳房子。",
+          "startMs": 279970,
+          "endMs": 282070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 265170,
+      "endMs": 282420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played together.",
+          "zh": "这孩子们玩一起。",
+          "startMs": 282070,
+          "endMs": 282270
+        },
+        {
+          "en": "First they played hide and seek.",
+          "zh": "第一他们玩把和寻找。",
+          "startMs": 282270,
+          "endMs": 282470
+        },
+        {
+          "en": "Then they played tag.",
+          "zh": "然后他们玩标签。",
+          "startMs": 282470,
+          "endMs": 282670
+        },
+        {
+          "en": "Biff and Chip taught them how to play basketball.",
+          "zh": "Biff 和 Chip taught 他们如何到玩篮球运动。",
+          "startMs": 282670,
+          "endMs": 286070
+        },
+        {
+          "en": "\"This is a good game,\" Said one of the grandchildren. Said Chip.",
+          "zh": "这个是使人十分惊奇的！ 说 Nadim。",
+          "startMs": 286070,
+          "endMs": 295070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 282420,
+      "endMs": 295420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How did you learn to play it?\"",
+          "zh": "如何做你学习到玩它？",
+          "startMs": 295070,
+          "endMs": 295270
+        },
+        {
+          "en": "\"We saw it on television,\" said Chip.",
+          "zh": "我们看见它在……上电视， 说 Chip。",
+          "startMs": 295270,
+          "endMs": 295470
+        },
+        {
+          "en": "\"On what?\" Asked Jack.",
+          "zh": "",
+          "startMs": 295470,
+          "endMs": 298070
+        },
+        {
+          "en": "\"Oh, never mind,\" Said Chip.",
+          "zh": "从不头脑， 说爸爸。 咳！",
+          "startMs": 298070,
+          "endMs": 301070
+        },
+        {
+          "en": "\"It's fun playing in a palace,\" Said Kipper.",
+          "zh": "它是 Buckingham 宫， 说 Biff。 哦帮助， 说 Kipper。",
+          "startMs": 303970,
+          "endMs": 308070
+        },
+        {
+          "en": "\"But will we see Queen Victoria?\" \"I hope not,\" Said Vicky.",
+          "zh": "Kipper， 但是将我们看见女王维多利亚？ 我希望它工作。 来在……上， 然后， 说 Vicky。",
+          "startMs": 308070,
+          "endMs": 313070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 295420,
+      "endMs": 313420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We shouldn't be here.\"",
+          "zh": "我希望不， 说 Vicky， 我们不应该是这里。",
+          "startMs": 313070,
+          "endMs": 315070
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 313420,
+      "endMs": 315420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"If the grown-ups find out, there will be trouble.\"",
+          "zh": "暗暗一个如果这成熟的找到出， 那里将是问题。",
+          "startMs": 315070,
+          "endMs": 319070
+        },
+        {
+          "en": "At that moment, a grown-up came in and saw them.",
+          "zh": "在那个片刻， 一个成熟的来在……里和看见他们。",
+          "startMs": 319070,
+          "endMs": 324070
+        },
+        {
+          "en": "\"Oh no!\" Said everyone.",
+          "zh": "哦不！ Gran， 说每个人。",
+          "startMs": 324070,
+          "endMs": 327070
+        },
+        {
+          "en": "\"Trouble!\" Said Vicky.",
+          "zh": "问题！ 来在……上， 然后， 说 Vicky。",
+          "startMs": 327070,
+          "endMs": 342070
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 315420,
+      "endMs": 342420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The grown-ups were very cross.",
+          "zh": "这成熟的是非常叉形。",
+          "startMs": 342070,
+          "endMs": 342270
+        },
+        {
+          "en": "They were cross with all the children.",
+          "zh": "他们是叉形和……一起全部这孩子们。",
+          "startMs": 342270,
+          "endMs": 342470
+        },
+        {
+          "en": "\"I told you there would be trouble,\" said Vicky.",
+          "zh": "我告诉你那里会是问题， 说 Vicky。 这男警察让他们出。",
+          "startMs": 342470,
+          "endMs": 354070
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 342420,
+      "endMs": 354420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The royal grandchildren were sent to bed.",
+          "zh": "这王室的孙子是发送到床。",
+          "startMs": 354070,
+          "endMs": 354270
+        },
+        {
+          "en": "A policeman came to take the others away.",
+          "zh": "一个男警察来到拿这其他离开。",
+          "startMs": 354270,
+          "endMs": 354470
+        },
+        {
+          "en": "\"This is a serious matter,\" said the policeman.",
+          "zh": "这个是一个严肃的事情， 说这男警察。",
+          "startMs": 354470,
+          "endMs": 354670
+        },
+        {
+          "en": "\"You're not allowed to play with the Queen's grandchildren.",
+          "zh": "你是不允许到玩和……一起这女王孙子。",
+          "startMs": 354670,
+          "endMs": 357070
+        },
+        {
+          "en": "Come along with me.\" Said a policeman.",
+          "zh": "来沿着和……一起我。",
+          "startMs": 357070,
+          "endMs": 374070
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 354420,
+      "endMs": 374420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were taken to a police station.",
+          "zh": "这孩子们是拿到一个警察部门火车站。",
+          "startMs": 374070,
+          "endMs": 374270
+        },
+        {
+          "en": "They were locked up.",
+          "zh": "他们是锁向上。",
+          "startMs": 374270,
+          "endMs": 374470
+        },
+        {
+          "en": "\"You can't go home until we find your mothers and fathers,\" said a policeman.",
+          "zh": "你不能去家直到我们找到你的妈妈和爸爸， 说一个男警察。",
+          "startMs": 374470,
+          "endMs": 374670
+        },
+        {
+          "en": "\"Oh, no!\" Said Biff.",
+          "zh": "哦不！ 哇！ 说 Biff。",
+          "startMs": 374670,
+          "endMs": 376070
+        },
+        {
+          "en": "\"We'll be here forever.\" Said Kipper.",
+          "zh": "我们会是这里永远。 哦帮助， 说 Kipper。",
+          "startMs": 376070,
+          "endMs": 382070
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 374420,
+      "endMs": 382420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't like this adventure,\" said Kipper.",
+          "zh": "我不喜欢这个冒险， 说 Kipper。",
+          "startMs": 382070,
+          "endMs": 382270
+        },
+        {
+          "en": "\"It isn't much fun.\"",
+          "zh": "它不是许多乐趣。",
+          "startMs": 382270,
+          "endMs": 385070
+        },
+        {
+          "en": "He wanted the magic key to glow, but it wouldn't.",
+          "zh": "他想要这魔法钥匙到光亮， 但是它不会。",
+          "startMs": 385070,
+          "endMs": 389070
+        },
+        {
+          "en": "The next day,.",
+          "zh": "这汽车 sped 离开。",
+          "startMs": 392970,
+          "endMs": 393070
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 382420,
+      "endMs": 393420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, an important man came to see the children.",
+          "zh": "这下一个一天， 一个重要的男人来到看见这孩子们。",
+          "startMs": 393070,
+          "endMs": 398070
+        },
+        {
+          "en": "\"The Queen has sent for you,\" he said.",
+          "zh": "这女王有发送为了你， 他说。",
+          "startMs": 398070,
+          "endMs": 402160
+        },
+        {
+          "en": "\"Come with me.\"",
+          "zh": "来和……一起我。",
+          "startMs": 402160,
+          "endMs": 404070
+        },
+        {
+          "en": "The policeman let them out.",
+          "zh": "这男警察让他们出。",
+          "startMs": 404070,
+          "endMs": 407070
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 393420,
+      "endMs": 407420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The important man took them to Buckingham Palace.",
+          "zh": "这重要的男人拿他们到 Buckingham 宫。",
+          "startMs": 407070,
+          "endMs": 411070
+        },
+        {
+          "en": "\"Do you think we are going to have our heads chopped off?\" Said Kipper.",
+          "zh": "做你想我们是去到有我们的正面劈开离开？ 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 411070,
+          "endMs": 417070
+        },
+        {
+          "en": "\"Gran,\" Said Chip, \"what are you doing in our adventure?\"",
+          "zh": "Gran！",
+          "startMs": 425970,
+          "endMs": 431070
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 407420,
+      "endMs": 431420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran was having tea with Queen Victoria.",
+          "zh": "Gran 是有茶和……一起女王维多利亚。",
+          "startMs": 431070,
+          "endMs": 431270
+        },
+        {
+          "en": "\"I'm having an adventure of my own,\" said Gran.",
+          "zh": "我是有一个冒险的我的自己的， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 431270,
+          "endMs": 436070
+        },
+        {
+          "en": "She said.",
+          "zh": "Biff， 他说。",
+          "startMs": 444090,
+          "endMs": 445070
+        },
+        {
+          "en": "The children played in the throne room.",
+          "zh": "这孩子们玩在……里这宝座房间。",
+          "startMs": 452970,
+          "endMs": 455180
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 431420,
+      "endMs": 455530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Queen Victoria looked at all the children and smiled.",
+          "zh": "女王维多利亚看在全部这孩子们和微笑。",
+          "startMs": 455180,
+          "endMs": 455380
+        },
+        {
+          "en": "\"Your grandmother has told me that you are good children,\" she said.",
+          "zh": "你的外婆有告诉我那个你是好的孩子们， 她说。",
+          "startMs": 455380,
+          "endMs": 455580
+        },
+        {
+          "en": "\"You can play with my grandchildren and stay to tea.\" Called Gran.",
+          "zh": "你能玩和……一起我的孙子和停留到茶。 来在……上 Biff， 叫 Gran。",
+          "startMs": 455580,
+          "endMs": 461070
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 455530,
+      "endMs": 461420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a sack race.",
+          "zh": "他们有一个大口袋速度竞赛。",
+          "startMs": 461070,
+          "endMs": 461270
+        },
+        {
+          "en": "\"Come on Biff,\" called Gran.",
+          "zh": "来在……上 Biff， 叫 Gran。",
+          "startMs": 461270,
+          "endMs": 461470
+        },
+        {
+          "en": "\"Come on, Vicky,\" Called the queen.",
+          "zh": "来在……上， 然后， 说 Vicky。 来在……上 Vicky， 叫这女王。",
+          "startMs": 461470,
+          "endMs": 464070
+        },
+        {
+          "en": "\"This is fun,\" everyone said.",
+          "zh": "这个是乐趣， 每个人说。",
+          "startMs": 464070,
+          "endMs": 468070
+        },
+        {
+          "en": "\"You can have one more race,\" Said the queen.",
+          "zh": "你能工作这里。",
+          "startMs": 468070,
+          "endMs": 472070
+        },
+        {
+          "en": "\"And then it will be time for tea.",
+          "zh": "你能有一更多速度竞赛， 说这女王， 和然后它将是时间为了茶。",
+          "startMs": 472070,
+          "endMs": 474650
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 461420,
+      "endMs": 475000
+    },
+    {
+      "sentences": [
+        {
+          "en": "I hope you like scones and homemade strawberry jam.\"",
+          "zh": "我希望你喜欢烤饼和家里做的草莓拥挤。",
+          "startMs": 474650,
+          "endMs": 479070
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 475000,
+      "endMs": 479420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 482000,
+          "endMs": 485070
+        },
+        {
+          "en": "It was time for the adventure to end.",
+          "zh": "它是时间为了这冒险到末尾。",
+          "startMs": 486970,
+          "endMs": 490070
+        },
+        {
+          "en": "\"Goodbye,\" Said Kipper.",
+          "zh": "好的， 他说。 哦帮助， 说 Kipper。",
+          "startMs": 490070,
+          "endMs": 492070
+        },
+        {
+          "en": "\"Thank you for having us.\"",
+          "zh": "谢谢你为了有我们。",
+          "startMs": 492070,
+          "endMs": 494070
+        },
+        {
+          "en": "\"It was a pleasure,\" Said Queen Victoria.",
+          "zh": "Kipper 是请。 女王维多利亚， 说 Vicky。",
+          "startMs": 494070,
+          "endMs": 498070
+        },
+        {
+          "en": "\"Do come again.\"",
+          "zh": "回飞镖， 说 Gran。",
+          "startMs": 498070,
+          "endMs": 500070
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 481850,
+      "endMs": 500420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 500420,
+      "endMs": 500421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 500421,
+      "endMs": 500422
+    }
+  ]
+}

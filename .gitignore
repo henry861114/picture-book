@@ -1,0 +1,17 @@
+# ---- binaries & build outputs (assets live in ../magic-tool-for-english) ----
+*.apk
+*.pdf
+*.m4a
+*.mp3
+*.wav
+*.aac
+build/
+dist/
+app/src/main/assets/home_hero.jpg
+app/src/main/assets/pages/
+app/src/main/assets/oxford/pdf/
+app/src/main/assets/oxford/audio/
+app/src/main/assets/oxford/covers/
+__pycache__/
+*.pyc
+.DS_Store

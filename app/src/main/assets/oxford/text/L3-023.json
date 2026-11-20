@@ -1,0 +1,303 @@
+{
+  "id": "L3-023",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "BOOK MONDAY Display day TUESDAY Be a SpooK publisher Hill!",
+          "zh": "书 MONDAY 陈列品一天星期二是一个 SpooK publisher 小山！",
+          "startMs": 0,
+          "endMs": 7678
+        },
+        {
+          "en": "It was book week.",
+          "zh": "它是书星期。",
+          "startMs": 7678,
+          "endMs": 9928
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9928
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children made books.",
+          "zh": "这孩子们做书。",
+          "startMs": 9928,
+          "endMs": 13107
+        },
+        {
+          "en": "NEEK Artist Be an THURSDAY an suther meet FRIPAY",
+          "zh": "NEEK 艺术家是一个星期四一个 suther 遇见 FRIPAY",
+          "startMs": 13107,
+          "endMs": 19464
+        }
+      ],
+      "startMs": 9928,
+      "endMs": 19464
+    },
+    {
+      "sentences": [
+        {
+          "en": "Today Book making 1.",
+          "zh": "在今天书做 1。",
+          "startMs": 19464,
+          "endMs": 22140
+        },
+        {
+          "en": "Think of a story 2.",
+          "zh": "想的一个故事 2。",
+          "startMs": 22140,
+          "endMs": 24682
+        },
+        {
+          "en": "Write it down raw pictures ublish it et rich",
+          "zh": "写它向下生的图画 ublish 它 et 富有的",
+          "startMs": 24682,
+          "endMs": 30568
+        }
+      ],
+      "startMs": 19464,
+      "endMs": 30568
+    },
+    {
+      "sentences": [
+        {
+          "en": "They made a big picture.",
+          "zh": "他们做一个大的图画。",
+          "startMs": 30568,
+          "endMs": 33786
+        },
+        {
+          "en": "Python's Party",
+          "zh": "蟒聚会",
+          "startMs": 33786,
+          "endMs": 35663
+        }
+      ],
+      "startMs": 30568,
+      "endMs": 35663
+    },
+    {
+      "sentences": [
+        {
+          "en": "They put it on the wall.",
+          "zh": "他们放它在……上这墙。",
+          "startMs": 29550,
+          "endMs": 45060
+        }
+      ],
+      "startMs": 29400,
+      "endMs": 45410
+    },
+    {
+      "sentences": [
+        {
+          "en": "An author came.",
+          "zh": "一个作者来。",
+          "startMs": 45360,
+          "endMs": 49760
+        }
+      ],
+      "startMs": 45210,
+      "endMs": 50110
+    },
+    {
+      "sentences": [
+        {
+          "en": "He made everyone laugh.",
+          "zh": "他做每个人笑。",
+          "startMs": 49660,
+          "endMs": 56060
+        }
+      ],
+      "startMs": 49510,
+      "endMs": 56410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children dressed up.",
+          "zh": "这孩子们连衣裙向上。",
+          "startMs": 55960,
+          "endMs": 59060
+        }
+      ],
+      "startMs": 55810,
+      "endMs": 59410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was a caterpillar.",
+          "zh": "Kipper 是一个毛虫。",
+          "startMs": 58960,
+          "endMs": 66060
+        }
+      ],
+      "startMs": 58810,
+      "endMs": 66410
+    },
+    {
+      "sentences": [
+        {
+          "en": "He ate an apple.",
+          "zh": "他吃一个苹果。",
+          "startMs": 65960,
+          "endMs": 68060
+        }
+      ],
+      "startMs": 65810,
+      "endMs": 68410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a book party.",
+          "zh": "他们有一个书聚会。",
+          "startMs": 52253,
+          "endMs": 55127
+        }
+      ],
+      "startMs": 52253,
+      "endMs": 55127
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper ate a lettuce.",
+          "zh": "Kipper 吃一个生菜。",
+          "startMs": 58960,
+          "endMs": 68060
+        }
+      ],
+      "startMs": 58810,
+      "endMs": 68410
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was the hungry caterpillar.",
+          "zh": "他是这饿的毛虫。",
+          "startMs": 49660,
+          "endMs": 66060
+        }
+      ],
+      "startMs": 49510,
+      "endMs": 66410
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a book sale.",
+          "zh": "那里是一个书出售。",
+          "startMs": 61789,
+          "endMs": 64715
+        },
+        {
+          "en": "WISHWHAT the BulLet Arrow MAX THE",
+          "zh": "WISHWHAT 这子弹箭马克斯这",
+          "startMs": 64715,
+          "endMs": 69105
+        }
+      ],
+      "startMs": 61789,
+      "endMs": 69105
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was hungry.",
+          "zh": "Kipper 是饿的。",
+          "startMs": 58960,
+          "endMs": 61670
+        }
+      ],
+      "startMs": 58810,
+      "endMs": 62020
+    },
+    {
+      "sentences": [
+        {
+          "en": "I am a hungry Kipper,\" he said.",
+          "zh": "我是一个饿的 Kipper， 他说。",
+          "startMs": 71456,
+          "endMs": 75506
+        }
+      ],
+      "startMs": 71456,
+      "endMs": 75506
+    },
+    {
+      "sentences": [
+        {
+          "en": "Before and after This helps children practise the order of the days of the week.",
+          "zh": "在……之前和在……之后这个帮助孩子们练习这条理的这一天的这星期。",
+          "startMs": 75506,
+          "endMs": 86019
+        },
+        {
+          "en": "• Say the days of the week together.",
+          "zh": "• 说这一天的这星期一起。",
+          "startMs": 86019,
+          "endMs": 90750
+        },
+        {
+          "en": "What comes after Wednesday?\" or \"Which day comes before Tuesday?\"",
+          "zh": "什么来在……之后星期三？ 或者哪个一天来在……之前星期二？",
+          "startMs": 90750,
+          "endMs": 99292
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 99292,
+          "endMs": 106782
+        },
+        {
+          "en": "• Look at the characters in favourite storybooks and decide which ones would be good to dress up as.",
+          "zh": "• 看在这性格在……里最喜欢的故事书和决定哪个在……上会是好的到连衣裙向上像。",
+          "startMs": 106782,
+          "endMs": 119924
+        },
+        {
+          "en": "• Notice that both 'book' and 'week' end in 'k'.",
+          "zh": "• 布告那个两个都 '书' 和 '星期' 末尾在……里 '一千'。",
+          "startMs": 119924,
+          "endMs": 126232
+        },
+        {
+          "en": "Think of words that rhyme with 'book' and 'week', e.",
+          "zh": "想的单词那个押韵和……一起 '书' 和 '星期'， 呃。",
+          "startMs": 126232,
+          "endMs": 133065
+        },
+        {
+          "en": "'look', 'cook', 'took; \"leek', 'seek', 'beak\".",
+          "zh": "'看'， '做饭'， '拿； 韭葱'， '寻找'， '喙。",
+          "startMs": 133065,
+          "endMs": 139110
+        }
+      ],
+      "startMs": 75506,
+      "endMs": 139110
+    },
+    {
+      "sentences": [],
+      "startMs": 139110,
+      "endMs": 139777,
+      "illustrationOnly": true
+    }
+  ]
+}

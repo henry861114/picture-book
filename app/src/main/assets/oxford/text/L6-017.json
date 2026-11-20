@@ -1,0 +1,699 @@
+{
+  "id": "L6-017",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.5074,
+        0.4637
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Po Everyone was excited.",
+          "zh": "大家都兴奋不已。",
+          "startMs": 29,
+          "endMs": 2100
+        },
+        {
+          "en": "It was half-term.",
+          "zh": "比赛的日子到了。",
+          "startMs": 2130,
+          "endMs": 3960
+        },
+        {
+          "en": "\"For homework,\" Said Mrs. May.",
+          "zh": "老师说道。",
+          "startMs": 3990,
+          "endMs": 7990
+        },
+        {
+          "en": "Like you to keep an autumn diary.\" \"Oh no!\" Said Biff.",
+          "zh": "“哎呀，不好了。” Biff 说道。",
+          "startMs": 8020,
+          "endMs": 15160
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.5074,
+        0.0,
+        1.0,
+        0.4637
+      ],
+      "startMs": 1,
+      "endMs": 15510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Homework!\" Chip phoned Gran.",
+          "zh": "太棒了！ Chip 有一个新游戏。",
+          "startMs": 16000,
+          "endMs": 27100
+        },
+        {
+          "en": "\"We can't stay with you all week,\" He said.",
+          "zh": "我们不能， 说这女孩。",
+          "startMs": 33860,
+          "endMs": 37480
+        },
+        {
+          "en": "\"We've got to keep a nature diary.",
+          "zh": "我们已经有一个巨人了！",
+          "startMs": 37860,
+          "endMs": 39320
+        },
+        {
+          "en": "It's homework.\" \"Don't worry,\" Gran replied.",
+          "zh": "它是不夏天。 “别担心，” Gran 笑了。",
+          "startMs": 39900,
+          "endMs": 46080
+        },
+        {
+          "en": "\"We can get the homework done and have some fun.\"",
+          "zh": "",
+          "startMs": 46110,
+          "endMs": 49560
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4637,
+        1.0,
+        1.0
+      ],
+      "startMs": 15850,
+      "endMs": 49910
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, Dad took Biff and Chip to Gran's.",
+          "zh": "这下一个一天， 爸爸拿 Biff 和 Chip 到 Gran。",
+          "startMs": 55860,
+          "endMs": 60220
+        },
+        {
+          "en": "They picked up Nadim on the way.",
+          "zh": "他们挑选向上 Nadim 在……上这它将是乐趣在 Gran， 说 Biff。",
+          "startMs": 64180,
+          "endMs": 66280
+        },
+        {
+          "en": "He was going too.",
+          "zh": "钥匙在发光。",
+          "startMs": 67190,
+          "endMs": 68960
+        },
+        {
+          "en": "\"It will be fun at Gran's,\" Said Biff.",
+          "zh": "它将是乐趣。 Biff 说道。",
+          "startMs": 68990,
+          "endMs": 72960
+        },
+        {
+          "en": "\"I know,\" Said Nadim.",
+          "zh": "“我知道，” Nadim 说道。",
+          "startMs": 72990,
+          "endMs": 74760
+        },
+        {
+          "en": "\"But when will we get time to write our nature diary?\"",
+          "zh": "他是去也。 我们得到时间到写我们的本质记事簿？",
+          "startMs": 74860,
+          "endMs": 79000
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4496
+      ],
+      "startMs": 55710,
+      "endMs": 79350
+    },
+    {
+      "sentences": [
+        {
+          "en": "They got to Gran's, but she didn't come to the door.",
+          "zh": "他们得到到 Gran， 但是她没有那里是许多的东西在……里这花园。",
+          "startMs": 86200,
+          "endMs": 89240
+        },
+        {
+          "en": "\"How odd!\" Said Dad.",
+          "zh": "“怎么做？” 爸爸说道。",
+          "startMs": 89240,
+          "endMs": 91370
+        },
+        {
+          "en": "\"She knows we are coming.",
+          "zh": "一条鲨鱼游过来了！",
+          "startMs": 92330,
+          "endMs": 94230
+        },
+        {
+          "en": "Let's look in the garden.\"",
+          "zh": "让我们看在……里这花园。 放日光浴椅出？",
+          "startMs": 94260,
+          "endMs": 95560
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4496,
+        0.489,
+        1.0
+      ],
+      "startMs": 86050,
+      "endMs": 95910
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were lots of things in the garden.",
+          "zh": "他们得到到 Gran， 但是她没有那里是许多的东西在……里这花园。",
+          "startMs": 95860,
+          "endMs": 99340
+        },
+        {
+          "en": "\"How odd!\" Said Biff.",
+          "zh": "“怎么做？” Biff 说道。",
+          "startMs": 99860,
+          "endMs": 104800
+        },
+        {
+          "en": "\"Why has Gran put sunbeds out?",
+          "zh": "让我们看在……里这花园。 放日光浴椅出？",
+          "startMs": 104830,
+          "endMs": 106100
+        },
+        {
+          "en": "It's not summer.\"",
+          "zh": "它是不夏天。",
+          "startMs": 106130,
+          "endMs": 107960
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.489,
+        0.4496,
+        1.0,
+        1.0
+      ],
+      "startMs": 95910,
+      "endMs": 108310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, Gran opened the door of the shed.",
+          "zh": "突然地， Gran 打开这门的他们全部喘气。 这她。",
+          "startMs": 112430,
+          "endMs": 116120
+        },
+        {
+          "en": "\"Surprise,\" She said.",
+          "zh": "Nadim 有一个意想不到的事物。",
+          "startMs": 116820,
+          "endMs": 120910
+        },
+        {
+          "en": "The children looked inside.",
+          "zh": "这孩子们看在……周围。",
+          "startMs": 120940,
+          "endMs": 122960
+        },
+        {
+          "en": "They all gasped.",
+          "zh": "他们大喊大叫。",
+          "startMs": 123630,
+          "endMs": 125420
+        },
+        {
+          "en": "\"I've made a nature laboratory,\" said \"Surprise!\"",
+          "zh": "我已经做一个本质实验室， 说意想不到的事物！ 她说。",
+          "startMs": 125450,
+          "endMs": 129400
+        },
+        {
+          "en": "\"We can do the nature project in here.",
+          "zh": "我们能做这本质项目这孩子们看里面。 在……里这里。",
+          "startMs": 130910,
+          "endMs": 134960
+        },
+        {
+          "en": "It will be fun.\"",
+          "zh": "它将是乐趣。",
+          "startMs": 135220,
+          "endMs": 136960
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4728
+      ],
+      "startMs": 112280,
+      "endMs": 137310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took the children into the woods.",
+          "zh": "Gran 拿这孩子们进入这木头。",
+          "startMs": 143240,
+          "endMs": 146180
+        },
+        {
+          "en": "\"Let's start with the trees,\" she said.",
+          "zh": "让我们开始和……一起这树， 她说。",
+          "startMs": 146210,
+          "endMs": 150100
+        },
+        {
+          "en": "Then They collected lots of different leaves.",
+          "zh": "然后他们收成全集的许多的不同的叶子。 按摩这蜡笔在……上方它， 她说。",
+          "startMs": 150130,
+          "endMs": 153100
+        },
+        {
+          "en": "Gran gave Nadim paper and crayons.",
+          "zh": "Gran 给 Nadim 纸和蜡笔。",
+          "startMs": 153130,
+          "endMs": 158100
+        },
+        {
+          "en": "\"Put the paper against the tree, then rub the crayon over it,\" She said.",
+          "zh": "放这纸紧靠着这树。 她说。",
+          "startMs": 158130,
+          "endMs": 165160
+        },
+        {
+          "en": "\"It's called a bark rubbing.\"",
+          "zh": "它是叫一个吠叫摩擦。",
+          "startMs": 168080,
+          "endMs": 170920
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4728,
+        1.0,
+        1.0
+      ],
+      "startMs": 143090,
+      "endMs": 171270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Back in the laboratory, they looked at the bark rubbings.",
+          "zh": "他们 stuck 这叶子在……里他们的记事簿。 在这吠叫摩擦。",
+          "startMs": 173940,
+          "endMs": 177960
+        },
+        {
+          "en": "\"Each type of tree has a different bark,\" \"Breakfast!\" said Gran.",
+          "zh": "每个类型的树有一个不同的我们会植物这些在……里锅， 她说。 吠叫， 说 Nadim。",
+          "startMs": 178860,
+          "endMs": 182260
+        },
+        {
+          "en": "Bark,\" said Nadim.",
+          "zh": "Nadim 说道。",
+          "startMs": 182260,
+          "endMs": 183480
+        },
+        {
+          "en": "They stuck the leaves in their diaries.",
+          "zh": "他们 stuck 这叶子在……里他们的记事簿。 在这吠叫摩擦。",
+          "startMs": 185080,
+          "endMs": 187920
+        },
+        {
+          "en": "Gran had seeds from the trees.",
+          "zh": "Gran 有籽从这树。",
+          "startMs": 187960,
+          "endMs": 190040
+        },
+        {
+          "en": "\"We'll plant these in pots,\" She said.",
+          "zh": "我们可不想被郡长抓到。” 她说。",
+          "startMs": 190860,
+          "endMs": 194760
+        },
+        {
+          "en": "\"One day they will grow into trees.\"",
+          "zh": "一一天他们将生长进入树。",
+          "startMs": 194850,
+          "endMs": 198950
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4728
+      ],
+      "startMs": 173790,
+      "endMs": 199300
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next morning, Gran got up early.",
+          "zh": "她混杂的籽和疯狂的和……一起融化这下一个早晨 Gran 得到向上提早的。",
+          "startMs": 203960,
+          "endMs": 207720
+        },
+        {
+          "en": "She mixed seeds and nuts with melted fat and poured it into little pots.",
+          "zh": "早饭！ 说 Gran。 脂肪和倒出它进入小的锅。",
+          "startMs": 207860,
+          "endMs": 213640
+        },
+        {
+          "en": "\"What is that smell?\" Asked Chip.",
+          "zh": "什么是那个气味？ 问 Chip。 Chip 问道。",
+          "startMs": 216890,
+          "endMs": 221200
+        },
+        {
+          "en": "\"Breakfast!\" Said Gran.",
+          "zh": "妈妈驾驶快的。 Gran 说道。",
+          "startMs": 221230,
+          "endMs": 224100
+        },
+        {
+          "en": "\"I don't want to eat that!\" Said Biff.",
+          "zh": "我不想要到吃那个！ 说 Biff。",
+          "startMs": 224610,
+          "endMs": 228960
+        },
+        {
+          "en": "\"It's not for you!\" Said Gran.",
+          "zh": "它是不为了你！ 说 Gran。",
+          "startMs": 228990,
+          "endMs": 232200
+        },
+        {
+          "en": "\"It's for the birds!\"",
+          "zh": "它是为了这鸟！",
+          "startMs": 232230,
+          "endMs": 233960
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4728,
+        1.0,
+        1.0
+      ],
+      "startMs": 203810,
+      "endMs": 234310
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the fat had set in the pots, Gran hung them in the garden.",
+          "zh": "Gran 各党势均力敌的他们在……里这花园。",
+          "startMs": 240060,
+          "endMs": 244460
+        },
+        {
+          "en": "\"We can watch the birds,\" She said.",
+          "zh": "我们不能， 说这女孩。",
+          "startMs": 245010,
+          "endMs": 248150
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        0.5074,
+        0.4644
+      ],
+      "startMs": 239910,
+      "endMs": 248500
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the afternoon, Gran took them to a special place in the woods. Said Gran.",
+          "zh": "当……时这脂肪有设置在……里这锅， 在……里这下午， Gran 拿他们我们能手表这鸟， 她说。 到一个特别的地方在……里这木头。 Gran 说道。",
+          "startMs": 253950,
+          "endMs": 260150
+        },
+        {
+          "en": "\"Now for a secret,\" said Gran.",
+          "zh": "现在为了一个秘密， 说 Gran。",
+          "startMs": 260180,
+          "endMs": 261490
+        },
+        {
+          "en": "\"Look!\"",
+          "zh": "“看！",
+          "startMs": 263310,
+          "endMs": 264960
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.5074,
+        0.0,
+        1.0,
+        0.4644
+      ],
+      "startMs": 253800,
+      "endMs": 265310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked around.",
+          "zh": "这孩子们看在……周围。",
+          "startMs": 268120,
+          "endMs": 269960
+        },
+        {
+          "en": "There were colored mushrooms everywhere.",
+          "zh": "那里是衣服到处。",
+          "startMs": 269990,
+          "endMs": 272960
+        },
+        {
+          "en": "\"It's amazing!\"",
+          "zh": "“这是魔法！”",
+          "startMs": 272990,
+          "endMs": 274960
+        },
+        {
+          "en": "\"Its amazing!\" gasped Nadim.",
+          "zh": "它的使人十分惊奇的！ 喘气 Nadim。 斑点在……里这淤泥。",
+          "startMs": 275110,
+          "endMs": 277100
+        },
+        {
+          "en": "\"Look, but don't touch,\" said Gran.",
+          "zh": "看， 但是不触碰， 说 Gran。 Gran 说道。",
+          "startMs": 277130,
+          "endMs": 282100
+        },
+        {
+          "en": "On the way home, Chip found some marks in the mud.",
+          "zh": "那里在……上这方式家 Chip 找到一些是颜色蘑菇到处。",
+          "startMs": 282130,
+          "endMs": 285740
+        },
+        {
+          "en": "\"Are they animal tracks?\" He asked.",
+          "zh": "是他们动物足迹？ 他问。",
+          "startMs": 287860,
+          "endMs": 292700
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4644,
+        1.0,
+        1.0
+      ],
+      "startMs": 267970,
+      "endMs": 293050
+    },
+    {
+      "sentences": [
+        {
+          "en": "She mixed it with water and made a paste.",
+          "zh": "它将她混杂的它和……一起水和做一个干的在……里这形状的这动物足迹。",
+          "startMs": 303180,
+          "endMs": 306440
+        },
+        {
+          "en": "Then she poured the paste onto the animal track. Said Gran.",
+          "zh": "然后她倒出这面团在……上到叫一个选派。 这动物足迹。 实验室。 Gran 说道。",
+          "startMs": 306860,
+          "endMs": 315380
+        },
+        {
+          "en": "\"It will dry in the shape of the animal track.",
+          "zh": "它将她混杂的它和……一起水和做一个干的在……里这形状的这动物足迹。",
+          "startMs": 316860,
+          "endMs": 320500
+        },
+        {
+          "en": "Gran got some powder out of her bag.",
+          "zh": "Gran 得到一些粉末出的她包。",
+          "startMs": 320530,
+          "endMs": 323570
+        },
+        {
+          "en": "\"This is plaster,\" said Gran.",
+          "zh": "这个是灰泥， 说 Gran。",
+          "startMs": 323570,
+          "endMs": 323770
+        },
+        {
+          "en": "It's called a cast.\"",
+          "zh": "“它叫梁龙。”",
+          "startMs": 323770,
+          "endMs": 323970
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4617
+      ],
+      "startMs": 303030,
+      "endMs": 324320
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the cast back to the laboratory.",
+          "zh": "所以他们全部跑回来到这汽车。",
+          "startMs": 325860,
+          "endMs": 329040
+        },
+        {
+          "en": "Biff looked up the animal track in a book.",
+          "zh": "Biff 看在……里这盒子。",
+          "startMs": 329070,
+          "endMs": 331360
+        },
+        {
+          "en": "\"It's from a badger,\" She said.",
+          "zh": "它梅是一个雄鹅。 她说。",
+          "startMs": 331860,
+          "endMs": 336200
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4617,
+        0.4903,
+        1.0
+      ],
+      "startMs": 325710,
+      "endMs": 336550
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Tonight, I have another surprise,\" Said Gran.",
+          "zh": "Nadim 有一个意想不到的事物。 Gran 说道。",
+          "startMs": 336230,
+          "endMs": 341120
+        },
+        {
+          "en": "\"We need to wrap up warm and we'll need the sunbeds.\" \"Sunbeds?\" Asked Biff.",
+          "zh": "我们必须到包向上温暖的和它是从一个獾， 她说。 我们会必须这日光浴椅。 问 Biff。 Biff 问道。",
+          "startMs": 341150,
+          "endMs": 353760
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.4903,
+        0.4617,
+        1.0,
+        1.0
+      ],
+      "startMs": 336550,
+      "endMs": 354110
+    },
+    {
+      "sentences": [
+        {
+          "en": "They lay on the sunbeds and looked up.",
+          "zh": "他们在沙坑里玩耍。",
+          "startMs": 353790,
+          "endMs": 355770
+        },
+        {
+          "en": "The sky was full of shooting stars.",
+          "zh": "它是满的的闪闪发亮的东西。",
+          "startMs": 357320,
+          "endMs": 362100
+        },
+        {
+          "en": "\"This is amazing!\" Said Chip.",
+          "zh": "“这太有意思了！” Chip 说道。",
+          "startMs": 362130,
+          "endMs": 365120
+        },
+        {
+          "en": "\"And it's your homework!\"",
+          "zh": "它是不夏天。",
+          "startMs": 365860,
+          "endMs": 368990
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5849,
+        1.0
+      ],
+      "startMs": 354110,
+      "endMs": 369340
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5849,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 369340,
+      "endMs": 369341
+    }
+  ]
+}

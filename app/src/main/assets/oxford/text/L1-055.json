@@ -1,0 +1,171 @@
+{
+  "id": "L1-055",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum made a dress.",
+          "zh": "妈妈做一个连衣裙。",
+          "startMs": 0,
+          "endMs": 4360
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad made some jam.",
+          "zh": "爸爸做一些拥挤。",
+          "startMs": 14120,
+          "endMs": 16220
+        }
+      ],
+      "startMs": 13970,
+      "endMs": 16570
+    },
+    {
+      "sentences": [],
+      "startMs": 3070,
+      "endMs": 3870,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip made a scarf.",
+          "zh": "Chip 做一个头巾。",
+          "startMs": 730,
+          "endMs": 2580
+        }
+      ],
+      "startMs": 580,
+      "endMs": 2930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff made a lorry.",
+          "zh": "Biff 做一个卡车。",
+          "startMs": 730,
+          "endMs": 2580
+        }
+      ],
+      "startMs": 580,
+      "endMs": 2930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper made a birthday card.",
+          "zh": "Kipper 做一个生日卡片。",
+          "startMs": 730,
+          "endMs": 2580
+        }
+      ],
+      "startMs": 580,
+      "endMs": 2930
+    },
+    {
+      "sentences": [],
+      "startMs": 8294,
+      "endMs": 9094,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone made a mess.",
+          "zh": "每个人做一个脏乱。",
+          "startMs": 730,
+          "endMs": 2580
+        }
+      ],
+      "startMs": 580,
+      "endMs": 2930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who made it?",
+          "zh": "谁做它？",
+          "startMs": 10180,
+          "endMs": 11222
+        },
+        {
+          "en": "This game helps the child remember what happened in the story.",
+          "zh": "这个游戏帮助这孩子记得什么发生在……里这故事。",
+          "startMs": 11222,
+          "endMs": 16604
+        },
+        {
+          "en": "• Choose one of the things the family made and ask who made it, e.",
+          "zh": "• 选择一的这东西这家庭做和问谁做它， 呃。",
+          "startMs": 16604,
+          "endMs": 22334
+        },
+        {
+          "en": "\"Who made jam?\"",
+          "zh": "谁做拥挤？",
+          "startMs": 22334,
+          "endMs": 23636
+        },
+        {
+          "en": "The child answers without looking in the book, and then checks in the book.",
+          "zh": "这孩子回答没有看在……里这书， 和然后查明在……里这书。",
+          "startMs": 23636,
+          "endMs": 30147
+        },
+        {
+          "en": "Then the child asks you who made one of the things.",
+          "zh": "然后这孩子问你谁做一的这东西。",
+          "startMs": 30147,
+          "endMs": 34575
+        },
+        {
+          "en": "Have a few turns each.",
+          "zh": "有一个很少转动每个。",
+          "startMs": 34575,
+          "endMs": 36485
+        },
+        {
+          "en": "You can use this idea straight away, or on another day.",
+          "zh": "你能使用这个主意直的离开， 或者在……上另一个一天。",
+          "startMs": 36485,
+          "endMs": 41259
+        },
+        {
+          "en": "• Find 'made' every time it appears in the book.",
+          "zh": "• 找到 '做' 每个时间它出现在……里这书。",
+          "startMs": 41259,
+          "endMs": 45426
+        },
+        {
+          "en": "Practise spelling 'made'",
+          "zh": "练习拼写 '做'",
+          "startMs": 45426,
+          "endMs": 47510
+        }
+      ],
+      "startMs": 10180,
+      "endMs": 47510
+    },
+    {
+      "sentences": [],
+      "startMs": 47510,
+      "endMs": 47904,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "L1-014",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh, Floppy!",
+          "zh": "哦， Floppy！",
+          "startMs": 0,
+          "endMs": 1100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1450
+    },
+    {
+      "sentences": [
+        {
+          "en": "No, Floppy!",
+          "zh": "不， Floppy！",
+          "startMs": 11000,
+          "endMs": 13100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 13450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh Floppy.",
+          "zh": "哦 Floppy。",
+          "startMs": 0,
+          "endMs": 1100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh Floppy.",
+          "zh": "哦 Floppy。",
+          "startMs": 5000,
+          "endMs": 7100
+        },
+        {
+          "en": "No Floppy.",
+          "zh": "不 Floppy。",
+          "startMs": 11000,
+          "endMs": 13100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 13450
+    },
+    {
+      "sentences": [],
+      "startMs": 26420,
+      "endMs": 27220,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh Floppy.",
+          "zh": "哦 Floppy。",
+          "startMs": 19000,
+          "endMs": 21100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 21450
+    },
+    {
+      "sentences": [],
+      "startMs": 32242,
+      "endMs": 33042,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "No Floppy.",
+          "zh": "不 Floppy。",
+          "startMs": 29350,
+          "endMs": 31100
+        },
+        {
+          "en": "Floppy Floppy.",
+          "zh": "FloppyFloppy。",
+          "startMs": 37000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 29200,
+      "endMs": 39450
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "L2-034",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad went shopping.",
+          "zh": "妈妈和爸爸去商店。",
+          "startMs": 0,
+          "endMs": 9010
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted a book.",
+          "zh": "爸爸想要一个书。",
+          "startMs": 9010,
+          "endMs": 15709
+        }
+      ],
+      "startMs": 9010,
+      "endMs": 15709
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went up.",
+          "zh": "他去向上。",
+          "startMs": 15709,
+          "endMs": 21014
+        },
+        {
+          "en": "ONS outfits Sale",
+          "zh": "在……上 outfits 出售",
+          "startMs": 21014,
+          "endMs": 28730
+        }
+      ],
+      "startMs": 15709,
+      "endMs": 28730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted a paintbrush.",
+          "zh": "妈妈想要一个画笔。",
+          "startMs": 28730,
+          "endMs": 35114
+        },
+        {
+          "en": "Coats",
+          "zh": "外套",
+          "startMs": 35114,
+          "endMs": 36444
+        }
+      ],
+      "startMs": 28730,
+      "endMs": 36444
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went down.",
+          "zh": "她去向下。",
+          "startMs": 35540,
+          "endMs": 36640
+        }
+      ],
+      "startMs": 35390,
+      "endMs": 36990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went up.",
+          "zh": "妈妈去向上。",
+          "startMs": 32960,
+          "endMs": 34640
+        }
+      ],
+      "startMs": 32810,
+      "endMs": 34990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went down.",
+          "zh": "爸爸去向下。",
+          "startMs": 59540,
+          "endMs": 64640
+        }
+      ],
+      "startMs": 59390,
+      "endMs": 64990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum couldn't see Dad.",
+          "zh": "妈妈不能看见爸爸。",
+          "startMs": 65290,
+          "endMs": 69640
+        }
+      ],
+      "startMs": 65140,
+      "endMs": 69990
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went up.",
+          "zh": "她去向上。",
+          "startMs": 69540,
+          "endMs": 75640
+        }
+      ],
+      "startMs": 69390,
+      "endMs": 75990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went down.",
+          "zh": "妈妈去向下。",
+          "startMs": 49840,
+          "endMs": 50640
+        }
+      ],
+      "startMs": 49690,
+      "endMs": 50990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went up.",
+          "zh": "爸爸去向上。",
+          "startMs": 79540,
+          "endMs": 83640
+        }
+      ],
+      "startMs": 79390,
+      "endMs": 83990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went down.",
+          "zh": "爸爸去向下。",
+          "startMs": 59540,
+          "endMs": 64640
+        }
+      ],
+      "startMs": 59390,
+      "endMs": 64990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went up.",
+          "zh": "妈妈去向上。",
+          "startMs": 71350,
+          "endMs": 75640
+        }
+      ],
+      "startMs": 71200,
+      "endMs": 75990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum came down.",
+          "zh": "妈妈来向下。",
+          "startMs": 96180,
+          "endMs": 98640
+        }
+      ],
+      "startMs": 96030,
+      "endMs": 98990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop!\" she said.",
+          "zh": "停！ 她说。",
+          "startMs": 86134,
+          "endMs": 92505
+        },
+        {
+          "en": "HIONS Outfit: soys Hosiery",
+          "zh": "HIONS Outfit： soys Hosiery",
+          "startMs": 92505,
+          "endMs": 102250
+        }
+      ],
+      "startMs": 86134,
+      "endMs": 102250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Up and down!\" said Dad.",
+          "zh": "向上和向下！ 说爸爸。",
+          "startMs": 105540,
+          "endMs": 112640
+        }
+      ],
+      "startMs": 105390,
+      "endMs": 112990
+    },
+    {
+      "sentences": [],
+      "startMs": 107700,
+      "endMs": 110443,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Dad.",
+          "zh": "说爸爸。",
+          "startMs": 107540,
+          "endMs": 112640
+        }
+      ],
+      "startMs": 107390,
+      "endMs": 112990
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "L3-026",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "SPEEDWAY NO ENTRI RIDERS ONLY Joe went to speedway.",
+          "zh": "摩托车赛不 ENTRI 骑手只有 Jo 去到摩托车赛。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe liked speedway.",
+          "zh": "Jo 喜欢摩托车赛。",
+          "startMs": 6000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "His dad was a speedway rider.",
+          "zh": "他的爸爸是一个摩托车赛骑。",
+          "startMs": 11000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe's dad was in a race.",
+          "zh": "Jo 爸爸是在……里一个速度竞赛。",
+          "startMs": 18000,
+          "endMs": 23100
+        }
+      ],
+      "startMs": 17850,
+      "endMs": 23450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was in front.",
+          "zh": "他是在……里前面。",
+          "startMs": 23020,
+          "endMs": 26100
+        },
+        {
+          "en": "\"Come on!\" shouted Joe.",
+          "zh": "来在……上！ 喊 Jo。",
+          "startMs": 26000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 22870,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe's dad fell off.",
+          "zh": "Jo 爸爸落下离开。",
+          "startMs": 33000,
+          "endMs": 36100
+        },
+        {
+          "en": "\"Oh no!\" said Joe.",
+          "zh": "哦不！ 说 Jo。",
+          "startMs": 36000,
+          "endMs": 44100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 44450
+    },
+    {
+      "sentences": [],
+      "startMs": 42590,
+      "endMs": 43390,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe's dad pushed his bike.",
+          "zh": "Jo 爸爸推他的自行车。",
+          "startMs": 44000,
+          "endMs": 48100
+        }
+      ],
+      "startMs": 43850,
+      "endMs": 48450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a rider!\" said Joe.",
+          "zh": "什么一个骑！ 说 Jo。",
+          "startMs": 48020,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 47870,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Joe's birthday.",
+          "zh": "它是 Jo 生日。",
+          "startMs": 56000,
+          "endMs": 59100
+        },
+        {
+          "en": "His dad gave him a bike.",
+          "zh": "他的爸爸给他一个自行车。",
+          "startMs": 59000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 55850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe liked the bike.",
+          "zh": "Jo 喜欢这自行车。",
+          "startMs": 62000,
+          "endMs": 68100
+        }
+      ],
+      "startMs": 61850,
+      "endMs": 68450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe was in a race.",
+          "zh": "Jo 是在……里一个速度竞赛。",
+          "startMs": 68000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 67850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was in front.",
+          "zh": "他是在……里前面。",
+          "startMs": 71000,
+          "endMs": 74100
+        },
+        {
+          "en": "\"Come on!\" shouted Dad.",
+          "zh": "来在……上！ 喊爸爸。",
+          "startMs": 74020,
+          "endMs": 82100
+        }
+      ],
+      "startMs": 70850,
+      "endMs": 82450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe fell off.",
+          "zh": "Jo 落下离开。",
+          "startMs": 82000,
+          "endMs": 85100
+        }
+      ],
+      "startMs": 81850,
+      "endMs": 85450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Dad.",
+          "zh": "哦不！ 说爸爸。",
+          "startMs": 85000,
+          "endMs": 93100
+        }
+      ],
+      "startMs": 84850,
+      "endMs": 93450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a rider!\" said Dad.",
+          "zh": "什么一个骑！ 说爸爸。",
+          "startMs": 87590,
+          "endMs": 93090
+        },
+        {
+          "en": "Printed in China by Imago",
+          "zh": "印刷的在……里瓷由 Imago",
+          "startMs": 93090,
+          "endMs": 98590
+        }
+      ],
+      "startMs": 87590,
+      "endMs": 98590
+    },
+    {
+      "sentences": [],
+      "startMs": 98590,
+      "endMs": 99786,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 99786,
+      "endMs": 100085,
+      "illustrationOnly": true
+    }
+  ]
+}

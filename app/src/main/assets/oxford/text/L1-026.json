@@ -1,0 +1,111 @@
+{
+  "id": "L1-026",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me, Mum.",
+          "zh": "看在我， 妈妈。",
+          "startMs": 0,
+          "endMs": 2340
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me, Mum.",
+          "zh": "看在我， 妈妈。",
+          "startMs": 0,
+          "endMs": 2340
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me on my bike.",
+          "zh": "看在我在……上我的自行车。",
+          "startMs": 10080,
+          "endMs": 15100
+        }
+      ],
+      "startMs": 9930,
+      "endMs": 15450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me, Mum.",
+          "zh": "看在我， 妈妈。",
+          "startMs": 9000,
+          "endMs": 9180
+        }
+      ],
+      "startMs": 8850,
+      "endMs": 9530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me on my bike.",
+          "zh": "看在我在……上我的自行车。",
+          "startMs": 22390,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 22240,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me, Mum.",
+          "zh": "看在我， 妈妈。",
+          "startMs": 30000,
+          "endMs": 32460
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 32810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh, no!",
+          "zh": "哦， 不！",
+          "startMs": 44850,
+          "endMs": 47754
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 47754
+    },
+    {
+      "sentences": [
+        {
+          "en": "Look at me!",
+          "zh": "看在我！",
+          "startMs": 35000,
+          "endMs": 35710
+        }
+      ],
+      "startMs": 34850,
+      "endMs": 36060
+    }
+  ]
+}

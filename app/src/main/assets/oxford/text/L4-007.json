@@ -1,0 +1,333 @@
+{
+  "id": "L4-007",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "This house was for sale.",
+          "zh": "这个房子是为了出售。",
+          "startMs": 0,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad liked the house.",
+          "zh": "爸爸喜欢这房子。",
+          "startMs": 8000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 7850,
+      "endMs": 12450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum liked it too.",
+          "zh": "妈妈喜欢它也。",
+          "startMs": 12930,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 12780,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked at the house.",
+          "zh": "Biff 和 Chip 看在这房子。",
+          "startMs": 17000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked it.",
+          "zh": "每个人喜欢它。",
+          "startMs": 24000,
+          "endMs": 27100
+        },
+        {
+          "en": "Kipper pulled the wallpaper.",
+          "zh": "Kipper 拉这墙纸。",
+          "startMs": 27030,
+          "endMs": 30800
+        }
+      ],
+      "startMs": 23850,
+      "endMs": 31150
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went into a room.",
+          "zh": "他们去进入一个房间。",
+          "startMs": 15310,
+          "endMs": 17594
+        },
+        {
+          "en": "Everyone liked this room.",
+          "zh": "每个人喜欢这个房间。",
+          "startMs": 17594,
+          "endMs": 20190
+        }
+      ],
+      "startMs": 15310,
+      "endMs": 20190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked up the chimney.",
+          "zh": "Kipper 看向上这烟囱。",
+          "startMs": 27030,
+          "endMs": 31520
+        }
+      ],
+      "startMs": 26880,
+      "endMs": 31870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted this bedroom.",
+          "zh": "Biff 想要这个卧室。",
+          "startMs": 23265,
+          "endMs": 25978
+        },
+        {
+          "en": "It was a big room.",
+          "zh": "它是一个大的房间。",
+          "startMs": 25978,
+          "endMs": 27931
+        }
+      ],
+      "startMs": 23265,
+      "endMs": 27931
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper jumped on the bed.",
+          "zh": "Kipper 跳在……上这床。",
+          "startMs": 27030,
+          "endMs": 31520
+        }
+      ],
+      "startMs": 26880,
+      "endMs": 31870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted this bedroom.",
+          "zh": "Chip 想要这个卧室。",
+          "startMs": 30583,
+          "endMs": 33296
+        },
+        {
+          "en": "It was a big room.",
+          "zh": "它是一个大的房间。",
+          "startMs": 33296,
+          "endMs": 35249
+        }
+      ],
+      "startMs": 30583,
+      "endMs": 35249
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper sat on a chair.",
+          "zh": "Kipper 坐在……上一个椅子。",
+          "startMs": 27030,
+          "endMs": 37050
+        }
+      ],
+      "startMs": 26880,
+      "endMs": 37400
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went down the garden.",
+          "zh": "他们去向下这花园。",
+          "startMs": 35000,
+          "endMs": 47740
+        }
+      ],
+      "startMs": 34850,
+      "endMs": 48090
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the tree house.",
+          "zh": "他们看在这树房子。",
+          "startMs": 42070,
+          "endMs": 44349
+        },
+        {
+          "en": "Kipper climbed the tree.",
+          "zh": "Kipper 爬这树。",
+          "startMs": 44349,
+          "endMs": 46172
+        }
+      ],
+      "startMs": 42070,
+      "endMs": 46172
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip climbed the tree.",
+          "zh": "Biff 和 Chip 爬这树。",
+          "startMs": 46172,
+          "endMs": 49515
+        },
+        {
+          "en": "They went in the tree house.",
+          "zh": "他们去在……里这树房子。",
+          "startMs": 49515,
+          "endMs": 52535
+        }
+      ],
+      "startMs": 46172,
+      "endMs": 52535
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper pulled a can down.",
+          "zh": "Kipper 拉一个能向下。",
+          "startMs": 42000,
+          "endMs": 57340
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 57690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked the house.",
+          "zh": "每个人喜欢这房子。",
+          "startMs": 55187,
+          "endMs": 57897
+        },
+        {
+          "en": "Floppy liked it too.",
+          "zh": "Floppy 喜欢它也。",
+          "startMs": 57897,
+          "endMs": 60065
+        }
+      ],
+      "startMs": 55187,
+      "endMs": 60065
+    },
+    {
+      "sentences": [
+        {
+          "en": "What happened next?",
+          "zh": "什么发生下一个？",
+          "startMs": 60065,
+          "endMs": 62103
+        },
+        {
+          "en": "To help the child to remember the order that things happen in stories.",
+          "zh": "到帮助这孩子到记得这条理那个东西发生在……里故事。",
+          "startMs": 62103,
+          "endMs": 69611
+        },
+        {
+          "en": "• Open the book at any double page.",
+          "zh": "• 打开这书在任何供两者用的页。",
+          "startMs": 69611,
+          "endMs": 73365
+        },
+        {
+          "en": "What happened next?\"",
+          "zh": "什么发生下一个？",
+          "startMs": 73365,
+          "endMs": 75511
+        },
+        {
+          "en": "The child tries to remember what is on the next page.",
+          "zh": "这孩子尝试到记得什么是在……上这下一个页。",
+          "startMs": 75511,
+          "endMs": 81195
+        },
+        {
+          "en": "Look at the book and check if he/she is right.",
+          "zh": "看在这书和查明如果他/她是正确的。",
+          "startMs": 81195,
+          "endMs": 86129
+        },
+        {
+          "en": "• Then the child chooses a page and asks you, \"What happened next?\"",
+          "zh": "• 然后这孩子选择一个页和问你， 什么发生下一个？",
+          "startMs": 86129,
+          "endMs": 93316
+        },
+        {
+          "en": "• Have two or three turns each.",
+          "zh": "• 有二或者三转动每个。",
+          "startMs": 93316,
+          "endMs": 96641
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 96641,
+          "endMs": 102755
+        },
+        {
+          "en": "• Find these words in the story that end in '-ed': 'liked\", 'looked', 'pulled\", 'wanted\", 'jumped\", 'climbed'.",
+          "zh": "• 找到这些单词在……里这故事那个末尾在……里 '-勃起功能障碍'： '喜欢， '看'， '拉， '想要， '跳， '爬'。",
+          "startMs": 102755,
+          "endMs": 114553
+        },
+        {
+          "en": "The child could try spelling as many of the words as he/she can.",
+          "zh": "这孩子能尝试拼写像许多的这单词像他/她能。",
+          "startMs": 114553,
+          "endMs": 121418
+        },
+        {
+          "en": "Find words beginning with 'w' in the story, asking the child to make a list.",
+          "zh": "找到单词开始和……一起 'w' 在……里这故事， 问这孩子到做一个名单。",
+          "startMs": 121418,
+          "endMs": 129570
+        }
+      ],
+      "startMs": 60065,
+      "endMs": 129570
+    },
+    {
+      "sentences": [],
+      "startMs": 129570,
+      "endMs": 130058,
+      "illustrationOnly": true
+    }
+  ]
+}

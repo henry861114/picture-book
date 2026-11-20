@@ -1,0 +1,502 @@
+{
+  "id": "L5-011",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Stage 5 - The Great Race.",
+          "zh": "确实有。",
+          "startMs": 0,
+          "endMs": 1530
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1880
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1880,
+      "endMs": 1881
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran wanted a new car Biff and Chip were sad They liked Gran's old car.",
+          "zh": "",
+          "startMs": 8890,
+          "endMs": 19030
+        },
+        {
+          "en": "Gran liked this car Biff was worried The car was too fast for Gran Gran bought the fast car.",
+          "zh": "",
+          "startMs": 21290,
+          "endMs": 33390
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 8740,
+      "endMs": 33740
+    },
+    {
+      "sentences": [],
+      "pdfPage": 3,
+      "startMs": 33740,
+      "endMs": 33741
+    },
+    {
+      "sentences": [
+        {
+          "en": "She drove it home.",
+          "zh": "她开着车回家了。",
+          "startMs": 36290,
+          "endMs": 38390
+        },
+        {
+          "en": "\"Oh no!\" Said Dad.",
+          "zh": "哎呀。 爸爸说道。",
+          "startMs": 41930,
+          "endMs": 45390
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 36140,
+      "endMs": 45740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was cross with Gran \"That car is too fast!\"",
+          "zh": "妈妈对 Gran 很生气。",
+          "startMs": 49290,
+          "endMs": 55390
+        },
+        {
+          "en": "She said Gran was upset.",
+          "zh": "Gran 很沮丧。",
+          "startMs": 55610,
+          "endMs": 59350
+        },
+        {
+          "en": "The magic key glowed The magic took Biff and Chip It took Gran too.",
+          "zh": "魔法带走了 Biff 和 Chip。",
+          "startMs": 65290,
+          "endMs": 73590
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 49140,
+      "endMs": 73940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Stage 6 - The Great Race.",
+          "zh": "确实有。",
+          "startMs": 83000,
+          "endMs": 85530
+        },
+        {
+          "en": "The magic took them to a race \"Come on!\"",
+          "zh": "魔法把他们带到了一场比赛上。",
+          "startMs": 88430,
+          "endMs": 93400
+        },
+        {
+          "en": "Said Gran \"This is my new car!\"",
+          "zh": "“这是我的新车。”",
+          "startMs": 93430,
+          "endMs": 97530
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 82850,
+      "endMs": 97880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh Gran!\"",
+          "zh": "“哎呀，格兰德。”",
+          "startMs": 97530,
+          "endMs": 99840
+        },
+        {
+          "en": "Said Biff \"What would Mum say?\"",
+          "zh": "“妈妈会怎么说？”",
+          "startMs": 99840,
+          "endMs": 103530
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 97880,
+      "endMs": 103880
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Never mind Mum,\" said Gran.",
+          "zh": "“别担心，妈妈！” Gran 说道。",
+          "startMs": 103530,
+          "endMs": 107530
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 103880,
+      "endMs": 107880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Stage 7 - The Great Race.",
+          "zh": "确实有。",
+          "startMs": 112000,
+          "endMs": 114530
+        },
+        {
+          "en": "Gran found a map They all looked at it.",
+          "zh": "他们都看了看它。",
+          "startMs": 116680,
+          "endMs": 120430
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 111850,
+      "endMs": 120780
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man looked at Gran He was a bad man He was called The Baron.",
+          "zh": "他被称为男爵。",
+          "startMs": 122290,
+          "endMs": 132390
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 122140,
+      "endMs": 132740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Stage 8 - The Great Race.",
+          "zh": "确实有。",
+          "startMs": 135430,
+          "endMs": 138530
+        },
+        {
+          "en": "The children looked at The Baron The Baron looked at the children \"Ha!\"",
+          "zh": "孩子们喜欢 Gran，Gran 也喜欢孩子们。",
+          "startMs": 142430,
+          "endMs": 149260
+        },
+        {
+          "en": "Said The Baron \"You won't win!\"",
+          "zh": "“哈！”男爵说道。",
+          "startMs": 151300,
+          "endMs": 153760
+        },
+        {
+          "en": "A man changed the signpost.",
+          "zh": "不，ALM。一个男人换了路标。",
+          "startMs": 161290,
+          "endMs": 165750
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 135280,
+      "endMs": 166100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ha ha!\"",
+          "zh": "“啊！",
+          "startMs": 168460,
+          "endMs": 169920
+        },
+        {
+          "en": "Said the man \"Now The Baron will win!\"",
+          "zh": "“现在男爵会赢了。”",
+          "startMs": 169950,
+          "endMs": 176200
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 168310,
+      "endMs": 176550
+    },
+    {
+      "sentences": [
+        {
+          "en": "The map blew away.",
+          "zh": "地图被风吹走了。",
+          "startMs": 180290,
+          "endMs": 183390
+        },
+        {
+          "en": "\"Oh!",
+          "zh": "“哇！",
+          "startMs": 186430,
+          "endMs": 186530
+        },
+        {
+          "en": "\"Which way?\"",
+          "zh": "大喊道：“走哪条路？”",
+          "startMs": 186530,
+          "endMs": 188400
+        },
+        {
+          "en": "Asked Gran Chip didn't know They didn't see the signpost Gran turned left \"Grr!\"",
+          "zh": "爷爷问。Chip 不知道。他们没有看到路标。爷爷向左拐。那个人说。他们来到了山区。“慢点！”",
+          "startMs": 189070,
+          "endMs": 199260
+        },
+        {
+          "en": "Ha!\" said the man.",
+          "zh": "“哈！”那个人说道。",
+          "startMs": 200740,
+          "endMs": 202530
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 180140,
+      "endMs": 202880
+    },
+    {
+      "sentences": [
+        {
+          "en": "They came to the mountains \"Slow down!\" Shouted Biff \"No!",
+          "zh": "他们来到了山里。 Biff 喊道：“不！",
+          "startMs": 208290,
+          "endMs": 215390
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 208140,
+      "endMs": 215740
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is fun,\" said Gran.",
+          "zh": "这很有趣，”Gran 说。 Gran 说道。",
+          "startMs": 216300,
+          "endMs": 219530
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 216150,
+      "endMs": 219880
+    },
+    {
+      "sentences": [
+        {
+          "en": "MaToR OIL The Baron put oil on the road.",
+          "zh": "男爵在路上洒了油。",
+          "startMs": 223580,
+          "endMs": 227530
+        },
+        {
+          "en": "\"That will do it,\" he said.",
+          "zh": "“这样就够了，”他说。",
+          "startMs": 230290,
+          "endMs": 233730
+        },
+        {
+          "en": "He said \"That will stop them!\"",
+          "zh": "“这就能让他们停下来。”",
+          "startMs": 233760,
+          "endMs": 235920
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 223430,
+      "endMs": 236270
+    },
+    {
+      "sentences": [],
+      "pdfPage": 17,
+      "startMs": 236270,
+      "endMs": 236271
+    },
+    {
+      "sentences": [
+        {
+          "en": "The car skidded on the oil It crashed through the fence and went down the mountain.",
+          "zh": "它撞破了栅栏，冲下山去。",
+          "startMs": 244290,
+          "endMs": 252390
+        },
+        {
+          "en": "\"Hold on!\"",
+          "zh": "“坚持住，Chip！”",
+          "startMs": 256430,
+          "endMs": 257110
+        },
+        {
+          "en": "Shouted Gran \"Oh no!\"",
+          "zh": "爷爷喊道：“哎呀，不好！”",
+          "startMs": 257110,
+          "endMs": 262390
+        },
+        {
+          "en": "Shouted Biff \"Oh help!\"",
+          "zh": "Biff 喊道：“哎呀，救命！”",
+          "startMs": 262390,
+          "endMs": 266510
+        },
+        {
+          "en": "\"Oh help!\" shouted Chip.",
+          "zh": "“哎呀，救命啊！”Chip 喊道。",
+          "startMs": 266510,
+          "endMs": 268530
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 244140,
+      "endMs": 268880
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Baron was behind Gran was in front She was winning the race Biff looked behind \"Come on Gran!\"",
+          "zh": "Chip 喊道。男爵在格兰德后面，不在前面。格兰德正在赢得比赛。Biff 向后看：“加油，格兰德！”",
+          "startMs": 273430,
+          "endMs": 286530
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 273280,
+      "endMs": 286880
+    },
+    {
+      "sentences": [
+        {
+          "en": "She shouted.",
+          "zh": "Noah 喊道。",
+          "startMs": 286560,
+          "endMs": 288390
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 286880,
+      "endMs": 288740
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Which way?\"",
+          "zh": "大喊道：“走哪条路？”",
+          "startMs": 295430,
+          "endMs": 296100
+        },
+        {
+          "en": "Called Gran Chip didn't know.",
+          "zh": "Chip 不知道。",
+          "startMs": 298020,
+          "endMs": 301020
+        },
+        {
+          "en": "Gran turned onto a bridge The bridge was dangerous \"Not this way!\"",
+          "zh": "Gran 喊道。Chip 不知道。Gran 拐上了桥。这座桥很危险。“别走这条路！”",
+          "startMs": 304290,
+          "endMs": 312390
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 295280,
+      "endMs": 312740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Called Chip.",
+          "zh": "Chip 喊道。",
+          "startMs": 312690,
+          "endMs": 314770
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 312740,
+      "endMs": 315120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bridge broke.",
+          "zh": "桥塌了。",
+          "startMs": 324290,
+          "endMs": 326390
+        },
+        {
+          "en": "The Baron's car crashed down into the river.",
+          "zh": "男爵的车坠入了河里。",
+          "startMs": 331290,
+          "endMs": 335150
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 324140,
+      "endMs": 335500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran won the race.",
+          "zh": "Gran 赢得了比赛。",
+          "startMs": 338430,
+          "endMs": 341530
+        },
+        {
+          "en": "\"Hooray!\"",
+          "zh": "“太棒了！”",
+          "startMs": 342430,
+          "endMs": 343510
+        },
+        {
+          "en": "Called Biff and Chip.",
+          "zh": "Biff 和 Chip 说道。",
+          "startMs": 343510,
+          "endMs": 346530
+        },
+        {
+          "en": "The magic key glowed.",
+          "zh": "魔法钥匙发出了光。",
+          "startMs": 351290,
+          "endMs": 356390
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 338280,
+      "endMs": 356740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took the fast car back She bought a little car \"This one will do!\" She said.",
+          "zh": "Biff 和 Chip 喊道。魔法钥匙发出了光。Gran 把快车开回去了。她买了一辆小车。“这辆车就行！” 她说。",
+          "startMs": 368290,
+          "endMs": 378790
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 368140,
+      "endMs": 379140
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 379140,
+      "endMs": 379141
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 379141,
+      "endMs": 379142
+    }
+  ]
+}

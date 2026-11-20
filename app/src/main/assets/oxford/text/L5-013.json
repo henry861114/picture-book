@@ -1,0 +1,623 @@
+{
+  "id": "L5-013",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Joe had some good news.",
+          "zh": "Jo 有好消息要宣布。",
+          "startMs": 3860,
+          "endMs": 7460
+        },
+        {
+          "en": "She was expecting a baby.",
+          "zh": "她快要生宝宝了。",
+          "startMs": 7790,
+          "endMs": 9960
+        },
+        {
+          "en": "\"What good news!\" Said everyone.",
+          "zh": "“什么好消息？” 大家都这么说。",
+          "startMs": 9990,
+          "endMs": 11440
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 11790
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum found the old buggy.",
+          "zh": "Wilma 的妈妈找到了那辆旧婴儿车。",
+          "startMs": 11500,
+          "endMs": 14030
+        },
+        {
+          "en": "Oh look said Wilma's dad.",
+          "zh": "“哦，你看！”Wilma 的爸爸说道。",
+          "startMs": 17930,
+          "endMs": 21670
+        },
+        {
+          "en": "\"Wilf had it when he was a baby.",
+          "zh": "“Wilf 小时候就有了这辆婴儿车。",
+          "startMs": 21670,
+          "endMs": 21870
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 11790,
+      "endMs": 22220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The buggy looked a bit scruffy.",
+          "zh": "婴儿车看起来有点破旧。",
+          "startMs": 21870,
+          "endMs": 22910
+        },
+        {
+          "en": "A wheel had come off.",
+          "zh": "一个轮子掉了下来。",
+          "startMs": 22910,
+          "endMs": 24600
+        },
+        {
+          "en": "We can do it up. Said Wilma's Mum.",
+          "zh": "“我们可以把它修一修！” Wilma 的妈妈说道。",
+          "startMs": 29650,
+          "endMs": 33750
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 22220,
+      "endMs": 34100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma told Biff and Chip.",
+          "zh": "Wilma 告诉了 Biff 和 Chip。",
+          "startMs": 36360,
+          "endMs": 39240
+        },
+        {
+          "en": "Joe was expecting a baby.",
+          "zh": "Jones 快要生孩子了。",
+          "startMs": 39270,
+          "endMs": 41200
+        },
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 41230,
+          "endMs": 43140
+        },
+        {
+          "en": "\"What good news!\" Said Chip.",
+          "zh": "“什么好消息？” Chip 说道。",
+          "startMs": 43170,
+          "endMs": 45600
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 36210,
+      "endMs": 45950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went home.",
+          "zh": "Biff 和 Chip 回家了。",
+          "startMs": 46360,
+          "endMs": 49020
+        },
+        {
+          "en": "Joe was expecting a baby. Said Chip.",
+          "zh": "Jones 快要生孩子了。 Chip 说道。",
+          "startMs": 49050,
+          "endMs": 51760
+        },
+        {
+          "en": "\"What good news!\" Said Wilma.",
+          "zh": "“什么好消息？” Wilma 说道。",
+          "startMs": 52690,
+          "endMs": 55790
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 46210,
+      "endMs": 56140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad found the old cot.",
+          "zh": "爸爸找到了那张旧婴儿床。",
+          "startMs": 55790,
+          "endMs": 55990
+        },
+        {
+          "en": "\"Oh look!\" Said Mum.",
+          "zh": "“哎呀，你看！” 妈妈说道。",
+          "startMs": 55990,
+          "endMs": 59020
+        },
+        {
+          "en": "\"Kipper had it when he was a baby.\"",
+          "zh": "Kipper 小时候就养过这只猫。",
+          "startMs": 62920,
+          "endMs": 66600
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 56140,
+      "endMs": 66950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cot looked a bit scruffy.",
+          "zh": "这张婴儿床看起来有点破旧。",
+          "startMs": 66600,
+          "endMs": 66800
+        },
+        {
+          "en": "It needed a new mattress.",
+          "zh": "它需要一张新床垫。",
+          "startMs": 70590,
+          "endMs": 71910
+        },
+        {
+          "en": "\"We can do it up,\" said Dad.",
+          "zh": "“我们可以把它修好，”爸爸说。 爸爸说道。",
+          "startMs": 71940,
+          "endMs": 75600
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 66950,
+      "endMs": 75950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip told Kipper.",
+          "zh": "Biff 和 Chip 告诉了 Kipper。",
+          "startMs": 78400,
+          "endMs": 81970
+        },
+        {
+          "en": "Joe is expecting a baby.",
+          "zh": "“Jo 要当爸爸了！”",
+          "startMs": 82640,
+          "endMs": 86600
+        },
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 86630,
+          "endMs": 87880
+        },
+        {
+          "en": "\"That's brilliant!\" Said Kipper.",
+          "zh": "“太棒了！” Kipper 说道。",
+          "startMs": 87880,
+          "endMs": 88080
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 78250,
+      "endMs": 88430
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper found an old toy rabbit.",
+          "zh": "Kipper 找到了一只旧的玩具兔子。",
+          "startMs": 91500,
+          "endMs": 94480
+        },
+        {
+          "en": "It looked a bit scruffy.",
+          "zh": "它看起来有点脏兮兮的。",
+          "startMs": 94510,
+          "endMs": 96560
+        },
+        {
+          "en": "\"Can we do it up?\" He asked.",
+          "zh": "“我们可以把它修好吗？” 他问。",
+          "startMs": 96560,
+          "endMs": 98420
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 91350,
+      "endMs": 98770
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was in Miss Green's class.",
+          "zh": "Kipper 在 Miss Green 的班上。",
+          "startMs": 101390,
+          "endMs": 104390
+        },
+        {
+          "en": "He told Miss Green about Jo's baby.",
+          "zh": "他把 Jo 的宝宝的事告诉了 Miss Green。",
+          "startMs": 104420,
+          "endMs": 105870
+        },
+        {
+          "en": "\"How exciting!\" Said Miss Green.",
+          "zh": "“太棒了！” Miss Green 说道。",
+          "startMs": 105870,
+          "endMs": 108600
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 101240,
+      "endMs": 108950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked puzzled.",
+          "zh": "Kipper 一脸困惑。",
+          "startMs": 108630,
+          "endMs": 110020
+        },
+        {
+          "en": "When will Joe's baby come?",
+          "zh": "“Jo 的宝宝什么时候出生？”",
+          "startMs": 113240,
+          "endMs": 114740
+        },
+        {
+          "en": "He asked.",
+          "zh": "他问。",
+          "startMs": 114770,
+          "endMs": 115600
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 108950,
+      "endMs": 115950
+    },
+    {
+      "sentences": [
+        {
+          "en": "All obeut me Miss Green told the children about babies.",
+          "zh": "Green 老师给孩子们讲了关于婴儿的知识。",
+          "startMs": 118800,
+          "endMs": 123910
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 118650,
+      "endMs": 124260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Moms and dads came to school.",
+          "zh": "爸爸妈妈们来到学校。",
+          "startMs": 123940,
+          "endMs": 127010
+        },
+        {
+          "en": "They told the children about babies too.",
+          "zh": "他们也向孩子们介绍了婴儿。",
+          "startMs": 127610,
+          "endMs": 130600
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 124260,
+      "endMs": 130950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper played with the baby.",
+          "zh": "Kipper 和宝宝玩耍。",
+          "startMs": 133360,
+          "endMs": 136060
+        },
+        {
+          "en": "He gave it a rattle.",
+          "zh": "他给了宝宝一个拨浪鼓。",
+          "startMs": 136550,
+          "endMs": 139370
+        },
+        {
+          "en": "The baby made a funny noise.",
+          "zh": "宝宝发出好玩的声音。",
+          "startMs": 139690,
+          "endMs": 142460
+        },
+        {
+          "en": "The children made a book.",
+          "zh": "孩子们做了一本书。",
+          "startMs": 144650,
+          "endMs": 147150
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 133210,
+      "endMs": 147500
+    },
+    {
+      "sentences": [
+        {
+          "en": "The book was about babies.",
+          "zh": "这本书是关于宝宝的。",
+          "startMs": 147500,
+          "endMs": 149380
+        },
+        {
+          "en": "Kipper gave Joe the book.",
+          "zh": "Kipper 把书给了 Jo。",
+          "startMs": 157500,
+          "endMs": 158260
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 147500,
+      "endMs": 158610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip gave Jo the cot.",
+          "zh": "Biff 和 Chip 把婴儿床给了 Jo。",
+          "startMs": 158290,
+          "endMs": 161000
+        },
+        {
+          "en": "Joe was pleased.",
+          "zh": "Jo 很高兴。",
+          "startMs": 161000,
+          "endMs": 161200
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 158610,
+      "endMs": 161550
+    },
+    {
+      "sentences": [
+        {
+          "en": "May Wilf wanted the baby to be a girl.",
+          "zh": "Wilf 希望宝宝是个女孩。",
+          "startMs": 161890,
+          "endMs": 165410
+        },
+        {
+          "en": "Wilma wanted it to be a boy.",
+          "zh": "Wilma 希望是个男孩，所以 Wilf 做了一张大图表。",
+          "startMs": 165990,
+          "endMs": 167980
+        },
+        {
+          "en": "So Wilf made a big chart. Said Joe.",
+          "zh": "Wilma 希望是个男孩，所以 Wilf 做了一张大图表。 Jo 说道。",
+          "startMs": 168010,
+          "endMs": 173440
+        },
+        {
+          "en": "How exciting. Said Wilf.",
+          "zh": "“太棒了！” Wilf 说道。",
+          "startMs": 179280,
+          "endMs": 181940
+        },
+        {
+          "en": "Wilma called her mum.",
+          "zh": "Wilma 给妈妈打了电话。",
+          "startMs": 181970,
+          "endMs": 183720
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 161740,
+      "endMs": 184070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The baby is coming,\" said Jo.",
+          "zh": "“宝宝要出生了，”Jo 说。",
+          "startMs": 183750,
+          "endMs": 186130
+        },
+        {
+          "en": "\"It's time to go.\"",
+          "zh": "“该走了！”",
+          "startMs": 186130,
+          "endMs": 186330
+        },
+        {
+          "en": "Joe's baby is coming.",
+          "zh": "“Jo 的宝宝要出生了！”",
+          "startMs": 186330,
+          "endMs": 186750
+        },
+        {
+          "en": "She called.",
+          "zh": "她喊道。",
+          "startMs": 186780,
+          "endMs": 187840
+        },
+        {
+          "en": "How exciting.",
+          "zh": "“太棒了！”",
+          "startMs": 188610,
+          "endMs": 190760
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 184070,
+      "endMs": 191110
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How exciting!\" said Wilma's mum.",
+          "zh": "“太棒了！”Wilma 的妈妈说道。",
+          "startMs": 190760,
+          "endMs": 192600
+        },
+        {
+          "en": "Joe went to the hospital.",
+          "zh": "Jo 去了医院。",
+          "startMs": 195520,
+          "endMs": 196740
+        },
+        {
+          "en": "Good luck.",
+          "zh": "“祝你好运！”",
+          "startMs": 199470,
+          "endMs": 201570
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 191110,
+      "endMs": 201920
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went in the car.",
+          "zh": "她坐车去的。",
+          "startMs": 201600,
+          "endMs": 203650
+        },
+        {
+          "en": "\"Good luck,\" called Wilma's mum.",
+          "zh": "“祝你好运，”Wilma 的妈妈喊道。",
+          "startMs": 203650,
+          "endMs": 204600
+        },
+        {
+          "en": "Joe was in hospital. Said Joe.",
+          "zh": "Jo 在医院里。 Jo 说道。",
+          "startMs": 209800,
+          "endMs": 218600
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 201920,
+      "endMs": 218950
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had a baby girl.",
+          "zh": "她生了一个女宝宝。",
+          "startMs": 218600,
+          "endMs": 218800
+        },
+        {
+          "en": "\"She is called Vicky,\" said Jo.",
+          "zh": "“她叫 Vicky，”Jo 说。",
+          "startMs": 218800,
+          "endMs": 219000
+        },
+        {
+          "en": "Joe brought Vicky home.",
+          "zh": "Joe 把 Vicky 带回了家。",
+          "startMs": 221560,
+          "endMs": 223460
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 218950,
+      "endMs": 223810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to see the new baby.",
+          "zh": "大家都想看看新出生的宝宝。",
+          "startMs": 223490,
+          "endMs": 226540
+        },
+        {
+          "en": "Joe looked at Kipper.",
+          "zh": "Jo 看着 Kipper。",
+          "startMs": 227520,
+          "endMs": 229620
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 223810,
+      "endMs": 229970
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You know about babies,\" she said.",
+          "zh": "“你懂婴儿，”她说。",
+          "startMs": 230750,
+          "endMs": 234850
+        },
+        {
+          "en": "\"Do you want to help?\"",
+          "zh": "“你想帮忙吗？”",
+          "startMs": 234850,
+          "endMs": 235050
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 230600,
+      "endMs": 235400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked at Vicky.",
+          "zh": "Kipper 看了看 Vicky。",
+          "startMs": 240360,
+          "endMs": 242460
+        },
+        {
+          "en": "\"No, thank you,\" said Kipper.",
+          "zh": "“不用了，谢谢，”Kipper 说。 Kipper 说道。",
+          "startMs": 243500,
+          "endMs": 249600
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 240210,
+      "endMs": 249950
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 249950,
+      "endMs": 249951
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 249951,
+      "endMs": 249952
+    }
+  ]
+}

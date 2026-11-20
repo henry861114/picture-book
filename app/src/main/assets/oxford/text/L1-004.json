@@ -1,0 +1,115 @@
+{
+  "id": "L1-004",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "hair salon PE RESTORER PATR i hair",
+          "zh": "头发美发厅 PE 修复者 PATR 我头发",
+          "startMs": 0,
+          "endMs": 23320
+        }
+      ],
+      "startMs": 0,
+      "endMs": 23670
+    },
+    {
+      "sentences": [
+        {
+          "en": "After the shampooing was finished, the hairdressers trimmed their hair.",
+          "zh": "在……之后这洗发剂是结束了的， 这 hairdressers trimmed 他们的头发。",
+          "startMs": 31900,
+          "endMs": 37000
+        }
+      ],
+      "startMs": 31750,
+      "endMs": 37350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nip, snip.",
+          "zh": "Nip， snip。",
+          "startMs": 36900,
+          "endMs": 39000
+        },
+        {
+          "en": "I like my hair.",
+          "zh": "我喜欢我的头发。",
+          "startMs": 38900,
+          "endMs": 41000
+        }
+      ],
+      "startMs": 36750,
+      "endMs": 41350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad and Kipper were really pleased with their haircuts.",
+          "zh": "爸爸和 Kipper 是真的请和……一起他们的理发。",
+          "startMs": 44900,
+          "endMs": 49000
+        }
+      ],
+      "startMs": 44750,
+      "endMs": 49350
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are back!",
+          "zh": "我们是回来！",
+          "startMs": 50230,
+          "endMs": 53760
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 53660,
+          "endMs": 55000
+        }
+      ],
+      "startMs": 50080,
+      "endMs": 55350
+    },
+    {
+      "sentences": [],
+      "startMs": 58211,
+      "endMs": 58808,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 58808,
+      "endMs": 59108,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 59308,
+      "endMs": 59108,
+      "illustrationOnly": true
+    }
+  ]
+}

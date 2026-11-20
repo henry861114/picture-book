@@ -1,0 +1,213 @@
+{
+  "id": "L2-010",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad went shopping.",
+          "zh": "妈妈和爸爸去商店。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [],
+      "startMs": 7625,
+      "endMs": 8425,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper bought a balloon.",
+          "zh": "Kipper 买一个气球。",
+          "startMs": 4000,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 3850,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the supermarket.",
+          "zh": "他们去到这超市。",
+          "startMs": 16990,
+          "endMs": 23175
+        },
+        {
+          "en": "CUSTOMER TAINTS Cheques Cashed here",
+          "zh": "顾客 TAINTS Cheques Cashed 这里",
+          "startMs": 23175,
+          "endMs": 30640
+        }
+      ],
+      "startMs": 16990,
+      "endMs": 30640
+    },
+    {
+      "sentences": [
+        {
+          "en": "The balloon went bang.",
+          "zh": "这气球去邦。",
+          "startMs": 15840,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 15690,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper bought a new balloon.",
+          "zh": "Kipper 买一个新的气球。",
+          "startMs": 30000,
+          "endMs": 30320
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 30670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went to the toilet.",
+          "zh": "爸爸去到这抽水马桶。",
+          "startMs": 42000,
+          "endMs": 60320
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 60670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad saw a balloon.",
+          "zh": "爸爸看见一个气球。",
+          "startMs": 42000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Kipper's balloon!\" he said.",
+          "zh": "Kipper 气球！ 他说。",
+          "startMs": 47210,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 47060,
+      "endMs": 51450
+    },
+    {
+      "sentences": [],
+      "startMs": 66240,
+      "endMs": 68889,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad ran after it.",
+          "zh": "爸爸跑在……之后它。",
+          "startMs": 56000,
+          "endMs": 58100
+        }
+      ],
+      "startMs": 55850,
+      "endMs": 58450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The balloon flew away.",
+          "zh": "这气球飞离开。",
+          "startMs": 60000,
+          "endMs": 66100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 66450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad chased it.",
+          "zh": "爸爸追赶它。",
+          "startMs": 66000,
+          "endMs": 72100
+        }
+      ],
+      "startMs": 65850,
+      "endMs": 72450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The balloon was on a statue.",
+          "zh": "这气球是在……上一个雕像。",
+          "startMs": 80000,
+          "endMs": 86100
+        }
+      ],
+      "startMs": 79850,
+      "endMs": 86450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got it down.",
+          "zh": "爸爸得到它向下。",
+          "startMs": 87210,
+          "endMs": 94100
+        }
+      ],
+      "startMs": 87060,
+      "endMs": 94450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Dad.",
+          "zh": "哦不！ 说爸爸。",
+          "startMs": 95000,
+          "endMs": 100100
+        }
+      ],
+      "startMs": 94850,
+      "endMs": 100450
+    },
+    {
+      "sentences": [],
+      "startMs": 102439,
+      "endMs": 102939,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 102939,
+      "endMs": 103022,
+      "illustrationOnly": true
+    }
+  ]
+}

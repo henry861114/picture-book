@@ -1,0 +1,1093 @@
+{
+  "id": "L7-012",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was raining.",
+          "zh": "它是雨。",
+          "startMs": 3860,
+          "endMs": 6520
+        },
+        {
+          "en": "The children were fed up.",
+          "zh": "这孩子们是 fed 向上。",
+          "startMs": 6550,
+          "endMs": 8500
+        },
+        {
+          "en": "Biff and Anneena were bored, and Chip was in a bad mood.",
+          "zh": "Biff 和 Anneena 是厌倦的， 和 Chip 是在……里一个坏的心情。",
+          "startMs": 9830,
+          "endMs": 39930
+        },
+        {
+          "en": "He wanted to play with the frisbee.",
+          "zh": "他想要到玩和……一起这飞盘。",
+          "startMs": 39960,
+          "endMs": 42670
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 43020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had an idea.",
+          "zh": "妈妈有一个主意。",
+          "startMs": 42670,
+          "endMs": 42870
+        },
+        {
+          "en": "She had a new jigsaw puzzle.",
+          "zh": "她有一个新的拼图谜。",
+          "startMs": 42870,
+          "endMs": 43070
+        },
+        {
+          "en": "She gave it to the children.",
+          "zh": "她给它到这孩子们。",
+          "startMs": 43070,
+          "endMs": 43270
+        },
+        {
+          "en": "\"You can do this jigsaw,\" she said.",
+          "zh": "你能做这个拼图， 她说。",
+          "startMs": 43270,
+          "endMs": 43670
+        },
+        {
+          "en": "\"It's a good one.\"",
+          "zh": "它是一个好的一。",
+          "startMs": 43670,
+          "endMs": 43870
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 43020,
+      "endMs": 44220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the jigsaw.",
+          "zh": "每个人看在这拼图。",
+          "startMs": 43870,
+          "endMs": 44070
+        },
+        {
+          "en": "It was a picture of soldiers and a boy.",
+          "zh": "它是一个图画的士兵和一个男孩。",
+          "startMs": 44070,
+          "endMs": 44270
+        },
+        {
+          "en": "\"The soldiers are asking the boy a question,\" said Mum.",
+          "zh": "这士兵是问这男孩一个问题， 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 44270,
+          "endMs": 44730
+        },
+        {
+          "en": "\"They want to know where his father is.\"",
+          "zh": "他们想要到知道哪里他的爸爸是。",
+          "startMs": 45840,
+          "endMs": 48270
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 44220,
+      "endMs": 48620
+    },
+    {
+      "sentences": [
+        {
+          "en": "The jigsaw puzzle had lots of pieces.",
+          "zh": "这拼图谜有许多的块。",
+          "startMs": 51970,
+          "endMs": 52670
+        },
+        {
+          "en": "The children liked the jigsaw, but it was hard to do.",
+          "zh": "这孩子们喜欢这拼图， 但是它是困难的到做。",
+          "startMs": 54610,
+          "endMs": 59530
+        },
+        {
+          "en": "Soon,.",
+          "zh": "去在……上！",
+          "startMs": 59970,
+          "endMs": 60090
+        },
+        {
+          "en": "Soon, Chip got bored with it.",
+          "zh": "很快， Chip 得到厌倦的和……一起它。",
+          "startMs": 60090,
+          "endMs": 61880
+        },
+        {
+          "en": "He began to play with the frisbee.",
+          "zh": "他开始到玩和……一起这飞盘。",
+          "startMs": 63030,
+          "endMs": 64960
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 51820,
+      "endMs": 65310
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the end, everyone got bored.",
+          "zh": "在……里这末尾， 每个人得到厌倦的。",
+          "startMs": 66460,
+          "endMs": 68340
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 68830,
+          "endMs": 73770
+        },
+        {
+          "en": "The magic took the children into a new adventure.",
+          "zh": "这魔法拿这孩子们进入一个新的冒险。",
+          "startMs": 73800,
+          "endMs": 78300
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 78330,
+          "endMs": 92680
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 66310,
+      "endMs": 93030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to a time long ago.",
+          "zh": "这魔法拿这孩子们到一个时间长的以前。",
+          "startMs": 92680,
+          "endMs": 95400
+        },
+        {
+          "en": "It took them to a big house.",
+          "zh": "它拿他们到一个大的房子。",
+          "startMs": 95430,
+          "endMs": 97420
+        },
+        {
+          "en": "Some children were playing with their mother and father.",
+          "zh": "一些孩子们是玩和……一起他们的妈妈和爸爸。",
+          "startMs": 104910,
+          "endMs": 108560
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 93030,
+      "endMs": 108910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked at the children.",
+          "zh": "Kipper 看在这孩子们。",
+          "startMs": 108640,
+          "endMs": 111130
+        },
+        {
+          "en": "\"What funny clothes they're wearing,\" he said.",
+          "zh": "什么有趣的衣服他们是穿， 他说。",
+          "startMs": 111970,
+          "endMs": 114960
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 108910,
+      "endMs": 115310
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 114960,
+          "endMs": 116060
+        },
+        {
+          "en": "\"They look like the children in the picture on the jigsaw,\" said Anneena.",
+          "zh": "他们看喜欢这孩子们在……里这图画在……上这拼图， 说 Anneena。 我， 说 Anneena。",
+          "startMs": 116090,
+          "endMs": 122070
+        },
+        {
+          "en": "Kipper spoke to the girl and boy.",
+          "zh": "Kipper 说到这女孩和男孩。",
+          "startMs": 125860,
+          "endMs": 130460
+        },
+        {
+          "en": "\"Hello,\" He said.",
+          "zh": "帮助！ 啊唷！ 她说。",
+          "startMs": 130490,
+          "endMs": 130540
+        },
+        {
+          "en": "\"My name's Kipper.",
+          "zh": "我的名字 Kipper。",
+          "startMs": 130570,
+          "endMs": 132240
+        },
+        {
+          "en": "This is Biff, Chip and Anneena.\"",
+          "zh": "这个是 Biff， Chip 和 Anneena。",
+          "startMs": 132270,
+          "endMs": 135100
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 115310,
+      "endMs": 135450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What funny names!\" Said the girl.",
+          "zh": "什么有趣的名字！ 说这女孩。 我的名字是 Jane， 说这女孩。",
+          "startMs": 135970,
+          "endMs": 138270
+        },
+        {
+          "en": "\"And what funny clothes you're wearing.\"",
+          "zh": "和什么有趣的衣服你是穿。",
+          "startMs": 138720,
+          "endMs": 141730
+        },
+        {
+          "en": "\"What are your names?\" Asked Chip.",
+          "zh": "什么是你的名字？ 问 Chip。 什么是它？ 问 Chip。",
+          "startMs": 142860,
+          "endMs": 145480
+        },
+        {
+          "en": "\"My name is Jane,\" said the girl.",
+          "zh": "我的名字是 Jane， 说这女孩。",
+          "startMs": 146350,
+          "endMs": 148080
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 135820,
+      "endMs": 148430
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said the girl.",
+          "zh": "我的名字是 Jane， 说这女孩。",
+          "startMs": 148110,
+          "endMs": 149500
+        },
+        {
+          "en": "\"My name is Edmund,\" Said the boy.",
+          "zh": "我的名字是红色的， 说红色的。 帮助！ 说 Ty。",
+          "startMs": 149500,
+          "endMs": 152700
+        },
+        {
+          "en": "\"And my father is very important.\"",
+          "zh": "我的名字是 Edmund， 说这男孩， 和我的爸爸是非常重要的。",
+          "startMs": 152700,
+          "endMs": 156070
+        },
+        {
+          "en": "\"We don't mind,\" said Kipper.",
+          "zh": "我们不头脑， 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 156070,
+          "endMs": 157070
+        },
+        {
+          "en": "Edmund had never seen a frisbee before.",
+          "zh": "Edmund 有从不看见一个飞盘在……之前。",
+          "startMs": 160930,
+          "endMs": 164330
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 148430,
+      "endMs": 164680
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Why have you got a plate?\" He asked.",
+          "zh": "为什么有你得到一个盘子？ 他问。 爸爸问。",
+          "startMs": 164360,
+          "endMs": 167010
+        },
+        {
+          "en": "\"It's not a plate,\" said Kipper.",
+          "zh": "它是不一个盘子， 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 167040,
+          "endMs": 171070
+        },
+        {
+          "en": "\"It's a frisbee.\"",
+          "zh": "它是一个飞盘。",
+          "startMs": 171100,
+          "endMs": 172130
+        },
+        {
+          "en": "Everyone played with it.",
+          "zh": "每个人玩和……一起它。",
+          "startMs": 173260,
+          "endMs": 175360
+        },
+        {
+          "en": "Suddenly, there was a shout.",
+          "zh": "突然地， 那里是一个喊。",
+          "startMs": 175390,
+          "endMs": 182290
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 164680,
+      "endMs": 182640
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man ran towards Edmund's father.",
+          "zh": "一个男人跑向 Edmund's 爸爸。",
+          "startMs": 182320,
+          "endMs": 185930
+        },
+        {
+          "en": "\"Quickly, you must hide!\" He said.",
+          "zh": "快速地， 你必须把！ 他说。 啊唷！",
+          "startMs": 188970,
+          "endMs": 190240
+        },
+        {
+          "en": "\"Get inside the house.",
+          "zh": "得到里面这房子。",
+          "startMs": 210140,
+          "endMs": 212900
+        },
+        {
+          "en": "The soldiers are coming!\"",
+          "zh": "这士兵是来！",
+          "startMs": 212930,
+          "endMs": 214650
+        },
+        {
+          "en": "Edmund's father ran inside.",
+          "zh": "Edmund's 爸爸跑里面。",
+          "startMs": 214650,
+          "endMs": 214850
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 182640,
+      "endMs": 215200
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Quickly,\" \"Quickly!\" shouted Edmund.",
+          "zh": "快速地！ 喊 Edmund。",
+          "startMs": 214850,
+          "endMs": 215050
+        },
+        {
+          "en": "\"We must help my father to hide.",
+          "zh": "我们必须帮助我的爸爸到把。",
+          "startMs": 215050,
+          "endMs": 215250
+        },
+        {
+          "en": "The soldiers mustn't find him.\"",
+          "zh": "这士兵不可以找到他。",
+          "startMs": 215250,
+          "endMs": 215450
+        },
+        {
+          "en": "Everyone ran into the house.",
+          "zh": "每个人跑进入这房子。",
+          "startMs": 215450,
+          "endMs": 215650
+        },
+        {
+          "en": "The soldiers came to the house.",
+          "zh": "这士兵来到这房子。",
+          "startMs": 215650,
+          "endMs": 217110
+        },
+        {
+          "en": "They knocked on the door.",
+          "zh": "他们碰撞在……上这门。",
+          "startMs": 217140,
+          "endMs": 222270
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 215200,
+      "endMs": 222620
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let us in!\" They shouted.",
+          "zh": "让我们去！ 帮助我们！ 他们喊。",
+          "startMs": 224000,
+          "endMs": 226580
+        },
+        {
+          "en": "\"Open the door, or we'll smash it down.\"",
+          "zh": "打开这门， 或者我们会击碎它向下。",
+          "startMs": 226610,
+          "endMs": 229440
+        },
+        {
+          "en": "Everyone ran to the library.",
+          "zh": "每个人跑到这图书馆。",
+          "startMs": 232970,
+          "endMs": 234460
+        },
+        {
+          "en": "The library had a secret room.",
+          "zh": "这图书馆有一个秘密房间。",
+          "startMs": 236450,
+          "endMs": 240400
+        },
+        {
+          "en": "The room was behind a bookcase.",
+          "zh": "这房间是在……后面一个书架。",
+          "startMs": 240430,
+          "endMs": 241930
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 223850,
+      "endMs": 242280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Edmund's father hid in the secret room.",
+          "zh": "Edmund's 爸爸 hid 在……里这秘密房间。",
+          "startMs": 241960,
+          "endMs": 245130
+        },
+        {
+          "en": "\"Good luck, Father,\" said Edmund.",
+          "zh": "好的运气， 爸爸， 说 Edmund。 » 说 Nadim。",
+          "startMs": 246000,
+          "endMs": 249750
+        },
+        {
+          "en": "Edmund's mother pushed the bookcase back.",
+          "zh": "Edmund's 妈妈推这书架回来。",
+          "startMs": 249780,
+          "endMs": 251610
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 242280,
+      "endMs": 251960
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't tell the soldiers about the secret room,\" said Jane.",
+          "zh": "不告诉这士兵关于这秘密房间， 说 Jane。 我， 说 Anneena。",
+          "startMs": 253970,
+          "endMs": 259070
+        },
+        {
+          "en": "\"They will kill my father if they find him.\"",
+          "zh": "他们将杀死我的爸爸如果他们找到他。",
+          "startMs": 259100,
+          "endMs": 262290
+        },
+        {
+          "en": "The soldiers ran into the house.",
+          "zh": "这士兵跑进入这房子。",
+          "startMs": 267010,
+          "endMs": 270110
+        },
+        {
+          "en": "They looked for Edmund's father.",
+          "zh": "他们看为了 Edmund's 爸爸。",
+          "startMs": 270380,
+          "endMs": 274010
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 253820,
+      "endMs": 274360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Tell us where he is!\" They shouted.",
+          "zh": "告诉我们哪里他是。 帮助我们！ 他们喊。",
+          "startMs": 275890,
+          "endMs": 278270
+        },
+        {
+          "en": "The children were frightened, but they didn't say anything.",
+          "zh": "这孩子们是受惊的， 但是他们没有说任何东西。",
+          "startMs": 278950,
+          "endMs": 282250
+        },
+        {
+          "en": "The soldiers looked everywhere, but they couldn't find Edmund's father.",
+          "zh": "这士兵看到处， 但是他们不能找到 Edmund's 爸爸。",
+          "startMs": 282860,
+          "endMs": 290000
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 275740,
+      "endMs": 290350
+    },
+    {
+      "sentences": [
+        {
+          "en": "One of the soldiers found a sword.",
+          "zh": "一的这士兵找到一个剑。",
+          "startMs": 290030,
+          "endMs": 291430
+        },
+        {
+          "en": "\"His sword is here,\" He said.",
+          "zh": "把这里！ 啊唷！ 她说。",
+          "startMs": 292210,
+          "endMs": 295310
+        },
+        {
+          "en": "\"So he must be here somewhere.\"",
+          "zh": "他的剑是这里， 他说， 所以他必须是这里在某处。",
+          "startMs": 295340,
+          "endMs": 296980
+        },
+        {
+          "en": "The soldiers took everyone into a room.",
+          "zh": "这士兵拿每个人进入一个房间。",
+          "startMs": 300870,
+          "endMs": 304970
+        },
+        {
+          "en": "Some men sat at a big table.",
+          "zh": "一些男人们坐在一个大的桌子。",
+          "startMs": 305000,
+          "endMs": 307680
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 290350,
+      "endMs": 308030
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the children.",
+          "zh": "他们看在这孩子们。",
+          "startMs": 307710,
+          "endMs": 309910
+        },
+        {
+          "en": "One of them looked at Kipper.",
+          "zh": "一的他们看在 Kipper。",
+          "startMs": 309940,
+          "endMs": 313020
+        },
+        {
+          "en": "\"Come here, little boy,\" he said.",
+          "zh": "来这里， 小的男孩， 他说。",
+          "startMs": 313050,
+          "endMs": 315200
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 308030,
+      "endMs": 315550
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 315230,
+          "endMs": 316090
+        },
+        {
+          "en": "\"Where is your father?\" Asked the man.",
+          "zh": "哪里是你的爸爸？ 问这男人。 它是这旧的男人。",
+          "startMs": 316120,
+          "endMs": 318070
+        },
+        {
+          "en": "Kipper was frightened, but he didn't say anything.",
+          "zh": "Kipper 是受惊的， 但是他没有说任何东西。",
+          "startMs": 318860,
+          "endMs": 323260
+        },
+        {
+          "en": "None of the children said anything.",
+          "zh": "全无的这孩子们说任何东西。",
+          "startMs": 323290,
+          "endMs": 323930
+        },
+        {
+          "en": "The important men were angry.",
+          "zh": "这重要的男人们是生气的。",
+          "startMs": 327830,
+          "endMs": 331060
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 315550,
+      "endMs": 331410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Your father is hiding,\" they shouted.",
+          "zh": "你的爸爸是躲藏， 他们喊。",
+          "startMs": 331060,
+          "endMs": 334100
+        },
+        {
+          "en": "\"Tell us where he is.",
+          "zh": "告诉我们哪里他是。",
+          "startMs": 334990,
+          "endMs": 336280
+        },
+        {
+          "en": "If he is hiding in this house, we will soon find him.\"",
+          "zh": "如果他是躲藏在……里这个房子， 我们将很快找到他。",
+          "startMs": 336310,
+          "endMs": 340000
+        },
+        {
+          "en": "Nobody said anything, so the soldiers began to pull up the floor.",
+          "zh": "没有人说任何东西， 所以这士兵开始到拉向上这地板。",
+          "startMs": 341400,
+          "endMs": 347690
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 331410,
+      "endMs": 348040
+    },
+    {
+      "sentences": [
+        {
+          "en": "They tapped on the walls.",
+          "zh": "他们龙头在……上这墙。",
+          "startMs": 347720,
+          "endMs": 351670
+        },
+        {
+          "en": "Edmund's mother was frightened.",
+          "zh": "Edmund's 妈妈是受惊的。",
+          "startMs": 351700,
+          "endMs": 355930
+        },
+        {
+          "en": "\"They may find him,\" she said.",
+          "zh": "他们梅找到他， 她说。",
+          "startMs": 356000,
+          "endMs": 358100
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 348040,
+      "endMs": 358450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 358350,
+          "endMs": 359180
+        },
+        {
+          "en": "Edmund and Jane were frightened.",
+          "zh": "Edmund 和 Jane 是受惊的。",
+          "startMs": 364280,
+          "endMs": 366600
+        },
+        {
+          "en": "They wanted to help their father.",
+          "zh": "他们想要到帮助他们的爸爸。",
+          "startMs": 366630,
+          "endMs": 368270
+        },
+        {
+          "en": "Suddenly, Chip had an idea.",
+          "zh": "突然地， Chip 有一个主意。",
+          "startMs": 369670,
+          "endMs": 372240
+        },
+        {
+          "en": "\"Maybe your father could escape, if he dressed up as a woman,\" he said.",
+          "zh": "也许你的爸爸能逃跑， 如果他连衣裙向上像一个女人， 他说。",
+          "startMs": 372270,
+          "endMs": 377070
+        },
+        {
+          "en": "Biff and Anneena had an idea too.",
+          "zh": "Biff 和 Anneena 有一个主意也。",
+          "startMs": 377970,
+          "endMs": 379880
+        },
+        {
+          "en": "Biff threw the frisbee at a soldier.",
+          "zh": "Biff 扔这飞盘在一个士兵。",
+          "startMs": 381780,
+          "endMs": 383300
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 358450,
+      "endMs": 383650
+    },
+    {
+      "sentences": [
+        {
+          "en": "The soldier laughed.",
+          "zh": "这士兵笑。",
+          "startMs": 383330,
+          "endMs": 388070
+        },
+        {
+          "en": "He had never seen a frisbee before.",
+          "zh": "他有从不看见一个飞盘在……之前。",
+          "startMs": 389170,
+          "endMs": 392310
+        },
+        {
+          "en": "\"Come and look at this!\"",
+          "zh": "来和看在这个！ 他喊。",
+          "startMs": 392960,
+          "endMs": 394610
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 383650,
+      "endMs": 394960
+    },
+    {
+      "sentences": [
+        {
+          "en": "He shouted.",
+          "zh": "帮助！ 喊罗西。",
+          "startMs": 394860,
+          "endMs": 396070
+        },
+        {
+          "en": "The soldiers wanted a rest, so they stopped looking for Edmund's father.",
+          "zh": "这士兵想要一个休息， 所以他们停看为了 Edmund's 爸爸。",
+          "startMs": 398980,
+          "endMs": 403930
+        },
+        {
+          "en": "They all went outside and played with the frisbee.",
+          "zh": "他们全部去外面和玩和……一起这飞盘。",
+          "startMs": 403960,
+          "endMs": 407790
+        },
+        {
+          "en": "Soon, everyone was laughing.",
+          "zh": "很快， 每个人是笑。",
+          "startMs": 407830,
+          "endMs": 410770
+        },
+        {
+          "en": "The soldiers liked the frisbee.",
+          "zh": "这士兵喜欢这飞盘。",
+          "startMs": 413870,
+          "endMs": 415960
+        },
+        {
+          "en": "They played with it for a long time.",
+          "zh": "他们玩和……一起它为了一个长的时间。",
+          "startMs": 416960,
+          "endMs": 419820
+        },
+        {
+          "en": "Suddenly, an old woman came up.",
+          "zh": "突然地， 一个旧的女人来向上。",
+          "startMs": 420240,
+          "endMs": 423120
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 394960,
+      "endMs": 423470
+    },
+    {
+      "sentences": [
+        {
+          "en": "She looked very poor.",
+          "zh": "她看非常贫穷的。",
+          "startMs": 423150,
+          "endMs": 425130
+        },
+        {
+          "en": "She wanted some money.",
+          "zh": "她想要一些钱。",
+          "startMs": 425770,
+          "endMs": 426870
+        },
+        {
+          "en": "The soldiers stopped playing with the frisbee.",
+          "zh": "这士兵停玩和……一起这飞盘。",
+          "startMs": 430870,
+          "endMs": 434460
+        },
+        {
+          "en": "They shouted at the old woman.",
+          "zh": "他们喊在这旧的女人。",
+          "startMs": 434490,
+          "endMs": 437070
+        },
+        {
+          "en": "\"Go away!\" They shouted.",
+          "zh": "现在去离开。 帮助我们！ 他们喊。",
+          "startMs": 437100,
+          "endMs": 438900
+        },
+        {
+          "en": "\"We don't have any money.\"",
+          "zh": "我们不有任何钱。",
+          "startMs": 439610,
+          "endMs": 440760
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 423470,
+      "endMs": 441110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, one of the soldiers looked at the house.",
+          "zh": "突然地， 一的这士兵看在这房子。",
+          "startMs": 440970,
+          "endMs": 444070
+        },
+        {
+          "en": "He saw someone running away.",
+          "zh": "他看见某人跑离开。",
+          "startMs": 444820,
+          "endMs": 447170
+        },
+        {
+          "en": "\"Look, over there,\" Over there!\" he shouted.",
+          "zh": "它看非常真的。",
+          "startMs": 448860,
+          "endMs": 453440
+        },
+        {
+          "en": "\"Someone's running away.\"",
+          "zh": "某人跑离开。",
+          "startMs": 453470,
+          "endMs": 454860
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 441110,
+      "endMs": 455210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The soldiers chased the woman.",
+          "zh": "这士兵追赶这女人。",
+          "startMs": 456750,
+          "endMs": 459350
+        },
+        {
+          "en": "\"It's not a woman, it's a man,\" they shouted.",
+          "zh": "它是不一个女人， 它是一个男人， 他们喊。",
+          "startMs": 460960,
+          "endMs": 464100
+        },
+        {
+          "en": "\"It must be the man we want.",
+          "zh": "它必须是这男人我们想要。",
+          "startMs": 464130,
+          "endMs": 466120
+        },
+        {
+          "en": "Don't let him get away.\"",
+          "zh": "不让他得到离开。",
+          "startMs": 467320,
+          "endMs": 468260
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 456600,
+      "endMs": 468610
+    },
+    {
+      "sentences": [
+        {
+          "en": "The soldiers caught the man and took him back to the house.",
+          "zh": "这士兵抓住这男人和拿他回来到这房子。",
+          "startMs": 468860,
+          "endMs": 472960
+        },
+        {
+          "en": "\"Oh no!\" Said Anneena.",
+          "zh": "哦不！ 我， 说 Anneena。",
+          "startMs": 473030,
+          "endMs": 475570
+        },
+        {
+          "en": "\"They've caught Edmund's father.",
+          "zh": "他们已经抓住 Edmund's 爸爸。",
+          "startMs": 475600,
+          "endMs": 478170
+        },
+        {
+          "en": "Our idea didn't work.\"",
+          "zh": "我们的主意没有工作。",
+          "startMs": 478200,
+          "endMs": 479890
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 468710,
+      "endMs": 480240
+    },
+    {
+      "sentences": [
+        {
+          "en": "The soldiers thought they had caught Edmund's father, but it was a trick.",
+          "zh": "这士兵想他们有抓住 Edmund's 爸爸。",
+          "startMs": 482830,
+          "endMs": 488210
+        },
+        {
+          "en": "\"Grrr!\" Said the soldiers.",
+          "zh": "这士兵是来！",
+          "startMs": 488240,
+          "endMs": 491300
+        },
+        {
+          "en": "\"Hooray!\" Said the children.",
+          "zh": "这食物是准备好的。 哦不！ 说这孩子们。 我， 说 Anneena。",
+          "startMs": 492480,
+          "endMs": 503070
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 482680,
+      "endMs": 503420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children found some old clothes.",
+          "zh": "这孩子们找到一些旧的衣服。",
+          "startMs": 503100,
+          "endMs": 505480
+        },
+        {
+          "en": "\"So Edmund's father was the old woman,\" said Anneena.",
+          "zh": "所以 Edmund's 爸爸是这旧的女人， 说 Anneena。",
+          "startMs": 505480,
+          "endMs": 505680
+        },
+        {
+          "en": "\"What a good trick,\" laughed everyone.",
+          "zh": "什么一个好的诡计， 笑每个人。 他们搜寻每个人。",
+          "startMs": 505680,
+          "endMs": 509070
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 509100,
+          "endMs": 513570
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 503420,
+      "endMs": 513920
+    },
+    {
+      "sentences": [
+        {
+          "en": "The jigsaw puzzle was finished.",
+          "zh": "这拼图谜是结束了的。",
+          "startMs": 524860,
+          "endMs": 528040
+        },
+        {
+          "en": "Mum looked at something in the picture.",
+          "zh": "妈妈看在某物在……里这图画。",
+          "startMs": 528070,
+          "endMs": 530620
+        },
+        {
+          "en": "\"Hmm, that's funny,\" She said.",
+          "zh": "那是有趣的， 她说。 啊唷！",
+          "startMs": 530960,
+          "endMs": 533690
+        },
+        {
+          "en": "\"That looks like a frisbee.\"",
+          "zh": "那个看喜欢一个飞盘。",
+          "startMs": 533870,
+          "endMs": 535670
+        },
+        {
+          "en": "\"It must be a plate,\" said Chip.",
+          "zh": "它必须是一个盘子， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 535970,
+          "endMs": 540070
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 524710,
+      "endMs": 540420
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 540420,
+      "endMs": 540421
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 540421,
+      "endMs": 540422
+    }
+  ]
+}

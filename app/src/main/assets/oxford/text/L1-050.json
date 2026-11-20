@@ -1,0 +1,111 @@
+{
+  "id": "L1-050",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone went to the park.",
+          "zh": "每个人去到这公园。",
+          "startMs": 0,
+          "endMs": 5660
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip went on the slide.",
+          "zh": "Chip 去在……上这滑行。",
+          "startMs": 5560,
+          "endMs": 25660
+        }
+      ],
+      "startMs": 5410,
+      "endMs": 26010
+    },
+    {
+      "sentences": [],
+      "startMs": 29930,
+      "endMs": 30730,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went on the horse.",
+          "zh": "Biff 去在……上这马。",
+          "startMs": 27960,
+          "endMs": 35660
+        }
+      ],
+      "startMs": 27810,
+      "endMs": 36010
+    },
+    {
+      "sentences": [],
+      "startMs": 35238,
+      "endMs": 36038,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went on the swing.",
+          "zh": "Kipper 去在……上这摆动。",
+          "startMs": 35560,
+          "endMs": 44660
+        }
+      ],
+      "startMs": 35410,
+      "endMs": 45010
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went on the see-saw.",
+          "zh": "妈妈去在……上这跷跷板。",
+          "startMs": 37960,
+          "endMs": 42230
+        }
+      ],
+      "startMs": 37810,
+      "endMs": 42580
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy went to sleep.",
+          "zh": "Floppy 去到睡觉。",
+          "startMs": 57560,
+          "endMs": 70660
+        }
+      ],
+      "startMs": 57410,
+      "endMs": 70876
+    },
+    {
+      "sentences": [],
+      "startMs": 69900,
+      "endMs": 70577,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 70577,
+      "endMs": 70876,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "id": "L4-012",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma came to the house.",
+          "zh": "Wilf 和 Wilma 来到这房子。",
+          "startMs": 0,
+          "endMs": 5050
+        },
+        {
+          "en": "They came to play.",
+          "zh": "他们来到玩。",
+          "startMs": 4950,
+          "endMs": 9050
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went outside.",
+          "zh": "这孩子们去外面。",
+          "startMs": 8950,
+          "endMs": 14570
+        },
+        {
+          "en": "They climbed the tree.",
+          "zh": "他们爬这树。",
+          "startMs": 14470,
+          "endMs": 17050
+        }
+      ],
+      "startMs": 8800,
+      "endMs": 17400
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked in the tree house.",
+          "zh": "他们看在……里这树房子。",
+          "startMs": 16950,
+          "endMs": 22050
+        },
+        {
+          "en": "\"What a mess!\" said Biff.",
+          "zh": "什么一个脏乱！ 说 Biff。",
+          "startMs": 22230,
+          "endMs": 32050
+        }
+      ],
+      "startMs": 16800,
+      "endMs": 32400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad helped the children.",
+          "zh": "爸爸帮助这孩子们。",
+          "startMs": 31950,
+          "endMs": 35540
+        },
+        {
+          "en": "He mended the roof.",
+          "zh": "他缝补这屋顶。",
+          "startMs": 35440,
+          "endMs": 40050
+        }
+      ],
+      "startMs": 31800,
+      "endMs": 40400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilma mended the door.",
+          "zh": "Biff 和 Wilma 缝补这门。",
+          "startMs": 39950,
+          "endMs": 51050
+        }
+      ],
+      "startMs": 39800,
+      "endMs": 51400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Wilf painted the tree house.",
+          "zh": "Chip 和 Wilf 油漆这树房子。",
+          "startMs": 51230,
+          "endMs": 55050
+        }
+      ],
+      "startMs": 51080,
+      "endMs": 55400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf painted the door.",
+          "zh": "Wilf 油漆这门。",
+          "startMs": 54950,
+          "endMs": 57050
+        },
+        {
+          "en": "Chip painted the walls.",
+          "zh": "Chip 油漆这墙。",
+          "startMs": 56950,
+          "endMs": 68050
+        }
+      ],
+      "startMs": 54800,
+      "endMs": 68400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The tree house looked good.",
+          "zh": "这树房子看好的。",
+          "startMs": 67950,
+          "endMs": 70050
+        },
+        {
+          "en": "The children put things inside.",
+          "zh": "这孩子们放东西里面。",
+          "startMs": 69950,
+          "endMs": 74050
+        }
+      ],
+      "startMs": 67800,
+      "endMs": 74400
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a party in the tree house.",
+          "zh": "他们有一个聚会在……里这树房子。",
+          "startMs": 74570,
+          "endMs": 90050
+        }
+      ],
+      "startMs": 74420,
+      "endMs": 90400
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was bedtime.",
+          "zh": "它是就寝时间。",
+          "startMs": 89950,
+          "endMs": 92050
+        },
+        {
+          "en": "Biff was in her room.",
+          "zh": "Biff 是在……里她房间。",
+          "startMs": 91950,
+          "endMs": 94050
+        }
+      ],
+      "startMs": 89800,
+      "endMs": 94400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked outside.",
+          "zh": "Biff 看外面。",
+          "startMs": 93950,
+          "endMs": 97090
+        },
+        {
+          "en": "There was a storm.",
+          "zh": "那里是一个暴风雨。",
+          "startMs": 96990,
+          "endMs": 103050
+        }
+      ],
+      "startMs": 93800,
+      "endMs": 103400
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time for school.",
+          "zh": "它是时间为了学校。",
+          "startMs": 103420,
+          "endMs": 111050
+        },
+        {
+          "en": "Wilf and Wilma came.",
+          "zh": "Wilf 和 Wilma 来。",
+          "startMs": 110950,
+          "endMs": 116050
+        }
+      ],
+      "startMs": 103270,
+      "endMs": 116400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a storm!\" said Mum.",
+          "zh": "什么一个暴风雨！ 说妈妈。",
+          "startMs": 115950,
+          "endMs": 129050
+        }
+      ],
+      "startMs": 115800,
+      "endMs": 129400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wind blew.",
+          "zh": "这风 blew。",
+          "startMs": 129230,
+          "endMs": 130920
+        },
+        {
+          "en": "The rain came down.",
+          "zh": "这雨来向下。",
+          "startMs": 130820,
+          "endMs": 133050
+        }
+      ],
+      "startMs": 129080,
+      "endMs": 133400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a storm!\"",
+          "zh": "什么一个暴风雨！",
+          "startMs": 132950,
+          "endMs": 138580
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 139660,
+          "endMs": 144050
+        }
+      ],
+      "startMs": 132800,
+      "endMs": 144400
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 143950,
+          "endMs": 146050
+        },
+        {
+          "en": "The mums and dads came.",
+          "zh": "这妈妈和爸爸来。",
+          "startMs": 145950,
+          "endMs": 149050
+        }
+      ],
+      "startMs": 143800,
+      "endMs": 149400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a wind!\" they said.",
+          "zh": "什么一个风！ 他们说。",
+          "startMs": 149230,
+          "endMs": 161050
+        }
+      ],
+      "startMs": 149080,
+      "endMs": 161400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!\" said Biff.",
+          "zh": "哦不！ 说 Biff。",
+          "startMs": 160950,
+          "endMs": 164540
+        },
+        {
+          "en": "The tree was down.",
+          "zh": "这树是向下。",
+          "startMs": 164440,
+          "endMs": 167050
+        }
+      ],
+      "startMs": 160800,
+      "endMs": 167400
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a mess!\" said Kipper.",
+          "zh": "什么一个脏乱！ 说 Kipper。",
+          "startMs": 166950,
+          "endMs": 177050
+        }
+      ],
+      "startMs": 166800,
+      "endMs": 177400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children climbed on the tree.",
+          "zh": "这孩子们爬在……上这树。",
+          "startMs": 177230,
+          "endMs": 181050
+        },
+        {
+          "en": "Floppy barked and barked.",
+          "zh": "Floppy 吠叫和吠叫。",
+          "startMs": 180950,
+          "endMs": 187050
+        }
+      ],
+      "startMs": 177080,
+      "endMs": 187400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy found something.",
+          "zh": "Floppy 找到某物。",
+          "startMs": 186950,
+          "endMs": 190540
+        },
+        {
+          "en": "It was a box.",
+          "zh": "它是一个盒子。",
+          "startMs": 190440,
+          "endMs": 197050
+        }
+      ],
+      "startMs": 186800,
+      "endMs": 197400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the box.",
+          "zh": "每个人看在这盒子。",
+          "startMs": 196950,
+          "endMs": 200540
+        },
+        {
+          "en": "Mum opened it.",
+          "zh": "妈妈打开它。",
+          "startMs": 200440,
+          "endMs": 204050
+        }
+      ],
+      "startMs": 196800,
+      "endMs": 204400
+    },
+    {
+      "sentences": [
+        {
+          "en": "They found a key inside.",
+          "zh": "他们找到一个钥匙里面。",
+          "startMs": 207950,
+          "endMs": 214050
+        }
+      ],
+      "startMs": 207800,
+      "endMs": 214400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip wanted the box.",
+          "zh": "Chip 想要这盒子。",
+          "startMs": 213950,
+          "endMs": 216050
+        },
+        {
+          "en": "He put it in his room.",
+          "zh": "他放它在……里他的房间。",
+          "startMs": 215950,
+          "endMs": 224050
+        }
+      ],
+      "startMs": 213800,
+      "endMs": 224400
+    },
+    {
+      "sentences": [],
+      "startMs": 225170,
+      "endMs": 225670,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 225670,
+      "endMs": 225799,
+      "illustrationOnly": true
+    }
+  ]
+}

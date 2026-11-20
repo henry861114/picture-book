@@ -1,0 +1,285 @@
+{
+  "id": "L3-003",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma were at the pond.",
+          "zh": "Wilf 和 Wilma 是在这池塘。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The net got stuck.",
+          "zh": "这网得到 stuck。",
+          "startMs": 11000,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Help me pull,\" said Wilf.",
+          "zh": "帮助我拉， 说 Wilf。",
+          "startMs": 17310,
+          "endMs": 21100
+        }
+      ],
+      "startMs": 17160,
+      "endMs": 21450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They pulled the net.",
+          "zh": "他们拉这网。",
+          "startMs": 25000,
+          "endMs": 25810
+        }
+      ],
+      "startMs": 24850,
+      "endMs": 26160
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was stuck on some junk.",
+          "zh": "它是 stuck 在……上一些垃圾。",
+          "startMs": 10493,
+          "endMs": 13324
+        }
+      ],
+      "startMs": 10493,
+      "endMs": 13324
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma got a big stick.",
+          "zh": "Wilma 得到一个大的枝条。",
+          "startMs": 0,
+          "endMs": 11810
+        }
+      ],
+      "startMs": 0,
+      "endMs": 12160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's pull it out,\" she said.",
+          "zh": "让我们拉它出， 她说。",
+          "startMs": 15719,
+          "endMs": 19340
+        }
+      ],
+      "startMs": 15719,
+      "endMs": 19340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma pulled.",
+          "zh": "Wilf 和 Wilma 拉。",
+          "startMs": 19720,
+          "endMs": 25130
+        }
+      ],
+      "startMs": 19570,
+      "endMs": 25480
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't pull the junk out.",
+          "zh": "他们不能拉这垃圾出。",
+          "startMs": 25000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 24850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad helped.",
+          "zh": "妈妈和爸爸帮助。",
+          "startMs": 25020,
+          "endMs": 27440
+        }
+      ],
+      "startMs": 25020,
+      "endMs": 27440
+    },
+    {
+      "sentences": [
+        {
+          "en": "They pulled out an old pram.",
+          "zh": "他们拉出一个旧的婴儿车。",
+          "startMs": 27440,
+          "endMs": 29983
+        }
+      ],
+      "startMs": 27440,
+      "endMs": 29983
+    },
+    {
+      "sentences": [],
+      "startMs": 29983,
+      "endMs": 30783,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "It made Wilf jump.",
+          "zh": "它做 Wilf 跳。",
+          "startMs": 30783,
+          "endMs": 32052
+        }
+      ],
+      "startMs": 30783,
+      "endMs": 32052
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splash!",
+          "zh": "溅泼声！",
+          "startMs": 32052,
+          "endMs": 32846
+        },
+        {
+          "en": "A fish jumped up.",
+          "zh": "一个鱼跳向上。",
+          "startMs": 32846,
+          "endMs": 34774
+        }
+      ],
+      "startMs": 32052,
+      "endMs": 34774
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"A pram full of fish,\" said Dad.",
+          "zh": "一个婴儿车满的的鱼， 说爸爸。",
+          "startMs": 34774,
+          "endMs": 37760
+        }
+      ],
+      "startMs": 34774,
+      "endMs": 37760
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Pram dipping!\" said Wilma.",
+          "zh": "婴儿车浸！ 说 Wilma。",
+          "startMs": 47850,
+          "endMs": 53810
+        }
+      ],
+      "startMs": 47700,
+      "endMs": 54160
+    },
+    {
+      "sentences": [
+        {
+          "en": "How many letters?",
+          "zh": "如何许多信？",
+          "startMs": 40890,
+          "endMs": 42755
+        },
+        {
+          "en": "To help the child to notice the letters in words.",
+          "zh": "到帮助这孩子到布告这信在……里单词。",
+          "startMs": 42755,
+          "endMs": 48131
+        },
+        {
+          "en": "Open the book at any page, choose a word and count the letters.",
+          "zh": "打开这书在任何页， 选择一个单词和数数这信。",
+          "startMs": 48131,
+          "endMs": 55044
+        },
+        {
+          "en": "Then give the open book to the child and say, for example, on pages 8 and 9, \"Find a word with six letters.\"",
+          "zh": "然后给这打开书到这孩子和说， 为了例子， 在……上页 8 和 9， 找到一个单词和……一起六信。",
+          "startMs": 55044,
+          "endMs": 66893
+        },
+        {
+          "en": "Then the child chooses a page and asks you to find a word with a certain number of letters.",
+          "zh": "然后这孩子选择一个页和问你到找到一个单词和……一起一个确定的数字的信。",
+          "startMs": 66893,
+          "endMs": 76878
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 76878,
+          "endMs": 80060
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 80060,
+          "endMs": 86314
+        },
+        {
+          "en": "Take it in turns to find words in the story that have double consonant letters, such as 'pull\", 'pulled', 'hopped, 'full\", 'dipping'.",
+          "zh": "拿它在……里转动到找到单词在……里这故事那个有供两者用的辅音字母信， 这样的像 '拉， '拉'， '单足跳行， '满的， '浸'。",
+          "startMs": 86314,
+          "endMs": 100906
+        },
+        {
+          "en": "If possible, look for small creatures under a stone or plant pot, or dig in the soil to see what you can find.",
+          "zh": "如果能做到的， 看为了小的动物在……下方一个石块或者植物锅， 或者掘在……里这土壤到看见什么你能找到。",
+          "startMs": 100906,
+          "endMs": 112975
+        },
+        {
+          "en": "Find out the names of the creatures.",
+          "zh": "找到出这名字的这动物。",
+          "startMs": 112975,
+          "endMs": 116925
+        },
+        {
+          "en": "Show the child how to treat animals with care, and to put them back where they were found.",
+          "zh": "展示这孩子如何到对待动物和……一起小心， 和到放他们回来哪里他们是找到。",
+          "startMs": 116925,
+          "endMs": 126800
+        }
+      ],
+      "startMs": 40890,
+      "endMs": 126800
+    },
+    {
+      "sentences": [],
+      "startMs": 126800,
+      "endMs": 127652,
+      "illustrationOnly": true
+    }
+  ]
+}

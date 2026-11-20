@@ -1,0 +1,207 @@
+{
+  "id": "L1-010",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Fetch!",
+          "zh": "接来！",
+          "startMs": 0,
+          "endMs": 1300
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1650
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 20
+    },
+    {
+      "sentences": [
+        {
+          "en": "One windy afternoon, Mum took Biff and Chip to the park when she took Floppy out for his daily walk.",
+          "zh": "一多风的下午， 妈妈拿 Biff 和 Chip 到这公园当……时她拿 Floppy 出为了他的 daily 走。",
+          "startMs": 27600,
+          "endMs": 33080
+        }
+      ],
+      "startMs": 27450,
+      "endMs": 33430
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Fetch it, Wolf!\"",
+          "zh": "接来它， 狼！",
+          "startMs": 35600,
+          "endMs": 37770
+        },
+        {
+          "en": "said an old lady.",
+          "zh": "说一个旧的女士。",
+          "startMs": 37670,
+          "endMs": 39700
+        },
+        {
+          "en": "\"Wow!",
+          "zh": "哇！",
+          "startMs": 41600,
+          "endMs": 42010
+        },
+        {
+          "en": "Look at the dog!\"",
+          "zh": "看在这狗！",
+          "startMs": 41910,
+          "endMs": 43180
+        }
+      ],
+      "startMs": 35450,
+      "endMs": 43530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Ar",
+          "zh": "氩",
+          "startMs": 27660,
+          "endMs": 29600
+        }
+      ],
+      "startMs": 27660,
+      "endMs": 29600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mom, Biff and Chip wanted Floppy to jump into the lake and fetch the stick.",
+          "zh": "Mom， Biff 和 Chip 想要 Floppy 到跳进入这拉客和接来这枝条。",
+          "startMs": 48600,
+          "endMs": 54700
+        },
+        {
+          "en": "\"Go fetch a stick, Floppy!\"",
+          "zh": "去接来一个枝条， Floppy！",
+          "startMs": 54690,
+          "endMs": 57570
+        },
+        {
+          "en": "said Mom.",
+          "zh": "说 Mom。",
+          "startMs": 57470,
+          "endMs": 58700
+        },
+        {
+          "en": "\"Go on, fetch!\"",
+          "zh": "去在……上， 接来！",
+          "startMs": 58600,
+          "endMs": 60700
+        }
+      ],
+      "startMs": 48450,
+      "endMs": 61050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff threw one more stick, but a gust of wind blew her hat off, and it went flying off into the lake.",
+          "zh": "Biff 扔一更多枝条， 但是一个 gust 的风 blew 她帽子离开， 和它去飞离开进入这拉客。",
+          "startMs": 64600,
+          "endMs": 72700
+        }
+      ],
+      "startMs": 64450,
+      "endMs": 73050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!",
+          "zh": "哦不！",
+          "startMs": 72600,
+          "endMs": 74180
+        },
+        {
+          "en": "My hat!\"",
+          "zh": "我的帽子！",
+          "startMs": 74080,
+          "endMs": 75700
+        },
+        {
+          "en": "\"Oh dear!\"",
+          "zh": "哦亲爱的！",
+          "startMs": 75600,
+          "endMs": 77260
+        },
+        {
+          "en": "said Mom.",
+          "zh": "说 Mom。",
+          "startMs": 77160,
+          "endMs": 78700
+        }
+      ],
+      "startMs": 72450,
+      "endMs": 79050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly Floppy ran towards the lake.",
+          "zh": "突然地 Floppy 跑向这拉客。",
+          "startMs": 82930,
+          "endMs": 85700
+        }
+      ],
+      "startMs": 82780,
+      "endMs": 86050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Wow!",
+          "zh": "哇！",
+          "startMs": 87600,
+          "endMs": 87750
+        },
+        {
+          "en": "Floppy rescued Biff's hat!\"",
+          "zh": "Floppy 解救 Biff 帽子！",
+          "startMs": 87600,
+          "endMs": 91750
+        },
+        {
+          "en": "said Mom.",
+          "zh": "说 Mom。",
+          "startMs": 91650,
+          "endMs": 92700
+        },
+        {
+          "en": "\"What a good dog!\"",
+          "zh": "什么一个好的狗！",
+          "startMs": 92600,
+          "endMs": 94700
+        }
+      ],
+      "startMs": 87450,
+      "endMs": 95050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy looked really proud of himself.",
+          "zh": "Floppy 看真的 proud 的他自己。",
+          "startMs": 98600,
+          "endMs": 101700
+        }
+      ],
+      "startMs": 98450,
+      "endMs": 102050
+    }
+  ]
+}

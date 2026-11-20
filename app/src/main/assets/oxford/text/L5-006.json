@@ -1,0 +1,581 @@
+{
+  "id": "L5-006",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were at school.",
+          "zh": "孩子们在学校。",
+          "startMs": 3860,
+          "endMs": 6960
+        },
+        {
+          "en": "It was playtime.",
+          "zh": "是玩耍的时间。",
+          "startMs": 7540,
+          "endMs": 10640
+        },
+        {
+          "en": "\"Come in,\" Called Mrs. May.",
+          "zh": "“进来吧！” 给梅",
+          "startMs": 11810,
+          "endMs": 16480
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 16830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs May told the children a story.",
+          "zh": "太太。",
+          "startMs": 16540,
+          "endMs": 26410
+        },
+        {
+          "en": "The story was about a village.",
+          "zh": "这个故事是关于一个村庄的。",
+          "startMs": 26540,
+          "endMs": 29640
+        },
+        {
+          "en": "The village was in the mountains.",
+          "zh": "这个村庄坐落在山区。",
+          "startMs": 34570,
+          "endMs": 37910
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 16830,
+      "endMs": 38260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked the story.",
+          "zh": "大家都喜欢这个故事。",
+          "startMs": 37910,
+          "endMs": 38110
+        },
+        {
+          "en": "It was called The Village in the Snow.",
+          "zh": "这个故事的名字叫《雪中的村庄》。",
+          "startMs": 38110,
+          "endMs": 39820
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 38260,
+      "endMs": 40170
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's room.",
+          "zh": "孩子们去了 Biff 的房间。",
+          "startMs": 40410,
+          "endMs": 45460
+        },
+        {
+          "en": "They wanted an adventure.",
+          "zh": "他们想要一场冒险。",
+          "startMs": 48950,
+          "endMs": 53050
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 40260,
+      "endMs": 53400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff picked up the magic key.",
+          "zh": "Biff 拿起魔法钥匙。",
+          "startMs": 53130,
+          "endMs": 56730
+        },
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 59400,
+          "endMs": 64740
+        },
+        {
+          "en": "\"The magic is working,\" said Biff.",
+          "zh": "“魔法起作用了，”Biff 说。 Biff 说道。",
+          "startMs": 64770,
+          "endMs": 69640
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 53400,
+      "endMs": 69990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to the village in the snow.",
+          "zh": "魔法把孩子们带到了雪中的村庄。",
+          "startMs": 78430,
+          "endMs": 83570
+        },
+        {
+          "en": "\"It's lovely,\" Said Biff.",
+          "zh": "真漂亮。 Biff 说道。",
+          "startMs": 84540,
+          "endMs": 87160
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 78280,
+      "endMs": 87510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper jumped in the snow.",
+          "zh": "Kipper 在雪地里蹦蹦跳跳。",
+          "startMs": 88120,
+          "endMs": 89860
+        },
+        {
+          "en": "\"I like the snow,\" he called.",
+          "zh": "“我喜欢雪，”他喊道。",
+          "startMs": 91540,
+          "endMs": 93770
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 87970,
+      "endMs": 94120
+    },
+    {
+      "sentences": [
+        {
+          "en": "He called.",
+          "zh": "他喊道。",
+          "startMs": 95190,
+          "endMs": 95970
+        },
+        {
+          "en": "\"This is fun.\"",
+          "zh": "这很有趣。",
+          "startMs": 96000,
+          "endMs": 97740
+        },
+        {
+          "en": "They played in the snow.",
+          "zh": "他们在雪地里玩耍。",
+          "startMs": 101940,
+          "endMs": 104400
+        },
+        {
+          "en": "They made a snowman and put Kipper's hat on top.",
+          "zh": "他们堆了个雪人，把 Kipper 的帽子戴在雪人头上。",
+          "startMs": 104670,
+          "endMs": 110330
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 95040,
+      "endMs": 110680
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped in the snow.",
+          "zh": "他们在雪地里蹦蹦跳跳。",
+          "startMs": 111400,
+          "endMs": 115660
+        },
+        {
+          "en": "They threw snowballs.",
+          "zh": "他们打雪仗。",
+          "startMs": 115690,
+          "endMs": 116050
+        },
+        {
+          "en": "\"Look!\" \"Look,\" said Wilma.",
+          "zh": "“看！” “看，”Wilma 说。",
+          "startMs": 118540,
+          "endMs": 123640
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 111250,
+      "endMs": 123990
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw a little boy.",
+          "zh": "他们看到一个小男孩。",
+          "startMs": 124940,
+          "endMs": 127490
+        },
+        {
+          "en": "The boy was pulling a toboggan.",
+          "zh": "那个小男孩正在拉着雪橇。",
+          "startMs": 127670,
+          "endMs": 131030
+        },
+        {
+          "en": "Some big boys ran up.",
+          "zh": "几个大男孩跑了过来。",
+          "startMs": 131540,
+          "endMs": 133640
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 124790,
+      "endMs": 133990
+    },
+    {
+      "sentences": [
+        {
+          "en": "They pushed the little boy over.",
+          "zh": "他们把小男孩推倒了。",
+          "startMs": 134450,
+          "endMs": 136500
+        },
+        {
+          "en": "They pushed the toboggan over and they ran away.",
+          "zh": "他们把雪橇推倒，然后跑开了。",
+          "startMs": 139760,
+          "endMs": 143660
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 134300,
+      "endMs": 144010
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children ran up.",
+          "zh": "孩子们跑了过来。",
+          "startMs": 151430,
+          "endMs": 153530
+        },
+        {
+          "en": "They helped the little boy.",
+          "zh": "他们帮助了小男孩。",
+          "startMs": 153560,
+          "endMs": 156480
+        },
+        {
+          "en": "Kipper picked up his hat.",
+          "zh": "Kipper 捡起了他的帽子。",
+          "startMs": 156510,
+          "endMs": 159450
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 151280,
+      "endMs": 159800
+    },
+    {
+      "sentences": [
+        {
+          "en": "The little boy told them about the big boys.",
+          "zh": "小男孩跟他们说了大男孩的事。",
+          "startMs": 160400,
+          "endMs": 163520
+        },
+        {
+          "en": "Kipper was cross.",
+          "zh": "Kipper 很生气。",
+          "startMs": 164540,
+          "endMs": 168260
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 160250,
+      "endMs": 168610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper put on the little boy's hat.",
+          "zh": "Kipper 戴上了小男孩的帽子。",
+          "startMs": 170430,
+          "endMs": 174700
+        },
+        {
+          "en": "He put on his coat.",
+          "zh": "他穿上了自己的外套。",
+          "startMs": 175280,
+          "endMs": 178130
+        },
+        {
+          "en": "\"Come on!\" He called.",
+          "zh": "来吧。 他喊道。",
+          "startMs": 178130,
+          "endMs": 181500
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 170280,
+      "endMs": 181850
+    },
+    {
+      "sentences": [
+        {
+          "en": "The big boys looked at Kipper.",
+          "zh": "大男孩们看着 Kipper。",
+          "startMs": 181500,
+          "endMs": 181700
+        },
+        {
+          "en": "Kipper looked like the little boy.",
+          "zh": "Kipper 看起来像那个小男孩。",
+          "startMs": 182430,
+          "endMs": 185430
+        },
+        {
+          "en": "\"Come on!\"",
+          "zh": "来吧。",
+          "startMs": 185460,
+          "endMs": 186210
+        },
+        {
+          "en": "\"Come on,\" said the big boys.",
+          "zh": "“来吧，”大男孩们说道。",
+          "startMs": 186240,
+          "endMs": 188860
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 181850,
+      "endMs": 189210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children threw snowballs at the big boys.",
+          "zh": "孩子们向大个子男孩们扔雪球。",
+          "startMs": 202540,
+          "endMs": 203670
+        },
+        {
+          "en": "\"Help!",
+          "zh": "“救命！”",
+          "startMs": 203670,
+          "endMs": 204070
+        },
+        {
+          "en": "Help!\" yelled the big boys.",
+          "zh": "救命！”大男孩们大喊道。",
+          "startMs": 204090,
+          "endMs": 206140
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 202390,
+      "endMs": 206490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The big boys ran away.",
+          "zh": "大男孩们跑掉了。",
+          "startMs": 206140,
+          "endMs": 208030
+        },
+        {
+          "en": "The little boy jumped and jumped in the snow.",
+          "zh": "小男孩在雪地里蹦蹦跳跳。",
+          "startMs": 209080,
+          "endMs": 214820
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 206490,
+      "endMs": 215170
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put the little boy on the toboggan.",
+          "zh": "孩子们把小男孩放在雪橇上。",
+          "startMs": 219400,
+          "endMs": 223760
+        },
+        {
+          "en": "They pulled him home.",
+          "zh": "他们把他拉回家。",
+          "startMs": 224900,
+          "endMs": 228640
+        },
+        {
+          "en": "Grandfather gave the children a drink.",
+          "zh": "爷爷给孩子们喝了点东西。",
+          "startMs": 238400,
+          "endMs": 243500
+        },
+        {
+          "en": "The children told grandfather about the big boys.",
+          "zh": "孩子们把大男孩的事告诉了爷爷。",
+          "startMs": 243530,
+          "endMs": 246510
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 219250,
+      "endMs": 246860
+    },
+    {
+      "sentences": [
+        {
+          "en": "The little boy lived with his grandfather.",
+          "zh": "小男孩和爷爷住在一起。",
+          "startMs": 246540,
+          "endMs": 249250
+        },
+        {
+          "en": "They told grandfather about the snowball fight.",
+          "zh": "他们把打雪仗的事告诉了爷爷。",
+          "startMs": 249250,
+          "endMs": 251500
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 246860,
+      "endMs": 251850
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played in the snow.",
+          "zh": "孩子们在雪地里玩耍。",
+          "startMs": 256130,
+          "endMs": 258850
+        },
+        {
+          "en": "They went on the toboggan.",
+          "zh": "他们玩起了雪橇。",
+          "startMs": 259890,
+          "endMs": 263640
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 255980,
+      "endMs": 263990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is fun!\" Said Wilf.",
+          "zh": "这很有趣。 Wilf 说道。",
+          "startMs": 267400,
+          "endMs": 272500
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 267250,
+      "endMs": 272850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff. \"Come on!\"",
+          "zh": "Biff 说道。 来吧。",
+          "startMs": 279160,
+          "endMs": 282550
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 279010,
+      "endMs": 282900
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 282580,
+          "endMs": 284960
+        },
+        {
+          "en": "\"It's time to go,\" said Biff.",
+          "zh": "“该走了，”Biff 说。",
+          "startMs": 284960,
+          "endMs": 285160
+        },
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 285160,
+          "endMs": 285360
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 285360,
+          "endMs": 287050
+        },
+        {
+          "en": "The children played in the snow.",
+          "zh": "孩子们在雪地里玩耍。",
+          "startMs": 296400,
+          "endMs": 297110
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 282900,
+      "endMs": 297460
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children played in the snow.",
+          "zh": "孩子们在雪地里玩耍。",
+          "startMs": 297110,
+          "endMs": 297640
+        },
+        {
+          "en": "The magic took the children home.",
+          "zh": "魔法把孩子们带回了家。",
+          "startMs": 298440,
+          "endMs": 301620
+        },
+        {
+          "en": "\"What an adventure!\" Said Chip.",
+          "zh": "“真是一场冒险！” Chip 说道。",
+          "startMs": 301650,
+          "endMs": 304570
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 297460,
+      "endMs": 304920
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 304920,
+      "endMs": 304921
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 304921,
+      "endMs": 304922
+    }
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "id": "L8-010",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were excited.",
+          "zh": "这孩子们是兴奋的。",
+          "startMs": 0,
+          "endMs": 4130
+        },
+        {
+          "en": "They were going to take part in a play.",
+          "zh": "他们是去到拿部分在……里一个玩。",
+          "startMs": 4130,
+          "endMs": 7630
+        },
+        {
+          "en": "It was all about the history of the town.",
+          "zh": "它是全部关于这历史学的这城镇。",
+          "startMs": 7630,
+          "endMs": 11630
+        },
+        {
+          "en": "The play was going to be held in the park, and the children had to rehearse their scene.",
+          "zh": "这玩是去到是拿着在……里这公园， 和这孩子们有到排练他们的场景。",
+          "startMs": 11630,
+          "endMs": 17630
+        },
+        {
+          "en": "\"I hope we don't forget what to do,\" said Chip.",
+          "zh": "我希望我们不忘记什么到做， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 17630,
+          "endMs": 22630
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 22980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran had come to watch the rehearsal.",
+          "zh": "Gran 有来到手表这排练。",
+          "startMs": 25000,
+          "endMs": 29630
+        },
+        {
+          "en": "\"My goodness!\" She said.",
+          "zh": "我的美德！ 她说。",
+          "startMs": 29630,
+          "endMs": 32670
+        },
+        {
+          "en": "\"I don't believe it!",
+          "zh": "我不相信它！",
+          "startMs": 32670,
+          "endMs": 34840
+        },
+        {
+          "en": "Biff is wearing a dress!\"",
+          "zh": "Biff 是穿一个连衣裙！",
+          "startMs": 34840,
+          "endMs": 37630
+        },
+        {
+          "en": "\"That's because we're children from World War II,\" \"Girls didn't wear trousers then.\" Said Chip.",
+          "zh": "那是因为我们是孩子们从世界战争二， 说 Biff。",
+          "startMs": 37630,
+          "endMs": 49550
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 24850,
+      "endMs": 49900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "哇！ 说 Biff。",
+          "startMs": 49550,
+          "endMs": 49750
+        },
+        {
+          "en": "\"Our town was bombed in the war,\" said Chip.",
+          "zh": "我们的城镇是烂醉的在……里这战争， 说 Chip。",
+          "startMs": 49750,
+          "endMs": 49950
+        },
+        {
+          "en": "\"The bombing was called the Blitz.\"",
+          "zh": "这轰炸是叫这闪电战。",
+          "startMs": 49950,
+          "endMs": 51630
+        },
+        {
+          "en": "Gran could remember it.",
+          "zh": "Gran 能记得它。",
+          "startMs": 52000,
+          "endMs": 54670
+        },
+        {
+          "en": "\"I was only a girl,\" She said.",
+          "zh": "它不是一个男孩； 它是一个女孩！ Biff， 他说。",
+          "startMs": 54670,
+          "endMs": 57570
+        },
+        {
+          "en": "\"But I remember the Blitz well.\"",
+          "zh": "我是只有一个女孩， 她说， 但是我记得这闪电战好。",
+          "startMs": 57570,
+          "endMs": 60630
+        },
+        {
+          "en": "\"You wore awful clothes like these?\" Said Biff.",
+          "zh": "你穿坏的衣服喜欢这些？ 说 Biff。 哇！",
+          "startMs": 60630,
+          "endMs": 65630
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 49900,
+      "endMs": 65980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We have to carry these boxes,\" Said Wilma.",
+          "zh": "我们有到搬运这些盒子， 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 69530,
+          "endMs": 73550
+        },
+        {
+          "en": "\"But they are empty.\"",
+          "zh": "但是他们是空的。",
+          "startMs": 73550,
+          "endMs": 75630
+        },
+        {
+          "en": "\"They weren't empty in the war,\" said Gran.",
+          "zh": "他们不是空的在……里这战争， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 75630,
+          "endMs": 79540
+        },
+        {
+          "en": "\"They had gas masks in them.",
+          "zh": "他们有气体面罩在……里他们。",
+          "startMs": 79540,
+          "endMs": 82630
+        },
+        {
+          "en": "We had to take them to school every day.\" \"Gas masks?\" Gasped Wilf.",
+          "zh": "我们有到拿他们到学校每个一天。 气体面罩？ 喘气 Wilf。 哦！ 喘气 Biff。",
+          "startMs": 82630,
+          "endMs": 89840
+        },
+        {
+          "en": "\"Fantastic!\"",
+          "zh": "非常棒的！",
+          "startMs": 89840,
+          "endMs": 91630
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 69380,
+      "endMs": 91980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children rehearsed their parts.",
+          "zh": "这孩子们排练他们的部分。",
+          "startMs": 91630,
+          "endMs": 94670
+        },
+        {
+          "en": "In the play, they were sent away to live in the country.",
+          "zh": "在……里这玩， 他们是发送离开到住在……里这国家。",
+          "startMs": 94670,
+          "endMs": 98630
+        },
+        {
+          "en": "It wasn't safe to stay in the town because of the bombing.",
+          "zh": "它不是安全的到停留在……里这城镇因为的这轰炸。",
+          "startMs": 98630,
+          "endMs": 103630
+        },
+        {
+          "en": "\"We have to pretend to be upset,\" said Wilma.",
+          "zh": "我们有到假装到是使苦恼， 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 103630,
+          "endMs": 108630
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 91980,
+      "endMs": 108980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip tried to pull a sad face.",
+          "zh": "Chip 经过考验的到拉一个伤心的脸。",
+          "startMs": 112530,
+          "endMs": 115670
+        },
+        {
+          "en": "\"I'm going to pretend to cry,\" Said Wilf.",
+          "zh": "T'm 去到假装到哭， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 115670,
+          "endMs": 119630
+        },
+        {
+          "en": "He made a loud noise blowing his nose.",
+          "zh": "他做一个大声的噪音吹他的鼻子。",
+          "startMs": 119630,
+          "endMs": 123630
+        },
+        {
+          "en": "\"Stop it,\" Said Biff.",
+          "zh": "停它， 说 Biff。 哇！",
+          "startMs": 123630,
+          "endMs": 125940
+        },
+        {
+          "en": "\"You're making me laugh.\"",
+          "zh": "你是做我笑。",
+          "startMs": 125940,
+          "endMs": 128630
+        },
+        {
+          "en": "The others began to laugh too.",
+          "zh": "这其他开始到笑也。",
+          "startMs": 129000,
+          "endMs": 134160
+        },
+        {
+          "en": "\"We shouldn't laugh,\" said Wilma.",
+          "zh": "我们不应该笑， 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 134160,
+          "endMs": 138630
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 112380,
+      "endMs": 138980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran spoke to the children.",
+          "zh": "Gran 说到这孩子们。",
+          "startMs": 138630,
+          "endMs": 141670
+        },
+        {
+          "en": "\"The war was a terrible time for everyone,\" she said.",
+          "zh": "这战争是一个可怕的时间为了每个人， 她说。",
+          "startMs": 141670,
+          "endMs": 146630
+        },
+        {
+          "en": "\"It wasn't funny.\"",
+          "zh": "它不是有趣的。",
+          "startMs": 146630,
+          "endMs": 148630
+        },
+        {
+          "en": "\"We're sorry, Gran,\" said Chip.",
+          "zh": "Gran！ 说 Chip。 咳！",
+          "startMs": 148630,
+          "endMs": 151630
+        },
+        {
+          "en": "\"But it was a long time ago.\"",
+          "zh": "但是它是一个长的时间以前。",
+          "startMs": 151630,
+          "endMs": 153630
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 138980,
+      "endMs": 153980
+    },
+    {
+      "sentences": [
+        {
+          "en": "After the rehearsal, Wilf and Wilma went home with Biff and Chip.",
+          "zh": "在……之后这排练， Wilf 和 Wilma 去家和……一起 Biff 和 Chip。",
+          "startMs": 156960,
+          "endMs": 161630
+        },
+        {
+          "en": "Chip thought about the war.",
+          "zh": "Chip 想关于这战争。",
+          "startMs": 161630,
+          "endMs": 164670
+        },
+        {
+          "en": "\"It must have been a hard time for children then,\" he said.",
+          "zh": "它必须有是一个困难的时间为了孩子们然后， 他说。",
+          "startMs": 164670,
+          "endMs": 166630
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 156810,
+      "endMs": 166980
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "Biff， 他说。",
+          "startMs": 166630,
+          "endMs": 167630
+        },
+        {
+          "en": "\"It's hard to imagine what it was like,\" said Wilf.",
+          "zh": "它是困难的到想象什么它是喜欢， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 167630,
+          "endMs": 171630
+        },
+        {
+          "en": "\"I can't wait to take these clothes off,\" said Biff.",
+          "zh": "我不能等到拿这些衣服离开， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 171630,
+          "endMs": 176630
+        },
+        {
+          "en": "\"I hate wearing this dress.\"",
+          "zh": "我憎恶穿这个连衣裙。",
+          "startMs": 176630,
+          "endMs": 178630
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 178630,
+          "endMs": 182630
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 166980,
+      "endMs": 182980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children off on another adventure.",
+          "zh": "这魔法拿这孩子们离开在……上另一个冒险。",
+          "startMs": 184560,
+          "endMs": 189630
+        },
+        {
+          "en": "It took them back to a street in London.",
+          "zh": "它拿他们回来到一个街道在……里伦敦。",
+          "startMs": 189630,
+          "endMs": 193630
+        },
+        {
+          "en": "\"We've come back to the war,\" Gasped Chip.",
+          "zh": "我们有来回来到解救 Floppy。 Gran！ 说 Chip。",
+          "startMs": 203530,
+          "endMs": 207550
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 184410,
+      "endMs": 207900
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This looks like the scene in our play.\"",
+          "zh": "这个看喜欢这场景在……里我们的玩他们看见一个小的男孩全部由他自己。",
+          "startMs": 207550,
+          "endMs": 209630
+        },
+        {
+          "en": "They saw a little boy all by himself.",
+          "zh": "他们看见一个小的男孩。",
+          "startMs": 210000,
+          "endMs": 214630
+        },
+        {
+          "en": "\"I was with my school,\" Said the boy.",
+          "zh": "它是时间到去到学校。 不你知道？",
+          "startMs": 214630,
+          "endMs": 217630
+        },
+        {
+          "en": "\"But I got lost.",
+          "zh": "",
+          "startMs": 217630,
+          "endMs": 219370
+        },
+        {
+          "en": "May I come with you?\"",
+          "zh": "我来和……一起你？",
+          "startMs": 219370,
+          "endMs": 221630
+        },
+        {
+          "en": "Suddenly there was a long wailing sound.",
+          "zh": "突然地那里是一个长的恸哭声音。",
+          "startMs": 221630,
+          "endMs": 225630
+        },
+        {
+          "en": "\"That's an air raid warning,\" said Wilma.",
+          "zh": "那是一个空气突袭警告， 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 225630,
+          "endMs": 229550
+        },
+        {
+          "en": "\"It means we're going to be bombed.\"",
+          "zh": "它意思是我们是去到是烂醉的。",
+          "startMs": 229550,
+          "endMs": 231630
+        },
+        {
+          "en": "People began to run.",
+          "zh": "人们开始到跑。",
+          "startMs": 231630,
+          "endMs": 234670
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 207900,
+      "endMs": 235020
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man shouted at them.",
+          "zh": "一个男人喊在他们。",
+          "startMs": 234670,
+          "endMs": 236630
+        },
+        {
+          "en": "\"Hey!\" he yelled.",
+          "zh": "帮助！ 嗨！ 他叫喊。",
+          "startMs": 236630,
+          "endMs": 238450
+        },
+        {
+          "en": "\"Get into the shelter!\"",
+          "zh": "得到进入这庇护所！",
+          "startMs": 238450,
+          "endMs": 240630
+        },
+        {
+          "en": "Everyone went into the shelter.",
+          "zh": "每个人去进入这庇护所。",
+          "startMs": 243530,
+          "endMs": 246670
+        },
+        {
+          "en": "Above the shelter, bombs were landing.",
+          "zh": "在这庇护所， 炸弹是上岸。",
+          "startMs": 246670,
+          "endMs": 249630
+        },
+        {
+          "en": "Everything rocked and shook.",
+          "zh": "一切岩石和 shook。",
+          "startMs": 249630,
+          "endMs": 252630
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 235020,
+      "endMs": 252980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm scared,\" said the little boy.",
+          "zh": "",
+          "startMs": 252630,
+          "endMs": 256550
+        },
+        {
+          "en": "\"So are we,\" said Wilma.",
+          "zh": "所以是我们， 说 Wilma。",
+          "startMs": 256550,
+          "endMs": 259630
+        },
+        {
+          "en": "\"I hope it's safe down here,\" said Biff.",
+          "zh": "我希望它是安全的向下这里， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 259630,
+          "endMs": 263630
+        },
+        {
+          "en": "The noise went on for about twenty minutes.",
+          "zh": "这噪音去在……上为了关于二十分。",
+          "startMs": 263630,
+          "endMs": 268130
+        },
+        {
+          "en": "Then it stopped.",
+          "zh": "然后它停。",
+          "startMs": 268130,
+          "endMs": 269630
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 252980,
+      "endMs": 269980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everything was quiet for a little while.",
+          "zh": "一切是安静的为了一个小的当……的时候。",
+          "startMs": 269630,
+          "endMs": 272670
+        },
+        {
+          "en": "Then the loud wailing noise began.",
+          "zh": "然后这大声的恸哭噪音开始。",
+          "startMs": 272670,
+          "endMs": 276630
+        },
+        {
+          "en": "The air raid was over.",
+          "zh": "这空气突袭是在……上方。",
+          "startMs": 276630,
+          "endMs": 279630
+        },
+        {
+          "en": "\"That was really frightening,\" said Wilf.",
+          "zh": "那个是真的骇人的， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 279630,
+          "endMs": 282630
+        },
+        {
+          "en": "The children came out of the shelter.",
+          "zh": "这孩子们来出的这庇护所。",
+          "startMs": 284530,
+          "endMs": 287670
+        },
+        {
+          "en": "They couldn't believe their eyes.",
+          "zh": "他们不能相信他们的眼睛。",
+          "startMs": 287670,
+          "endMs": 290630
+        },
+        {
+          "en": "The street had been bombed.",
+          "zh": "这街道有是烂醉的。",
+          "startMs": 290630,
+          "endMs": 293670
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 269980,
+      "endMs": 294020
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was smoke and dust everywhere.",
+          "zh": "那里是烟和灰尘到处。",
+          "startMs": 293670,
+          "endMs": 296630
+        },
+        {
+          "en": "Wilma put her arm round the little boy.",
+          "zh": "Wilma 放她臂圆形的这小的男孩。",
+          "startMs": 296630,
+          "endMs": 299670
+        },
+        {
+          "en": "One building was gone.",
+          "zh": "一建造是去了。",
+          "startMs": 299670,
+          "endMs": 302360
+        },
+        {
+          "en": "It was just a pile of bricks.",
+          "zh": "它是刚刚一个堆的砖。",
+          "startMs": 302360,
+          "endMs": 304630
+        },
+        {
+          "en": "Another building was on fire.",
+          "zh": "另一个建造是在……上火。",
+          "startMs": 304630,
+          "endMs": 307130
+        },
+        {
+          "en": "Firemen were starting to put the fire out.",
+          "zh": "消防队员是开始到放这火出。",
+          "startMs": 307130,
+          "endMs": 310630
+        },
+        {
+          "en": "\"This is terrible,\" said Wilf.",
+          "zh": "这个是可怕的， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 310630,
+          "endMs": 313670
+        },
+        {
+          "en": "\"I didn't think it would be like this.\"",
+          "zh": "我没有想它会是喜欢这个。",
+          "startMs": 313670,
+          "endMs": 315630
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 294020,
+      "endMs": 315980
+    },
+    {
+      "sentences": [
+        {
+          "en": "A woman ran up to the children.",
+          "zh": "一个女人跑向上到这孩子们。",
+          "startMs": 318560,
+          "endMs": 321670
+        },
+        {
+          "en": "She took the little boy's hand.",
+          "zh": "她拿这小的男孩手。",
+          "startMs": 321670,
+          "endMs": 324630
+        },
+        {
+          "en": "\"Oh, I'm so glad I found you,\" She said.",
+          "zh": "我是所以高兴的我有找到你， 他说。 Biff， 他说。",
+          "startMs": 324630,
+          "endMs": 329630
+        },
+        {
+          "en": "She looked at the others.",
+          "zh": "她看在这其他。",
+          "startMs": 329630,
+          "endMs": 331630
+        },
+        {
+          "en": "\"You must all have got lost, too,\" she said.",
+          "zh": "你必须全部有得到丢失， 也， 她说。",
+          "startMs": 331630,
+          "endMs": 335550
+        },
+        {
+          "en": "The train will be leaving soon.\"",
+          "zh": "这火车将是离开很快。",
+          "startMs": 335550,
+          "endMs": 339630
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 318410,
+      "endMs": 339980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The station was crowded with children.",
+          "zh": "这火车站是拥挤的和……一起孩子们。",
+          "startMs": 339630,
+          "endMs": 343340
+        },
+        {
+          "en": "They all had gas masks and they looked upset and unhappy.",
+          "zh": "他们全部有气体面罩和他们看使苦恼和痛苦的。",
+          "startMs": 343340,
+          "endMs": 348630
+        },
+        {
+          "en": "\"We are being sent away,\" Said the little boy.",
+          "zh": "我们是正在发送离开， 说这小的男孩。",
+          "startMs": 348630,
+          "endMs": 352550
+        },
+        {
+          "en": "\"It's because of the bombing.",
+          "zh": "它是因为的这轰炸。",
+          "startMs": 352550,
+          "endMs": 354610
+        },
+        {
+          "en": "It's too dangerous to live here.\"",
+          "zh": "它是也危险的到住这里。",
+          "startMs": 354610,
+          "endMs": 357630
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 339980,
+      "endMs": 357980
+    },
+    {
+      "sentences": [
+        {
+          "en": "A woman gave them all a brown paper bag.",
+          "zh": "一个女人给他们全部一个棕色的纸包。",
+          "startMs": 359530,
+          "endMs": 362860
+        },
+        {
+          "en": "Wilma looked inside hers.",
+          "zh": "Wilma 看里面她的。",
+          "startMs": 362860,
+          "endMs": 366630
+        },
+        {
+          "en": "\"It's a dry old sandwich and an apple,\" She said.",
+          "zh": "它是一个干的旧的三明治和一个苹果， 她说， 但是不含糖的或者巧克力长条。 Biff， 他说。",
+          "startMs": 366630,
+          "endMs": 370550
+        },
+        {
+          "en": "\"But no sweets or chocolate bars.\" \"Of course not,\" Said the woman.",
+          "zh": "我们没有有许多的含糖的或者巧克力。 的进程不， 说这女人。",
+          "startMs": 370550,
+          "endMs": 376620
+        },
+        {
+          "en": "\"What did you expect?\"",
+          "zh": "什么做你预计？",
+          "startMs": 376620,
+          "endMs": 378630
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 359380,
+      "endMs": 378980
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man blew a whistle.",
+          "zh": "一个男人 blew 一个哨声。",
+          "startMs": 378630,
+          "endMs": 381630
+        },
+        {
+          "en": "\"Gas masks on,\" He ordered.",
+          "zh": "气体面罩在……上， 他整齐的。",
+          "startMs": 381630,
+          "endMs": 385550
+        },
+        {
+          "en": "\"And don't worry, there is no gas.",
+          "zh": "和不担心， 那里是不气体。",
+          "startMs": 385550,
+          "endMs": 387880
+        },
+        {
+          "en": "This is just a practice.\"",
+          "zh": "这个是刚刚一个实践。",
+          "startMs": 387880,
+          "endMs": 389630
+        },
+        {
+          "en": "\"We don't have gas masks,\" whispered Chip.",
+          "zh": "我们不有气体面罩， 低语 Chip。 我不相信它！ 低语 Chip。",
+          "startMs": 389630,
+          "endMs": 395090
+        },
+        {
+          "en": "\"We only have empty boxes.\"",
+          "zh": "我们只有有空的盒子。",
+          "startMs": 395090,
+          "endMs": 398630
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 378980,
+      "endMs": 398980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf opened his box.",
+          "zh": "Wilf 打开他的盒子。",
+          "startMs": 398630,
+          "endMs": 401350
+        },
+        {
+          "en": "Inside it was a gas mask.",
+          "zh": "里面它是一个气体面罩。",
+          "startMs": 401350,
+          "endMs": 404190
+        },
+        {
+          "en": "They all had gas masks in their boxes.",
+          "zh": "他们全部有气体面罩在……里他们的盒子。",
+          "startMs": 404190,
+          "endMs": 407630
+        },
+        {
+          "en": "\"I can't believe it!\" He gasped.",
+          "zh": "我不相信它！ 哦！ 喘气 Biff。",
+          "startMs": 407630,
+          "endMs": 410670
+        },
+        {
+          "en": "\"Hurry up!\"",
+          "zh": "急忙向上！",
+          "startMs": 410670,
+          "endMs": 412130
+        },
+        {
+          "en": "Shouted the man crossly.",
+          "zh": "急忙向上！ 喊这男人生气地。",
+          "startMs": 412130,
+          "endMs": 413610
+        },
+        {
+          "en": "\"You must put them on quickly.\"",
+          "zh": "你必须放他们在……上快速地。",
+          "startMs": 413610,
+          "endMs": 415630
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 398980,
+      "endMs": 415980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff hated wearing the gas mask.",
+          "zh": "Biff 帽子穿这气体面罩。",
+          "startMs": 415630,
+          "endMs": 418670
+        },
+        {
+          "en": "It felt tight and uncomfortable.",
+          "zh": "它感觉紧的和不舒服的。",
+          "startMs": 418670,
+          "endMs": 421540
+        },
+        {
+          "en": "It had a funny smell and it felt hot.",
+          "zh": "它有一个有趣的气味和它感觉热的。",
+          "startMs": 421540,
+          "endMs": 424630
+        },
+        {
+          "en": "When she talked, her voice sounded funny and the gas mask steamed up.",
+          "zh": "当……时她谈话， 她说话声声音有趣的和这气体面罩蒸煮的向上。",
+          "startMs": 424630,
+          "endMs": 429630
+        },
+        {
+          "en": "She couldn't wait to take it off.",
+          "zh": "她不能等到拿它离开。",
+          "startMs": 429630,
+          "endMs": 432630
+        },
+        {
+          "en": "\"Ugh,\" Said Biff.",
+          "zh": "哇！ 说 Biff。",
+          "startMs": 434530,
+          "endMs": 435100
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 415980,
+      "endMs": 435450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That was terrible.",
+          "zh": "那个是可怕的。",
+          "startMs": 435100,
+          "endMs": 437670
+        },
+        {
+          "en": "It was so hard to breathe in that gas mask.\"",
+          "zh": "它是所以困难的到呼吸在……里那个气体面罩。",
+          "startMs": 437670,
+          "endMs": 442630
+        },
+        {
+          "en": "The man blew his whistle again.",
+          "zh": "这男人 blew 他的哨声再一次。",
+          "startMs": 442630,
+          "endMs": 445670
+        },
+        {
+          "en": "It was time to get on the train.",
+          "zh": "它是时间到得到在……上这火车。",
+          "startMs": 445670,
+          "endMs": 448440
+        },
+        {
+          "en": "All the children had to line up.",
+          "zh": "全部这孩子们有到线向上。",
+          "startMs": 448440,
+          "endMs": 451630
+        },
+        {
+          "en": "The little boy began to cry.",
+          "zh": "这小的男孩开始到哭。",
+          "startMs": 451630,
+          "endMs": 454670
+        },
+        {
+          "en": "\"I don't want to go away,\" Sniffed the boy.",
+          "zh": "我不想要到看！ 我不想要到去离开， 吸气这男孩。",
+          "startMs": 454670,
+          "endMs": 460630
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 435450,
+      "endMs": 460980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't even know where we are going.\"",
+          "zh": "我不竟然知道哪里我们是去。",
+          "startMs": 460630,
+          "endMs": 463630
+        },
+        {
+          "en": "\"But it's not safe to stay,\" said Chip.",
+          "zh": "但是它是不安全的到停留， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 463630,
+          "endMs": 467420
+        },
+        {
+          "en": "\"My mum has to stay,\" said the boy.",
+          "zh": "我的妈妈有到停留， 说这男孩。 不你知道？",
+          "startMs": 467420,
+          "endMs": 470820
+        },
+        {
+          "en": "Wilma gave the boy a packet of tissues.",
+          "zh": "Wilma 给这男孩一个盒的组织。",
+          "startMs": 470820,
+          "endMs": 474630
+        },
+        {
+          "en": "\"I've never seen tissues before,\" said the boy.",
+          "zh": "我已经从不看见组织在……之前， 说这男孩。 不你知道？",
+          "startMs": 474630,
+          "endMs": 479630
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 460980,
+      "endMs": 479980
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last the train came in.",
+          "zh": "在最后的这火车来在……里。",
+          "startMs": 479630,
+          "endMs": 484630
+        },
+        {
+          "en": "\"It's a steam engine,\" said Wilf.",
+          "zh": "它是一个水蒸气发动机， 说 Wilf。 哦不！ 说 Wilf。",
+          "startMs": 484630,
+          "endMs": 487670
+        },
+        {
+          "en": "The train puffed out smoke and it made a clanking noise.",
+          "zh": "这火车肿胀的出烟和它做一个当啷声噪音。",
+          "startMs": 487670,
+          "endMs": 492630
+        },
+        {
+          "en": "As it stopped, it gave a loud hiss.",
+          "zh": "像它停， 它给一个大声的他的。",
+          "startMs": 492630,
+          "endMs": 497130
+        },
+        {
+          "en": "Smoke and steam filled the air.",
+          "zh": "烟和水蒸气充满这空气。",
+          "startMs": 497130,
+          "endMs": 499630
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 479980,
+      "endMs": 499980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The grown-up began to call the children's names out.",
+          "zh": "这成熟的开始到叫这孩子们名字出。",
+          "startMs": 499630,
+          "endMs": 503630
+        },
+        {
+          "en": "Then they were told to get on the train.",
+          "zh": "然后他们是告诉到得到在……上这火车。",
+          "startMs": 503630,
+          "endMs": 506670
+        },
+        {
+          "en": "\"I don't think our names are going to be called out,\" said Wilma.",
+          "zh": "我不想我们的名字是去到是叫出， 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 506670,
+          "endMs": 511630
+        },
+        {
+          "en": "\"They don't know who we are.\"",
+          "zh": "他们不知道谁我们是。",
+          "startMs": 511630,
+          "endMs": 514670
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 499980,
+      "endMs": 515020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was right.",
+          "zh": "Wilma 是正确的。",
+          "startMs": 514670,
+          "endMs": 516490
+        },
+        {
+          "en": "The man came across to them.",
+          "zh": "这男人来穿过到他们。",
+          "startMs": 516490,
+          "endMs": 519390
+        },
+        {
+          "en": "\"Why aren't you on the train?\" He asked.",
+          "zh": "为什么不是你在……上这火车？ 他问。 他追赶它！",
+          "startMs": 519390,
+          "endMs": 524630
+        },
+        {
+          "en": "The woman looked at her list.",
+          "zh": "这女人看在她名单。",
+          "startMs": 524630,
+          "endMs": 526970
+        },
+        {
+          "en": "\"There shouldn't be anyone left,\" she said.",
+          "zh": "那里不应该是任何人离开， 她说。",
+          "startMs": 526970,
+          "endMs": 530610
+        },
+        {
+          "en": "\"I don't know who these children are.\"",
+          "zh": "我不知道谁这些孩子们是。",
+          "startMs": 530610,
+          "endMs": 533630
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 515020,
+      "endMs": 533980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can't leave them behind,\" said the man.",
+          "zh": "我们不能离开他们在……后面， 说这男人。",
+          "startMs": 533630,
+          "endMs": 535770
+        },
+        {
+          "en": "\"I'm sorry,\" said the man.",
+          "zh": "我是对不起， 说这男人。",
+          "startMs": 535770,
+          "endMs": 536750
+        },
+        {
+          "en": "\"We can find out who they are later.",
+          "zh": "我们能找到出谁他们是后来。",
+          "startMs": 536750,
+          "endMs": 539220
+        },
+        {
+          "en": "But we'll have to split them up.\"",
+          "zh": "但是我们会有到切开他们向上。",
+          "startMs": 539220,
+          "endMs": 541630
+        },
+        {
+          "en": "\"We don't want to be split up,\" said Biff.",
+          "zh": "我们不想要到是切开向上， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 541630,
+          "endMs": 543630
+        },
+        {
+          "en": "\"We want to stay together.\" \"I'm sorry,\" said the man.",
+          "zh": "我们想要到停留一起。 我是对不起， 说这男人。",
+          "startMs": 543630,
+          "endMs": 549800
+        },
+        {
+          "en": "\"I don't think you can.\"",
+          "zh": "我不想你能。",
+          "startMs": 549800,
+          "endMs": 553630
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 533980,
+      "endMs": 553980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can't always keep children together,\" Said the woman.",
+          "zh": "我们不能总是保持孩子们一起， 说这女人。 的进程不， 说这女人。",
+          "startMs": 553630,
+          "endMs": 558270
+        },
+        {
+          "en": "\"Not even brothers and sisters.\" \"That's terrible,\" Said Chip.",
+          "zh": "不竟然弟弟和姐姐。 那个是可怕的。 咳！ 说 Chip。",
+          "startMs": 558270,
+          "endMs": 563630
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 563630,
+          "endMs": 568630
+        },
+        {
+          "en": "The adventure was over.",
+          "zh": "这冒险是在……上方。",
+          "startMs": 568630,
+          "endMs": 580630
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 553980,
+      "endMs": 580980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I didn't like that adventure,\" said Chip.",
+          "zh": "我没有喜欢那个冒险， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 580630,
+          "endMs": 583750
+        },
+        {
+          "en": "\"I was so scared being in that air raid.\"",
+          "zh": "我是所以惊恐的正在在……里那个空气突袭。",
+          "startMs": 583750,
+          "endMs": 586630
+        },
+        {
+          "en": "\"I felt sorry for the children,\" said Biff.",
+          "zh": "我感觉对不起为了这孩子们， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 586630,
+          "endMs": 590550
+        },
+        {
+          "en": "\"Imagine having to leave home and going to live with people you don't know.\"",
+          "zh": "想象有到离开家和去到住和……一起人们你不知道。",
+          "startMs": 590550,
+          "endMs": 596630
+        },
+        {
+          "en": "\"That poor little boy!\" Said Wilma.",
+          "zh": "那个贫穷的小的男孩！ 说 Wilma。 所以是我们， 说 Wilma。",
+          "startMs": 596840,
+          "endMs": 610630
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 580980,
+      "endMs": 610980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip asked Gran to tell them about the war.",
+          "zh": "Chip 问 Gran 到告诉他们关于这战争。",
+          "startMs": 610630,
+          "endMs": 611630
+        },
+        {
+          "en": "\"I never saw a banana,\" said Gran.",
+          "zh": "我从不看见一个香蕉， 说 Gran。 哦不！ 说 Gran。",
+          "startMs": 611630,
+          "endMs": 611830
+        },
+        {
+          "en": "\"There wasn't much food.",
+          "zh": "那里不是许多食物。",
+          "startMs": 611830,
+          "endMs": 614670
+        },
+        {
+          "en": "We didn't have lots of sweets or chocolate.",
+          "zh": "我们没有有许多的含糖的或者巧克力。",
+          "startMs": 614670,
+          "endMs": 619580
+        },
+        {
+          "en": "We didn't have nice soap and shampoo.",
+          "zh": "我们没有有好的肥皂和洗发剂。",
+          "startMs": 619580,
+          "endMs": 623880
+        },
+        {
+          "en": "We only had a bath once a week.\"",
+          "zh": "我们只有有一个洗澡一次一个星期。",
+          "startMs": 623880,
+          "endMs": 627630
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 610980,
+      "endMs": 627980
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the night of the play.",
+          "zh": "它是这夜晚的这玩。",
+          "startMs": 627630,
+          "endMs": 630690
+        },
+        {
+          "en": "Biff, Chip, Wilf and Wilma didn't laugh when they played their parts.",
+          "zh": "Biff， Chip， Wilf 和 Wilma 没有笑当……时他们玩他们的部分。",
+          "startMs": 630690,
+          "endMs": 638270
+        },
+        {
+          "en": "They remembered the magic adventure.",
+          "zh": "他们记得这魔法冒险。",
+          "startMs": 638270,
+          "endMs": 642630
+        },
+        {
+          "en": "They thought of the children waiting for the train to come in.",
+          "zh": "他们想的这孩子们等为了这火车到来在……里。",
+          "startMs": 642630,
+          "endMs": 646630
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 627980,
+      "endMs": 646980
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran was pleased with them.",
+          "zh": "Gran 是请和……一起他们。",
+          "startMs": 647000,
+          "endMs": 650440
+        },
+        {
+          "en": "\"You were really good,\" she said.",
+          "zh": "你是真的好的， 她说。",
+          "startMs": 650440,
+          "endMs": 655190
+        },
+        {
+          "en": "Biff told Gran a secret.",
+          "zh": "Biff 告诉 Gran 一个秘密。",
+          "startMs": 655190,
+          "endMs": 658520
+        },
+        {
+          "en": "\"The magic key showed us how hard it was in the war,\" she said.",
+          "zh": "这魔法钥匙展示我们如何困难的它是在……里这战争， 她说。",
+          "startMs": 658520,
+          "endMs": 660640
+        },
+        {
+          "en": "\"I'm glad we only had to act it.\"",
+          "zh": "我是高兴的我们只有有到行为它。",
+          "startMs": 660640,
+          "endMs": 664630
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 646980,
+      "endMs": 664980
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 664980,
+      "endMs": 664981
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 664981,
+      "endMs": 664982
+    }
+  ]
+}

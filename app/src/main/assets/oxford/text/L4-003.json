@@ -1,0 +1,225 @@
+{
+  "id": "L4-003",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The rain woke her up.",
+          "zh": "这雨醒来她向上。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin went downstairs.",
+          "zh": "Yasmin 去在楼下。",
+          "startMs": 5000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help!\" she said.",
+          "zh": "哦帮助！ 她说。",
+          "startMs": 11000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad came downstairs.",
+          "zh": "妈妈和爸爸来在楼下。",
+          "startMs": 10020,
+          "endMs": 16920
+        }
+      ],
+      "startMs": 10020,
+      "endMs": 16920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh help!\" said Dad.",
+          "zh": "哦帮助！ 说爸爸。",
+          "startMs": 11000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The shop was flooded.",
+          "zh": "这商店是洪水。",
+          "startMs": 18020,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 17870,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everything was wet.",
+          "zh": "一切是湿的。",
+          "startMs": 40000,
+          "endMs": 47100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a mess!\" said Yasmin.",
+          "zh": "什么一个脏乱！ 说 Yasmin。",
+          "startMs": 47020,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 46870,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cloth was wet.",
+          "zh": "这布料是湿的。",
+          "startMs": 56000,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 55850,
+      "endMs": 63450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the cloth outside.",
+          "zh": "他们拿这布料外面。",
+          "startMs": 63000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 62850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "MUSLIM SOR Siler \"Hang it up to dry,\" said Yasmin.",
+          "zh": "穆斯林 SOR Siler 夯它向上到干的， 说 Yasmin。",
+          "startMs": 71020,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 70870,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone helped.",
+          "zh": "每个人帮助。",
+          "startMs": 73990,
+          "endMs": 80533
+        },
+        {
+          "en": "No.",
+          "zh": "不。",
+          "startMs": 80533,
+          "endMs": 81760
+        }
+      ],
+      "startMs": 73990,
+      "endMs": 81760
+    },
+    {
+      "sentences": [
+        {
+          "en": "The sun came out.",
+          "zh": "这太阳来出。",
+          "startMs": 81760,
+          "endMs": 84590
+        }
+      ],
+      "startMs": 81760,
+      "endMs": 84590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks lovely,\" said everyone.",
+          "zh": "它看美丽的， 说每个人。",
+          "startMs": 72520,
+          "endMs": 90600
+        }
+      ],
+      "startMs": 72370,
+      "endMs": 90950
+    },
+    {
+      "sentences": [
+        {
+          "en": "HALAL MEAT \"Let's have a party,\" said Yasmin.",
+          "zh": "合乎伊斯兰教教法的肉让我们有一个聚会， 说 Yasmin。",
+          "startMs": 101000,
+          "endMs": 109100
+        }
+      ],
+      "startMs": 100850,
+      "endMs": 109450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was happy.",
+          "zh": "每个人是快乐的。",
+          "startMs": 109020,
+          "endMs": 116100
+        }
+      ],
+      "startMs": 108870,
+      "endMs": 116450
+    },
+    {
+      "sentences": [],
+      "startMs": 115570,
+      "endMs": 117392,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 117392,
+      "endMs": 117700,
+      "illustrationOnly": true
+    }
+  ]
+}

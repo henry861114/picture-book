@@ -1,0 +1,1105 @@
+{
+  "id": "L7-015",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had pulled up some floorboards.",
+          "zh": "爸爸有拉向上一些木地板条。",
+          "startMs": 56820,
+          "endMs": 60160
+        },
+        {
+          "en": "\"Hello!\" He said.",
+          "zh": "帮助！ 啊唷！ 她说。",
+          "startMs": 60190,
+          "endMs": 62720
+        },
+        {
+          "en": "\"What's this?\"",
+          "zh": "是什么这个？",
+          "startMs": 63240,
+          "endMs": 66360
+        },
+        {
+          "en": "Under the floor was a stone.",
+          "zh": "在……下方这地板是一个石块。",
+          "startMs": 66390,
+          "endMs": 67920
+        },
+        {
+          "en": "It had some strange writing on it.",
+          "zh": "它有一些奇怪的写在……上它。",
+          "startMs": 67950,
+          "endMs": 71080
+        },
+        {
+          "en": "Dad was going to throw the stone away,.",
+          "zh": "爸爸是去到扔这石块离开， 但是 Chip 想要到保持它。",
+          "startMs": 74820,
+          "endMs": 79320
+        },
+        {
+          "en": "But Chip wanted to keep it.",
+          "zh": "这孩子们想要到飞这风筝。",
+          "startMs": 79350,
+          "endMs": 81850
+        },
+        {
+          "en": "\"Look at this,\" he said to Biff.",
+          "zh": "看在这个。'",
+          "startMs": 81880,
+          "endMs": 87060
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 56670,
+      "endMs": 87410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Do you think the writing is Chinese?\"",
+          "zh": "做你想这写是中国的？",
+          "startMs": 87090,
+          "endMs": 88060
+        },
+        {
+          "en": "\"I don't know,\" said Biff.",
+          "zh": "我不知道， 说 Biff。 不， 说 Biff。",
+          "startMs": 88090,
+          "endMs": 92060
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 87410,
+      "endMs": 92410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip took the stone to school.",
+          "zh": "Chip 拿这石块到学校。",
+          "startMs": 92820,
+          "endMs": 96200
+        },
+        {
+          "en": "He showed it to a boy called Hong.",
+          "zh": "他展示它到一个男孩叫吽。",
+          "startMs": 96230,
+          "endMs": 99080
+        },
+        {
+          "en": "\"It is written in Chinese,\" said Hong.",
+          "zh": "它是写在……里中国的， 说吽。 不， 说伥。",
+          "startMs": 99110,
+          "endMs": 102060
+        },
+        {
+          "en": "\"I can't read it, but my grandfather can.\"",
+          "zh": "我不能读它， 但是我的外祖父能。",
+          "startMs": 102870,
+          "endMs": 105960
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 92670,
+      "endMs": 106310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hong's grandfather always came after school to take Hong home.",
+          "zh": "轰外祖父总是来在……之后学校到拿吽家。",
+          "startMs": 109820,
+          "endMs": 115920
+        },
+        {
+          "en": "Chip showed him the stone.",
+          "zh": "Chip 展示他这石块。",
+          "startMs": 115950,
+          "endMs": 117920
+        },
+        {
+          "en": "\"Yes, it is Chinese,\" said Hong's grandfather.",
+          "zh": "是， 它是中国的， 说轰外祖父。 全部正确的， 说轰外祖父。",
+          "startMs": 118960,
+          "endMs": 123070
+        },
+        {
+          "en": "\"It says, 'Do You Mind?\"",
+          "zh": "它说， '做你头脑？",
+          "startMs": 123100,
+          "endMs": 125930
+        },
+        {
+          "en": "\"What a strange question,\" Said Biff.",
+          "zh": "什么一个奇怪的问题， 说 Biff。 不， 说 Biff。",
+          "startMs": 125960,
+          "endMs": 130280
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 109670,
+      "endMs": 130630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It may be a riddle,\" said Hong's grandfather.",
+          "zh": "它梅是一个谜语， 说轰外祖父。",
+          "startMs": 130960,
+          "endMs": 133120
+        },
+        {
+          "en": "\"See!",
+          "zh": "看见！",
+          "startMs": 134960,
+          "endMs": 135740
+        },
+        {
+          "en": "The stone is broken.",
+          "zh": "这石块是打破。",
+          "startMs": 135940,
+          "endMs": 137760
+        },
+        {
+          "en": "Maybe the answer is on the other half.\"",
+          "zh": "也许这回答是在……上这其他一半。",
+          "startMs": 138360,
+          "endMs": 140580
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 130810,
+      "endMs": 140930
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"All right,\" said Hong's grandfather.",
+          "zh": "全部正确的， 说轰外祖父。",
+          "startMs": 140610,
+          "endMs": 142660
+        },
+        {
+          "en": "Chip gave Hong the stone to keep.",
+          "zh": "Chip 给吽这石块到保持。",
+          "startMs": 145580,
+          "endMs": 149900
+        },
+        {
+          "en": "He put it in his bag.",
+          "zh": "他放它在……里他的包。",
+          "startMs": 149930,
+          "endMs": 150520
+        },
+        {
+          "en": "\"May Hong come round to play with us?\" Asked Biff.",
+          "zh": "梅吽来圆形的到玩和……一起我们？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 152820,
+          "endMs": 159520
+        },
+        {
+          "en": "\"All right,\" said Hong's grandfather.",
+          "zh": "",
+          "startMs": 159550,
+          "endMs": 162060
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 140930,
+      "endMs": 162410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to play in Biff's room.",
+          "zh": "他们去到玩在……里 Biff 房间。",
+          "startMs": 164120,
+          "endMs": 166720
+        },
+        {
+          "en": "\"What is a riddle?\" Asked Chip.",
+          "zh": "什么是这谜语？ 什么是它？ 问 Chip。",
+          "startMs": 166960,
+          "endMs": 170060
+        },
+        {
+          "en": "\"It's a puzzle in words,\" said Hong.",
+          "zh": "它是一个谜在……里单词， 说吽。 不， 说伥。",
+          "startMs": 170090,
+          "endMs": 180060
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 163970,
+      "endMs": 180410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Here is a good riddle,' said Hong.",
+          "zh": "这里是一个好的谜语，' 说吽。",
+          "startMs": 180090,
+          "endMs": 183130
+        },
+        {
+          "en": "\"How do you spell 'hungry horse' using only four letters?\"",
+          "zh": "如何做你咒语 '饿的马' 我们只有四信？",
+          "startMs": 183130,
+          "endMs": 183720
+        },
+        {
+          "en": "\"We don't know,\" said Biff.",
+          "zh": "我们不知道， 说 Biff。 不， 说 Biff。",
+          "startMs": 183960,
+          "endMs": 187060
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 180410,
+      "endMs": 187410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's easy,\" Laughed Hong.",
+          "zh": "它是容易的， 说吽。 它是容易的， 笑吽。",
+          "startMs": 187090,
+          "endMs": 190060
+        },
+        {
+          "en": "\"M T G G.",
+          "zh": "",
+          "startMs": 190060,
+          "endMs": 192200
+        },
+        {
+          "en": "Here's another riddle.",
+          "zh": "这里另一个谜语。",
+          "startMs": 192230,
+          "endMs": 194700
+        },
+        {
+          "en": "What is this?",
+          "zh": "什么是这个？",
+          "startMs": 195120,
+          "endMs": 196520
+        },
+        {
+          "en": "The more it dries the more it gets wet.\"",
+          "zh": "这更多它干的这更多它得到湿的。",
+          "startMs": 196550,
+          "endMs": 199920
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 200400,
+          "endMs": 203840
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 187410,
+      "endMs": 204190
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a rocky valley.",
+          "zh": "这魔法拿他们到一个岩石的山谷。",
+          "startMs": 217960,
+          "endMs": 222060
+        },
+        {
+          "en": "Four paths met.",
+          "zh": "四小路遇见。",
+          "startMs": 223960,
+          "endMs": 226200
+        },
+        {
+          "en": "There was a signpost pointing four ways.",
+          "zh": "那里是一个路标勾缝水泥四方式。",
+          "startMs": 226230,
+          "endMs": 229420
+        },
+        {
+          "en": "Each way pointed to Riddle Mountain.",
+          "zh": "每个方式尖的到谜语山。",
+          "startMs": 229450,
+          "endMs": 232220
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 217810,
+      "endMs": 232570
+    },
+    {
+      "sentences": [
+        {
+          "en": "A boy was sitting on a rock.",
+          "zh": "一个男孩是坐在……上一个岩石。",
+          "startMs": 232820,
+          "endMs": 235920
+        },
+        {
+          "en": "\"My name is Tai,\" He said.",
+          "zh": "我的名字是 Ty， 他说。 啊唷！ 她说。",
+          "startMs": 237820,
+          "endMs": 241040
+        },
+        {
+          "en": "\"I want to go to Riddle Mountain, but I don't know which path to take.",
+          "zh": "我想要到去到谜语山， 但是我不知道哪个小路到拿。",
+          "startMs": 241070,
+          "endMs": 246200
+        },
+        {
+          "en": "I can't think of the answer to this riddle.\"",
+          "zh": "我不能想的这回答到这个谜语。",
+          "startMs": 246230,
+          "endMs": 248920
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 232670,
+      "endMs": 249270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The riddle was on a tall post.",
+          "zh": "这谜语是在……上一个高的柱。",
+          "startMs": 252820,
+          "endMs": 256520
+        },
+        {
+          "en": "It said, \"It's only one colour, but it can grow.",
+          "zh": "它说， 它是只有一颜色， 但是它能生长。",
+          "startMs": 256550,
+          "endMs": 260820
+        },
+        {
+          "en": "Sticks to your feet, wherever you go.",
+          "zh": "枝条到你的脚， 究竟在哪里你去。",
+          "startMs": 260850,
+          "endMs": 263780
+        },
+        {
+          "en": "There in the sun, not in the rain.",
+          "zh": "那里在……里这太阳， 不在……里这雨。",
+          "startMs": 263820,
+          "endMs": 267380
+        },
+        {
+          "en": "Never does harm, never feels pain.\"",
+          "zh": "从不做损害， 从不感觉痛苦。",
+          "startMs": 268150,
+          "endMs": 271250
+        },
+        {
+          "en": "\"The answer is a shadow,\" Said Hong.",
+          "zh": "这回答是一个阴影， 说吽。 不， 说伥。",
+          "startMs": 273820,
+          "endMs": 277280
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 252670,
+      "endMs": 277630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the shadow of the post.",
+          "zh": "看在这阴影的这柱。",
+          "startMs": 277310,
+          "endMs": 279740
+        },
+        {
+          "en": "It points up that path.",
+          "zh": "它尖向上那个小路。",
+          "startMs": 279960,
+          "endMs": 281070
+        },
+        {
+          "en": "That must be the way.\" \"Are you sure?\" Asked Biff.",
+          "zh": "那个必须是这方式。 是你确信的？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 281100,
+          "endMs": 285370
+        },
+        {
+          "en": "\"Yes, it's a riddle,\" said Ty.",
+          "zh": "是， 它是一个谜语， 说 Ty。 » 说 Nadim。",
+          "startMs": 285960,
+          "endMs": 289060
+        },
+        {
+          "en": "\"Let's go!\" Said Tai.",
+          "zh": "让我们去！ » 说 Nadim。",
+          "startMs": 289060,
+          "endMs": 301060
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 277630,
+      "endMs": 301410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It is hard to get to Riddle Mountain,\" said Ty.",
+          "zh": "它是困难的到得到到谜语山， 说 Ty。",
+          "startMs": 301090,
+          "endMs": 304790
+        },
+        {
+          "en": "\"It will be dangerous.",
+          "zh": "它将是危险的。",
+          "startMs": 304790,
+          "endMs": 304990
+        },
+        {
+          "en": "I may never get there.\"",
+          "zh": "我梅从不得到那里。",
+          "startMs": 304990,
+          "endMs": 305190
+        },
+        {
+          "en": "\"Then why do you have to go?\" Asked Biff.",
+          "zh": "然后为什么做你有到去？ 问 Biff。 谁是你？ 问 Biff。 » 说 Nadim。",
+          "startMs": 305190,
+          "endMs": 309700
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 301410,
+      "endMs": 310050
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want to be the Riddle Maker,\" said Ty.",
+          "zh": "我想要到是这谜语做， 说 Ty。",
+          "startMs": 309730,
+          "endMs": 311920
+        },
+        {
+          "en": "\"I have to get to Riddle Mountain.",
+          "zh": "我有到得到到谜语山。",
+          "startMs": 312830,
+          "endMs": 314920
+        },
+        {
+          "en": "I have to answer all the riddles on the way.",
+          "zh": "我有到回答全部这谜语在……上这方式。",
+          "startMs": 314950,
+          "endMs": 318080
+        },
+        {
+          "en": "The last riddle is the hardest.",
+          "zh": "这最后的谜语是这困难的。",
+          "startMs": 318110,
+          "endMs": 319920
+        },
+        {
+          "en": "No one has ever found the answer.\" Said Chip.",
+          "zh": "不一有在任何时候找到这回答。 哦！ 说 Chip。",
+          "startMs": 319960,
+          "endMs": 331920
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 310050,
+      "endMs": 332270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a huge giant stood in the way.",
+          "zh": "突然地， 一个极大的巨人站在……里这方式。",
+          "startMs": 331950,
+          "endMs": 335920
+        },
+        {
+          "en": "\"I hope he's friendly,\" said Chip.",
+          "zh": "我希望他是友好的， 说 Chip。",
+          "startMs": 335960,
+          "endMs": 338650
+        },
+        {
+          "en": "\"Answer this riddle and you can pass by,\" roared the giant.",
+          "zh": "回答这个谜语和你能通过由， 咆哮这巨人。",
+          "startMs": 339960,
+          "endMs": 347060
+        },
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 351670,
+          "endMs": 353340
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 332270,
+      "endMs": 353690
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Write down how much I weigh,\" he said.",
+          "zh": "我写这单词 '如何许多我有'， 说吽。",
+          "startMs": 353370,
+          "endMs": 356410
+        },
+        {
+          "en": "\"But he must weigh tons,\" Said Biff.",
+          "zh": "但是他必须有 tonnes！ 说 Biff。",
+          "startMs": 356410,
+          "endMs": 357000
+        },
+        {
+          "en": "\"No, it's a riddle,\" said Hong.",
+          "zh": "不， 它是一个谜语， 说吽。 » 说 Nadim。",
+          "startMs": 357000,
+          "endMs": 361070
+        },
+        {
+          "en": "\"I can do it.\"",
+          "zh": "我能做它。",
+          "startMs": 361100,
+          "endMs": 361770
+        },
+        {
+          "en": "He wrote down the answer.",
+          "zh": "他写向下这回答。",
+          "startMs": 365820,
+          "endMs": 367920
+        },
+        {
+          "en": "\"Good luck in the land of riddles,\" Said the giant.",
+          "zh": "如何有好的运气在……里这陆地的谜语， 说这巨人。 哦不！ 说这双胞胎之一。",
+          "startMs": 372820,
+          "endMs": 378760
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 353690,
+      "endMs": 379110
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What did you write down?\" Asked Chip.",
+          "zh": "什么做你写向下？ 问 Chip。 什么是它？ 问 Chip。",
+          "startMs": 380820,
+          "endMs": 384920
+        },
+        {
+          "en": "\"I wrote the words 'how much I weigh',\" said Hong.",
+          "zh": "我写这单词 '如何许多我有'， 说吽。 » 说 Nadim。",
+          "startMs": 384950,
+          "endMs": 389060
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 380670,
+      "endMs": 389410
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was not far to the top of the hill.",
+          "zh": "它是不远到这顶的这小山。",
+          "startMs": 389090,
+          "endMs": 392760
+        },
+        {
+          "en": "Suddenly, a dragon stood in the way.",
+          "zh": "突然地， 一个龙站在……里这方式。",
+          "startMs": 393390,
+          "endMs": 397160
+        },
+        {
+          "en": "\"I hope he's friendly,\" Said Hom.",
+          "zh": "我希望他是友好的， 说 Chip。 » 说 Nadim。",
+          "startMs": 399820,
+          "endMs": 403920
+        },
+        {
+          "en": "\"Look!\" Said Biff.",
+          "zh": "看！ 不， 说 Biff。",
+          "startMs": 403960,
+          "endMs": 407060
+        },
+        {
+          "en": "\"There are bubbles coming out of his mouth!\"",
+          "zh": "那里是泡泡来出的他的嘴！",
+          "startMs": 407090,
+          "endMs": 410380
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 389410,
+      "endMs": 410730
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dragon spoke.",
+          "zh": "这龙说。",
+          "startMs": 413820,
+          "endMs": 415920
+        },
+        {
+          "en": "\"Over there is Riddle Mountain,\" it said.",
+          "zh": "在……上方那里是谜语山， 它说。",
+          "startMs": 416960,
+          "endMs": 421930
+        },
+        {
+          "en": "\"You have a long way to go.\" \"Help!\" Said Tide.",
+          "zh": "你有一个长的方式到去。 帮助！ 她有一个主意。",
+          "startMs": 421960,
+          "endMs": 427690
+        },
+        {
+          "en": "\"The journey looks dangerous.\"",
+          "zh": "这旅行看危险的。",
+          "startMs": 427820,
+          "endMs": 429520
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 413670,
+      "endMs": 429870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Below was a black lake.",
+          "zh": "在是一个黑色的拉客。",
+          "startMs": 429820,
+          "endMs": 432720
+        },
+        {
+          "en": "Across the lake, the land was dry and rocky.",
+          "zh": "穿过这拉客， 这陆地是干的和岩石的。",
+          "startMs": 432860,
+          "endMs": 437040
+        },
+        {
+          "en": "Beyond, there was a deep river and dark forest.",
+          "zh": "在， 那里是一个深的河和黑暗的为了。",
+          "startMs": 437070,
+          "endMs": 441920
+        },
+        {
+          "en": "Far away was a tall, grey mountain.",
+          "zh": "远离开是一个高的， 灰色的山。",
+          "startMs": 441950,
+          "endMs": 445920
+        },
+        {
+          "en": "It said.",
+          "zh": "它是一个风筝。",
+          "startMs": 464100,
+          "endMs": 465060
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 429870,
+      "endMs": 465410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Huge bubbles came out of the dragon's jaws.",
+          "zh": "极大的泡泡来出的这龙颌。",
+          "startMs": 465090,
+          "endMs": 468130
+        },
+        {
+          "en": "\"Answer this riddle,\" it said.",
+          "zh": "回答这个谜语， 它说。",
+          "startMs": 468130,
+          "endMs": 468330
+        },
+        {
+          "en": "\"How many sides does a bubble have?\" \"That's easy,\" Said Hom.",
+          "zh": "如何许多面做一个泡泡有？ 那是容易的， 他说。",
+          "startMs": 468330,
+          "endMs": 468530
+        },
+        {
+          "en": "\"It has two, the inside and the outside,\" He said.",
+          "zh": "这里面和这外面， 他说。 啊唷！ 她说。",
+          "startMs": 468530,
+          "endMs": 470160
+        },
+        {
+          "en": "\"Good,\" \"Good,\" said the dragon.",
+          "zh": "好的。",
+          "startMs": 470190,
+          "endMs": 473300
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 465410,
+      "endMs": 473650
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now step inside this bubble.\"",
+          "zh": "现在迈步里面这个泡泡。",
+          "startMs": 473330,
+          "endMs": 476060
+        },
+        {
+          "en": "Hom stepped into the bubble.",
+          "zh": "吽迈步进入这泡泡。",
+          "startMs": 476090,
+          "endMs": 480070
+        },
+        {
+          "en": "It began to float away. Yelled Hom.",
+          "zh": "它开始到浮离开。 帮助！ 叫喊吽。",
+          "startMs": 480100,
+          "endMs": 487590
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 473650,
+      "endMs": 487940
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Step into a bubble,\" yelled Hong.",
+          "zh": "迈步进入一个泡泡， 叫喊吽。",
+          "startMs": 487960,
+          "endMs": 490200
+        },
+        {
+          "en": "They all stepped inside the bubbles and floated up and up.",
+          "zh": "他们全部迈步里面这泡泡和浮向上和向上。",
+          "startMs": 491820,
+          "endMs": 497600
+        },
+        {
+          "en": "\"This is scary,\" said Biff.",
+          "zh": "这个是可怕的， 说 Biff。 不， 说 Biff。",
+          "startMs": 497960,
+          "endMs": 502070
+        },
+        {
+          "en": "\"What if the bubbles pop?\"",
+          "zh": "什么如果这泡泡砰？",
+          "startMs": 502100,
+          "endMs": 504650
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 487940,
+      "endMs": 505000
+    },
+    {
+      "sentences": [
+        {
+          "en": "They floated on and on.",
+          "zh": "他们浮在……上和在……上。",
+          "startMs": 505820,
+          "endMs": 508920
+        },
+        {
+          "en": "At last, they began to float down to the black lake.",
+          "zh": "在最后的， 他们开始到浮向下到这黑色的拉客。",
+          "startMs": 508950,
+          "endMs": 513600
+        },
+        {
+          "en": "\"I hope the bubbles don't pop here,\" yelled Chip.",
+          "zh": "我希望这泡泡不砰这里， 叫喊 Chip。 看出！ 叫喊 Chip。",
+          "startMs": 513960,
+          "endMs": 520060
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 505670,
+      "endMs": 520410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then the bubbles popped and the children fell into the lake.",
+          "zh": "然后这泡泡砰和这孩子们落下进入这拉客。",
+          "startMs": 521820,
+          "endMs": 526880
+        },
+        {
+          "en": "Suddenly, a huge serpent rose out of the water.",
+          "zh": "突然地， 一个极大的巨蛇 rose 出的这水。",
+          "startMs": 533830,
+          "endMs": 538420
+        },
+        {
+          "en": "\"I don't like this adventure,\" said Biff.",
+          "zh": "我不喜欢这个冒险， 说 Biff。 不， 说 Biff。",
+          "startMs": 541960,
+          "endMs": 546070
+        },
+        {
+          "en": "\"What is this?\"",
+          "zh": "什么是这个？",
+          "startMs": 546160,
+          "endMs": 547730
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 521670,
+      "endMs": 548080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Good,\" said the serpent.",
+          "zh": "好的， 说这巨蛇。",
+          "startMs": 547960,
+          "endMs": 550060
+        },
+        {
+          "en": "Said the serpent, \"the more it dries, the more it gets wet?\" \"It's easy,\" Said Hom.",
+          "zh": "什么是这个？ 说这巨蛇， 这更多它干的， 这更多它得到湿的？ 它是容易的， 说吽。",
+          "startMs": 550090,
+          "endMs": 556990
+        },
+        {
+          "en": "\"It's a towel.\" \"Good,\" \"Good,\" said the serpent.",
+          "zh": "它是一个毛巾。 好的。",
+          "startMs": 557020,
+          "endMs": 563040
+        },
+        {
+          "en": "\"Now climb on my back.\"",
+          "zh": "现在爬在……上我的回来。",
+          "startMs": 563040,
+          "endMs": 565060
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 548080,
+      "endMs": 565410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The serpent swam across the lake.",
+          "zh": "这巨蛇游泳穿过这拉客。",
+          "startMs": 567820,
+          "endMs": 571280
+        },
+        {
+          "en": "\"How do you know the answer to all these riddles, Hong?\" Asked Ty.",
+          "zh": "如何做你知道这回答到全部这些谜语， 吽？ 问 Ty。 爸爸问。",
+          "startMs": 571820,
+          "endMs": 575920
+        },
+        {
+          "en": "\"I don't know,\" Said Hom.",
+          "zh": "我不知道， 说吽。",
+          "startMs": 575950,
+          "endMs": 579280
+        },
+        {
+          "en": "\"They just come to me.\"",
+          "zh": "他们刚刚来到我。",
+          "startMs": 579310,
+          "endMs": 580520
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 567670,
+      "endMs": 580870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Goblins were waiting for the children.",
+          "zh": "小妖怪是等为了这孩子们。",
+          "startMs": 584900,
+          "endMs": 587760
+        },
+        {
+          "en": "They pulled and pinched them.",
+          "zh": "他们拉和苍白清瘦的他们。",
+          "startMs": 587940,
+          "endMs": 590860
+        },
+        {
+          "en": "\"Ouch!",
+          "zh": "哎哟！",
+          "startMs": 590920,
+          "endMs": 591960
+        },
+        {
+          "en": "That hurts,\" Said Chip.",
+          "zh": "那个受伤。 哦！ 说 Chip。",
+          "startMs": 591990,
+          "endMs": 594630
+        },
+        {
+          "en": "\"Ha!",
+          "zh": "哈！",
+          "startMs": 594820,
+          "endMs": 595500
+        },
+        {
+          "en": "You won't answer the next riddle,\" Said one of the goblins.",
+          "zh": "你不会回答这下一个谜语， 说一的这小妖怪。",
+          "startMs": 596050,
+          "endMs": 600910
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 584750,
+      "endMs": 601260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The goblins put the children in a cage.",
+          "zh": "这小妖怪放这孩子们在……里一个笼子。",
+          "startMs": 606820,
+          "endMs": 611220
+        },
+        {
+          "en": "One of the goblins stole the magic key.",
+          "zh": "一的这小妖怪 stole 这魔法钥匙。",
+          "startMs": 611250,
+          "endMs": 614930
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哦不！ 不， 说 Biff。",
+          "startMs": 614960,
+          "endMs": 618960
+        },
+        {
+          "en": "\"Now we can't get back from this adventure.\"",
+          "zh": "现在我们不能得到回来从这个冒险。",
+          "startMs": 618990,
+          "endMs": 622090
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 606670,
+      "endMs": 622440
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Goblin King spoke to them.",
+          "zh": "这小妖怪国王说到他们。",
+          "startMs": 622120,
+          "endMs": 625920
+        },
+        {
+          "en": "\"Answer this,\" He said.",
+          "zh": "回答这个， 他说。 啊唷！",
+          "startMs": 625970,
+          "endMs": 628060
+        },
+        {
+          "en": "\"How do you want to die?\" Said Chip.",
+          "zh": "如何做你想要到帝俄？ 哦！ 说 Chip。",
+          "startMs": 628090,
+          "endMs": 632240
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 622440,
+      "endMs": 632590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We don't want to die.\"",
+          "zh": "我们不想要到帝俄。",
+          "startMs": 632270,
+          "endMs": 633250
+        },
+        {
+          "en": "Hom began to laugh.",
+          "zh": "吽开始到笑。",
+          "startMs": 637820,
+          "endMs": 640920
+        },
+        {
+          "en": "\"Ha, ha, ha, ha, ha.\"",
+          "zh": "",
+          "startMs": 640950,
+          "endMs": 648060
+        },
+        {
+          "en": "\"It's not funny,\" said Biff.",
+          "zh": "它是不有趣的， 说 Biff。 不， 说 Biff。",
+          "startMs": 651960,
+          "endMs": 652500
+        },
+        {
+          "en": "\"We don't want to die.\"",
+          "zh": "我们不想要到帝俄。",
+          "startMs": 652530,
+          "endMs": 654580
+        },
+        {
+          "en": "\"It's a riddle,\" said Hong.",
+          "zh": "它是一个谜语， 说吽。",
+          "startMs": 654580,
+          "endMs": 654780
+        },
+        {
+          "en": "\"Don't worry.",
+          "zh": "不担心。",
+          "startMs": 654780,
+          "endMs": 654980
+        },
+        {
+          "en": "I know the answer.\"",
+          "zh": "我知道这回答。",
+          "startMs": 654980,
+          "endMs": 655180
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 632590,
+      "endMs": 655530
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 655530,
+      "endMs": 655531
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 655531,
+      "endMs": 655532
+    }
+  ]
+}

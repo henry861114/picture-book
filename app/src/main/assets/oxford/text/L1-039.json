@@ -1,0 +1,177 @@
+{
+  "id": "L1-039",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had a map.",
+          "zh": "爸爸有一个地图。",
+          "startMs": 0,
+          "endMs": 8310
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8310
+    },
+    {
+      "sentences": [
+        {
+          "en": "He hid the map in the sand.",
+          "zh": "他 hid 这地图在……里这沙。",
+          "startMs": 8310,
+          "endMs": 16514
+        }
+      ],
+      "startMs": 8310,
+      "endMs": 16514
+    },
+    {
+      "sentences": [],
+      "startMs": 16514,
+      "endMs": 17314,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff found the map.",
+          "zh": "Biff 找到这地图。",
+          "startMs": 34980,
+          "endMs": 38360
+        }
+      ],
+      "startMs": 34830,
+      "endMs": 38710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It is a treasure map,\" she said.",
+          "zh": "它是一个宝藏地图， 她说。",
+          "startMs": 27980,
+          "endMs": 37430
+        }
+      ],
+      "startMs": 27980,
+      "endMs": 37430
+    },
+    {
+      "sentences": [
+        {
+          "en": "The map said, \"Dig here.\"",
+          "zh": "这地图说， 掘这里。",
+          "startMs": 34980,
+          "endMs": 65340
+        }
+      ],
+      "startMs": 34830,
+      "endMs": 65690
+    },
+    {
+      "sentences": [
+        {
+          "en": "rack",
+          "zh": "支架",
+          "startMs": 48610,
+          "endMs": 49410
+        }
+      ],
+      "startMs": 48610,
+      "endMs": 49410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Dig here,\" said Biff.",
+          "zh": "掘这里， 说 Biff。",
+          "startMs": 73100,
+          "endMs": 75100
+        }
+      ],
+      "startMs": 72950,
+      "endMs": 75450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip dug in the sand.",
+          "zh": "Chip dug 在……里这沙。",
+          "startMs": 76240,
+          "endMs": 85340
+        }
+      ],
+      "startMs": 76090,
+      "endMs": 85690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip found a box.",
+          "zh": "Chip 找到一个盒子。",
+          "startMs": 85240,
+          "endMs": 89340
+        }
+      ],
+      "startMs": 85090,
+      "endMs": 89690
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Is it a box of treasure?\" he said.",
+          "zh": "是它一个盒子的宝藏？ 他说。",
+          "startMs": 89240,
+          "endMs": 99340
+        }
+      ],
+      "startMs": 89090,
+      "endMs": 99690
+    },
+    {
+      "sentences": [
+        {
+          "en": "No.",
+          "zh": "不。",
+          "startMs": 99460,
+          "endMs": 101240
+        },
+        {
+          "en": "It was a box of sweets!",
+          "zh": "它是一个盒子的含糖的！",
+          "startMs": 101140,
+          "endMs": 109340
+        }
+      ],
+      "startMs": 99310,
+      "endMs": 109565
+    },
+    {
+      "sentences": [],
+      "startMs": 94500,
+      "endMs": 98083,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, it was a box of sweets.\"",
+          "zh": "不， 它是一个盒子的含糖的。",
+          "startMs": 99460,
+          "endMs": 109340
+        }
+      ],
+      "startMs": 99310,
+      "endMs": 109565
+    }
+  ]
+}

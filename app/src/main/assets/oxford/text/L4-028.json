@@ -1,0 +1,399 @@
+{
+  "id": "L4-028",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had been shopping.",
+          "zh": "妈妈有是商店。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a new dress.",
+          "zh": "Biff 有一个新的连衣裙。",
+          "startMs": 12520,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 12370,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had a shirt and Kipper had a new top.",
+          "zh": "Chip 有一个衬衫和 Kipper 有一个新的顶。",
+          "startMs": 18310,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 18160,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the dress.",
+          "zh": "Biff 看在这连衣裙。",
+          "startMs": 25030,
+          "endMs": 27100
+        }
+      ],
+      "startMs": 24880,
+      "endMs": 27450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put it on,\" said Mum.",
+          "zh": "放它在……上， 说妈妈。",
+          "startMs": 21560,
+          "endMs": 25684
+        },
+        {
+          "en": "\"I want you to look smart.\"",
+          "zh": "我想要你到看漂亮的。",
+          "startMs": 25684,
+          "endMs": 30745
+        }
+      ],
+      "startMs": 21560,
+      "endMs": 30745
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked at the top.",
+          "zh": "Kipper 看在这顶。",
+          "startMs": 35000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 34850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Put it on,\" said Mum.",
+          "zh": "放它在……上， 说妈妈。",
+          "startMs": 35543,
+          "endMs": 38855
+        },
+        {
+          "en": "\"I want you to look smart.\"",
+          "zh": "我想要你到看漂亮的。",
+          "startMs": 38855,
+          "endMs": 42920
+        }
+      ],
+      "startMs": 35543,
+      "endMs": 42920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come here, Chip,\" said Mum.",
+          "zh": "来这里， Chip， 说妈妈。",
+          "startMs": 46000,
+          "endMs": 48740
+        },
+        {
+          "en": "\"Put on this shirt.\"",
+          "zh": "放在……上这个衬衫。",
+          "startMs": 48640,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I know,\" said Chip.",
+          "zh": "我知道， 说 Chip。",
+          "startMs": 51000,
+          "endMs": 52100
+        },
+        {
+          "en": "\"You want me to look smart.\"",
+          "zh": "你想要我到看漂亮的。",
+          "startMs": 52000,
+          "endMs": 55100
+        }
+      ],
+      "startMs": 50850,
+      "endMs": 55450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad came in with a tray.",
+          "zh": "爸爸来在……里和……一起一个托盘。",
+          "startMs": 58030,
+          "endMs": 60100
+        },
+        {
+          "en": "He fell over a bag.",
+          "zh": "他落下在……上方一个包。",
+          "startMs": 60000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 57880,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A cup fell over.",
+          "zh": "一个杯子落下在……上方。",
+          "startMs": 63000,
+          "endMs": 64100
+        }
+      ],
+      "startMs": 62850,
+      "endMs": 64450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some chocolate went over Kipper's top.",
+          "zh": "一些巧克力去在……上方 Kipper 顶。",
+          "startMs": 71000,
+          "endMs": 73100
+        }
+      ],
+      "startMs": 70850,
+      "endMs": 73450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\"",
+          "zh": "哦不！",
+          "startMs": 74000,
+          "endMs": 75100
+        },
+        {
+          "en": "Kipper: \"Chocolate all over my top.\"",
+          "zh": "Kipper： 巧克力全部在……上方我的顶。",
+          "startMs": 76000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 73850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff sat down.",
+          "zh": "Biff 坐向下。",
+          "startMs": 84000,
+          "endMs": 85100
+        },
+        {
+          "en": "She sat on Mum's lipstick.",
+          "zh": "她坐在……上妈妈口红。",
+          "startMs": 85000,
+          "endMs": 87100
+        }
+      ],
+      "startMs": 83850,
+      "endMs": 87450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Biff.",
+          "zh": "哦不！ 说 Biff。",
+          "startMs": 94590,
+          "endMs": 102514
+        },
+        {
+          "en": "\"Lipstick on my dress.",
+          "zh": "口红在……上我的连衣裙。",
+          "startMs": 102514,
+          "endMs": 111690
+        }
+      ],
+      "startMs": 94590,
+      "endMs": 111690
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran in with muddy paws.",
+          "zh": "Floppy 跑在……里和……一起泥泞的爪。",
+          "startMs": 97000,
+          "endMs": 100170
+        },
+        {
+          "en": "He jumped up at Chip.",
+          "zh": "他跳向上在 Chip。",
+          "startMs": 100070,
+          "endMs": 103100
+        }
+      ],
+      "startMs": 96850,
+      "endMs": 103450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh Floppy!\" said Chip.",
+          "zh": "哦 Floppy！ 说 Chip。",
+          "startMs": 106000,
+          "endMs": 109170
+        },
+        {
+          "en": "\"Mud all over my shirt.\"",
+          "zh": "淤泥全部在……上方我的衬衫。",
+          "startMs": 109070,
+          "endMs": 111100
+        }
+      ],
+      "startMs": 105850,
+      "endMs": 111450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can put on my old top,\" said Kipper.",
+          "zh": "我能放在……上我的旧的顶， 说 Kipper。",
+          "startMs": 119000,
+          "endMs": 147840
+        }
+      ],
+      "startMs": 118850,
+      "endMs": 148190
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No,\" said Mum.",
+          "zh": "不， 说妈妈。",
+          "startMs": 120950,
+          "endMs": 125100
+        },
+        {
+          "en": "\"I want you all to look smart.\"",
+          "zh": "我想要你全部到看漂亮的。",
+          "startMs": 126000,
+          "endMs": 128100
+        }
+      ],
+      "startMs": 120800,
+      "endMs": 128450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Smart clothes,\" said Mum.",
+          "zh": "漂亮的衣服， 说妈妈。",
+          "startMs": 136000,
+          "endMs": 136400
+        },
+        {
+          "en": "\"Put them on.",
+          "zh": "放他们在……上。",
+          "startMs": 136300,
+          "endMs": 140100
+        }
+      ],
+      "startMs": 135850,
+      "endMs": 140450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put them on.",
+          "zh": "这孩子们放他们在……上。",
+          "startMs": 141000,
+          "endMs": 142100
+        }
+      ],
+      "startMs": 140850,
+      "endMs": 142450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They set off for the party.",
+          "zh": "他们设置离开为了这聚会。",
+          "startMs": 147030,
+          "endMs": 149100
+        },
+        {
+          "en": "A lorry went by.",
+          "zh": "一个卡车去由。",
+          "startMs": 149000,
+          "endMs": 151100
+        }
+      ],
+      "startMs": 146880,
+      "endMs": 151450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splash!",
+          "zh": "溅泼声！",
+          "startMs": 156000,
+          "endMs": 157100
+        }
+      ],
+      "startMs": 155850,
+      "endMs": 157450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good job!\" said Dad.",
+          "zh": "什么一个好的工作！ 说爸爸。",
+          "startMs": 162000,
+          "endMs": 165150
+        },
+        {
+          "en": "\"Nobody looks smart.\"",
+          "zh": "没有人看漂亮的。",
+          "startMs": 165050,
+          "endMs": 166100
+        }
+      ],
+      "startMs": 161850,
+      "endMs": 166450
+    },
+    {
+      "sentences": [],
+      "startMs": 174867,
+      "endMs": 175250,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 175367,
+      "endMs": 175250,
+      "illustrationOnly": true
+    }
+  ]
+}

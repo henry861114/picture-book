@@ -1,0 +1,641 @@
+{
+  "id": "L5-024",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had a lot of drawings.",
+          "zh": "Wilma 画了很多画。",
+          "startMs": 29,
+          "endMs": 5820
+        },
+        {
+          "en": "They were all pictures of girls.",
+          "zh": "画的都是女孩子的样子。",
+          "startMs": 6980,
+          "endMs": 9240
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 9590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I like drawing clothes,\" Wilma said.",
+          "zh": "“我喜欢画衣服，”Wilma 说。",
+          "startMs": 9540,
+          "endMs": 16650
+        },
+        {
+          "en": "Biff looked at Wilma's pictures.",
+          "zh": "Biff 看了看 Wilma 的画。",
+          "startMs": 16680,
+          "endMs": 19730
+        },
+        {
+          "en": "\"They are good,\" she said.",
+          "zh": "“画得很好，”她说。",
+          "startMs": 19760,
+          "endMs": 23980
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 9590,
+      "endMs": 24330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was painting a picture.",
+          "zh": "Chip 正在画画。",
+          "startMs": 24010,
+          "endMs": 25900
+        },
+        {
+          "en": "He was painting a volcano.",
+          "zh": "他在画一座火山。",
+          "startMs": 26060,
+          "endMs": 28580
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 24330,
+      "endMs": 28930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma moved her leg.",
+          "zh": "Wilma 动了动腿。",
+          "startMs": 32870,
+          "endMs": 37360
+        },
+        {
+          "en": "She kicked Chip's water over.",
+          "zh": "她把 Chip 的水踢翻了。",
+          "startMs": 38040,
+          "endMs": 40240
+        },
+        {
+          "en": "\"Whoops!\" Said Wilma.",
+          "zh": "“哎呀！” Wilma 说道。",
+          "startMs": 40610,
+          "endMs": 44260
+        },
+        {
+          "en": "\"Sorry.\"",
+          "zh": "“对不起！”",
+          "startMs": 45240,
+          "endMs": 46160
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 32720,
+      "endMs": 46510
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water ran over Chip's picture.",
+          "zh": "水流到了 Chip 的画上。",
+          "startMs": 46400,
+          "endMs": 50500
+        },
+        {
+          "en": "Chip was cross.",
+          "zh": "Chip 生气了。",
+          "startMs": 50730,
+          "endMs": 52500
+        },
+        {
+          "en": "\"My picture is a mess now!\" He said.",
+          "zh": "“我的画现在乱七八糟的！” 他说。",
+          "startMs": 52530,
+          "endMs": 55930
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 46510,
+      "endMs": 56280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip flicked paint over Wilma's picture.",
+          "zh": "Chip 把颜料甩到了 Wilma 的画上。",
+          "startMs": 59760,
+          "endMs": 64810
+        },
+        {
+          "en": "\"Your drawings are silly,\" he said.",
+          "zh": "“你的画太傻了，”他说。",
+          "startMs": 64840,
+          "endMs": 68640
+        },
+        {
+          "en": "Biff told Chip to say sorry.",
+          "zh": "Biff 让 Chip 道歉。",
+          "startMs": 68670,
+          "endMs": 71940
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 59610,
+      "endMs": 72290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was too cross to say sorry.",
+          "zh": "Chip 气得说不出“对不起”。",
+          "startMs": 71970,
+          "endMs": 74250
+        },
+        {
+          "en": "He flicked paint at Wilma.",
+          "zh": "他朝 Wilma 弹了一下颜料。",
+          "startMs": 74790,
+          "endMs": 76960
+        },
+        {
+          "en": "Then the key began to glow.",
+          "zh": "这时，钥匙开始发光。",
+          "startMs": 77610,
+          "endMs": 80000
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 72290,
+      "endMs": 80350
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a volcano.",
+          "zh": "魔法把他们带到了一座火山上。",
+          "startMs": 98020,
+          "endMs": 100860
+        },
+        {
+          "en": "It looked like Chip's painting.",
+          "zh": "它看起来像 Chip 的画。",
+          "startMs": 100890,
+          "endMs": 104640
+        },
+        {
+          "en": "But where was Chip?",
+          "zh": "但是，Chip 在哪里呢？",
+          "startMs": 104750,
+          "endMs": 106210
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 97870,
+      "endMs": 106560
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at those girls,\" gasped Wilma.",
+          "zh": "“看看那些女孩，”Wilma 喘着气说。",
+          "startMs": 107540,
+          "endMs": 124640
+        },
+        {
+          "en": "\"They look like the ones in my drawings.",
+          "zh": "“她们看起来像我画里的那些女孩。",
+          "startMs": 124670,
+          "endMs": 127710
+        },
+        {
+          "en": "Look at their clothes.\"",
+          "zh": "看看她们的衣服！”",
+          "startMs": 127710,
+          "endMs": 127910
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 107390,
+      "endMs": 128260
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girls called to Wilma.",
+          "zh": "女孩们叫住了 Wilma。",
+          "startMs": 127910,
+          "endMs": 128110
+        },
+        {
+          "en": "\"Do you like my top?\" Said a girl.",
+          "zh": "“你喜欢我的上衣吗？” 一个女孩说道。",
+          "startMs": 128110,
+          "endMs": 128310
+        },
+        {
+          "en": "\"Do you like my boots?\"",
+          "zh": "“你喜欢我的靴子吗？”",
+          "startMs": 128310,
+          "endMs": 129260
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 128260,
+      "endMs": 129610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the volcano began to spit out blobs of red paint.",
+          "zh": "突然，火山开始喷出红色颜料的 blobs。",
+          "startMs": 131400,
+          "endMs": 138760
+        },
+        {
+          "en": "Splat!",
+          "zh": "啪嗒？",
+          "startMs": 138790,
+          "endMs": 140430
+        },
+        {
+          "en": "A big blob landed by Biff.",
+          "zh": "一个大水泡落在了 Biff 身边。",
+          "startMs": 140460,
+          "endMs": 142500
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 131250,
+      "endMs": 142850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!",
+          "zh": "来吧。",
+          "startMs": 145570,
+          "endMs": 147550
+        },
+        {
+          "en": "Run!\" Yelled Biff.",
+          "zh": "“快跑！” Biff 喊道。",
+          "startMs": 147580,
+          "endMs": 150660
+        },
+        {
+          "en": "Or the volcano will get us.\"",
+          "zh": "不然火山就会把我们吞噬掉！”",
+          "startMs": 152420,
+          "endMs": 154720
+        },
+        {
+          "en": "\"I can't run in these boots, said a girl.",
+          "zh": "“我穿着这些靴子跑不动，”一个女孩说。 一个女孩说道。",
+          "startMs": 155540,
+          "endMs": 159640
+        },
+        {
+          "en": "Run!\" \"We can't,\" Said a girl.",
+          "zh": "“快跑！” “我们跑不了！” 一个女孩说道。",
+          "startMs": 159670,
+          "endMs": 165640
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 145420,
+      "endMs": 165990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Run!\" yelled Wilma.",
+          "zh": "“快跑！”Wilma 喊道。",
+          "startMs": 165670,
+          "endMs": 167060
+        },
+        {
+          "en": "\"I can't run in this dress!\"",
+          "zh": "“我穿着这条裙子跑不动！”",
+          "startMs": 167060,
+          "endMs": 168500
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 165990,
+      "endMs": 168850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Splat!",
+          "zh": "啪嗒？",
+          "startMs": 173430,
+          "endMs": 175530
+        },
+        {
+          "en": "Red blobs landed everywhere.",
+          "zh": "红色的斑点到处落下。",
+          "startMs": 175720,
+          "endMs": 178420
+        },
+        {
+          "en": "\"It's red paint!\" Said Biff.",
+          "zh": "“这是红色颜料！” Biff 说道。",
+          "startMs": 178450,
+          "endMs": 183660
+        },
+        {
+          "en": "Splat!",
+          "zh": "啪嗒？",
+          "startMs": 183660,
+          "endMs": 184840
+        },
+        {
+          "en": "A red blob hit a girl.",
+          "zh": "一团红色液体溅到了一个女孩身上。",
+          "startMs": 185660,
+          "endMs": 187260
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 173280,
+      "endMs": 187610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Red paint began to gush out of the volcano.",
+          "zh": "红色颜料开始从火山中喷涌而出。",
+          "startMs": 187880,
+          "endMs": 191700
+        },
+        {
+          "en": "It looked like a big, red river.",
+          "zh": "它看起来像一条大红河。",
+          "startMs": 191890,
+          "endMs": 195380
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 187730,
+      "endMs": 195730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma had an idea.",
+          "zh": "Wilma 有了一个主意。",
+          "startMs": 201840,
+          "endMs": 204940
+        },
+        {
+          "en": "She began to draw jeans and tops.",
+          "zh": "她开始画牛仔裤和上衣。",
+          "startMs": 204970,
+          "endMs": 208030
+        },
+        {
+          "en": "Biff helped her.",
+          "zh": "Biff 帮了她。",
+          "startMs": 208370,
+          "endMs": 209870
+        },
+        {
+          "en": "\"Quick! Said Wilma.",
+          "zh": "“快！ Wilma 说道。",
+          "startMs": 213570,
+          "endMs": 219830
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 201690,
+      "endMs": 220180
+    },
+    {
+      "sentences": [
+        {
+          "en": "Put these on,\" said Wilma.",
+          "zh": "“把这些戴上，”Wilma 说。",
+          "startMs": 219860,
+          "endMs": 221910
+        },
+        {
+          "en": "\"Oh!",
+          "zh": "“哇！",
+          "startMs": 221910,
+          "endMs": 222110
+        },
+        {
+          "en": "We like these!\" Said the girls.",
+          "zh": "“我们喜欢这些！” 女孩们说道。",
+          "startMs": 222110,
+          "endMs": 222310
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 220180,
+      "endMs": 222660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now run!\" Called Wilma.",
+          "zh": "“现在快跑！” 它叫 Wilma。",
+          "startMs": 226750,
+          "endMs": 231640
+        },
+        {
+          "en": "They all ran.",
+          "zh": "她们都跑了起来。",
+          "startMs": 232010,
+          "endMs": 233720
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 226600,
+      "endMs": 234070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was in the paint river.",
+          "zh": "Chip 掉进了颜料河里。",
+          "startMs": 233750,
+          "endMs": 237200
+        },
+        {
+          "en": "\"Help!",
+          "zh": "“救命！”",
+          "startMs": 237980,
+          "endMs": 241380
+        },
+        {
+          "en": "Help!\" he called.",
+          "zh": "救命！”他喊道。",
+          "startMs": 241410,
+          "endMs": 242800
+        },
+        {
+          "en": "\"Get me out!\"",
+          "zh": "“把我弄出来！”",
+          "startMs": 242800,
+          "endMs": 243000
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 234070,
+      "endMs": 243350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilma saw Chip.",
+          "zh": "Biff 和 Wilma 看到了 Chip。",
+          "startMs": 245430,
+          "endMs": 248650
+        },
+        {
+          "en": "\"Stop!\" They called.",
+          "zh": "“停下！” 他们喊道。",
+          "startMs": 251010,
+          "endMs": 256570
+        },
+        {
+          "en": "\"We must get him out?",
+          "zh": "“我们得把他弄出来！”",
+          "startMs": 256600,
+          "endMs": 258650
+        },
+        {
+          "en": "Wilma had an idea.",
+          "zh": "Wilma 有了一个主意。",
+          "startMs": 261570,
+          "endMs": 263030
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 245280,
+      "endMs": 263380
+    },
+    {
+      "sentences": [
+        {
+          "en": "She drew a long rope.",
+          "zh": "她拉出一条长绳。",
+          "startMs": 263060,
+          "endMs": 265110
+        },
+        {
+          "en": "\"Hold on, Chip,\" she called.",
+          "zh": "“Chip，”她喊道。",
+          "startMs": 265110,
+          "endMs": 267540
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 263380,
+      "endMs": 267890
+    },
+    {
+      "sentences": [
+        {
+          "en": "They pulled Chip out.",
+          "zh": "他们把 Chip 拉了出来。",
+          "startMs": 271670,
+          "endMs": 274010
+        },
+        {
+          "en": "\"I'm glad this is only paint and not a real volcano,\" said Biff.",
+          "zh": "“我很高兴这只是颜料，而不是真正的火山。”Biff 说。",
+          "startMs": 276540,
+          "endMs": 280640
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 271520,
+      "endMs": 280990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Phew!\" Said Chip.",
+          "zh": "“呼！” Chip 说道。",
+          "startMs": 280670,
+          "endMs": 283410
+        },
+        {
+          "en": "\"Am I glad you pulled me out!\"",
+          "zh": "“我很高兴你把我拉了出来吗？”",
+          "startMs": 283440,
+          "endMs": 286430
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "魔法钥匙开始发光。",
+          "startMs": 286460,
+          "endMs": 288300
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 280990,
+      "endMs": 288650
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now are you sorry, Chip?\" Said Biff.",
+          "zh": "“现在你后悔了吗，Chip？” Biff 说道。",
+          "startMs": 304430,
+          "endMs": 308770
+        },
+        {
+          "en": "Chip had a blob of paint on him.",
+          "zh": "Chip 身上沾了一坨颜料。",
+          "startMs": 308800,
+          "endMs": 311960
+        },
+        {
+          "en": "\"I am,\" He said.",
+          "zh": "“我后悔了！” 他说。",
+          "startMs": 311990,
+          "endMs": 314760
+        },
+        {
+          "en": "\"Sorry!\"",
+          "zh": "“对不起！”",
+          "startMs": 314790,
+          "endMs": 315500
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 304280,
+      "endMs": 315850
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 315850,
+      "endMs": 315851
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 315851,
+      "endMs": 315852
+    }
+  ]
+}

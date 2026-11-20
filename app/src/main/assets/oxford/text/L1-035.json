@@ -1,0 +1,117 @@
+{
+  "id": "L1-035",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go on, Mum,\" said Chip.",
+          "zh": "去在……上， 妈妈， 说 Chip。",
+          "startMs": 0,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go on, Mum,\" said Biff.",
+          "zh": "去在……上， 妈妈， 说 Biff。",
+          "startMs": 0,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am going,\" said Mum.",
+          "zh": "我是去， 说妈妈。",
+          "startMs": 20000,
+          "endMs": 41100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 41450
+    },
+    {
+      "sentences": [],
+      "startMs": 27320,
+      "endMs": 28120,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am going,\" she said.",
+          "zh": "我是去， 她说。",
+          "startMs": 34000,
+          "endMs": 41100
+        }
+      ],
+      "startMs": 33850,
+      "endMs": 41450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Go on, go on,\" said Dad.",
+          "zh": "去在……上， 去在……上， 说爸爸。",
+          "startMs": 41000,
+          "endMs": 49100
+        }
+      ],
+      "startMs": 40850,
+      "endMs": 49450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am going,\" said Mum.",
+          "zh": "我是去， 说妈妈。",
+          "startMs": 49290,
+          "endMs": 53390
+        }
+      ],
+      "startMs": 49140,
+      "endMs": 53740
+    },
+    {
+      "sentences": [
+        {
+          "en": "I am not going again.\"",
+          "zh": "我是不去再一次。",
+          "startMs": 57000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 56850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [],
+      "startMs": 62790,
+      "endMs": 63133,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 63290,
+      "endMs": 63133,
+      "illustrationOnly": true
+    }
+  ]
+}

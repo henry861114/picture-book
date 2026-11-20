@@ -1,0 +1,423 @@
+{
+  "id": "L4-016",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "sentences": [],
+      "startMs": 800,
+      "endMs": 1600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Jo was Mum's sister.",
+          "zh": "Jo 是妈妈姐姐。",
+          "startMs": 1600,
+          "endMs": 7714
+        },
+        {
+          "en": "She was getting married.",
+          "zh": "她是得到已婚的。",
+          "startMs": 7714,
+          "endMs": 15050
+        }
+      ],
+      "startMs": 1600,
+      "endMs": 15050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was happy.",
+          "zh": "Wilma 是快乐的。",
+          "startMs": 15050,
+          "endMs": 17266
+        },
+        {
+          "en": "She wanted to be a bridesmaid.",
+          "zh": "她想要到是一个伴娘。",
+          "startMs": 17266,
+          "endMs": 21420
+        }
+      ],
+      "startMs": 15050,
+      "endMs": 21420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was unhappy.",
+          "zh": "Wilf 是痛苦的。",
+          "startMs": 21420,
+          "endMs": 27053
+        },
+        {
+          "en": "He didn't want to be a pageboy.",
+          "zh": "他没有想要到是一个小男傧相。",
+          "startMs": 27053,
+          "endMs": 37326
+        }
+      ],
+      "startMs": 21420,
+      "endMs": 37326
+    },
+    {
+      "sentences": [
+        {
+          "en": "The grandparents came.",
+          "zh": "这外祖父来。",
+          "startMs": 37326,
+          "endMs": 41751
+        },
+        {
+          "en": "They came for the wedding.",
+          "zh": "他们来为了这婚礼。",
+          "startMs": 41751,
+          "endMs": 46980
+        }
+      ],
+      "startMs": 37326,
+      "endMs": 46980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a journey!\" they said.",
+          "zh": "什么一个旅行！ 他们说。",
+          "startMs": 46980,
+          "endMs": 57080
+        }
+      ],
+      "startMs": 46980,
+      "endMs": 57080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum made Wilma's dress.",
+          "zh": "妈妈做 Wilma 连衣裙。",
+          "startMs": 57080,
+          "endMs": 63898
+        },
+        {
+          "en": "Grandmother helped.",
+          "zh": "外婆帮助。",
+          "startMs": 63898,
+          "endMs": 69530
+        }
+      ],
+      "startMs": 57080,
+      "endMs": 69530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf looked at the material.",
+          "zh": "Wilf 看在这材料。",
+          "startMs": 69530,
+          "endMs": 75247
+        },
+        {
+          "en": "\"Oh no!\" he thought.",
+          "zh": "哦不！ 他想。",
+          "startMs": 75247,
+          "endMs": 79330
+        }
+      ],
+      "startMs": 69530,
+      "endMs": 79330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Grandmother made the cake.",
+          "zh": "外婆做这蛋糕。",
+          "startMs": 110960,
+          "endMs": 114060
+        },
+        {
+          "en": "Wilma put a bride and groom on it.",
+          "zh": "Wilma 放一个新娘和新郎在……上它。",
+          "startMs": 114300,
+          "endMs": 116370
+        }
+      ],
+      "startMs": 110810,
+      "endMs": 116720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's wonderful,\" said Jo.",
+          "zh": "它是精彩的， 说 Jo。",
+          "startMs": 100970,
+          "endMs": 103683
+        }
+      ],
+      "startMs": 100970,
+      "endMs": 103683
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's dress was finished.",
+          "zh": "Wilma 连衣裙是结束了的。",
+          "startMs": 124960,
+          "endMs": 128060
+        },
+        {
+          "en": "Biff and Chip came to see it.",
+          "zh": "Biff 和 Chip 来到看见它。",
+          "startMs": 130960,
+          "endMs": 134060
+        }
+      ],
+      "startMs": 124810,
+      "endMs": 134410
+    },
+    {
+      "sentences": [
+        {
+          "en": "I like weddings,\" said Chip.",
+          "zh": "我喜欢婚礼， 说 Chip。",
+          "startMs": 133960,
+          "endMs": 137060
+        },
+        {
+          "en": "\"I don't,\" said Wilf.",
+          "zh": "我不， 说 Wilf。",
+          "startMs": 136960,
+          "endMs": 138930
+        }
+      ],
+      "startMs": 133810,
+      "endMs": 139280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Jo took Wilf's measurements.",
+          "zh": "Jo 拿 Wilf 尺寸。",
+          "startMs": 145300,
+          "endMs": 148060
+        },
+        {
+          "en": "She gave them to Mum.",
+          "zh": "她给他们到妈妈。",
+          "startMs": 147960,
+          "endMs": 150100
+        }
+      ],
+      "startMs": 145150,
+      "endMs": 150450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was unhappy.",
+          "zh": "Wilf 是痛苦的。",
+          "startMs": 151790,
+          "endMs": 154060
+        },
+        {
+          "en": "He didn't want to be a pageboy.",
+          "zh": "他没有想要到是一个小男傧相。",
+          "startMs": 153960,
+          "endMs": 157800
+        }
+      ],
+      "startMs": 151640,
+      "endMs": 158150
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had been shopping.",
+          "zh": "妈妈有是商店。",
+          "startMs": 162300,
+          "endMs": 164060
+        }
+      ],
+      "startMs": 162150,
+      "endMs": 164410
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had a surprise for Wilf.",
+          "zh": "她有一个意想不到的事物为了 Wilf。",
+          "startMs": 163960,
+          "endMs": 167490
+        },
+        {
+          "en": "\"What is it?\" asked Wilf.",
+          "zh": "什么是它？ 问 Wilf。",
+          "startMs": 168980,
+          "endMs": 171820
+        }
+      ],
+      "startMs": 163810,
+      "endMs": 172170
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a suit,\" said Mum.",
+          "zh": "它是一个套装， 说妈妈。",
+          "startMs": 178960,
+          "endMs": 181280
+        },
+        {
+          "en": "\"You're not a pageboy,\" said Jo.",
+          "zh": "你是不一个小男傧相， 说 Jo。",
+          "startMs": 181960,
+          "endMs": 184420
+        }
+      ],
+      "startMs": 178810,
+      "endMs": 184770
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It was a joke,\" said Grandmother.",
+          "zh": "它是一个笑话， 说外婆。",
+          "startMs": 184960,
+          "endMs": 189060
+        }
+      ],
+      "startMs": 184810,
+      "endMs": 189410
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the day of the wedding.",
+          "zh": "它是这一天的这婚礼。",
+          "startMs": 192960,
+          "endMs": 197060
+        }
+      ],
+      "startMs": 192810,
+      "endMs": 197410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad made a video.",
+          "zh": "爸爸做一个录像。",
+          "startMs": 197300,
+          "endMs": 199060
+        },
+        {
+          "en": "Biff took a photograph.",
+          "zh": "Biff 拿一个照片。",
+          "startMs": 198960,
+          "endMs": 202060
+        }
+      ],
+      "startMs": 197150,
+      "endMs": 202410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf liked his suit.",
+          "zh": "Wilf 喜欢他的套装。",
+          "startMs": 207700,
+          "endMs": 210060
+        },
+        {
+          "en": "He was glad he wasn't a pageboy.",
+          "zh": "他是高兴的他不是一个小男傧相。",
+          "startMs": 209960,
+          "endMs": 211950
+        }
+      ],
+      "startMs": 207550,
+      "endMs": 212300
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was happy.",
+          "zh": "他是快乐的。",
+          "startMs": 227450,
+          "endMs": 227850
+        },
+        {
+          "en": "Everyone was happy.",
+          "zh": "每个人是快乐的。",
+          "startMs": 228960,
+          "endMs": 230940
+        }
+      ],
+      "startMs": 227300,
+      "endMs": 231290
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a big party.",
+          "zh": "那里是一个大的聚会。",
+          "startMs": 226960,
+          "endMs": 229060
+        },
+        {
+          "en": "Everyone danced.",
+          "zh": "每个人跳舞。",
+          "startMs": 228960,
+          "endMs": 233060
+        }
+      ],
+      "startMs": 226810,
+      "endMs": 233410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I like weddings,\" said Wilf.",
+          "zh": "我喜欢婚礼， 说 Wilf。",
+          "startMs": 246960,
+          "endMs": 249800
+        }
+      ],
+      "startMs": 246810,
+      "endMs": 250150
+    },
+    {
+      "sentences": [
+        {
+          "en": "Will you get married?\" asked Wilf.",
+          "zh": "将你得到已婚的？ 问 Wilf。",
+          "startMs": 243520,
+          "endMs": 246110
+        },
+        {
+          "en": "\"I don't know,\" said Wilma.",
+          "zh": "我不知道， 说 Wilma。",
+          "startMs": 246960,
+          "endMs": 251060
+        }
+      ],
+      "startMs": 243370,
+      "endMs": 251410
+    },
+    {
+      "sentences": [],
+      "startMs": 272160,
+      "endMs": 274978,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 274978,
+      "endMs": 275278,
+      "illustrationOnly": true
+    }
+  ]
+}

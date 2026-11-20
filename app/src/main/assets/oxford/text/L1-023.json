@@ -1,0 +1,106 @@
+{
+  "id": "L1-023",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Up you go, Kipper.",
+          "zh": "向上你去， Kipper。",
+          "startMs": 0,
+          "endMs": 5250
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go!",
+          "zh": "去！",
+          "startMs": 4040,
+          "endMs": 4410
+        }
+      ],
+      "startMs": 3890,
+      "endMs": 4760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Up you go, Biff.",
+          "zh": "向上你去， Biff。",
+          "startMs": 0,
+          "endMs": 4410
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go, go!",
+          "zh": "去， 去！",
+          "startMs": 16870,
+          "endMs": 23050
+        }
+      ],
+      "startMs": 16720,
+      "endMs": 23400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip, up you go.",
+          "zh": "Chip， 向上你去。",
+          "startMs": 28080,
+          "endMs": 29810
+        }
+      ],
+      "startMs": 27930,
+      "endMs": 30160
+    },
+    {
+      "sentences": [
+        {
+          "en": "1/1 Go, go, go!",
+          "zh": "1/1 去， 去， 去！",
+          "startMs": 29330,
+          "endMs": 37770
+        }
+      ],
+      "startMs": 29180,
+      "endMs": 38120
+    },
+    {
+      "sentences": [
+        {
+          "en": "No dad.",
+          "zh": "不爸爸。",
+          "startMs": 42910,
+          "endMs": 45010
+        }
+      ],
+      "startMs": 42760,
+      "endMs": 45360
+    },
+    {
+      "sentences": [
+        {
+          "en": "No, no, no!",
+          "zh": "不， 不， 不！",
+          "startMs": 52550,
+          "endMs": 54700
+        }
+      ],
+      "startMs": 52400,
+      "endMs": 55050
+    }
+  ]
+}

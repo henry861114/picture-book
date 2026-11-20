@@ -1,0 +1,707 @@
+{
+  "id": "L6-014",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4914,
+        0.4499
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family went to see an old castle.",
+          "zh": "[音乐] [音乐] 这家人去参观了一座古老的城堡。",
+          "startMs": 29,
+          "endMs": 3940
+        },
+        {
+          "en": "Most of it had fallen down a long time ago.",
+          "zh": "城堡的大部分早在很久以前就坍塌了。",
+          "startMs": 3970,
+          "endMs": 7760
+        },
+        {
+          "en": "\"It's just a ruin,\" said Chip.",
+          "zh": "“这只是一片废墟。” Chip 说道。",
+          "startMs": 7790,
+          "endMs": 18060
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4914,
+        0.0,
+        1.0,
+        0.4499
+      ],
+      "startMs": 1,
+      "endMs": 18410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted to climb on the wall, but Dad said, \"No, we must look after old ruins,\" He said.",
+          "zh": "[音乐]Kipper 想爬上城墙，但爸爸说：“不行，我们必须爱护古老的遗迹。” 他说。",
+          "startMs": 18090,
+          "endMs": 27920
+        },
+        {
+          "en": "\"Once upon a time, it was a big castle,\" \"I wonder what it was like to live here,\" said Biff.",
+          "zh": "[音乐]“从前，这里是一座大城堡。”",
+          "startMs": 27970,
+          "endMs": 39010
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4499,
+        1.0,
+        1.0
+      ],
+      "startMs": 18410,
+      "endMs": 39360
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum found a good spot for a picnic.",
+          "zh": "妈妈找到一个好的点为了一个野餐。",
+          "startMs": 42900,
+          "endMs": 46440
+        },
+        {
+          "en": "Floppy saw a rabbit hole.",
+          "zh": "Floppy 看到一个兔子洞。",
+          "startMs": 46470,
+          "endMs": 48840
+        },
+        {
+          "en": "He began to dig in the ground.",
+          "zh": "他开始在地上挖洞。",
+          "startMs": 48920,
+          "endMs": 56280
+        },
+        {
+          "en": "Chip saw something shining in the dirt, so he picked it up.",
+          "zh": "[音乐] Chip 看到有东西在泥土里闪闪发光，于是他捡了起来。",
+          "startMs": 56310,
+          "endMs": 59960
+        },
+        {
+          "en": "\"It's a glass bead,\" he said.",
+          "zh": "它是一个玻璃珠子， 他说。",
+          "startMs": 60640,
+          "endMs": 64750
+        },
+        {
+          "en": "\"I wonder who lost it?\" Said Biff.",
+          "zh": "“真想知道是谁弄丢了它。",
+          "startMs": 65080,
+          "endMs": 68800
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4801
+      ],
+      "startMs": 42750,
+      "endMs": 69150
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the bead through his magnifying glass.",
+          "zh": "[音乐] Chip 用放大镜观察这颗珠子。",
+          "startMs": 72770,
+          "endMs": 76960
+        },
+        {
+          "en": "Then, he put it in his pocket.",
+          "zh": "然后他把它放进了口袋里。",
+          "startMs": 76990,
+          "endMs": 79640
+        },
+        {
+          "en": "\"I don't think it's valuable,\" he said.",
+          "zh": "我不想它是很值钱的， 他说。",
+          "startMs": 79670,
+          "endMs": 88180
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4801,
+        0.5014,
+        1.0
+      ],
+      "startMs": 72620,
+      "endMs": 88530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Later, Chip came into Biff's room.",
+          "zh": "后来，Chip 走进了 Biff 的房间。",
+          "startMs": 88210,
+          "endMs": 90590
+        },
+        {
+          "en": "He had a book about castles.",
+          "zh": "他带了一本关于城堡的书。",
+          "startMs": 90590,
+          "endMs": 90790
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然，魔法钥匙开始发光。",
+          "startMs": 91090,
+          "endMs": 109640
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.5014,
+        0.4801,
+        1.0,
+        1.0
+      ],
+      "startMs": 88530,
+      "endMs": 109990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took Biff and Chip back in time.",
+          "zh": "这魔法拿 Biff 和 Chip 回来在……里时间。",
+          "startMs": 110460,
+          "endMs": 115580
+        },
+        {
+          "en": "It took them to the castle.",
+          "zh": "它把他们带到了城堡。",
+          "startMs": 115610,
+          "endMs": 117400
+        },
+        {
+          "en": "Some people were waiting outside a big door.",
+          "zh": "一些人在一扇大门外等着。",
+          "startMs": 118140,
+          "endMs": 128640
+        },
+        {
+          "en": "An important man came up.",
+          "zh": "一个重要的男人来向上。",
+          "startMs": 128670,
+          "endMs": 130160
+        },
+        {
+          "en": "\"I am Lord Kent,\" Said the man.",
+          "zh": "“我是肯特勋爵。” 那人说道。",
+          "startMs": 130540,
+          "endMs": 134440
+        },
+        {
+          "en": "\"Where is your present for the prince?\"",
+          "zh": "“你们给王子的礼物在哪里？”",
+          "startMs": 135340,
+          "endMs": 141120
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4629
+      ],
+      "startMs": 110310,
+      "endMs": 141470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip didn't have a present.",
+          "zh": "Biff 和 Chip 没有礼物。",
+          "startMs": 141750,
+          "endMs": 144960
+        },
+        {
+          "en": "\"Think of something, Chip,\" said Biff.",
+          "zh": "“想点什么办法吧，Chip？” Biff 说道。",
+          "startMs": 145200,
+          "endMs": 150420
+        },
+        {
+          "en": "\"Uh, we have a magic glass,\" Said Chip.",
+          "zh": "“我们有一面神奇的镜子。” Chip 说道。",
+          "startMs": 150450,
+          "endMs": 155740
+        },
+        {
+          "en": "\"It makes small things look big.\"",
+          "zh": "“它能让小东西看起来变大。”",
+          "startMs": 155770,
+          "endMs": 158480
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4629,
+        0.5007,
+        1.0
+      ],
+      "startMs": 141600,
+      "endMs": 158830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That is a good present,\" said Lord Kent.",
+          "zh": "那个是一个好的礼物， 说君主 Kent。 肯特勋爵说道。",
+          "startMs": 158510,
+          "endMs": 163900
+        },
+        {
+          "en": "\"The prince will like it.",
+          "zh": "“王子会喜欢的。”",
+          "startMs": 163930,
+          "endMs": 165760
+        },
+        {
+          "en": "\"Put it on this cushion, then wait outside in the line.\"",
+          "zh": "把它放在这个垫子上，然后在外面排队等候。",
+          "startMs": 165900,
+          "endMs": 175800
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.5007,
+        0.4629,
+        1.0,
+        1.0
+      ],
+      "startMs": 158830,
+      "endMs": 176150
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last, Biff and Chip went into a hall.",
+          "zh": "[音乐] 最后，Biff 和 Chip 走进了一间大厅。",
+          "startMs": 175830,
+          "endMs": 179640
+        },
+        {
+          "en": "\"That was quick thinking, Chip,\" Said Biff.",
+          "zh": "“Chip，你刚才想得真周到。” Biff 说道。",
+          "startMs": 179760,
+          "endMs": 192020
+        },
+        {
+          "en": "\"I wonder who this prince is.\"",
+          "zh": "“我真想知道这位王子是谁？”",
+          "startMs": 192050,
+          "endMs": 194430
+        },
+        {
+          "en": "\"He must be important,\" said Chip.",
+          "zh": "他必须是重要的， 说 Chip。",
+          "startMs": 194430,
+          "endMs": 194630
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        0.5021,
+        0.4747
+      ],
+      "startMs": 176150,
+      "endMs": 194980
+    },
+    {
+      "sentences": [
+        {
+          "en": "The prince was sitting on a throne.",
+          "zh": "王子正坐在王座上。",
+          "startMs": 194630,
+          "endMs": 195120
+        },
+        {
+          "en": "Chip gave him the magnifying glass.",
+          "zh": "Chip 把放大镜递给了他。",
+          "startMs": 195150,
+          "endMs": 197400
+        },
+        {
+          "en": "\"I love it!\" Said the prince.",
+          "zh": "“我喜欢它。” 王子说道。",
+          "startMs": 197430,
+          "endMs": 203780
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.5021,
+        0.0,
+        1.0,
+        0.4747
+      ],
+      "startMs": 194980,
+      "endMs": 204130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The prince jumped off the throne and looked through the magnifying glass.",
+          "zh": "王子从王座上跳下来，透过放大镜看了一眼。",
+          "startMs": 203810,
+          "endMs": 208060
+        },
+        {
+          "en": "\"Tomorrow is an important day,\" He said.",
+          "zh": "“明天是个重要的日子。” 他说。",
+          "startMs": 209120,
+          "endMs": 214380
+        },
+        {
+          "en": "\"Tomorrow I will be king.\"",
+          "zh": "“明天我将成为国王。”",
+          "startMs": 214410,
+          "endMs": 216270
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4747,
+        0.4993,
+        1.0
+      ],
+      "startMs": 204130,
+      "endMs": 216620
+    },
+    {
+      "sentences": [
+        {
+          "en": "You can call me Henry, but tomorrow I will be King Henry,\" He said.",
+          "zh": "“你可以叫我亨利，但明天我就是亨利国王。” 他说。",
+          "startMs": 217750,
+          "endMs": 223360
+        },
+        {
+          "en": "\"Come with me.\"",
+          "zh": "他说：“跟我来。”",
+          "startMs": 223840,
+          "endMs": 225520
+        },
+        {
+          "en": "He ran out of the hall.",
+          "zh": "他跑出了大厅。",
+          "startMs": 226010,
+          "endMs": 231840
+        },
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 238690,
+          "endMs": 240270
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.4993,
+        0.4747,
+        1.0,
+        1.0
+      ],
+      "startMs": 217600,
+      "endMs": 240620
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I want to look at it through this magic glass.\"",
+          "zh": "“我想通过这面魔法镜子看看它。”",
+          "startMs": 240300,
+          "endMs": 246260
+        },
+        {
+          "en": "Henry ran up some stairs.",
+          "zh": "亨利跑上楼梯。",
+          "startMs": 246290,
+          "endMs": 248340
+        },
+        {
+          "en": "\"Come and see my crown,\" he said.",
+          "zh": "来和看见我的王冠， 他说。",
+          "startMs": 248340,
+          "endMs": 248540
+        },
+        {
+          "en": "Two guards looked at Biff and Chip.",
+          "zh": "两名卫兵看着 Biff 和 Chip。",
+          "startMs": 248540,
+          "endMs": 248740
+        },
+        {
+          "en": "\"We are here to see that the crown is not stolen,\" Said a soldier.",
+          "zh": "“我们来这里是为了确保王冠不被偷走，” 一名士兵说道。",
+          "startMs": 248740,
+          "endMs": 253320
+        },
+        {
+          "en": "\"Hold your arms up.",
+          "zh": "拿着你的玻璃。 武器向上。",
+          "startMs": 253670,
+          "endMs": 255480
+        },
+        {
+          "en": "We must search you.\"",
+          "zh": "我们必须搜寻你。",
+          "startMs": 255510,
+          "endMs": 257480
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4564
+      ],
+      "startMs": 240620,
+      "endMs": 257830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Henry took Biff and Chip into a small room in a tower.",
+          "zh": "亨利带着 Biff 和 Chip 走进塔楼里的一间小房间。",
+          "startMs": 260650,
+          "endMs": 266320
+        },
+        {
+          "en": "Biff and Chip gasped when they saw the crown.",
+          "zh": "Biff 和 Chip 看到王冠时都惊呼了一声。",
+          "startMs": 266450,
+          "endMs": 269720
+        },
+        {
+          "en": "\"It looks very valuable,\" said Chip.",
+          "zh": "它看非常很值钱的， 说 Chip。 Chip 说道。",
+          "startMs": 271040,
+          "endMs": 277900
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4564,
+        0.4971,
+        1.0
+      ],
+      "startMs": 260500,
+      "endMs": 278250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"If it was stolen, I could not become king,\" Said Henry, \"but it is safe in this tower.",
+          "zh": "“如果它被偷了，我就不能当国王了。”",
+          "startMs": 277930,
+          "endMs": 286500
+        },
+        {
+          "en": "Nobody could take it from here.\"",
+          "zh": "没有人能从这里把它拿走。”",
+          "startMs": 287010,
+          "endMs": 298220
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4971,
+        0.4564,
+        1.0,
+        1.0
+      ],
+      "startMs": 278250,
+      "endMs": 298570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I shall ride him when I become king tomorrow,\" Lord Kent ran up to Henry.",
+          "zh": "“明天我当上国王后，就要骑着它。”",
+          "startMs": 301140,
+          "endMs": 316520
+        },
+        {
+          "en": "Henry took Biff and Chip to see his horse.",
+          "zh": "亨利带着 Biff 和 Chip 去看他的马。",
+          "startMs": 316550,
+          "endMs": 319920
+        },
+        {
+          "en": "Tomorrow,\" he said.",
+          "zh": "来在……上， 他说。",
+          "startMs": 319920,
+          "endMs": 320120
+        },
+        {
+          "en": "Suddenly, they heard shouting.",
+          "zh": "突然，他们听到了喊叫声。",
+          "startMs": 320120,
+          "endMs": 321490
+        },
+        {
+          "en": "\"Come quickly!\" He shouted.",
+          "zh": "“快来，” 他大喊道。",
+          "startMs": 321490,
+          "endMs": 321690
+        },
+        {
+          "en": "\"Your crown has been stolen.\"",
+          "zh": "“您的王冠被偷了。”",
+          "startMs": 321690,
+          "endMs": 322120
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.472
+      ],
+      "startMs": 300990,
+      "endMs": 322470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Henry ran back up the stairs to the crown room.",
+          "zh": "亨利跑回楼上，来到王冠室。",
+          "startMs": 325740,
+          "endMs": 330000
+        },
+        {
+          "en": "The guards were still outside the door.",
+          "zh": "卫兵仍站在门外。",
+          "startMs": 330030,
+          "endMs": 332080
+        },
+        {
+          "en": "\"The crown is missing,\" Said a guard.",
+          "zh": "“王冠不见了，” 一名卫兵说道。",
+          "startMs": 332420,
+          "endMs": 336000
+        },
+        {
+          "en": "\"How can it be missing?\" Asked Henry.",
+          "zh": "“怎么会不见了呢？” 亨利问道。",
+          "startMs": 336420,
+          "endMs": 340120
+        },
+        {
+          "en": "\"We don't know,\" Said a guard.",
+          "zh": "“我们不知道。",
+          "startMs": 340340,
+          "endMs": 343600
+        },
+        {
+          "en": "Has been here, except you.\"",
+          "zh": "“除了你，没有人来过这里。”",
+          "startMs": 344120,
+          "endMs": 346240
+        },
+        {
+          "en": "\"I know who stole it,\" said Lord Kent.",
+          "zh": "我知道谁 stole 它， 说君主 Kent。 肯特勋爵说道。",
+          "startMs": 346270,
+          "endMs": 353220
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.472,
+        1.0,
+        1.0
+      ],
+      "startMs": 325590,
+      "endMs": 353570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"These children have stolen it,\" Lord Kent went on.",
+          "zh": "“是这些孩子偷的，”",
+          "startMs": 353250,
+          "endMs": 358440
+        },
+        {
+          "en": "\"They used magic to do it.",
+          "zh": "他们用魔法偷的。",
+          "startMs": 358620,
+          "endMs": 361300
+        },
+        {
+          "en": "\"Oh,\" Said Biff, \"now we're in trouble.\"",
+          "zh": "“哎呀！”",
+          "startMs": 362900,
+          "endMs": 378180
+        },
+        {
+          "en": "Throw them in prison at once.\"",
+          "zh": "“马上把他们关进监狱。”",
+          "startMs": 378210,
+          "endMs": 380590
+        },
+        {
+          "en": "Now read Part 2...",
+          "zh": "现在，请阅读第二部分。",
+          "startMs": 380590,
+          "endMs": 385040
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5956,
+        1.0
+      ],
+      "startMs": 353570,
+      "endMs": 385390
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5956,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 385390,
+      "endMs": 385391
+    }
+  ]
+}

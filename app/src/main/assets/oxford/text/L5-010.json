@@ -1,0 +1,599 @@
+{
+  "id": "L5-010",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Mrs. May was ill.",
+          "zh": "太太。",
+          "startMs": 0,
+          "endMs": 7260
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 7610
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 7610,
+      "endMs": 7611
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children had a new teacher.",
+          "zh": "孩子们来了一位新老师。",
+          "startMs": 8160,
+          "endMs": 11000
+        },
+        {
+          "en": "He was called Mr Fry.",
+          "zh": "他叫 Fry 先生。",
+          "startMs": 24620,
+          "endMs": 26810
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 8010,
+      "endMs": 27160
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was story time.",
+          "zh": "到了讲故事的时间。",
+          "startMs": 26810,
+          "endMs": 27010
+        },
+        {
+          "en": "The children sat in the reading corner.",
+          "zh": "孩子们坐在阅读角。",
+          "startMs": 27010,
+          "endMs": 29350
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 27160,
+      "endMs": 29700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mr Fry had a new story.",
+          "zh": "先生",
+          "startMs": 29350,
+          "endMs": 29750
+        },
+        {
+          "en": "The story was about a king.",
+          "zh": "这个故事是关于一位国王的。",
+          "startMs": 29750,
+          "endMs": 29950
+        },
+        {
+          "en": "He was called King Arthur.",
+          "zh": "他叫国王 Arthur。",
+          "startMs": 32110,
+          "endMs": 34010
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 29700,
+      "endMs": 34360
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Here is King Arthur,\" Said Mr. Fry.",
+          "zh": "这位是 Arthur 王。 弗莱先生说。",
+          "startMs": 38620,
+          "endMs": 41810
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 38470,
+      "endMs": 42160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"And here are his knights.",
+          "zh": "这是他的骑士们。",
+          "startMs": 41810,
+          "endMs": 44470
+        },
+        {
+          "en": "They lived a long time ago.\"",
+          "zh": "他们生活在很久以前。",
+          "startMs": 44470,
+          "endMs": 46720
+        },
+        {
+          "en": "King Arthur had a round table.",
+          "zh": "Arthur 国王有一张圆桌。",
+          "startMs": 47620,
+          "endMs": 50810
+        },
+        {
+          "en": "All the knights sat round it.",
+          "zh": "所有的骑士都围坐在圆桌旁。",
+          "startMs": 50810,
+          "endMs": 53720
+        },
+        {
+          "en": "They liked the round table.",
+          "zh": "他们喜欢圆桌。",
+          "startMs": 54960,
+          "endMs": 57720
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 42160,
+      "endMs": 58070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children did a project.",
+          "zh": "孩子们做了一个项目。",
+          "startMs": 62620,
+          "endMs": 64720
+        },
+        {
+          "en": "The boys were knights.",
+          "zh": "男孩们扮演骑士。",
+          "startMs": 64720,
+          "endMs": 66720
+        },
+        {
+          "en": "\"It's not fair,\" said Biff.",
+          "zh": "“这不公平，”Biff 说。",
+          "startMs": 75620,
+          "endMs": 77000
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 62470,
+      "endMs": 77350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "Biff 说道。",
+          "startMs": 77030,
+          "endMs": 78090
+        },
+        {
+          "en": "Biff wanted to be a knight.",
+          "zh": "Biff 想当骑士。",
+          "startMs": 78090,
+          "endMs": 78290
+        },
+        {
+          "en": "\"It's not fair,\" said Biff.",
+          "zh": "“这不公平，”Biff 说。",
+          "startMs": 78290,
+          "endMs": 78490
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 77350,
+      "endMs": 78840
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 88300,
+          "endMs": 89810
+        },
+        {
+          "en": "\"Why can't girls be knights?\"",
+          "zh": "“为什么女孩不能当骑士？”",
+          "startMs": 89840,
+          "endMs": 91890
+        },
+        {
+          "en": "Biff was in her room.",
+          "zh": "Biff 在她的房间里。",
+          "startMs": 91890,
+          "endMs": 92090
+        },
+        {
+          "en": "She wanted to go skateboarding, but the magic key began to glow.",
+          "zh": "她想去滑滑板。",
+          "startMs": 92090,
+          "endMs": 94820
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 88150,
+      "endMs": 95170
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh blow!\" Said Biff.",
+          "zh": "“哇哦，” Biff 说道。",
+          "startMs": 94820,
+          "endMs": 97810
+        },
+        {
+          "en": "\"I wanted to go skateboarding.\"",
+          "zh": "“我想去滑滑板！”",
+          "startMs": 99570,
+          "endMs": 102670
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 95170,
+      "endMs": 103020
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took Biff to King Arthur's castle.",
+          "zh": "魔法把 Biff 带到了 Arthur 王的城堡。",
+          "startMs": 114620,
+          "endMs": 115460
+        },
+        {
+          "en": "It put her in a dress.",
+          "zh": "魔法让她穿上了裙子。",
+          "startMs": 119220,
+          "endMs": 121820
+        },
+        {
+          "en": "\"Yuck,\" Said Biff.",
+          "zh": "“哎呀！ Biff 说道。",
+          "startMs": 122620,
+          "endMs": 124480
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 114470,
+      "endMs": 124830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I wanted to be a knight.",
+          "zh": "“我想当一名骑士。",
+          "startMs": 124510,
+          "endMs": 127680
+        },
+        {
+          "en": "Knights don't wear dresses.\"",
+          "zh": "骑士不穿裙子！”",
+          "startMs": 129680,
+          "endMs": 131220
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 124830,
+      "endMs": 131570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was cross with the magic.",
+          "zh": "Biff 对魔法感到生气。",
+          "startMs": 136620,
+          "endMs": 136720
+        },
+        {
+          "en": "She saw some knights.",
+          "zh": "她看见了一些骑士。",
+          "startMs": 140600,
+          "endMs": 141580
+        },
+        {
+          "en": "\"Can I be a knight?\" She said.",
+          "zh": "“我可以当骑士吗？” 她说。",
+          "startMs": 142510,
+          "endMs": 145510
+        },
+        {
+          "en": "They said.",
+          "zh": "他们说。",
+          "startMs": 152770,
+          "endMs": 153470
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 136470,
+      "endMs": 153820
+    },
+    {
+      "sentences": [
+        {
+          "en": "The knights laughed.",
+          "zh": "骑士们笑了。",
+          "startMs": 153500,
+          "endMs": 154890
+        },
+        {
+          "en": "\"But you are a girl,\" they said.",
+          "zh": "“但你是个女孩啊，”他们说。",
+          "startMs": 154890,
+          "endMs": 155090
+        },
+        {
+          "en": "\"Girls can't be knights.\" She said.",
+          "zh": "“女孩子不能当骑士。” 她说。",
+          "startMs": 155090,
+          "endMs": 170730
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 153820,
+      "endMs": 171080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff got on her skateboard.",
+          "zh": "Biff 踩上了她的滑板。",
+          "startMs": 170760,
+          "endMs": 172810
+        },
+        {
+          "en": "\"You couldn't do that,\" she said.",
+          "zh": "“你们做不到，”她说。",
+          "startMs": 172810,
+          "endMs": 173010
+        },
+        {
+          "en": "\"Now can I be a knight?\"",
+          "zh": "“现在我可以当骑士了吗？”",
+          "startMs": 173010,
+          "endMs": 173210
+        },
+        {
+          "en": "The knights were amazed.",
+          "zh": "骑士们大为惊叹。",
+          "startMs": 173620,
+          "endMs": 175720
+        },
+        {
+          "en": "\"Oh, we'll have to ask King Arthur,\" Said the knights.",
+          "zh": "“我们得去问问 Arthur 王！” 骑士们说道。",
+          "startMs": 176560,
+          "endMs": 181940
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 171080,
+      "endMs": 182290
+    },
+    {
+      "sentences": [],
+      "pdfPage": 16,
+      "startMs": 182290,
+      "endMs": 182291
+    },
+    {
+      "sentences": [
+        {
+          "en": "The knights took Biff to King Arthur.",
+          "zh": "骑士们带着 Biff 去见国王 Arthur。",
+          "startMs": 186480,
+          "endMs": 190580
+        },
+        {
+          "en": "\"This is Biff,\" they said.",
+          "zh": "“这是 Biff，”他们说。",
+          "startMs": 190620,
+          "endMs": 192720
+        },
+        {
+          "en": "\"She wants to be a knight.\"",
+          "zh": "她想当骑士。",
+          "startMs": 194090,
+          "endMs": 195940
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 186330,
+      "endMs": 196290
+    },
+    {
+      "sentences": [
+        {
+          "en": "King Arthur laughed.",
+          "zh": "Arthur 国王笑了。",
+          "startMs": 196800,
+          "endMs": 198900
+        },
+        {
+          "en": "\"Ha, ha, ha, ha.",
+          "zh": "“哈哈哈！",
+          "startMs": 198900,
+          "endMs": 201200
+        },
+        {
+          "en": "Girls can't be knights,\" He said.",
+          "zh": "“女孩子不能当骑士。” 他说。",
+          "startMs": 201200,
+          "endMs": 205720
+        },
+        {
+          "en": "\"Why not?\" Asked Biff.",
+          "zh": "“为什么不行？” Biff 问道。",
+          "startMs": 206570,
+          "endMs": 209620
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 196650,
+      "endMs": 209970
+    },
+    {
+      "sentences": [
+        {
+          "en": "King Arthur called a meeting but the knights argued.",
+          "zh": "Arthur 王召集了一次会议，但骑士们争吵起来。",
+          "startMs": 213480,
+          "endMs": 218420
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 213330,
+      "endMs": 218770
+    },
+    {
+      "sentences": [
+        {
+          "en": "No one wanted to sit down.",
+          "zh": "谁都不想坐下。",
+          "startMs": 219660,
+          "endMs": 221580
+        },
+        {
+          "en": "They all wanted to sit near King Arthur.",
+          "zh": "他们都想坐在国王 Arthur 的附近。",
+          "startMs": 221610,
+          "endMs": 225820
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 219510,
+      "endMs": 226170
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a good idea.",
+          "zh": "Biff 想到了一个好主意。",
+          "startMs": 227620,
+          "endMs": 229760
+        },
+        {
+          "en": "She spoke to King Arthur.",
+          "zh": "她对 Arthur 王说。",
+          "startMs": 233520,
+          "endMs": 236820
+        },
+        {
+          "en": "\"Get a round table,\" she said.",
+          "zh": "“弄一张圆桌吧，”她说。",
+          "startMs": 236820,
+          "endMs": 258720
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 227470,
+      "endMs": 259070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The knights liked the round table.",
+          "zh": "骑士们喜欢圆桌。",
+          "startMs": 258720,
+          "endMs": 258920
+        },
+        {
+          "en": "\"It's brilliant!\" They said.",
+          "zh": "“这个主意太棒了！” 他们说。",
+          "startMs": 258920,
+          "endMs": 259120
+        },
+        {
+          "en": "\"Now we won't argue.\"",
+          "zh": "“现在我们不会争吵了！”",
+          "startMs": 259120,
+          "endMs": 259880
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 259070,
+      "endMs": 260230
+    },
+    {
+      "sentences": [
+        {
+          "en": "The knights sat round the table.",
+          "zh": "骑士们围坐在圆桌旁。",
+          "startMs": 263480,
+          "endMs": 266880
+        },
+        {
+          "en": "\"See!\" Said Biff.",
+          "zh": "看见了吗？ Biff 说道。",
+          "startMs": 267620,
+          "endMs": 268980
+        },
+        {
+          "en": "\"Now can I be a knight?\" \"I'm sorry,\" Said King Arthur.",
+          "zh": "“现在我可以当骑士了吗？” “对不起！” Arthur 国王说道。",
+          "startMs": 271050,
+          "endMs": 281120
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 263330,
+      "endMs": 281470
+    },
+    {
+      "sentences": [
+        {
+          "en": "But everyone laughed.",
+          "zh": "但大家都笑了。",
+          "startMs": 281150,
+          "endMs": 282540
+        },
+        {
+          "en": "\"But girls can't be knights.\"",
+          "zh": "“但女孩子不能当骑士。”",
+          "startMs": 282540,
+          "endMs": 284800
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 281470,
+      "endMs": 285150
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic adventure was over.",
+          "zh": "神奇的冒险结束了。",
+          "startMs": 297560,
+          "endMs": 300580
+        },
+        {
+          "en": "\"It's not fair,\" Said Biff.",
+          "zh": "“这不公平！” Biff 说道。",
+          "startMs": 301520,
+          "endMs": 305370
+        },
+        {
+          "en": "\"Girls are as good as boys.\"",
+          "zh": "“女孩和男孩一样优秀。”",
+          "startMs": 306260,
+          "endMs": 308360
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 297410,
+      "endMs": 308710
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 308710,
+      "endMs": 308711
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 308711,
+      "endMs": 308712
+    }
+  ]
+}

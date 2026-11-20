@@ -1,0 +1,303 @@
+{
+  "id": "L4-021",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went shopping.",
+          "zh": "妈妈去商店。",
+          "startMs": 0,
+          "endMs": 1100
+        },
+        {
+          "en": "She took the children.",
+          "zh": "她拿这孩子们。",
+          "startMs": 2000,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked up.",
+          "zh": "这孩子们看向上。",
+          "startMs": 7000,
+          "endMs": 9100
+        },
+        {
+          "en": "There was an elephant on the roof.",
+          "zh": "那里是一个大象在……上这屋顶。",
+          "startMs": 10000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 12450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elephant looked funny.",
+          "zh": "这大象看有趣的。",
+          "startMs": 14000,
+          "endMs": 16100
+        },
+        {
+          "en": "The elephant was fat.",
+          "zh": "这大象是脂肪。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children laughed.",
+          "zh": "这孩子们笑。",
+          "startMs": 23400,
+          "endMs": 27100
+        },
+        {
+          "en": "\"Look at that fat elephant,\" they said.",
+          "zh": "看在那个脂肪大象， 他们说。",
+          "startMs": 28000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 23250,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "An elephant?\" said Mum.",
+          "zh": "一个大象？ 说妈妈。",
+          "startMs": 33000,
+          "endMs": 36100
+        },
+        {
+          "en": "\"Don't be silly'",
+          "zh": "不是傻的'",
+          "startMs": 36000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a storm.",
+          "zh": "那里是一个暴风雨。",
+          "startMs": 46000,
+          "endMs": 47100
+        },
+        {
+          "en": "The wind blew.",
+          "zh": "这风 blew。",
+          "startMs": 47000,
+          "endMs": 49100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 49450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It rained and rained.",
+          "zh": "它雨和雨。",
+          "startMs": 50000,
+          "endMs": 52100
+        }
+      ],
+      "startMs": 49850,
+      "endMs": 52450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a bad storm.",
+          "zh": "它是一个坏的暴风雨。",
+          "startMs": 54000,
+          "endMs": 57100
+        },
+        {
+          "en": "The wind was strong.",
+          "zh": "这风是强壮的。",
+          "startMs": 58000,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 53850,
+      "endMs": 60450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It blew the elephant away.",
+          "zh": "它 blew 这大象离开。",
+          "startMs": 60000,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 63450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to school.",
+          "zh": "这孩子们去到学校。",
+          "startMs": 72000,
+          "endMs": 74100
+        },
+        {
+          "en": "The elephant was in the playground.",
+          "zh": "这大象是在……里这游乐场。",
+          "startMs": 74000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 71850,
+      "endMs": 77450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children laughed.",
+          "zh": "这孩子们笑。",
+          "startMs": 81050,
+          "endMs": 83100
+        }
+      ],
+      "startMs": 80900,
+      "endMs": 83450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children told Mrs May.",
+          "zh": "这孩子们告诉太太梅。",
+          "startMs": 88000,
+          "endMs": 90100
+        },
+        {
+          "en": "\"Look at that fat elephant,\" they said.",
+          "zh": "看在那个脂肪大象， 他们说。",
+          "startMs": 90000,
+          "endMs": 95100
+        }
+      ],
+      "startMs": 87850,
+      "endMs": 95450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"An elephant?\"",
+          "zh": "一个大象？",
+          "startMs": 95000,
+          "endMs": 97100
+        },
+        {
+          "en": "Mrs May.",
+          "zh": "太太梅。",
+          "startMs": 97390,
+          "endMs": 98100
+        },
+        {
+          "en": "\"Don't be silly.\"",
+          "zh": "不是傻的。",
+          "startMs": 98000,
+          "endMs": 100100
+        }
+      ],
+      "startMs": 94850,
+      "endMs": 100450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children liked the fat elephant.",
+          "zh": "这孩子们喜欢这脂肪大象。",
+          "startMs": 104000,
+          "endMs": 107100
+        },
+        {
+          "en": "They wanted it to stay.",
+          "zh": "他们想要它到停留。",
+          "startMs": 107000,
+          "endMs": 109100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 109450
+    },
+    {
+      "sentences": [
+        {
+          "en": "RALEIG CARI WAREHO \"Sorry,\" said the man.",
+          "zh": "RALEIG CARI WAREHO 对不起， 说这男人。",
+          "startMs": 109400,
+          "endMs": 113100
+        },
+        {
+          "en": "\"We want it back\"",
+          "zh": "我们想要它回来",
+          "startMs": 113000,
+          "endMs": 115100
+        }
+      ],
+      "startMs": 109250,
+      "endMs": 115450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at the fat elephant,\" said Biff.",
+          "zh": "看在这脂肪大象， 说 Biff。",
+          "startMs": 124000,
+          "endMs": 128100
+        },
+        {
+          "en": "\"It's a flat elephant now,\" said Wilma.",
+          "zh": "它是一个水平的大象现在， 说 Wilma。",
+          "startMs": 128000,
+          "endMs": 132100
+        }
+      ],
+      "startMs": 123850,
+      "endMs": 132450
+    },
+    {
+      "sentences": [],
+      "startMs": 137240,
+      "endMs": 137740,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 137740,
+      "endMs": 137840,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "L3-019",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf's dad wanted a party.",
+          "zh": "Wilf 爸爸想要一个聚会。",
+          "startMs": 0,
+          "endMs": 7460
+        },
+        {
+          "en": "He put up some lights.",
+          "zh": "他放向上一些轻的。",
+          "startMs": 7360,
+          "endMs": 13460
+        }
+      ],
+      "startMs": 0,
+      "endMs": 13810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Dad made a barbecue.",
+          "zh": "Wilma 和爸爸做一个户外烧烤。",
+          "startMs": 13360,
+          "endMs": 18300
+        }
+      ],
+      "startMs": 13210,
+      "endMs": 18650
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Mum took the food outside.",
+          "zh": "Wilf 和妈妈拿这食物外面。",
+          "startMs": 19360,
+          "endMs": 24460
+        }
+      ],
+      "startMs": 19210,
+      "endMs": 24810
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone helped.",
+          "zh": "每个人帮助。",
+          "startMs": 30000,
+          "endMs": 35460
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 35810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dads lit the fire.",
+          "zh": "这爸爸 lit 这火。",
+          "startMs": 36770,
+          "endMs": 71930
+        }
+      ],
+      "startMs": 36620,
+      "endMs": 72280
+    },
+    {
+      "sentences": [
+        {
+          "en": "The fire went out.",
+          "zh": "这火去出。",
+          "startMs": 42000,
+          "endMs": 58460
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 58810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were hungry.",
+          "zh": "这孩子们是饿的。",
+          "startMs": 59000,
+          "endMs": 65460
+        }
+      ],
+      "startMs": 58850,
+      "endMs": 65810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dads lit the fire again.",
+          "zh": "这爸爸 lit 这火再一次。",
+          "startMs": 65360,
+          "endMs": 74460
+        }
+      ],
+      "startMs": 65210,
+      "endMs": 74810
+    },
+    {
+      "sentences": [
+        {
+          "en": "It began to rain.",
+          "zh": "它开始到雨。",
+          "startMs": 75000,
+          "endMs": 92460
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 92810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dads cooked burgers.",
+          "zh": "这爸爸做饭汉堡包。",
+          "startMs": 93000,
+          "endMs": 95830
+        }
+      ],
+      "startMs": 92850,
+      "endMs": 96180
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were fed up.",
+          "zh": "这孩子们是 fed 向上。",
+          "startMs": 98830,
+          "endMs": 105460
+        }
+      ],
+      "startMs": 98680,
+      "endMs": 105810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The burgers burned.",
+          "zh": "这汉堡包烧。",
+          "startMs": 106000,
+          "endMs": 125750
+        }
+      ],
+      "startMs": 105850,
+      "endMs": 126100
+    },
+    {
+      "sentences": [
+        {
+          "en": "said Chip.",
+          "zh": "说 Chip。",
+          "startMs": 136350,
+          "endMs": 137790
+        }
+      ],
+      "startMs": 136200,
+      "endMs": 138140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 127613,
+          "endMs": 130032
+        }
+      ],
+      "startMs": 127613,
+      "endMs": 130032
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dads got wet.",
+          "zh": "这爸爸得到湿的。",
+          "startMs": 125650,
+          "endMs": 132460
+        }
+      ],
+      "startMs": 125500,
+      "endMs": 132810
+    },
+    {
+      "sentences": [
+        {
+          "en": "said the children.",
+          "zh": "说这孩子们。",
+          "startMs": 136350,
+          "endMs": 142460
+        }
+      ],
+      "startMs": 136200,
+      "endMs": 142810
+    },
+    {
+      "sentences": [],
+      "startMs": 143430,
+      "endMs": 144547,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 144547,
+      "endMs": 144950,
+      "illustrationOnly": true
+    }
+  ]
+}

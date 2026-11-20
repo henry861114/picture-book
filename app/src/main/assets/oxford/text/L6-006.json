@@ -1,0 +1,920 @@
+{
+  "id": "L6-006",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4971,
+        0.47
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Every week, Mrs. May took some of the children to the swimming pool.",
+          "zh": "每周，",
+          "startMs": 0,
+          "endMs": 6360
+        },
+        {
+          "en": "The children were good swimmers and they liked going with Mrs. May.",
+          "zh": "孩子们是游泳健将，他们喜欢和 May 夫人一起去。",
+          "startMs": 7940,
+          "endMs": 12330
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4971,
+        0.0,
+        1.0,
+        0.47
+      ],
+      "startMs": 1,
+      "endMs": 12680
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were taking a swimming test.",
+          "zh": "孩子们正在参加游泳测试。",
+          "startMs": 16860,
+          "endMs": 20280
+        },
+        {
+          "en": "\"It's time to begin,\" Said Mrs. May.",
+          "zh": "“该开始了。” 老师说道。",
+          "startMs": 20310,
+          "endMs": 24220
+        },
+        {
+          "en": "\"Who wants to go first?\" \"We do,\" Said Nadim.",
+          "zh": "“谁想先来？” “我们想。” Nadim 说道。",
+          "startMs": 24250,
+          "endMs": 28960
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.47,
+        0.5,
+        1.0
+      ],
+      "startMs": 16710,
+      "endMs": 29310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff, Chip, Wilma and Nadim jumped into the pool.",
+          "zh": "Biff、Chip、Wilma 和娜丁跳进了泳池。",
+          "startMs": 29000,
+          "endMs": 33100
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.5,
+        0.47,
+        1.0,
+        1.0
+      ],
+      "startMs": 29310,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water was warm.",
+          "zh": "水很暖和。",
+          "startMs": 38860,
+          "endMs": 41280
+        },
+        {
+          "en": "\"Off you go,\" Called Mrs. May.",
+          "zh": "“你走吧。” 给梅",
+          "startMs": 42300,
+          "endMs": 47480
+        },
+        {
+          "en": "They had to swim up and down the pool.",
+          "zh": "他们必须在泳池里来回游。",
+          "startMs": 48860,
+          "endMs": 54080
+        },
+        {
+          "en": "They had to swim ten lengths.",
+          "zh": "他们必须游10个来回。",
+          "startMs": 54110,
+          "endMs": 56490
+        },
+        {
+          "en": "Wilma was first to swim ten lengths and Biff and Nadim were next.",
+          "zh": "Wilma 第一个游完了10个来回，Biff 和 Nadine 紧随其后。",
+          "startMs": 64000,
+          "endMs": 70100
+        },
+        {
+          "en": "It was hard for Chip to swim the ten lengths.",
+          "zh": "Chip 游完10个来回很辛苦。",
+          "startMs": 70100,
+          "endMs": 70300
+        },
+        {
+          "en": "\"Come on, Chip,\" Called Mrs. May.",
+          "zh": "“加油，Chip，” 给梅",
+          "startMs": 73000,
+          "endMs": 76550
+        },
+        {
+          "en": "\"Don't stop.",
+          "zh": "“别停下来。",
+          "startMs": 76550,
+          "endMs": 76750
+        },
+        {
+          "en": "This is the last length.\"",
+          "zh": "这是最后一圈了。”",
+          "startMs": 76750,
+          "endMs": 77100
+        },
+        {
+          "en": "So Chip went on and everyone was pleased.",
+          "zh": "于是 Chip 继续游了下去，大家都很高兴。",
+          "startMs": 81000,
+          "endMs": 85100
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4895
+      ],
+      "startMs": 38710,
+      "endMs": 85450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next they had to swim to the bottom of the pool.",
+          "zh": "接下来，他们必须游到泳池的底部。",
+          "startMs": 85130,
+          "endMs": 89100
+        },
+        {
+          "en": "They had to pick up a brick and swim with it to the top.",
+          "zh": "他们必须捡起一块砖，带着它游到水面。",
+          "startMs": 93000,
+          "endMs": 97100
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4895,
+        0.492,
+        1.0
+      ],
+      "startMs": 85450,
+      "endMs": 97450
+    },
+    {
+      "sentences": [
+        {
+          "en": "All the children passed the swimming test.",
+          "zh": "所有孩子都通过了游泳测试。",
+          "startMs": 98000,
+          "endMs": 101100
+        },
+        {
+          "en": "Mrs. May was very pleased.",
+          "zh": "太太。",
+          "startMs": 101100,
+          "endMs": 104100
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.492,
+        0.4895,
+        1.0,
+        1.0
+      ],
+      "startMs": 97850,
+      "endMs": 104450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Well done, everyone,\" she said.",
+          "zh": "好做完， 每个人， 她说。",
+          "startMs": 108000,
+          "endMs": 124100
+        },
+        {
+          "en": "The children were pleased too.",
+          "zh": "孩子们也很高兴。",
+          "startMs": 124100,
+          "endMs": 124300
+        },
+        {
+          "en": "Biff and Chip told Mum and Dad about the swimming test.",
+          "zh": "Biff 和 Chip 把游泳测试的事告诉了妈妈和爸爸。",
+          "startMs": 124300,
+          "endMs": 128160
+        },
+        {
+          "en": "\"We passed,\" They said.",
+          "zh": "“我们通过了。” 他们说。",
+          "startMs": 128160,
+          "endMs": 128360
+        },
+        {
+          "en": "Mum and Dad were very pleased too.",
+          "zh": "妈妈和爸爸也很高兴。",
+          "startMs": 128360,
+          "endMs": 128560
+        },
+        {
+          "en": "Mum and Dad had a surprise for them.",
+          "zh": "妈妈和爸爸给他们准备了一个惊喜。",
+          "startMs": 128560,
+          "endMs": 128760
+        },
+        {
+          "en": "Biff and Chip couldn't see what the surprise was.",
+          "zh": "Biff 和 Chip 看不出是什么惊喜。",
+          "startMs": 130000,
+          "endMs": 134100
+        },
+        {
+          "en": "\"What is it?\" Asked Biff.",
+          "zh": "“这是什么？” Biff 问道。",
+          "startMs": 134130,
+          "endMs": 138100
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4801
+      ],
+      "startMs": 107850,
+      "endMs": 138450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a ball.\"",
+          "zh": "“这是一只猫头鹰。",
+          "startMs": 138130,
+          "endMs": 139520
+        },
+        {
+          "en": "\"It's a fish tank,\" said Biff.",
+          "zh": "它是一个鱼容器， 说 Biff。",
+          "startMs": 139520,
+          "endMs": 139720
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4801,
+        1.0,
+        1.0
+      ],
+      "startMs": 138450,
+      "endMs": 140070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "Biff 说道。",
+          "startMs": 139720,
+          "endMs": 140540
+        },
+        {
+          "en": "\"What a lovely surprise.\"",
+          "zh": "“真是个惊喜！”",
+          "startMs": 145750,
+          "endMs": 147190
+        },
+        {
+          "en": "Everyone looked at the fish swimming about in the tank.",
+          "zh": "大家都看着鱼缸里游来游去的鱼。",
+          "startMs": 148000,
+          "endMs": 152100
+        },
+        {
+          "en": "\"There is room for more fish,\" Said Dad.",
+          "zh": "“鱼缸里还有空间，可以多放几条鱼。” 爸爸说道。",
+          "startMs": 154350,
+          "endMs": 156300
+        },
+        {
+          "en": "\"We can get some next time we go shopping.\"",
+          "zh": "“我们下次去购物的时候可以再买一些。”",
+          "startMs": 157440,
+          "endMs": 160120
+        },
+        {
+          "en": "The next day they went shopping.",
+          "zh": "第二天，他们去购物了。",
+          "startMs": 163000,
+          "endMs": 166100
+        },
+        {
+          "en": "Dad took them to a shop that sold fish.",
+          "zh": "爸爸带他们去了一家卖鱼的商店。",
+          "startMs": 168110,
+          "endMs": 171010
+        },
+        {
+          "en": "\"What a lovely shop!\" Said Biff.",
+          "zh": "“这家店真漂亮。” Biff 说道。",
+          "startMs": 171040,
+          "endMs": 174100
+        },
+        {
+          "en": "\"Look at all the fish.\"",
+          "zh": "“看看这些鱼！”",
+          "startMs": 174130,
+          "endMs": 176180
+        },
+        {
+          "en": "There were big fish and little fish.",
+          "zh": "有大鱼也有小鱼。",
+          "startMs": 176180,
+          "endMs": 179100
+        },
+        {
+          "en": "Kipper liked the big fish in a tank.",
+          "zh": "Kipper 喜欢鱼缸里的大鱼。",
+          "startMs": 179100,
+          "endMs": 179300
+        },
+        {
+          "en": "\"Don't tap the glass,\" said Dad.",
+          "zh": "不龙头这玻璃， 说爸爸。 爸爸说道。",
+          "startMs": 179300,
+          "endMs": 182100
+        },
+        {
+          "en": "\"The fish don't like it.\"",
+          "zh": "“鱼不喜欢这样。”",
+          "startMs": 187260,
+          "endMs": 189360
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4807
+      ],
+      "startMs": 140070,
+      "endMs": 189710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad put some more fish in the tank.",
+          "zh": "爸爸又往鱼缸里放了一些鱼。",
+          "startMs": 191240,
+          "endMs": 196520
+        },
+        {
+          "en": "He put rocks on the bottom.",
+          "zh": "他在鱼缸底部放了一些石头。",
+          "startMs": 197000,
+          "endMs": 200100
+        },
+        {
+          "en": "Next to the rocks, he put a ship and a little box.",
+          "zh": "在石头旁边，他放了一艘船和一个小盒子。",
+          "startMs": 200130,
+          "endMs": 204100
+        },
+        {
+          "en": "Wilma and Nadim came to see the fish tank.",
+          "zh": "Wilma 和她的团队过来看看鱼缸。",
+          "startMs": 204130,
+          "endMs": 207240
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4807,
+        1.0,
+        1.0
+      ],
+      "startMs": 191090,
+      "endMs": 207590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It looks lovely,\" Said Wilma.",
+          "zh": "“看起来真漂亮。” Wilma 说道。",
+          "startMs": 207860,
+          "endMs": 211160
+        },
+        {
+          "en": "\"I wish I could swim in there.\"",
+          "zh": "“我真希望我能在那里面游泳。”",
+          "startMs": 211160,
+          "endMs": 211360
+        },
+        {
+          "en": "They went to play in Biff's room.",
+          "zh": "他们去 Biff 的房间玩。",
+          "startMs": 214370,
+          "endMs": 217100
+        },
+        {
+          "en": "It took Chip ran in with the magic key.",
+          "zh": "它拿 Chip 跑在……里和……一起这魔法钥匙。",
+          "startMs": 217100,
+          "endMs": 220100
+        },
+        {
+          "en": "Key was glowing.",
+          "zh": "钥匙在发光。",
+          "startMs": 220130,
+          "endMs": 223100
+        },
+        {
+          "en": "\"It's time for an adventure,\" Said Biff.",
+          "zh": "“是时候去冒险了。” Biff 说道。",
+          "startMs": 226860,
+          "endMs": 233720
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        0.4971,
+        0.4841
+      ],
+      "startMs": 207710,
+      "endMs": 234070
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic began to work.",
+          "zh": "魔法开始起作用了。",
+          "startMs": 233750,
+          "endMs": 234140
+        },
+        {
+          "en": "It took the children into a new adventure.",
+          "zh": "它将孩子们带入了一场新的冒险。",
+          "startMs": 234170,
+          "endMs": 238100
+        },
+        {
+          "en": "This time, it was a different sort of adventure.",
+          "zh": "这一次，是一次与众不同的冒险。",
+          "startMs": 238130,
+          "endMs": 240880
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4971,
+        0.0,
+        1.0,
+        0.4841
+      ],
+      "startMs": 234070,
+      "endMs": 241230
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them underwater.",
+          "zh": "魔法把他们带到了水下。",
+          "startMs": 250240,
+          "endMs": 256140
+        },
+        {
+          "en": "The children had masks and flippers and tanks of air.",
+          "zh": "孩子们戴着面罩，穿着蛙鞋，背着氧气罐。",
+          "startMs": 256170,
+          "endMs": 260100
+        },
+        {
+          "en": "They could swim underwater.",
+          "zh": "他们可以在水下游泳。",
+          "startMs": 261150,
+          "endMs": 263520
+        },
+        {
+          "en": "The children had never seen so many fish.",
+          "zh": "孩子们从未见过这么多鱼。",
+          "startMs": 265890,
+          "endMs": 269410
+        },
+        {
+          "en": "They were all different colors.",
+          "zh": "它们都是不同的颜色。",
+          "startMs": 269410,
+          "endMs": 269610
+        },
+        {
+          "en": "\"This is better than the pool,\" thought Chip.",
+          "zh": "这个是更好的比这池塘， 想 Chip。",
+          "startMs": 272860,
+          "endMs": 276160
+        },
+        {
+          "en": "\"I feel like a fish,\" thought Wilma.",
+          "zh": "我感觉喜欢一个鱼， 想 Wilma。",
+          "startMs": 276970,
+          "endMs": 279860
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4841,
+        1.0,
+        1.0
+      ],
+      "startMs": 250090,
+      "endMs": 280210
+    },
+    {
+      "sentences": [],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.483
+      ],
+      "startMs": 280210,
+      "endMs": 280211
+    },
+    {
+      "sentences": [
+        {
+          "en": "Thought Wilma.",
+          "zh": "Wilma 心想。",
+          "startMs": 279860,
+          "endMs": 280060
+        },
+        {
+          "en": "The children loved swimming under the water.",
+          "zh": "孩子们喜欢在水下游泳。",
+          "startMs": 282860,
+          "endMs": 286720
+        },
+        {
+          "en": "It was lovely to see all the fish and to swim with them.",
+          "zh": "看到所有的鱼并和它们一起游泳真好。",
+          "startMs": 286920,
+          "endMs": 291300
+        },
+        {
+          "en": "Chip and Nadim swam to the bottom and picked up a big shell.",
+          "zh": "Chip 和他的小伙伴们游到海底，捡起了一只大贝壳。",
+          "startMs": 292000,
+          "endMs": 297100
+        },
+        {
+          "en": "Looked at a jellyfish but she didn't swim too close.",
+          "zh": "Biff 看着一只水母，但她没有游得太近。",
+          "startMs": 297130,
+          "endMs": 302190
+        },
+        {
+          "en": "They saw a ship under the water.",
+          "zh": "他们在水下看到了一艘船。",
+          "startMs": 305860,
+          "endMs": 308920
+        },
+        {
+          "en": "It was an old ship that had been under the water for a long time.",
+          "zh": "这是一艘老船，已经在水下沉睡了很长时间。",
+          "startMs": 309000,
+          "endMs": 314100
+        },
+        {
+          "en": "They swam up to the ship.",
+          "zh": "他们游到船边。",
+          "startMs": 314130,
+          "endMs": 316520
+        },
+        {
+          "en": "Wilma didn't want to swim too close to it.",
+          "zh": "Wilma 不想游得太靠近它。",
+          "startMs": 316860,
+          "endMs": 320200
+        },
+        {
+          "en": "It looked dangerous.",
+          "zh": "它看起来很危险。",
+          "startMs": 320230,
+          "endMs": 321130
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.483,
+        1.0,
+        1.0
+      ],
+      "startMs": 280211,
+      "endMs": 321480
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw an octopus.",
+          "zh": "他们看到了一只章鱼。",
+          "startMs": 323000,
+          "endMs": 325100
+        },
+        {
+          "en": "Oh no!",
+          "zh": "“哎呀，不好了。”",
+          "startMs": 325100,
+          "endMs": 326100
+        },
+        {
+          "en": "It was sitting on a chest.",
+          "zh": "它是坐在……上一个胸膛。",
+          "startMs": 326100,
+          "endMs": 328100
+        },
+        {
+          "en": "They couldn't look inside the chest with an octopus sitting on the lid.",
+          "zh": "一只章鱼趴在箱盖上，他们没法看清箱子里面。",
+          "startMs": 328130,
+          "endMs": 334100
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5022,
+        0.4836
+      ],
+      "startMs": 322850,
+      "endMs": 334450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They blew bubbles at the octopus.",
+          "zh": "他们对着章鱼吹泡泡。",
+          "startMs": 337760,
+          "endMs": 340100
+        },
+        {
+          "en": "The octopus didn't like the bubbles, so it swam away.",
+          "zh": "章鱼不喜欢气泡，于是游走了。",
+          "startMs": 340230,
+          "endMs": 347210
+        },
+        {
+          "en": "\"Good!\" Thought the children.",
+          "zh": "“太好了！” 孩子们心想。",
+          "startMs": 347240,
+          "endMs": 350320
+        },
+        {
+          "en": "\"Now we can look inside.\"",
+          "zh": "“现在我们可以看看里面了！”",
+          "startMs": 350350,
+          "endMs": 356960
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.5022,
+        0.0,
+        1.0,
+        0.4836
+      ],
+      "startMs": 337610,
+      "endMs": 357310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children opened up the chest and looked inside.",
+          "zh": "孩子们打开箱子，往里面看。",
+          "startMs": 356990,
+          "endMs": 361960
+        },
+        {
+          "en": "It was a treasure chest, and it was full of gold.",
+          "zh": "这是一个宝箱，里面装满了金子。",
+          "startMs": 363860,
+          "endMs": 368960
+        },
+        {
+          "en": "Biff and Wilma pushed the chest over, and all the gold fell out.",
+          "zh": "Biff 和 Wilma 把箱子推倒，所有的金子都掉了出来。",
+          "startMs": 368990,
+          "endMs": 374350
+        },
+        {
+          "en": "Picked up a necklace and Biff picked up a gold cup.",
+          "zh": "Nadine 拿起了一条项链，Biff 拿起了一个金杯。",
+          "startMs": 374880,
+          "endMs": 379570
+        },
+        {
+          "en": "Biff and Nadim were busy looking at the treasure.",
+          "zh": "Biff 和 Nadine 正忙着看宝藏。",
+          "startMs": 383860,
+          "endMs": 387160
+        },
+        {
+          "en": "They didn't see what Chip and Wilma saw.",
+          "zh": "他们没有看到 Chip 和 Wilma 看到的东西。",
+          "startMs": 387860,
+          "endMs": 390520
+        },
+        {
+          "en": "A shark was coming!",
+          "zh": "一条鲨鱼游过来了！",
+          "startMs": 390860,
+          "endMs": 393960
+        },
+        {
+          "en": "Chip and Wilma couldn't tell Biff and Nadim.",
+          "zh": "Chip 和 Wilma 来不及告诉 Biff 和 Nadine。",
+          "startMs": 394000,
+          "endMs": 397100
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.4836,
+        1.0,
+        1.0
+      ],
+      "startMs": 357310,
+      "endMs": 397450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They pulled them away and pointed at the shark.",
+          "zh": "他们拉着 Biff 和 Nadine 离开，指着鲨鱼。",
+          "startMs": 397260,
+          "endMs": 400950
+        }
+      ],
+      "pdfPage": 7,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4737
+      ],
+      "startMs": 397450,
+      "endMs": 401300
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were frightened.",
+          "zh": "孩子们吓坏了。",
+          "startMs": 405860,
+          "endMs": 407960
+        },
+        {
+          "en": "They swam and swam, but the shark swam after them.",
+          "zh": "他们拼命地游啊游，但鲨鱼却一直跟着他们。",
+          "startMs": 407990,
+          "endMs": 412280
+        },
+        {
+          "en": "Then the magic key began to glow.",
+          "zh": "这时，魔法钥匙开始发光。",
+          "startMs": 413440,
+          "endMs": 415360
+        }
+      ],
+      "pdfPage": 7,
+      "rect": [
+        0.0,
+        0.4737,
+        0.4956,
+        1.0
+      ],
+      "startMs": 405710,
+      "endMs": 415710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key took them out of the adventure.",
+          "zh": "魔法钥匙把他们带出了这次冒险。",
+          "startMs": 427860,
+          "endMs": 431960
+        },
+        {
+          "en": "\"Wow!",
+          "zh": "“哇！",
+          "startMs": 432650,
+          "endMs": 434280
+        },
+        {
+          "en": "What an adventure!\" Said Biff.",
+          "zh": "真是一次精彩的冒险啊！” Biff 说道。",
+          "startMs": 434310,
+          "endMs": 437780
+        },
+        {
+          "en": "\"The treasure chest was like the one in our fish tank.\" \"Look!",
+          "zh": "“那个宝箱和我们鱼缸里的宝箱一样。” “看！",
+          "startMs": 437810,
+          "endMs": 440670
+        }
+      ],
+      "pdfPage": 7,
+      "rect": [
+        0.4956,
+        0.4737,
+        1.0,
+        1.0
+      ],
+      "startMs": 427710,
+      "endMs": 441020
+    },
+    {
+      "sentences": [
+        {
+          "en": "There's the treasure!\" Said Chip.",
+          "zh": "宝藏在那里！” Chip 说道。",
+          "startMs": 448490,
+          "endMs": 451590
+        },
+        {
+          "en": "The children ran to look in the fish tank.",
+          "zh": "孩子们跑过去看鱼缸。",
+          "startMs": 451620,
+          "endMs": 454990
+        },
+        {
+          "en": "\"How did it get there?\" Asked Nadim.",
+          "zh": "“它是怎么到那里的？” Nadim 问道。",
+          "startMs": 454990,
+          "endMs": 455190
+        },
+        {
+          "en": "\"It's magic!\"",
+          "zh": "“这是魔法！”",
+          "startMs": 455190,
+          "endMs": 455390
+        }
+      ],
+      "pdfPage": 8,
+      "rect": [
+        0.0,
+        0.0,
+        0.589,
+        1.0
+      ],
+      "startMs": 448340,
+      "endMs": 455740
+    },
+    {
+      "sentences": [],
+      "pdfPage": 8,
+      "rect": [
+        0.589,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 455740,
+      "endMs": 455741
+    }
+  ]
+}

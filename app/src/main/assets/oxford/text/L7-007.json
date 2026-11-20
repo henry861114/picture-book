@@ -1,0 +1,1105 @@
+{
+  "id": "L7-007",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went to stay with Gran.",
+          "zh": "Biff 和 Chip 去到停留和……一起 Gran。",
+          "startMs": 29,
+          "endMs": 6260
+        },
+        {
+          "en": "Gran lived in a little village.",
+          "zh": "Gran 住在……里一个小的村庄。",
+          "startMs": 7180,
+          "endMs": 9290
+        },
+        {
+          "en": "Biff and Chip liked staying with Gran.",
+          "zh": "Biff 和 Chip 喜欢停留和……一起 Gran。",
+          "startMs": 9320,
+          "endMs": 12100
+        },
+        {
+          "en": "She was good fun.",
+          "zh": "她是好的乐趣。",
+          "startMs": 12130,
+          "endMs": 13280
+        },
+        {
+          "en": "She made Biff and Chip laugh.",
+          "zh": "她做 Biff 和 Chip 笑。",
+          "startMs": 15010,
+          "endMs": 16870
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 17220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took Biff and Chip to the shed.",
+          "zh": "Gran 拿 Biff 和 Chip 到这她。",
+          "startMs": 19880,
+          "endMs": 23080
+        },
+        {
+          "en": "She had a surprise for them.",
+          "zh": "她有一个意想不到的事物为了他们。",
+          "startMs": 23420,
+          "endMs": 25280
+        },
+        {
+          "en": "\"Open the door,\" she said.",
+          "zh": "打开这门， 她说。",
+          "startMs": 25570,
+          "endMs": 28350
+        },
+        {
+          "en": "\"I've got a surprise for you.\" \"What is it?\" Asked Chip.",
+          "zh": "我已经得到一个意想不到的事物为了你。 什么是这个？ 什么是它？ 问 Chip。",
+          "startMs": 28700,
+          "endMs": 33310
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 19730,
+      "endMs": 33660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip opened the door and looked inside the shed.",
+          "zh": "Biff 和 Chip 打开这门和看里面这她。",
+          "startMs": 33820,
+          "endMs": 37920
+        },
+        {
+          "en": "They had a big surprise.",
+          "zh": "他们有一个大的意想不到的事物。",
+          "startMs": 43260,
+          "endMs": 45360
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哦不！ 不， 说 Biff。",
+          "startMs": 45650,
+          "endMs": 48430
+        },
+        {
+          "en": "\"There's a dragon in the shed!\" Said Gran.",
+          "zh": "有一个龙在……里这她！ 谢谢你， 说 Gran。",
+          "startMs": 48460,
+          "endMs": 54560
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 33670,
+      "endMs": 54910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's not a real dragon,\" said Gran.",
+          "zh": "它是不一个真的龙， 说 Gran。",
+          "startMs": 54960,
+          "endMs": 55700
+        },
+        {
+          "en": "\"It's a kite.\"",
+          "zh": "它是一个风筝。",
+          "startMs": 59900,
+          "endMs": 62320
+        },
+        {
+          "en": "Biff and Chip looked at the kite.",
+          "zh": "Biff 和 Chip 看在这风筝。",
+          "startMs": 62350,
+          "endMs": 64060
+        },
+        {
+          "en": "\"It's a Chinese dragon kite,\" said Gran.",
+          "zh": "它是一个中国的龙风筝， 说 Gran。 谢谢你， 说 Gran。",
+          "startMs": 64090,
+          "endMs": 68060
+        },
+        {
+          "en": "\"It's wonderful,\" Said Biff.",
+          "zh": "它是精彩的， 说 Chip。 不， 说 Biff。",
+          "startMs": 68860,
+          "endMs": 72320
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 54910,
+      "endMs": 72670
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children wanted to fly the kite.",
+          "zh": "这孩子们想要到飞这风筝。",
+          "startMs": 72960,
+          "endMs": 75060
+        },
+        {
+          "en": "\"It's a good day for a picnic,\" said Gran.",
+          "zh": "它是一个好的一天为了一个野餐， 说 Gran。 谢谢你， 说 Gran。",
+          "startMs": 75960,
+          "endMs": 79040
+        },
+        {
+          "en": "\"And it's a good day to fly the kite.",
+          "zh": "和它是一个好的一天到飞这风筝。",
+          "startMs": 79070,
+          "endMs": 82400
+        },
+        {
+          "en": "It's quite windy.\"",
+          "zh": "它是相当多风的。",
+          "startMs": 82430,
+          "endMs": 83980
+        },
+        {
+          "en": "\"Can I fly it first?\" Asked Biff.",
+          "zh": "能我飞它第一？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 84960,
+          "endMs": 89060
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 72810,
+      "endMs": 89410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran found a good place for the picnic.",
+          "zh": "Gran 找到一个好的地方为了这野餐。",
+          "startMs": 91860,
+          "endMs": 95040
+        },
+        {
+          "en": "It was near her house.",
+          "zh": "它是在……附近她房子。",
+          "startMs": 95250,
+          "endMs": 97050
+        },
+        {
+          "en": "\"This is a good place to fly the kite,\" she said.",
+          "zh": "这个是一个好的地方到飞这风筝， 她说。",
+          "startMs": 97080,
+          "endMs": 101240
+        },
+        {
+          "en": "She let Biff fly the kite first.",
+          "zh": "她让 Biff 飞这风筝第一。",
+          "startMs": 101960,
+          "endMs": 104260
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 91710,
+      "endMs": 104610
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wind took the kite up in the sky.",
+          "zh": "这风拿这风筝向上在……里这天空。",
+          "startMs": 104290,
+          "endMs": 107560
+        },
+        {
+          "en": "It went higher and higher.",
+          "zh": "它去教育高级证书和教育高级证书。",
+          "startMs": 107830,
+          "endMs": 110210
+        },
+        {
+          "en": "\"It looks wonderful,\" said Chip.",
+          "zh": "它看精彩的， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 118000,
+          "endMs": 121420
+        },
+        {
+          "en": "Suddenly the wind got stronger.",
+          "zh": "突然地这风得到强壮的。",
+          "startMs": 121530,
+          "endMs": 123680
+        },
+        {
+          "en": "\"Oh, don't let go,\" Called Gran.",
+          "zh": "Wilf， 和不让去！ 不让去， 叫 Gran。",
+          "startMs": 126960,
+          "endMs": 132060
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 104610,
+      "endMs": 132410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wind pulled the dragon kite out of Biff's hand.",
+          "zh": "这风拉这龙风筝出的 Biff 手。",
+          "startMs": 135820,
+          "endMs": 140120
+        },
+        {
+          "en": "It blew away and landed in a tree.",
+          "zh": "它 blew 离开和拥有大量土地的在……里一个树。",
+          "startMs": 140150,
+          "endMs": 142920
+        },
+        {
+          "en": "Biff was upset.",
+          "zh": "Biff 是使苦恼。",
+          "startMs": 144000,
+          "endMs": 145910
+        },
+        {
+          "en": "\"I couldn't hold on to it,\" she said.",
+          "zh": "我不能拿着在……上到它， 她说。",
+          "startMs": 145940,
+          "endMs": 149050
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 135670,
+      "endMs": 149400
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 149080,
+          "endMs": 150050
+        },
+        {
+          "en": "Chip climbed the tree and pulled the kite, but it wouldn't come down.",
+          "zh": "Chip 爬这树和拉这风筝， 但是它不会来向下。",
+          "startMs": 151060,
+          "endMs": 155900
+        },
+        {
+          "en": "\"Be careful,\" Said Biff.",
+          "zh": "是谨慎的， 说 Biff。 不， 说 Biff。",
+          "startMs": 156910,
+          "endMs": 158920
+        },
+        {
+          "en": "\"Mind you don't tear it.\"",
+          "zh": "头脑你不撕它。",
+          "startMs": 158950,
+          "endMs": 160810
+        },
+        {
+          "en": "\"And mind you don't fall,\" said Gran.",
+          "zh": "和头脑你不落下， 说 Gran。",
+          "startMs": 160960,
+          "endMs": 163740
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 149400,
+      "endMs": 164090
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Gran.",
+          "zh": "谢谢你， 说 Gran。",
+          "startMs": 183640,
+          "endMs": 185060
+        },
+        {
+          "en": "The kite was stuck in the tree.",
+          "zh": "这风筝是 stuck 在……里这树。",
+          "startMs": 185090,
+          "endMs": 187800
+        },
+        {
+          "en": "Chip couldn't get it down.",
+          "zh": "Chip 不能得到它向下。",
+          "startMs": 187800,
+          "endMs": 188000
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 183490,
+      "endMs": 188350
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the end, someone got the kite down with a long pole.",
+          "zh": "在……里这末尾， 某人得到这风筝向下和……一起一个长的柱。",
+          "startMs": 188000,
+          "endMs": 188200
+        },
+        {
+          "en": "\"Thank you,\" said Biff and Chip.",
+          "zh": "谢谢你。",
+          "startMs": 188200,
+          "endMs": 188600
+        },
+        {
+          "en": "Biff and Chip went to fly the kite again.",
+          "zh": "Biff 和 Chip 去到飞这风筝再一次。",
+          "startMs": 188600,
+          "endMs": 189520
+        },
+        {
+          "en": "Chip saw some wild flowers.",
+          "zh": "Chip 看见一些野生的花。",
+          "startMs": 189550,
+          "endMs": 192060
+        },
+        {
+          "en": "\"Mind those flowers!\"",
+          "zh": "头脑那些花！ 他说。",
+          "startMs": 192960,
+          "endMs": 194070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 188350,
+      "endMs": 194420
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 194100,
+          "endMs": 195050
+        },
+        {
+          "en": "\"Don't step on them.\" Gran looked upset.",
+          "zh": "不迈步在……上他们。 Gran 看使苦恼。",
+          "startMs": 195080,
+          "endMs": 200100
+        },
+        {
+          "en": "\"What's the matter, Gran?\" Asked Chip.",
+          "zh": "是什么这事情， Gran？ 问 Chip。 什么是它？ 问 Chip。",
+          "startMs": 205950,
+          "endMs": 207960
+        },
+        {
+          "en": "\"They want to build a motorway.",
+          "zh": "他们想要到建造一个高速公路。",
+          "startMs": 207960,
+          "endMs": 208990
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 194420,
+      "endMs": 209340
+    },
+    {
+      "sentences": [
+        {
+          "en": "They want to put it right here,\" said Gran.",
+          "zh": "他们想要到放它正确的这里， 说 Gran。 谢谢你， 说 Gran。",
+          "startMs": 209020,
+          "endMs": 213060
+        },
+        {
+          "en": "Biff and Chip were upset, too.",
+          "zh": "Biff 和 Chip 是使苦恼， 也。",
+          "startMs": 213960,
+          "endMs": 215300
+        },
+        {
+          "en": "They didn't want a motorway there.",
+          "zh": "他们没有想要一个高速公路那里。",
+          "startMs": 215300,
+          "endMs": 218060
+        },
+        {
+          "en": "\"We won't be able to have picnics or play in the wood,\" said Biff.",
+          "zh": "我们不会是有到有野餐或者玩在……里这木头， 说 Biff。",
+          "startMs": 218960,
+          "endMs": 223000
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 209340,
+      "endMs": 223350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "不， 说 Biff。",
+          "startMs": 223030,
+          "endMs": 224090
+        },
+        {
+          "en": "\"And we won't be able to fly the kite.\"",
+          "zh": "和我们不会是有到飞这风筝。",
+          "startMs": 225230,
+          "endMs": 227720
+        },
+        {
+          "en": "A woman pointed to the wood.",
+          "zh": "一个女人尖的到这木头。",
+          "startMs": 232860,
+          "endMs": 235780
+        },
+        {
+          "en": "Then she pointed to the village.",
+          "zh": "然后她尖的到这村庄。",
+          "startMs": 235810,
+          "endMs": 236640
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 223350,
+      "endMs": 236990
+    },
+    {
+      "sentences": [
+        {
+          "en": "«This is where the motorway will go.",
+          "zh": "«这个是哪里这高速公路将去。",
+          "startMs": 237960,
+          "endMs": 239900
+        },
+        {
+          "en": "It will go between the wood and the village,\" she said.",
+          "zh": "它将去在……之间这木头和这村庄， 她说。",
+          "startMs": 240060,
+          "endMs": 270850
+        },
+        {
+          "en": "Gran was very upset.",
+          "zh": "Gran 是非常使苦恼。",
+          "startMs": 270850,
+          "endMs": 271050
+        },
+        {
+          "en": "She looked at the village and she looked at her house.",
+          "zh": "她看在这村庄和她看在她房子。",
+          "startMs": 271050,
+          "endMs": 271250
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 237810,
+      "endMs": 271600
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We don't want a motorway here.",
+          "zh": "我们不想要一个高速公路这里。",
+          "startMs": 271250,
+          "endMs": 271450
+        },
+        {
+          "en": "She said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 271450,
+          "endMs": 271650
+        },
+        {
+          "en": "\"We must stop it.\"",
+          "zh": "我们必须停它。",
+          "startMs": 271650,
+          "endMs": 271850
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 271600,
+      "endMs": 272200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran told people in the village about the motorway.",
+          "zh": "Gran 告诉人们在……里这村庄关于这高速公路。",
+          "startMs": 271850,
+          "endMs": 289360
+        },
+        {
+          "en": "Everyone was upset.",
+          "zh": "每个人是使苦恼。",
+          "startMs": 289390,
+          "endMs": 290780
+        },
+        {
+          "en": "\"We don't want a motorway here.",
+          "zh": "我们不想要一个高速公路这里。",
+          "startMs": 290780,
+          "endMs": 290980
+        },
+        {
+          "en": "We must stop it,\" They said.",
+          "zh": "我们必须停它。 一个腿！ 他们说。",
+          "startMs": 290980,
+          "endMs": 291180
+        },
+        {
+          "en": "Everyone wanted to stop the motorway.",
+          "zh": "每个人想要到停这高速公路。",
+          "startMs": 291180,
+          "endMs": 291380
+        },
+        {
+          "en": "\"We don't want it here,\" said Gran.",
+          "zh": "我们不想要它这里， 说 Gran。",
+          "startMs": 291380,
+          "endMs": 291580
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 272200,
+      "endMs": 291930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Gran.",
+          "zh": "谢谢你， 说 Gran。",
+          "startMs": 291580,
+          "endMs": 291780
+        },
+        {
+          "en": "\"It will spoil our village.\"",
+          "zh": "它将毁掉我们的村庄。",
+          "startMs": 291780,
+          "endMs": 291980
+        },
+        {
+          "en": "\"It can't be helped,\" Said a man.",
+          "zh": "它不能是帮助 1， 说一个男人。 » 说 Nadim。",
+          "startMs": 291980,
+          "endMs": 292180
+        },
+        {
+          "en": "\"We can't stop it.\"",
+          "zh": "我们不能停它。",
+          "startMs": 292180,
+          "endMs": 292380
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 291930,
+      "endMs": 292730
+    },
+    {
+      "sentences": [
+        {
+          "en": "People came to Gran's house.",
+          "zh": "Gran' 和 Ste 不这 TOI 方式人们来到 Gran 房子。",
+          "startMs": 292380,
+          "endMs": 293380
+        },
+        {
+          "en": "They made banners and posters.",
+          "zh": "他们做横幅和海报。",
+          "startMs": 294820,
+          "endMs": 297200
+        },
+        {
+          "en": "Gran made a big banner.",
+          "zh": "Gran 做一个大的横幅。",
+          "startMs": 297230,
+          "endMs": 298920
+        },
+        {
+          "en": "Biff helped her.",
+          "zh": "Biff 帮助她。",
+          "startMs": 298960,
+          "endMs": 300060
+        },
+        {
+          "en": "The banner said, \"Stop the motorway\".",
+          "zh": "这横幅说， 停这高速公路。",
+          "startMs": 301020,
+          "endMs": 304040
+        },
+        {
+          "en": "Land Chip was good at painting.",
+          "zh": "Chip 是好的在绘画。",
+          "startMs": 304070,
+          "endMs": 306060
+        },
+        {
+          "en": "He made a poster.",
+          "zh": "他做一个海报。",
+          "startMs": 306090,
+          "endMs": 307920
+        },
+        {
+          "en": "The poster said, \"Save our woodland\".",
+          "zh": "这海报说， 挽救我们的树林。",
+          "startMs": 307950,
+          "endMs": 310810
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 292730,
+      "endMs": 311160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The banner looks good,\" said Biff.",
+          "zh": "这横幅看好的， 说 Biff。 不， 说 Biff。",
+          "startMs": 314960,
+          "endMs": 315970
+        },
+        {
+          "en": "\"And Chip's poster looks good too.\"",
+          "zh": "和 Chip 海报看好的也。",
+          "startMs": 316000,
+          "endMs": 317060
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 314810,
+      "endMs": 317410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone went to a meeting.",
+          "zh": "每个人去到一个遇见。",
+          "startMs": 323960,
+          "endMs": 324060
+        },
+        {
+          "en": "An important woman was there.",
+          "zh": "一个重要的女人是那里。",
+          "startMs": 326450,
+          "endMs": 328800
+        },
+        {
+          "en": "The woman pointed to a map.",
+          "zh": "这女人尖的到一个地图。",
+          "startMs": 328830,
+          "endMs": 330920
+        },
+        {
+          "en": "\"We have to put the motorway here,\" she said.",
+          "zh": "我们有到放这高速公路这里， 她说。",
+          "startMs": 332000,
+          "endMs": 337280
+        },
+        {
+          "en": "\"We don't want the motorway here,\" said Gran.",
+          "zh": "我们不想要这高速公路这里， 说 Gran。 谢谢你， 说 Gran。",
+          "startMs": 337310,
+          "endMs": 341060
+        },
+        {
+          "en": "\"It will spoil the village.\"",
+          "zh": "它将毁掉这村庄。",
+          "startMs": 341090,
+          "endMs": 342370
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 323810,
+      "endMs": 342720
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It can't be helped,\" said the woman.",
+          "zh": "它不能是帮助， 说这女人。 好的， 说这狼女人。",
+          "startMs": 343960,
+          "endMs": 346800
+        },
+        {
+          "en": "\"It has to go somewhere.",
+          "zh": "它有到去在某处。",
+          "startMs": 346830,
+          "endMs": 348660
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 343810,
+      "endMs": 349010
+    },
+    {
+      "sentences": [
+        {
+          "en": "I can't stop it.\"",
+          "zh": "我不能停它。",
+          "startMs": 348980,
+          "endMs": 350780
+        },
+        {
+          "en": "Soon, big lorries and bulldozers came to the village.",
+          "zh": "很快， 大的卡车和推土机来到这村庄。",
+          "startMs": 354820,
+          "endMs": 359160
+        },
+        {
+          "en": "Nobody wanted the motorway.",
+          "zh": "没有人想要这高速公路。",
+          "startMs": 362960,
+          "endMs": 363920
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 349010,
+      "endMs": 364270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to stop it.",
+          "zh": "每个人想要到停这高速公路。",
+          "startMs": 367840,
+          "endMs": 369940
+        },
+        {
+          "en": "But the bulldozers began to dig.",
+          "zh": "每个人想要到停它， 但是这推土机开始到掘。",
+          "startMs": 369970,
+          "endMs": 372190
+        },
+        {
+          "en": "Gran looked at the bulldozers.",
+          "zh": "Gran 看在这推土机。",
+          "startMs": 376960,
+          "endMs": 379770
+        },
+        {
+          "en": "\"The motorway will spoil the countryside,\" she said.",
+          "zh": "这高速公路将毁掉这乡下， 她说。",
+          "startMs": 379800,
+          "endMs": 383970
+        },
+        {
+          "en": "\"Oh no!\" she said.",
+          "zh": "哦不！ 她说。",
+          "startMs": 383970,
+          "endMs": 384170
+        },
+        {
+          "en": "\"Now we won't be able to walk in the woods and go on picnics.\"",
+          "zh": "现在我们不会是有到走在……里这木头和去在……上野餐。",
+          "startMs": 384190,
+          "endMs": 388920
+        },
+        {
+          "en": "The children watched the bulldozers.",
+          "zh": "这孩子们手表这推土机。",
+          "startMs": 392960,
+          "endMs": 393850
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 367690,
+      "endMs": 394200
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the wildflowers.",
+          "zh": "Biff 看在这野生的花。",
+          "startMs": 397610,
+          "endMs": 401590
+        },
+        {
+          "en": "\"Oh, no!\" She said.",
+          "zh": "哦不！ 啊唷！ 她说。",
+          "startMs": 401810,
+          "endMs": 404910
+        },
+        {
+          "en": "\"The bulldozer will dig them up soon.\"",
+          "zh": "这推土机将掘他们向上很快。",
+          "startMs": 404940,
+          "endMs": 407520
+        },
+        {
+          "en": "Let's pick some for Gran.\"",
+          "zh": "让我们挑选一些为了 Gran。",
+          "startMs": 407550,
+          "endMs": 408860
+        },
+        {
+          "en": "Biff and Chip made Gran a cup of tea.",
+          "zh": "Biff 和 Chip 做 Gran 一个杯子的茶。",
+          "startMs": 409960,
+          "endMs": 411900
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 397460,
+      "endMs": 412250
+    },
+    {
+      "sentences": [
+        {
+          "en": "They gave her the flowers.",
+          "zh": "他们给她这花。",
+          "startMs": 412500,
+          "endMs": 414120
+        },
+        {
+          "en": "\"We picked these flowers for you,\" said Chip.",
+          "zh": "我们挑选这些花为了你， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 414150,
+          "endMs": 417740
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 412350,
+      "endMs": 418090
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The bulldozer will dig them up soon.\"",
+          "zh": "这推土机将掘他们向上很快。",
+          "startMs": 418840,
+          "endMs": 421100
+        },
+        {
+          "en": "Gran looked at the flowers.",
+          "zh": "Gran 看在这花。",
+          "startMs": 426410,
+          "endMs": 429760
+        },
+        {
+          "en": "\"I think these flowers are very rare,\" she said.",
+          "zh": "我想这些花是非常罕见的， 她说。",
+          "startMs": 429790,
+          "endMs": 432360
+        },
+        {
+          "en": "\"I've never seen them before.\"",
+          "zh": "我已经从不看见他们在……之前。",
+          "startMs": 432470,
+          "endMs": 434920
+        },
+        {
+          "en": "She jumped up and ran inside the house.",
+          "zh": "她跳向上和跑里面这房子。",
+          "startMs": 435960,
+          "endMs": 439420
+        },
+        {
+          "en": "Gran looked in a book.",
+          "zh": "Gran 看在……里一个书。",
+          "startMs": 439560,
+          "endMs": 441280
+        },
+        {
+          "en": "She found a picture of the flowers.",
+          "zh": "她找到一个图画的这花。",
+          "startMs": 441310,
+          "endMs": 443920
+        },
+        {
+          "en": "\"This is wonderful!\" Shouted Gran.",
+          "zh": "这个是精彩的！ 喊 Gran。",
+          "startMs": 444860,
+          "endMs": 448760
+        },
+        {
+          "en": "\"These flowers are rare.",
+          "zh": "这些花是罕见的。",
+          "startMs": 449140,
+          "endMs": 451920
+        },
+        {
+          "en": "Now we can stop the motorway.\"",
+          "zh": "现在我们能停这高速公路。",
+          "startMs": 451950,
+          "endMs": 454640
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 418690,
+      "endMs": 454990
+    },
+    {
+      "sentences": [
+        {
+          "en": "People came from everywhere.",
+          "zh": "人们来从到处。",
+          "startMs": 457960,
+          "endMs": 459380
+        },
+        {
+          "en": "They looked at the rare flowers.",
+          "zh": "他们看在这罕见的花。",
+          "startMs": 461270,
+          "endMs": 463240
+        },
+        {
+          "en": "\"This is amazing,\" they said.",
+          "zh": "这个是使人十分惊奇的， 他们说。",
+          "startMs": 467000,
+          "endMs": 471080
+        },
+        {
+          "en": "\"We've never seen these flowers before.",
+          "zh": "我们已经从不看见这些花在……之前。",
+          "startMs": 471110,
+          "endMs": 473390
+        },
+        {
+          "en": "They must be saved.\"",
+          "zh": "他们必须是挽救。",
+          "startMs": 474960,
+          "endMs": 476060
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 457810,
+      "endMs": 476410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hooray!\" Shouted Gran.",
+          "zh": "这食物是准备好的。 喊 Gran。",
+          "startMs": 476960,
+          "endMs": 478920
+        },
+        {
+          "en": "\"These flowers will stop the motorway.",
+          "zh": "这些花将停这高速公路。",
+          "startMs": 478950,
+          "endMs": 482780
+        },
+        {
+          "en": "They can't put a motorway here.",
+          "zh": "他们不能放一个高速公路这里。",
+          "startMs": 482950,
+          "endMs": 485600
+        },
+        {
+          "en": "They can't dig up rare flowers.\"",
+          "zh": "他们不能掘向上罕见的花。",
+          "startMs": 486180,
+          "endMs": 489060
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 476810,
+      "endMs": 489410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The rare flowers were saved, and so was Gran's village.",
+          "zh": "这罕见的花是挽救， 和所以是 Gran 村庄。",
+          "startMs": 493980,
+          "endMs": 498240
+        },
+        {
+          "en": "The bulldozers and lorries went away, but they left a big hole in the ground. Said Gran.",
+          "zh": "这推土机和卡车去离开， 但是他们离开一个大的洞在……里这地面。 谢谢你， 说 Gran。",
+          "startMs": 498270,
+          "endMs": 505780
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 493830,
+      "endMs": 506130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Thank you for helping us stop the motorway,\" said Gran.",
+          "zh": "谢谢你为了帮助我们停这高速公路， 说 Gran。",
+          "startMs": 505960,
+          "endMs": 508900
+        },
+        {
+          "en": "\"What will you do about the hole?\" Asked Biff.",
+          "zh": "什么将你做关于这洞？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 509890,
+          "endMs": 514160
+        },
+        {
+          "en": "Gran smiled.",
+          "zh": "Gran 微笑。",
+          "startMs": 514190,
+          "endMs": 516060
+        },
+        {
+          "en": "She had an idea.",
+          "zh": "她有一个主意。",
+          "startMs": 516090,
+          "endMs": 517920
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 506130,
+      "endMs": 518270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The big hole was made into a lake.",
+          "zh": "这大的洞是做进入一个拉客。",
+          "startMs": 522230,
+          "endMs": 524930
+        },
+        {
+          "en": "Ducks came to live on it and wild flowers grew round it.",
+          "zh": "鸭来到住在……上它和野生的花 grew 圆形的它。",
+          "startMs": 525960,
+          "endMs": 534060
+        },
+        {
+          "en": "\"The children will like this,\" said Gran.",
+          "zh": "这孩子们将喜欢这个， 说 Gran。 谢谢你， 说 Gran。",
+          "startMs": 534960,
+          "endMs": 538030
+        },
+        {
+          "en": "\"It's better than a motorway.\"",
+          "zh": "它是更好的比一个高速公路。",
+          "startMs": 538060,
+          "endMs": 540530
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 522080,
+      "endMs": 540880
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 540880,
+      "endMs": 540881
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 540881,
+      "endMs": 540882
+    }
+  ]
+}

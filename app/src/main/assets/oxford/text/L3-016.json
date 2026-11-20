@@ -1,0 +1,231 @@
+{
+  "id": "L3-016",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family went on holiday.",
+          "zh": "这家庭去在……上假期。",
+          "startMs": 0,
+          "endMs": 150
+        },
+        {
+          "en": "Wilf and Wilma went, too.",
+          "zh": "Wilf 和 Wilma 去， 也。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The hotel had burned down.",
+          "zh": "这旅馆有烧向下。",
+          "startMs": 19000,
+          "endMs": 21100
+        }
+      ],
+      "startMs": 18850,
+      "endMs": 21450
+    },
+    {
+      "sentences": [
+        {
+          "en": "said the man.",
+          "zh": "说这男人。",
+          "startMs": 22520,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 22370,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at a new hotel.",
+          "zh": "他们看在一个新的旅馆。",
+          "startMs": 29030,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 28880,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Too expensive,\" said Mum.",
+          "zh": "也昂贵的， 说妈妈。",
+          "startMs": 32000,
+          "endMs": 33370
+        }
+      ],
+      "startMs": 31850,
+      "endMs": 33720
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at an old hotel.",
+          "zh": "他们看在一个旧的旅馆。",
+          "startMs": 39000,
+          "endMs": 41100
+        }
+      ],
+      "startMs": 38850,
+      "endMs": 41450
+    },
+    {
+      "sentences": [
+        {
+          "en": "No Pets \"No, thank you,\" said Dad.",
+          "zh": "不宠物不， 谢谢你， 说爸爸。",
+          "startMs": 42000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Every hotel was full.",
+          "zh": "每个旅馆是满的。",
+          "startMs": 49000,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 48850,
+      "endMs": 51450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The family went on holiday.",
+          "zh": "这家庭去在……上假期。",
+          "startMs": 56640,
+          "endMs": 64254
+        },
+        {
+          "en": "Wilf and Huma went too.",
+          "zh": "Wilf 和 Huma 去也。",
+          "startMs": 64254,
+          "endMs": 70740
+        }
+      ],
+      "startMs": 56640,
+      "endMs": 70740
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had to go home.",
+          "zh": "他们有到去家。",
+          "startMs": 60000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "But the car broke down.",
+          "zh": "但是这汽车打破向下。",
+          "startMs": 71000,
+          "endMs": 73100
+        }
+      ],
+      "startMs": 70850,
+      "endMs": 73450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A farmer stopped his tractor.",
+          "zh": "一个农场停他的拖拉机。",
+          "startMs": 77000,
+          "endMs": 80100
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 80450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can I help?\" he said.",
+          "zh": "能我帮助？ 他说。",
+          "startMs": 83000,
+          "endMs": 86100
+        }
+      ],
+      "startMs": 82850,
+      "endMs": 86450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The farmer had a bus.",
+          "zh": "这农场有一个公共汽车。",
+          "startMs": 90000,
+          "endMs": 92100
+        }
+      ],
+      "startMs": 89850,
+      "endMs": 92450
+    },
+    {
+      "sentences": [
+        {
+          "en": "You can stay here,\" he said.",
+          "zh": "你能停留这里， 他说。",
+          "startMs": 93000,
+          "endMs": 96100
+        }
+      ],
+      "startMs": 92850,
+      "endMs": 96450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good holiday!\" said Wilf.",
+          "zh": "什么一个好的假期！ 说 Wilf。",
+          "startMs": 104000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [],
+      "startMs": 111090,
+      "endMs": 111590,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 111590,
+      "endMs": 111642,
+      "illustrationOnly": true
+    }
+  ]
+}

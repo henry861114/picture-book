@@ -1,0 +1,237 @@
+{
+  "id": "L1-021",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip did this.",
+          "zh": "Chip 做这个。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Biff.",
+          "zh": "它是 Biff。",
+          "startMs": 6280,
+          "endMs": 10750
+        }
+      ],
+      "startMs": 6130,
+      "endMs": 11100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff did this.",
+          "zh": "Biff 做这个。",
+          "startMs": 10280,
+          "endMs": 12380
+        }
+      ],
+      "startMs": 10130,
+      "endMs": 12730
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Kipper.",
+          "zh": "它是 Kipper。",
+          "startMs": 18840,
+          "endMs": 20940
+        }
+      ],
+      "startMs": 18690,
+      "endMs": 21290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper did this.",
+          "zh": "Kipper 做这个。",
+          "startMs": 23290,
+          "endMs": 25300
+        }
+      ],
+      "startMs": 23140,
+      "endMs": 25650
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Mum.",
+          "zh": "它是妈妈。",
+          "startMs": 6280,
+          "endMs": 6750
+        }
+      ],
+      "startMs": 6130,
+      "endMs": 7100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip did this.",
+          "zh": "Chip 做这个。",
+          "startMs": 10650,
+          "endMs": 12380
+        }
+      ],
+      "startMs": 10500,
+      "endMs": 12730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy did this!",
+          "zh": "Floppy 做这个！",
+          "startMs": 10650,
+          "endMs": 12380
+        }
+      ],
+      "startMs": 10500,
+      "endMs": 12730
+    },
+    {
+      "sentences": [],
+      "startMs": 23917,
+      "endMs": 24717,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is it?",
+          "zh": "谁是它？",
+          "startMs": 18840,
+          "endMs": 31870
+        }
+      ],
+      "startMs": 18690,
+      "endMs": 32220
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Kipper.",
+          "zh": "它是 Kipper。",
+          "startMs": 18840,
+          "endMs": 20940
+        }
+      ],
+      "startMs": 18690,
+      "endMs": 21290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is it?",
+          "zh": "谁是它？",
+          "startMs": 18840,
+          "endMs": 31870
+        }
+      ],
+      "startMs": 18690,
+      "endMs": 32220
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Biff.",
+          "zh": "它是 Biff。",
+          "startMs": 18840,
+          "endMs": 18990
+        }
+      ],
+      "startMs": 18690,
+      "endMs": 19340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who is it?",
+          "zh": "谁是它？",
+          "startMs": 31720,
+          "endMs": 32190
+        }
+      ],
+      "startMs": 31570,
+      "endMs": 32540
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Chip.",
+          "zh": "它是 Chip。",
+          "startMs": 31720,
+          "endMs": 32190
+        }
+      ],
+      "startMs": 31570,
+      "endMs": 32540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it Kipper?",
+          "zh": "是它 Kipper？",
+          "startMs": 31720,
+          "endMs": 32190
+        }
+      ],
+      "startMs": 31570,
+      "endMs": 32540
+    },
+    {
+      "sentences": [
+        {
+          "en": "No.",
+          "zh": "不。",
+          "startMs": 42990,
+          "endMs": 44240
+        },
+        {
+          "en": "It is Floppy!",
+          "zh": "它是 Floppy！",
+          "startMs": 44240,
+          "endMs": 49656
+        }
+      ],
+      "startMs": 42990,
+      "endMs": 49656
+    },
+    {
+      "sentences": [],
+      "startMs": 49656,
+      "endMs": 50160,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 50160,
+      "endMs": 50460,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 50660,
+      "endMs": 50460,
+      "illustrationOnly": true
+    }
+  ]
+}

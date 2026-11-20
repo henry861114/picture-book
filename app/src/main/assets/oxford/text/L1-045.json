@@ -1,0 +1,129 @@
+{
+  "id": "L1-045",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "I'm a good dog.",
+          "zh": "我是一个好的狗。",
+          "startMs": 0,
+          "endMs": 7010
+        },
+        {
+          "en": "Look at me.",
+          "zh": "看在我。",
+          "startMs": 6910,
+          "endMs": 9720
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10070
+    },
+    {
+      "sentences": [
+        {
+          "en": "I'm very good, as you can see.",
+          "zh": "我是非常好的， 像你能看见。",
+          "startMs": 9620,
+          "endMs": 16720
+        }
+      ],
+      "startMs": 9470,
+      "endMs": 17070
+    },
+    {
+      "sentences": [],
+      "startMs": 20760,
+      "endMs": 21580,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "You say, \"Sit,\" I sit.",
+          "zh": "你说， 坐， 我坐。",
+          "startMs": 16620,
+          "endMs": 24720
+        },
+        {
+          "en": "That's it.",
+          "zh": "那是它。",
+          "startMs": 24620,
+          "endMs": 26720
+        }
+      ],
+      "startMs": 16470,
+      "endMs": 27070
+    },
+    {
+      "sentences": [
+        {
+          "en": "I get the ball.",
+          "zh": "我得到这球。",
+          "startMs": 30990,
+          "endMs": 36720
+        }
+      ],
+      "startMs": 30840,
+      "endMs": 37070
+    },
+    {
+      "sentences": [
+        {
+          "en": "You say, \"Stay,\" I stay.",
+          "zh": "你说， 停留， 我停留。",
+          "startMs": 36620,
+          "endMs": 40720
+        }
+      ],
+      "startMs": 36470,
+      "endMs": 41070
+    },
+    {
+      "sentences": [
+        {
+          "en": "That's that.",
+          "zh": "那是那个。",
+          "startMs": 40620,
+          "endMs": 46720
+        }
+      ],
+      "startMs": 40470,
+      "endMs": 47070
+    },
+    {
+      "sentences": [
+        {
+          "en": "I can see a cat.",
+          "zh": "我能看见一个猫。",
+          "startMs": 50740,
+          "endMs": 58720
+        }
+      ],
+      "startMs": 50590,
+      "endMs": 59070
+    },
+    {
+      "sentences": [],
+      "startMs": 58920,
+      "endMs": 59338,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 59420,
+      "endMs": 59338,
+      "illustrationOnly": true
+    }
+  ]
+}

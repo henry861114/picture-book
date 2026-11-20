@@ -1,0 +1,111 @@
+{
+  "id": "L1-046",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff has a pan and a big, red pot.",
+          "zh": "Biff 有一个扳和一个大的， 红色的锅。",
+          "startMs": 0,
+          "endMs": 8770
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip has a tin.",
+          "zh": "Chip 有一个锡。",
+          "startMs": 8670,
+          "endMs": 16770
+        }
+      ],
+      "startMs": 8520,
+      "endMs": 17120
+    },
+    {
+      "sentences": [
+        {
+          "en": "What has Kipper got?",
+          "zh": "什么有 Kipper 得到？",
+          "startMs": 16670,
+          "endMs": 21770
+        }
+      ],
+      "startMs": 16520,
+      "endMs": 22120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper has a can.",
+          "zh": "Kipper 有一个能。",
+          "startMs": 21670,
+          "endMs": 26770
+        }
+      ],
+      "startMs": 21520,
+      "endMs": 27120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad has a bin.",
+          "zh": "爸爸有一个邠。",
+          "startMs": 26670,
+          "endMs": 28770
+        }
+      ],
+      "startMs": 26520,
+      "endMs": 29120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Bang, crash, bang!",
+          "zh": "邦， 锵锵作响， 邦！",
+          "startMs": 37670,
+          "endMs": 40770
+        }
+      ],
+      "startMs": 37520,
+      "endMs": 41120
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a din!",
+          "zh": "什么一个嘈杂声！",
+          "startMs": 40670,
+          "endMs": 43770
+        }
+      ],
+      "startMs": 40520,
+      "endMs": 44120
+    },
+    {
+      "sentences": [
+        {
+          "en": "What a din!",
+          "zh": "什么一个嘈杂声！",
+          "startMs": 40670,
+          "endMs": 43770
+        }
+      ],
+      "startMs": 40520,
+      "endMs": 44120
+    }
+  ]
+}

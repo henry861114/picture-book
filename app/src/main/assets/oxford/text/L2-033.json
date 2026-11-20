@@ -1,0 +1,249 @@
+{
+  "id": "L2-033",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the park.",
+          "zh": "这孩子们去到这公园。",
+          "startMs": 0,
+          "endMs": 9150
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9150
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was \"Give a tree\" week.",
+          "zh": "它是给一个树星期。",
+          "startMs": 9150,
+          "endMs": 18266
+        },
+        {
+          "en": "Bone",
+          "zh": "骨头",
+          "startMs": 18266,
+          "endMs": 19669
+        }
+      ],
+      "startMs": 9150,
+      "endMs": 19669
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to give trees.",
+          "zh": "每个人想要到给树。",
+          "startMs": 36580,
+          "endMs": 41680
+        }
+      ],
+      "startMs": 36430,
+      "endMs": 42030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad gave a tree.",
+          "zh": "爸爸给一个树。",
+          "startMs": 41580,
+          "endMs": 48680
+        }
+      ],
+      "startMs": 41430,
+      "endMs": 49030
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put it by the shed.",
+          "zh": "他放它由这她。",
+          "startMs": 48580,
+          "endMs": 53680
+        }
+      ],
+      "startMs": 48430,
+      "endMs": 54030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip gave a tree.",
+          "zh": "Chip 给一个树。",
+          "startMs": 43360,
+          "endMs": 48680
+        }
+      ],
+      "startMs": 43210,
+      "endMs": 49030
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put it by the stream.",
+          "zh": "他放它由这溪流。",
+          "startMs": 48580,
+          "endMs": 52200
+        }
+      ],
+      "startMs": 48430,
+      "endMs": 52550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff gave a tree.",
+          "zh": "Biff 给一个树。",
+          "startMs": 43360,
+          "endMs": 48680
+        }
+      ],
+      "startMs": 43210,
+      "endMs": 49030
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it by the pond.",
+          "zh": "她放它由这池塘。",
+          "startMs": 49100,
+          "endMs": 52200
+        }
+      ],
+      "startMs": 48950,
+      "endMs": 52550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf gave a tree.",
+          "zh": "Wilf 给一个树。",
+          "startMs": 65370,
+          "endMs": 68680
+        }
+      ],
+      "startMs": 65220,
+      "endMs": 69030
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put it by the bridge.",
+          "zh": "他放它由这桥梁。",
+          "startMs": 68580,
+          "endMs": 73790
+        }
+      ],
+      "startMs": 68430,
+      "endMs": 74140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma gave a tree.",
+          "zh": "Wilma 给一个树。",
+          "startMs": 78000,
+          "endMs": 84244
+        },
+        {
+          "en": "> Planted by MAPLE Wilma",
+          "zh": "> 植物由 MAPLE Wilma",
+          "startMs": 84244,
+          "endMs": 92570
+        }
+      ],
+      "startMs": 78000,
+      "endMs": 92570
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it by the swing.",
+          "zh": "她放它由这摆动。",
+          "startMs": 109580,
+          "endMs": 116680
+        }
+      ],
+      "startMs": 109430,
+      "endMs": 117030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy gave a bone.",
+          "zh": "Floppy 给一个骨头。",
+          "startMs": 116580,
+          "endMs": 121680
+        }
+      ],
+      "startMs": 116430,
+      "endMs": 122030
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put it in a hole.",
+          "zh": "他放它在……里一个洞。",
+          "startMs": 121580,
+          "endMs": 128680
+        }
+      ],
+      "startMs": 121430,
+      "endMs": 129030
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy Bone \"A funny tree,\" said Chip.",
+          "zh": "Floppy 骨头一个有趣的树， 说 Chip。",
+          "startMs": 116580,
+          "endMs": 137680
+        },
+        {
+          "en": "\"A funny bone,\" said Dad.",
+          "zh": "一个有趣的骨头， 说爸爸。",
+          "startMs": 137580,
+          "endMs": 143611
+        }
+      ],
+      "startMs": 116430,
+      "endMs": 143611
+    },
+    {
+      "sentences": [],
+      "startMs": 135940,
+      "endMs": 136740,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "A funny bone.",
+          "zh": "一个有趣的骨头。",
+          "startMs": 137580,
+          "endMs": 141680
+        },
+        {
+          "en": "Said Dad.",
+          "zh": "说爸爸。",
+          "startMs": 141580,
+          "endMs": 143611
+        }
+      ],
+      "startMs": 137430,
+      "endMs": 143611
+    }
+  ]
+}

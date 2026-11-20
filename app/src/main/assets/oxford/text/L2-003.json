@@ -1,0 +1,195 @@
+{
+  "id": "L2-003",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted a dog.",
+          "zh": "Kipper 想要一个狗。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted a dog.",
+          "zh": "每个人想要一个狗。",
+          "startMs": 7000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [],
+      "startMs": 14210,
+      "endMs": 15390,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to the dogs' home.",
+          "zh": "他们去到这狗' 家。",
+          "startMs": 15000,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 14850,
+      "endMs": 30450
+    },
+    {
+      "sentences": [],
+      "startMs": 27840,
+      "endMs": 28640,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the dogs.",
+          "zh": "他们看在这狗。",
+          "startMs": 26000,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 25850,
+      "endMs": 30450
+    },
+    {
+      "sentences": [],
+      "startMs": 37870,
+      "endMs": 39790,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper wanted this dog.",
+          "zh": "Kipper 想要这个狗。",
+          "startMs": 35000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 34850,
+      "endMs": 39450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was too big.",
+          "zh": "它是也大的。",
+          "startMs": 42000,
+          "endMs": 46100
+        }
+      ],
+      "startMs": 41850,
+      "endMs": 46450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted this dog.",
+          "zh": "Biff 想要这个狗。",
+          "startMs": 56000,
+          "endMs": 58100
+        }
+      ],
+      "startMs": 55850,
+      "endMs": 58450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was too little.",
+          "zh": "它是也小的。",
+          "startMs": 63000,
+          "endMs": 65100
+        }
+      ],
+      "startMs": 62850,
+      "endMs": 65450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum wanted this dog.",
+          "zh": "妈妈想要这个狗。",
+          "startMs": 70000,
+          "endMs": 72100
+        }
+      ],
+      "startMs": 69850,
+      "endMs": 72450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was too strong.",
+          "zh": "它是也强壮的。",
+          "startMs": 77000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone liked this dog.",
+          "zh": "每个人喜欢这个狗。",
+          "startMs": 84340,
+          "endMs": 87100
+        }
+      ],
+      "startMs": 84190,
+      "endMs": 87450
+    },
+    {
+      "sentences": [],
+      "startMs": 98510,
+      "endMs": 100679,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took the dog home.",
+          "zh": "他们拿这狗家。",
+          "startMs": 96000,
+          "endMs": 99100
+        }
+      ],
+      "startMs": 95850,
+      "endMs": 99450
+    },
+    {
+      "sentences": [],
+      "startMs": 111060,
+      "endMs": 111560,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 111560,
+      "endMs": 111822,
+      "illustrationOnly": true
+    }
+  ]
+}

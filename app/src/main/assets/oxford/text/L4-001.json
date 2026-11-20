@@ -1,0 +1,225 @@
+{
+  "id": "L4-001",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam and Yasmin went on holiday.",
+          "zh": "亚当和 Yasmin 去在……上假期。",
+          "startMs": 0,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They stayed with Grandmother.",
+          "zh": "他们停留和……一起外婆。",
+          "startMs": 7000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 12450
+    },
+    {
+      "sentences": [],
+      "startMs": 11140,
+      "endMs": 11940,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Grandmother had a party.",
+          "zh": "外婆有一个聚会。",
+          "startMs": 12000,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone wanted to come.",
+          "zh": "每个人想要到来。",
+          "startMs": 17000,
+          "endMs": 23100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 23450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Grandmother had a kid goat.",
+          "zh": "外婆有一个小山羊山羊。",
+          "startMs": 23020,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 22870,
+      "endMs": 30450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The kid was called Lucky.",
+          "zh": "这小山羊是叫幸运的。",
+          "startMs": 30000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin looked after Lucky.",
+          "zh": "Yasmin 看在……之后幸运的。",
+          "startMs": 37000,
+          "endMs": 40100
+        },
+        {
+          "en": "She gave her a bottle.",
+          "zh": "她给她一个瓶子。",
+          "startMs": 40000,
+          "endMs": 47100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 47450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She gave her a cuddle.",
+          "zh": "她给她一个搂住。",
+          "startMs": 40000,
+          "endMs": 44940
+        },
+        {
+          "en": "She played with her every day.",
+          "zh": "她玩和……一起她每个一天。",
+          "startMs": 47020,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The holiday was over.",
+          "zh": "这假期是在……上方。",
+          "startMs": 57000,
+          "endMs": 64100
+        }
+      ],
+      "startMs": 56850,
+      "endMs": 64450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin was sad.",
+          "zh": "Yasmin 是伤心的。",
+          "startMs": 64020,
+          "endMs": 72100
+        }
+      ],
+      "startMs": 63870,
+      "endMs": 72450
+    },
+    {
+      "sentences": [
+        {
+          "en": "AIRLINE Adam had spots.",
+          "zh": "航空公司亚当有点。",
+          "startMs": 72000,
+          "endMs": 79100
+        }
+      ],
+      "startMs": 71850,
+      "endMs": 79450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They couldn't go on the aeroplane.",
+          "zh": "他们不能去在……上这飞机。",
+          "startMs": 79000,
+          "endMs": 83940
+        }
+      ],
+      "startMs": 78850,
+      "endMs": 84290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Chicken pox,\" said the doctor.",
+          "zh": "鸡痘， 说这医生。",
+          "startMs": 86010,
+          "endMs": 94100
+        }
+      ],
+      "startMs": 85860,
+      "endMs": 94450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come back in two weeks.\"",
+          "zh": "来回来在……里二星期。",
+          "startMs": 94000,
+          "endMs": 101100
+        }
+      ],
+      "startMs": 93850,
+      "endMs": 101450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Printed in China by Imago \"Lucky!\" said Yasmin.",
+          "zh": "印刷的在……里瓷由 Imago 幸运的！ 说 Yasmin。",
+          "startMs": 97130,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 96980,
+      "endMs": 107450
+    },
+    {
+      "sentences": [],
+      "startMs": 107220,
+      "endMs": 109044,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 109044,
+      "endMs": 109344,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "L1-006",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad took Kipper to the library, and Kipper was very excited to choose books by himself.",
+          "zh": "爸爸拿 Kipper 到这图书馆， 和 Kipper 是非常兴奋的到选择书由他自己。",
+          "startMs": 0,
+          "endMs": 6100
+        },
+        {
+          "en": "So excited!",
+          "zh": "所以兴奋的！",
+          "startMs": 7000,
+          "endMs": 9100
+        },
+        {
+          "en": "Choose your books!",
+          "zh": "选择你的书！",
+          "startMs": 9000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper browsed through the shelves, looking at all the exciting books in the children's corner.",
+          "zh": "Kipper browsed 穿过这 shelves， 看在全部这令人激动的书在……里这孩子们角。",
+          "startMs": 15000,
+          "endMs": 20100
+        }
+      ],
+      "startMs": 14850,
+      "endMs": 20450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Off you go, Kipper!",
+          "zh": "离开你去， Kipper！",
+          "startMs": 21000,
+          "endMs": 22100
+        },
+        {
+          "en": "Wow!",
+          "zh": "哇！",
+          "startMs": 23000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 20850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper took every single book he liked and put it in a pile beside one of the chairs.",
+          "zh": "Kipper 拿每个 single 书他喜欢和放它在……里一个堆 beside 一的这椅子。",
+          "startMs": 29500,
+          "endMs": 35100
+        }
+      ],
+      "startMs": 29350,
+      "endMs": 35450
+    },
+    {
+      "sentences": [
+        {
+          "en": "I'm reading a book!",
+          "zh": "我是读一个书！",
+          "startMs": 36000,
+          "endMs": 38100
+        },
+        {
+          "en": "Kipper had so many books to bring home.",
+          "zh": "Kipper 有所以许多书到带来家。",
+          "startMs": 42000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 35850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Decide quickly, Kipper!",
+          "zh": "决定快速地， Kipper！",
+          "startMs": 46000,
+          "endMs": 47100
+        },
+        {
+          "en": "I want all of these!",
+          "zh": "我想要全部的这些！",
+          "startMs": 49000,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 51450
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the end, Dad helped Kipper to choose four books.",
+          "zh": "在……里这末尾， 爸爸帮助 Kipper 到选择四书。",
+          "startMs": 57130,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 56980,
+      "endMs": 60450
+    },
+    {
+      "sentences": [
+        {
+          "en": "I will read them all tonight!",
+          "zh": "我将读他们全部今夜！",
+          "startMs": 61000,
+          "endMs": 63100
+        },
+        {
+          "en": "Oh, can you?",
+          "zh": "哦， 能你？",
+          "startMs": 64000,
+          "endMs": 65100
+        }
+      ],
+      "startMs": 60850,
+      "endMs": 65450
+    }
+  ]
+}

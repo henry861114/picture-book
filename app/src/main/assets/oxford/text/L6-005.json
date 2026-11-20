@@ -1,0 +1,779 @@
+{
+  "id": "L6-005",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilma went to the pantomime.",
+          "zh": "Biff 和 Wilma 去看哑剧表演。",
+          "startMs": 4000,
+          "endMs": 8070
+        },
+        {
+          "en": "They went with Wilma's mum.",
+          "zh": "他们和 Wilma 的妈妈一起去的。",
+          "startMs": 8070,
+          "endMs": 8270
+        },
+        {
+          "en": "They had a friend called Anneena.",
+          "zh": "他们有一个叫 Anneena 的朋友。",
+          "startMs": 8270,
+          "endMs": 10070
+        },
+        {
+          "en": "Anneena went to the pantomime with them.",
+          "zh": "Anneena 和他们一起去看哑剧。",
+          "startMs": 10070,
+          "endMs": 13070
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 3850,
+      "endMs": 13420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pantomime was about Robin Hood.",
+          "zh": "这部哑剧是关于罗宾汉的。",
+          "startMs": 15970,
+          "endMs": 20070
+        },
+        {
+          "en": "Robin Hood was a good man.",
+          "zh": "罗宾汉是个好人。",
+          "startMs": 20070,
+          "endMs": 22070
+        },
+        {
+          "en": "He lived in a wood with his men.",
+          "zh": "他和他的手下住在森林里。",
+          "startMs": 22070,
+          "endMs": 25070
+        },
+        {
+          "en": "Everyone liked Robin Hood.",
+          "zh": "'来在……上， 每个人，' 说罗宾胡德。",
+          "startMs": 25070,
+          "endMs": 27070
+        },
+        {
+          "en": "And they gave a cheer every time he came in.",
+          "zh": "大家都喜欢罗宾汉，每次他出场时，大家都会欢呼。",
+          "startMs": 31290,
+          "endMs": 35070
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 15820,
+      "endMs": 35420
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a bad man called the Sheriff.",
+          "zh": "有个坏人，名叫“郡长”。",
+          "startMs": 35100,
+          "endMs": 38450
+        },
+        {
+          "en": "Nobody liked the Sheriff.",
+          "zh": "没有人喜欢治安官。",
+          "startMs": 38450,
+          "endMs": 38650
+        },
+        {
+          "en": "He wanted to catch Robin Hood and lock him up.",
+          "zh": "他想抓住罗宾汉，把他关起来。",
+          "startMs": 41970,
+          "endMs": 46070
+        },
+        {
+          "en": "'Look out, Robin!' Shouted the children.",
+          "zh": "“Anneena，小心！” 孩子们喊道。",
+          "startMs": 46100,
+          "endMs": 51070
+        },
+        {
+          "en": "The next day, Wilma and Anneena went to play with Robin Hood.",
+          "zh": "这下一个一天， Wilma 和 Anneena 去到玩和……一起 Biff。",
+          "startMs": 51100,
+          "endMs": 56070
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 35420,
+      "endMs": 56420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They sang a song about Robin Hood.",
+          "zh": "她们唱了一首关于罗宾汉的歌。",
+          "startMs": 56340,
+          "endMs": 59070
+        },
+        {
+          "en": "Wilma played her guitar and Anneena played her recorder.",
+          "zh": "Wilma 玩她吉他和 Anneena 玩她录音机。",
+          "startMs": 59100,
+          "endMs": 64070
+        },
+        {
+          "en": "Robin Hood, he's the best.",
+          "zh": "他是最棒的。",
+          "startMs": 64070,
+          "endMs": 68070
+        },
+        {
+          "en": "Robin Hood, Robin Hood, he's the best.",
+          "zh": "他是最棒的。",
+          "startMs": 68100,
+          "endMs": 72070
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 56420,
+      "endMs": 72420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Robin HOO Kipper didn't like the song.",
+          "zh": "Kipper 不喜欢这首歌。",
+          "startMs": 72070,
+          "endMs": 74070
+        },
+        {
+          "en": "He put his hands over his ears and made a face.",
+          "zh": "他用手捂住耳朵，做了个鬼脸。",
+          "startMs": 77970,
+          "endMs": 82070
+        },
+        {
+          "en": "\"Ooh, nyah!\" Said Kipper.",
+          "zh": "Kipper 说道。",
+          "startMs": 82070,
+          "endMs": 82270
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 72420,
+      "endMs": 82620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper had a key round his neck.",
+          "zh": "Kipper 脖子上挂着一把钥匙。",
+          "startMs": 87880,
+          "endMs": 91820
+        },
+        {
+          "en": "It was the magic key.",
+          "zh": "那是魔法钥匙。",
+          "startMs": 91970,
+          "endMs": 94070
+        },
+        {
+          "en": "Biff was cross with Kipper.",
+          "zh": "Biff 对 Kipper 很生气。",
+          "startMs": 94100,
+          "endMs": 95930
+        },
+        {
+          "en": "\"Ugh, put the key back in the box!\" She said.",
+          "zh": "把钥匙放回盒子里！” 她说。",
+          "startMs": 96970,
+          "endMs": 101070
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 87730,
+      "endMs": 101420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the key began to glow.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 101460,
+          "endMs": 103930
+        },
+        {
+          "en": "'Look out Anneena,' said Biff.",
+          "zh": "'看出 Anneena，' 说 Biff。 Biff 说道。",
+          "startMs": 103930,
+          "endMs": 106070
+        },
+        {
+          "en": "'This is a magic key and the magic is working.",
+          "zh": "'这个是一个魔法钥匙和这魔法是有工作的。",
+          "startMs": 110000,
+          "endMs": 113570
+        },
+        {
+          "en": "It's time for an adventure.'",
+          "zh": "它是时间为了一个冒险。'",
+          "startMs": 113970,
+          "endMs": 115370
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 101420,
+      "endMs": 115720
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to a wood.",
+          "zh": "魔法把孩子们带到了一片树林里。",
+          "startMs": 126830,
+          "endMs": 130090
+        },
+        {
+          "en": "It was the wood where Robin Hood lived.",
+          "zh": "这是罗宾汉住过的森林。",
+          "startMs": 130120,
+          "endMs": 133070
+        },
+        {
+          "en": "The children could see Robin with some of his men.",
+          "zh": "孩子们看到了罗宾和他的几个手下。",
+          "startMs": 133100,
+          "endMs": 162930
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 126680,
+      "endMs": 163280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Robin Hood had not seen the children.",
+          "zh": "罗宾汉没有看到孩子们。",
+          "startMs": 162960,
+          "endMs": 165670
+        },
+        {
+          "en": "Anneena was frightened.",
+          "zh": "Anneena 是受惊的。",
+          "startMs": 165670,
+          "endMs": 165870
+        },
+        {
+          "en": "hope he is a good man,' she said.",
+          "zh": "'我希望他是一个好的男人，' 她说。",
+          "startMs": 165870,
+          "endMs": 166270
+        },
+        {
+          "en": "\"Come on!\" Said Kipper.",
+          "zh": "“快来！” Kipper 说道。",
+          "startMs": 166270,
+          "endMs": 166470
+        },
+        {
+          "en": "\"I can smell food.\"",
+          "zh": "“我闻到食物的味道了！”",
+          "startMs": 166470,
+          "endMs": 166670
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 163280,
+      "endMs": 167020
+    },
+    {
+      "sentences": [
+        {
+          "en": "Robin Hood saw the children.",
+          "zh": "罗宾汉看到了孩子们。",
+          "startMs": 166670,
+          "endMs": 166870
+        },
+        {
+          "en": "'Who are you?' He asked.",
+          "zh": "“你是谁？” 他问。",
+          "startMs": 166870,
+          "endMs": 167070
+        },
+        {
+          "en": "'Are you lost in the woods?",
+          "zh": "'是你丢失在……里这木头？",
+          "startMs": 167070,
+          "endMs": 167270
+        },
+        {
+          "en": "Come and sit down.",
+          "zh": "过来坐下吧！”",
+          "startMs": 167270,
+          "endMs": 167470
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 167020,
+      "endMs": 167820
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children sat by the fire.",
+          "zh": "孩子们坐在火堆旁。",
+          "startMs": 167470,
+          "endMs": 168930
+        },
+        {
+          "en": "'We saw you in a play,' said Anneena.",
+          "zh": "'我们看见你在……里一个玩，' 说 Anneena。 阿尼娜说。",
+          "startMs": 168970,
+          "endMs": 173070
+        },
+        {
+          "en": "'We can sing a song about you.' 'Oh no!' Said Kipper.",
+          "zh": "'我们能唱歌一个忪关于你。' “哎呀，不好了。” Kipper 说道。",
+          "startMs": 173100,
+          "endMs": 178930
+        },
+        {
+          "en": "'Not the song again.'",
+          "zh": "'不这忪再一次。'",
+          "startMs": 179830,
+          "endMs": 181690
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 167820,
+      "endMs": 182040
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff, Wilma, and Anneena sang the song.",
+          "zh": "Biff， Wilma， 和 Anneena 唱歌这忪。",
+          "startMs": 184970,
+          "endMs": 189070
+        },
+        {
+          "en": "\"Robin Hood, he's the best.",
+          "zh": "他是最棒的。",
+          "startMs": 189100,
+          "endMs": 194070
+        },
+        {
+          "en": "Robin Hood, Robin Hood, he's the best.\"",
+          "zh": "他是最棒的。",
+          "startMs": 194070,
+          "endMs": 197070
+        },
+        {
+          "en": "The song said everyone liked Robin but nobody liked the Sheriff.",
+          "zh": "这首歌说，大家都喜欢罗宾，但没有人喜欢郡长。",
+          "startMs": 197100,
+          "endMs": 203290
+        },
+        {
+          "en": "Robin Hood's men gave a cheer.",
+          "zh": "罗宾汉的弟兄们欢呼起来。",
+          "startMs": 203340,
+          "endMs": 206250
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 184820,
+      "endMs": 206600
+    },
+    {
+      "sentences": [
+        {
+          "en": "'What a good song!' Said Robin Hood.",
+          "zh": "“这首歌真好听！” 罗宾汉说道。",
+          "startMs": 206620,
+          "endMs": 211040
+        },
+        {
+          "en": "'Sing it to me again.'",
+          "zh": "'唱歌它到我再一次。'",
+          "startMs": 213170,
+          "endMs": 215110
+        },
+        {
+          "en": "Kipper looked inside a big black pot.",
+          "zh": "Kipper 往一个大黑锅里看。",
+          "startMs": 215140,
+          "endMs": 216570
+        },
+        {
+          "en": "Nobody saw the Sheriff coming.",
+          "zh": "没有人看到郡长来了。",
+          "startMs": 217220,
+          "endMs": 220200
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 206600,
+      "endMs": 220550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the Sheriff's men ran in.",
+          "zh": "突然，郡长的手下冲了进来。",
+          "startMs": 226830,
+          "endMs": 231010
+        },
+        {
+          "en": "They grabbed Robin Hood and put a rope round him.",
+          "zh": "他们抓住罗宾胡德和放一个绳索圆形的他。",
+          "startMs": 233830,
+          "endMs": 240210
+        },
+        {
+          "en": "'Got you at last!' Said the Sheriff.",
+          "zh": "“终于逮到你了！” 郡长说道。",
+          "startMs": 240240,
+          "endMs": 243690
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 226680,
+      "endMs": 244040
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped on Robin's men and they grabbed Biff, Wilma, and Anneena.",
+          "zh": "他们跳在……上罗宾男人们和他们抓住 Biff， Wilma， 和 Anneena。",
+          "startMs": 243720,
+          "endMs": 248060
+        },
+        {
+          "en": "They put them all into a cart.",
+          "zh": "他们把这些人全都塞进了一辆马车里。",
+          "startMs": 248090,
+          "endMs": 250830
+        },
+        {
+          "en": "'Take them away!' Said the Sheriff.",
+          "zh": "“把他们带走！” 郡长说道。",
+          "startMs": 251150,
+          "endMs": 253610
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 244040,
+      "endMs": 253960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper hid in the big black pot.",
+          "zh": "Kipper 躲进了大黑锅里。",
+          "startMs": 257830,
+          "endMs": 261930
+        },
+        {
+          "en": "The Sheriff's men didn't see him.",
+          "zh": "警长的手下没有看到他。",
+          "startMs": 261960,
+          "endMs": 262930
+        },
+        {
+          "en": "'Oh no!' He said.",
+          "zh": "“哎呀，不好了。” 他说。",
+          "startMs": 263830,
+          "endMs": 266270
+        },
+        {
+          "en": "'What can I do?",
+          "zh": "'什么能我做？",
+          "startMs": 266570,
+          "endMs": 268110
+        },
+        {
+          "en": "I must help them.' He said.",
+          "zh": "我必须帮助他们。' 他说。",
+          "startMs": 268140,
+          "endMs": 277070
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 257680,
+      "endMs": 277420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Sheriff took them to a village.",
+          "zh": "警长把他们带到一个村庄。",
+          "startMs": 277070,
+          "endMs": 277270
+        },
+        {
+          "en": "He said, 'My castle is too far away, so we will stop here.",
+          "zh": "他说， '我的城堡是也远离开， 所以我们将停这里。",
+          "startMs": 277270,
+          "endMs": 281070
+        },
+        {
+          "en": "One of my men will see you don't get away!",
+          "zh": "一的我的男人们将看见你不得到离开！",
+          "startMs": 281820,
+          "endMs": 287210
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 277420,
+      "endMs": 287560
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went up to the man.",
+          "zh": "Kipper 走近那个人。",
+          "startMs": 288970,
+          "endMs": 289740
+        },
+        {
+          "en": "He gave the man a sweet.",
+          "zh": "他给了那个人一块糖。",
+          "startMs": 289770,
+          "endMs": 294070
+        },
+        {
+          "en": "'What is that thing?' He asked.",
+          "zh": "“那是什么东西？” 他问。",
+          "startMs": 294100,
+          "endMs": 298070
+        },
+        {
+          "en": "\"You locked people up in it,\" Said the man.",
+          "zh": "“你把人关在里面！” 那人说道。",
+          "startMs": 298100,
+          "endMs": 302440
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 288820,
+      "endMs": 302790
+    },
+    {
+      "sentences": [
+        {
+          "en": "'You can't lock people in that,' said Kipper.",
+          "zh": "'你不能锁人们在……里那个，' 说 Kipper。",
+          "startMs": 302470,
+          "endMs": 305370
+        },
+        {
+          "en": "'You can't get them in.'",
+          "zh": "'你不能得到他们在……里。'",
+          "startMs": 305970,
+          "endMs": 308070
+        },
+        {
+          "en": "'Oh yes you can,' said the man.",
+          "zh": "'哦是你能，' 说这男人。",
+          "startMs": 308100,
+          "endMs": 309860
+        },
+        {
+          "en": "'Look.'",
+          "zh": "'看。'",
+          "startMs": 309890,
+          "endMs": 310950
+        },
+        {
+          "en": "He put in his head and his hands.",
+          "zh": "他把头和手伸了进去。",
+          "startMs": 314830,
+          "endMs": 318930
+        },
+        {
+          "en": "\"Ha!\" Said Kipper.",
+          "zh": "“哈！” Kipper 说道。",
+          "startMs": 323000,
+          "endMs": 325730
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 302790,
+      "endMs": 326080
+    },
+    {
+      "sentences": [
+        {
+          "en": "'Grrr!' said the man.",
+          "zh": "那人说道。",
+          "startMs": 325760,
+          "endMs": 327810
+        },
+        {
+          "en": "'You fell for it.'",
+          "zh": "'你落下为了它。'",
+          "startMs": 327810,
+          "endMs": 328150
+        },
+        {
+          "en": "He locked the man in and took away his keys.",
+          "zh": "他把那人锁在里面，拿走了他的钥匙。",
+          "startMs": 328180,
+          "endMs": 332170
+        },
+        {
+          "en": "'Grrr!' Said the man.",
+          "zh": "那人说道。",
+          "startMs": 332170,
+          "endMs": 335070
+        },
+        {
+          "en": "\"Come on, everyone,\" Said Robin Hood.",
+          "zh": "“大家快来！” 罗宾汉说道。",
+          "startMs": 338260,
+          "endMs": 340650
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 326080,
+      "endMs": 341000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper set them free.",
+          "zh": "Kipper 放了他们。",
+          "startMs": 340680,
+          "endMs": 342400
+        },
+        {
+          "en": "'Let's go back to the woods.",
+          "zh": "'让我们去回来到这木头。",
+          "startMs": 342400,
+          "endMs": 342930
+        },
+        {
+          "en": "We don't want the Sheriff to catch us! Said Robin Hood.",
+          "zh": "我们可不想被郡长抓到。” 罗宾汉说道。",
+          "startMs": 342960,
+          "endMs": 350630
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 341000,
+      "endMs": 350980
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went to a new part of the woods.",
+          "zh": "他们去了森林的另一片区域。",
+          "startMs": 350660,
+          "endMs": 351250
+        },
+        {
+          "en": "'Three cheers for Kipper,' said Robin Hood.",
+          "zh": "“为 Kipper 欢呼三声！”",
+          "startMs": 351280,
+          "endMs": 353430
+        },
+        {
+          "en": "'Now let's sing that song about me again.' 'Oh no!' Said Kipper.",
+          "zh": "'现在让我们唱歌那个忪关于我再一次。' “哎呀，不好了。” Kipper 说道。",
+          "startMs": 354830,
+          "endMs": 363710
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 350980,
+      "endMs": 364060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然，魔法钥匙开始发光。",
+          "startMs": 363740,
+          "endMs": 366010
+        },
+        {
+          "en": "'Just in time,' said Kipper.",
+          "zh": "'刚刚在……里时间，' 说 Kipper。",
+          "startMs": 367970,
+          "endMs": 368640
+        },
+        {
+          "en": "'It's time for us to go!' \"Goodbye!\"",
+          "zh": "'它是时间为了我们到去！' “再见。”",
+          "startMs": 370870,
+          "endMs": 375450
+        },
+        {
+          "en": "'Goodbye,' said the children.",
+          "zh": "'再见，' 说这孩子们。",
+          "startMs": 375480,
+          "endMs": 377100
+        },
+        {
+          "en": "\"Goodbye,\" Said Robin Hood.",
+          "zh": "“再见。” 罗宾汉说道。",
+          "startMs": 377130,
+          "endMs": 379760
+        },
+        {
+          "en": "\"And thanks.\"",
+          "zh": "“谢谢大家！”",
+          "startMs": 379790,
+          "endMs": 381510
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 364060,
+      "endMs": 381860
+    },
+    {
+      "sentences": [
+        {
+          "en": "'What an adventure!' Said Anneena.",
+          "zh": "“真是一次奇妙的冒险！” 阿尼娜说。",
+          "startMs": 391830,
+          "endMs": 395690
+        },
+        {
+          "en": "I liked Robin Hood and his men.",
+          "zh": "“我喜欢罗宾汉和他的人。",
+          "startMs": 395830,
+          "endMs": 398930
+        },
+        {
+          "en": "Let's sing the song.",
+          "zh": "我们来唱首歌吧！”",
+          "startMs": 399060,
+          "endMs": 401090
+        },
+        {
+          "en": "\"Oh!\" 'Aaaaaah!' said Kipper.",
+          "zh": "“哎呀！” '哈！' 说 Kipper。",
+          "startMs": 401120,
+          "endMs": 405070
+        },
+        {
+          "en": "(upbeat music).",
+          "zh": "（欢快的音乐）。",
+          "startMs": 407000,
+          "endMs": 409128
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 391680,
+      "endMs": 409478
+    }
+  ]
+}

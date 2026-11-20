@@ -1,0 +1,207 @@
+{
+  "id": "L2-015",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was foggy.",
+          "zh": "它是有雾的。",
+          "startMs": 0,
+          "endMs": 760
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad wanted to go shopping.",
+          "zh": "爸爸想要到去商店。",
+          "startMs": 5291,
+          "endMs": 16854
+        }
+      ],
+      "startMs": 5291,
+      "endMs": 16854
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no,\" said the children.",
+          "zh": "哦不， 说这孩子们。",
+          "startMs": 40090,
+          "endMs": 43290
+        }
+      ],
+      "startMs": 39940,
+      "endMs": 43640
+    },
+    {
+      "sentences": [],
+      "startMs": 28150,
+      "endMs": 29306,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were fed up.",
+          "zh": "他们是 fed 向上。",
+          "startMs": 29306,
+          "endMs": 35500
+        }
+      ],
+      "startMs": 29306,
+      "endMs": 35500
+    },
+    {
+      "sentences": [
+        {
+          "en": "The fog got worse.",
+          "zh": "这雾得到更坏的。",
+          "startMs": 20590,
+          "endMs": 48050
+        }
+      ],
+      "startMs": 20440,
+      "endMs": 48400
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad couldn't see.",
+          "zh": "爸爸不能看见。",
+          "startMs": 35850,
+          "endMs": 36410
+        }
+      ],
+      "startMs": 35700,
+      "endMs": 36760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad stopped the car.",
+          "zh": "爸爸停这汽车。",
+          "startMs": 72450,
+          "endMs": 74790
+        }
+      ],
+      "startMs": 72300,
+      "endMs": 75140
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had to walk home.",
+          "zh": "他们有到走家。",
+          "startMs": 78890,
+          "endMs": 81270
+        }
+      ],
+      "startMs": 78740,
+      "endMs": 81620
+    },
+    {
+      "sentences": [],
+      "startMs": 72350,
+      "endMs": 73150,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were lost.",
+          "zh": "他们是丢失。",
+          "startMs": 88890,
+          "endMs": 91590
+        }
+      ],
+      "startMs": 88740,
+      "endMs": 91940
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This way,\" said Biff.",
+          "zh": "这个方式， 说 Biff。",
+          "startMs": 95090,
+          "endMs": 97360
+        }
+      ],
+      "startMs": 94940,
+      "endMs": 97710
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, this way,\" said Chip.",
+          "zh": "不， 这个方式， 说 Chip。",
+          "startMs": 98330,
+          "endMs": 101790
+        }
+      ],
+      "startMs": 98180,
+      "endMs": 102140
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw a light.",
+          "zh": "他们看见一个轻的。",
+          "startMs": 105930,
+          "endMs": 108230
+        }
+      ],
+      "startMs": 105780,
+      "endMs": 108580
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"A monster!\" said Dad.",
+          "zh": "一个怪物！ 说爸爸。",
+          "startMs": 110450,
+          "endMs": 113070
+        }
+      ],
+      "startMs": 110300,
+      "endMs": 113420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's Mum!\" said the children.",
+          "zh": "它是妈妈！ 说这孩子们。",
+          "startMs": 121610,
+          "endMs": 125350
+        }
+      ],
+      "startMs": 121460,
+      "endMs": 125700
+    },
+    {
+      "sentences": [],
+      "startMs": 130500,
+      "endMs": 131000,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 131000,
+      "endMs": 131147,
+      "illustrationOnly": true
+    }
+  ]
+}

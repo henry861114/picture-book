@@ -1,0 +1,117 @@
+{
+  "id": "L1-015",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad.",
+          "zh": "妈妈和爸爸。",
+          "startMs": 1080,
+          "endMs": 5520
+        }
+      ],
+      "startMs": 930,
+      "endMs": 5870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum, Kipper",
+          "zh": "妈妈， Kipper",
+          "startMs": 3020,
+          "endMs": 5990
+        }
+      ],
+      "startMs": 3020,
+      "endMs": 5990
+    },
+    {
+      "sentences": [
+        {
+          "en": "and Dad.",
+          "zh": "和爸爸。",
+          "startMs": 1080,
+          "endMs": 5520
+        }
+      ],
+      "startMs": 930,
+      "endMs": 5870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mom and Dad.",
+          "zh": "Mom 和爸爸。",
+          "startMs": 0,
+          "endMs": 5520
+        },
+        {
+          "en": "Mom, Keeper, and Dad.",
+          "zh": "Mom， 保持， 和爸爸。",
+          "startMs": 5420,
+          "endMs": 16160
+        },
+        {
+          "en": "Mom, Keeper, Dad, and Chip.",
+          "zh": "Mom， 保持， 爸爸， 和 Chip。",
+          "startMs": 16060,
+          "endMs": 24250
+        }
+      ],
+      "startMs": 0,
+      "endMs": 24600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad and Chip.",
+          "zh": "爸爸和 Chip。",
+          "startMs": 20020,
+          "endMs": 24250
+        }
+      ],
+      "startMs": 19870,
+      "endMs": 24600
+    },
+    {
+      "sentences": [],
+      "startMs": 28890,
+      "endMs": 29860,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "This, Mom, Keeper, Dad, Chip, and Floppy.",
+          "zh": "这个， Mom， 保持， 爸爸， Chip， 和 Floppy。",
+          "startMs": 24500,
+          "endMs": 34450
+        }
+      ],
+      "startMs": 24350,
+      "endMs": 34800
+    },
+    {
+      "sentences": [
+        {
+          "en": "and Floppy.",
+          "zh": "和 Floppy。",
+          "startMs": 33190,
+          "endMs": 34450
+        }
+      ],
+      "startMs": 33040,
+      "endMs": 34800
+    }
+  ]
+}

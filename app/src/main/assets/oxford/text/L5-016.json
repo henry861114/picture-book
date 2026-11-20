@@ -1,0 +1,545 @@
+{
+  "id": "L5-016",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "It rained and rained.",
+          "zh": "雨下个不停。",
+          "startMs": 3860,
+          "endMs": 7000
+        },
+        {
+          "en": "It rained all day long.",
+          "zh": "雨下了一整天。",
+          "startMs": 7180,
+          "endMs": 9690
+        },
+        {
+          "en": "The children were fed up.",
+          "zh": "孩子们厌烦了。",
+          "startMs": 9720,
+          "endMs": 13710
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 14060
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went outside.",
+          "zh": "孩子们出去了。",
+          "startMs": 14470,
+          "endMs": 18970
+        },
+        {
+          "en": "They wanted to play but it was too wet.",
+          "zh": "他们想玩，但外面太潮湿了。",
+          "startMs": 19640,
+          "endMs": 23710
+        },
+        {
+          "en": "Dad looked out of the window.",
+          "zh": "爸爸向窗外望去。",
+          "startMs": 23740,
+          "endMs": 23960
+        },
+        {
+          "en": "\"Come inside,\" He said.",
+          "zh": "“进来吧，”妈妈说。",
+          "startMs": 23960,
+          "endMs": 26720
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 14320,
+      "endMs": 27070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's too wet to play outside.\"",
+          "zh": "外面太潮湿了，不适合在外面玩。",
+          "startMs": 28650,
+          "endMs": 30780
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 28500,
+      "endMs": 31130
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to Biff's room.",
+          "zh": "孩子们去了 Biff 的房间。",
+          "startMs": 35470,
+          "endMs": 39110
+        },
+        {
+          "en": "Suddenly, the key began to glow.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 39140,
+          "endMs": 40590
+        },
+        {
+          "en": "It was time for a magic adventure.",
+          "zh": "是时候踏上魔法冒险之旅了。",
+          "startMs": 41500,
+          "endMs": 46240
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 35320,
+      "endMs": 46590
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good job!\" Said Kipper.",
+          "zh": "“干得真棒！” Kipper 说道。",
+          "startMs": 46270,
+          "endMs": 49950
+        },
+        {
+          "en": "\"I want a magic adventure.",
+          "zh": "“我想来一次神奇的冒险。",
+          "startMs": 50470,
+          "endMs": 51930
+        },
+        {
+          "en": "Im fed up with all the rain.\"",
+          "zh": "我受够了这些雨。”",
+          "startMs": 52310,
+          "endMs": 54570
+        },
+        {
+          "en": "The magic key took them into a new adventure but it was raining.",
+          "zh": "魔法钥匙带他们踏上了一段新的冒险之旅，但外面正在下雨。",
+          "startMs": 65650,
+          "endMs": 71750
+        },
+        {
+          "en": "\"Oh no,\" Said Kipper.",
+          "zh": "哎呀。 Kipper 说道。",
+          "startMs": 71780,
+          "endMs": 74460
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 46590,
+      "endMs": 74810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children saw a boat.",
+          "zh": "孩子们看到了一艘船。",
+          "startMs": 84000,
+          "endMs": 86720
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 83850,
+      "endMs": 87070
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We don't want an adventure in the rain.\" Said Biff.",
+          "zh": "“我们不想在雨中冒险。” Biff 说道。",
+          "startMs": 86750,
+          "endMs": 90450
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 87070,
+      "endMs": 90800
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What is it?\" Asked Kipper.",
+          "zh": "“这是什么？” Kipper 问道。",
+          "startMs": 90450,
+          "endMs": 90650
+        },
+        {
+          "en": "\"It's Noah's Ark,\" said Biff.",
+          "zh": "“这是 Noah 的方舟，”Biff 说。 Chip 说道。",
+          "startMs": 90650,
+          "endMs": 91000
+        },
+        {
+          "en": "\"It's raining so much,\" Said Biff.",
+          "zh": "“雨下得太大了！” Biff 说道。",
+          "startMs": 99640,
+          "endMs": 102480
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 90800,
+      "endMs": 102830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Noah has to put the animals on the Ark or they will drown,\" said Chip.",
+          "zh": "“Noah 得把动物们带上方舟，不然它们就会被淹死，”Chip 说。",
+          "startMs": 102510,
+          "endMs": 107860
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 102830,
+      "endMs": 108210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The water's going to cover everything.",
+          "zh": "“水会淹没一切。”",
+          "startMs": 107860,
+          "endMs": 108060
+        },
+        {
+          "en": "\"Don't worry,\" Said Chip.",
+          "zh": "“别担心！” Chip 说道。",
+          "startMs": 108060,
+          "endMs": 108260
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 108210,
+      "endMs": 108610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Noah will save all the animals.\"",
+          "zh": "“Noah 会拯救所有动物。”",
+          "startMs": 108260,
+          "endMs": 110710
+        },
+        {
+          "en": "\"Will he save us too?\" Asked Kipper.",
+          "zh": "“他也会拯救我们吗？” Kipper 问道。",
+          "startMs": 111640,
+          "endMs": 117030
+        },
+        {
+          "en": "\"Hello,\" \"Hello,\" said Noah.",
+          "zh": "你好。",
+          "startMs": 117030,
+          "endMs": 128070
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 108610,
+      "endMs": 128420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What do you want?",
+          "zh": "“你想要什么？",
+          "startMs": 128070,
+          "endMs": 128270
+        },
+        {
+          "en": "Have you come to help?\"",
+          "zh": "你们是来帮忙的吗？”",
+          "startMs": 128270,
+          "endMs": 130150
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 128420,
+      "endMs": 130500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Noah looked at the water.",
+          "zh": "Noah 看着水面。",
+          "startMs": 130150,
+          "endMs": 130350
+        },
+        {
+          "en": "He pointed at the Ark.",
+          "zh": "他指着方舟。",
+          "startMs": 130350,
+          "endMs": 130550
+        },
+        {
+          "en": "\"I want some help,\" he said.",
+          "zh": "“我需要一些帮助，”他说。",
+          "startMs": 131010,
+          "endMs": 139620
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 130500,
+      "endMs": 139970
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the animals.",
+          "zh": "孩子们看着动物们。",
+          "startMs": 142460,
+          "endMs": 146760
+        },
+        {
+          "en": "\"It is time to put the animals on to the Ark,\" said Noah.",
+          "zh": "“是时候把动物们带上方舟了，”Noah 说。 Noah 说道。",
+          "startMs": 146790,
+          "endMs": 150710
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 142310,
+      "endMs": 151060
+    },
+    {
+      "sentences": [
+        {
+          "en": "The animals went on to the Ark.",
+          "zh": "动物们走上了方舟。",
+          "startMs": 151850,
+          "endMs": 154960
+        },
+        {
+          "en": "They went on in twos.",
+          "zh": "它们成对地走上方舟。",
+          "startMs": 154990,
+          "endMs": 157420
+        },
+        {
+          "en": "First, Noah put the big animals on.",
+          "zh": "首先，Noah 把大动物带上船。",
+          "startMs": 157450,
+          "endMs": 159380
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 151700,
+      "endMs": 159730
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man pushed the elephants.",
+          "zh": "一个男人推着大象。",
+          "startMs": 162610,
+          "endMs": 165670
+        },
+        {
+          "en": "They pulled the crocodiles up in a big net.",
+          "zh": "他们用一个大网把鳄鱼拉了上来。",
+          "startMs": 166600,
+          "endMs": 170170
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 162460,
+      "endMs": 170520
+    },
+    {
+      "sentences": [
+        {
+          "en": "A camel didn't want to go on to the Ark.",
+          "zh": "有一只骆驼不想上方舟。",
+          "startMs": 170470,
+          "endMs": 174050
+        },
+        {
+          "en": "They pushed it and pulled it. Said Noah.",
+          "zh": "他们推着它，拉着它。 Noah 说道。",
+          "startMs": 174450,
+          "endMs": 180350
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 170520,
+      "endMs": 180700
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"All the animals are on,\" said Noah.",
+          "zh": "“所有的动物都上船了，”Noah 说。",
+          "startMs": 181640,
+          "endMs": 184670
+        },
+        {
+          "en": "\"It's time to go.",
+          "zh": "“该走了！”",
+          "startMs": 185680,
+          "endMs": 187690
+        },
+        {
+          "en": "Please get on to the Ark.\"",
+          "zh": "请上到方舟上！”",
+          "startMs": 188430,
+          "endMs": 190330
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 181490,
+      "endMs": 190680
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went on to the Ark.",
+          "zh": "孩子们上了方舟。",
+          "startMs": 190470,
+          "endMs": 193810
+        },
+        {
+          "en": "Noah looked at Floppy.",
+          "zh": "Noah 看了看软软。",
+          "startMs": 193840,
+          "endMs": 195890
+        },
+        {
+          "en": "\"Stop!\" Shouted Noah.",
+          "zh": "“停下！” Noah 喊道。",
+          "startMs": 196810,
+          "endMs": 198850
+        },
+        {
+          "en": "\"I'm sorry,\" said Noah.",
+          "zh": "“对不起！”",
+          "startMs": 200640,
+          "endMs": 203630
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 190680,
+      "endMs": 203980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We put two dogs on the Ark.",
+          "zh": "“我们已经把两只狗带上方舟了。",
+          "startMs": 204780,
+          "endMs": 207400
+        },
+        {
+          "en": "We can't have three dogs.\"",
+          "zh": "我们不能带三只狗上船！”",
+          "startMs": 207650,
+          "endMs": 211390
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 204630,
+      "endMs": 211740
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children couldn't leave Floppy.",
+          "zh": "孩子们舍不得离开软软。",
+          "startMs": 211470,
+          "endMs": 216090
+        },
+        {
+          "en": "\"Floppy can't go on the Ark, so we won't go on it,\" said Biff.",
+          "zh": "“Floppy 不能上方舟，所以我们也不上。”Biff 说。",
+          "startMs": 216120,
+          "endMs": 224600
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 211740,
+      "endMs": 224950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Ark sailed away.",
+          "zh": "方舟驶离了。",
+          "startMs": 231610,
+          "endMs": 231900
+        },
+        {
+          "en": "The children floated in Noah's big umbrella. Said Biff.",
+          "zh": "孩子们在 Noah 的大伞里漂浮着。 Biff 说道。",
+          "startMs": 231900,
+          "endMs": 232910
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 231460,
+      "endMs": 233260
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's still raining,\" said Biff.",
+          "zh": "“还在下雨呢，”Biff 说。",
+          "startMs": 232910,
+          "endMs": 233110
+        },
+        {
+          "en": "Just then, the magic key began to glow.",
+          "zh": "就在这时，魔法钥匙开始发光。",
+          "startMs": 233110,
+          "endMs": 236050
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 233260,
+      "endMs": 236400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children home \"What an adventure!\" \"What an adventure,\" Said Biff.",
+          "zh": "魔法把孩子们带回了家。“真是一次奇妙的冒险！”Biff 说道。 “真是一场冒险！",
+          "startMs": 246040,
+          "endMs": 255710
+        },
+        {
+          "en": "\"Oh no!\" Said Kipper.",
+          "zh": "哎呀。 Kipper 说道。",
+          "startMs": 255740,
+          "endMs": 259130
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 245890,
+      "endMs": 259480
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 259480,
+      "endMs": 259481
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 259481,
+      "endMs": 259482
+    }
+  ]
+}

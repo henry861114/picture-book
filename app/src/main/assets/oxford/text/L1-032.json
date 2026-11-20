@@ -1,0 +1,117 @@
+{
+  "id": "L1-032",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is for Dad.",
+          "zh": "这个是为了爸爸。",
+          "startMs": 0,
+          "endMs": 1100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 1450
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is for you, Dad.",
+          "zh": "这个是为了你， 爸爸。",
+          "startMs": 5000,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 7450
+    },
+    {
+      "sentences": [],
+      "startMs": 2560,
+      "endMs": 4160,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is for you, Dad.",
+          "zh": "这个是为了你， 爸爸。",
+          "startMs": 5000,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is a box of chocolates.",
+          "zh": "它是一个盒子的巧克力。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is for you, Dad.",
+          "zh": "这个是为了你， 爸爸。",
+          "startMs": 5000,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 4850,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is a bunch of grapes.",
+          "zh": "它是一个束的葡萄。",
+          "startMs": 25000,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 24850,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "This is for the best Dad of all.",
+          "zh": "这个是为了这最好的爸爸的全部。",
+          "startMs": 32000,
+          "endMs": 35100
+        }
+      ],
+      "startMs": 31850,
+      "endMs": 35450
+    },
+    {
+      "sentences": [],
+      "startMs": 42880,
+      "endMs": 43221,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 43380,
+      "endMs": 43221,
+      "illustrationOnly": true
+    }
+  ]
+}

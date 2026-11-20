@@ -1,0 +1,105 @@
+{
+  "id": "L1-027",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, Floppy.",
+          "zh": "去离开， Floppy。",
+          "startMs": 0,
+          "endMs": 2530
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2880
+    },
+    {
+      "sentences": [],
+      "startMs": 8060,
+      "endMs": 9140,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are skipping.",
+          "zh": "我们是跳绳。",
+          "startMs": 10080,
+          "endMs": 18500
+        }
+      ],
+      "startMs": 9930,
+      "endMs": 18850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, Floppy.",
+          "zh": "去离开， Floppy。",
+          "startMs": 2430,
+          "endMs": 10180
+        }
+      ],
+      "startMs": 2280,
+      "endMs": 10530
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are painting.",
+          "zh": "我们是绘画。",
+          "startMs": 30180,
+          "endMs": 31880
+        }
+      ],
+      "startMs": 30030,
+      "endMs": 32230
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come back, Floppy.",
+          "zh": "来回来， Floppy。",
+          "startMs": 39180,
+          "endMs": 39530
+        }
+      ],
+      "startMs": 39030,
+      "endMs": 39880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy, come back.",
+          "zh": "Floppy， 来回来。",
+          "startMs": 39430,
+          "endMs": 43180
+        }
+      ],
+      "startMs": 39280,
+      "endMs": 43530
+    },
+    {
+      "sentences": [
+        {
+          "en": "We are sorry.",
+          "zh": "我们是对不起。",
+          "startMs": 48080,
+          "endMs": 50180
+        }
+      ],
+      "startMs": 47930,
+      "endMs": 50530
+    }
+  ]
+}

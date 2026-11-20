@@ -1,0 +1,714 @@
+{
+  "id": "L6-004",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Said Chip.",
+          "zh": "Chip 说道。",
+          "startMs": 5120,
+          "endMs": 5670
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 4970,
+      "endMs": 6020
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We are going on a magic adventure,\" said Chip.",
+          "zh": "“我们要去一场神奇的冒险了，”Chip 说。",
+          "startMs": 5700,
+          "endMs": 9070
+        },
+        {
+          "en": "The children went through the door of the magic house.",
+          "zh": "孩子们走进了魔法屋的大门。",
+          "startMs": 9070,
+          "endMs": 9960
+        },
+        {
+          "en": "\"Go help!\"",
+          "zh": "“哎呀，救命！”",
+          "startMs": 10000,
+          "endMs": 11940
+        },
+        {
+          "en": "\"Oh help!\" said Nadim.",
+          "zh": "哦帮助！ 说 Nadim。",
+          "startMs": 11940,
+          "endMs": 14100
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 6020,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to the land of the dinosaurs.",
+          "zh": "魔法把孩子们带到了恐龙的世界。",
+          "startMs": 19860,
+          "endMs": 25240
+        },
+        {
+          "en": "\"I don't want this adventure,\" said Nadim.",
+          "zh": "“我不想经历这次冒险，”Nadim 说。 Nadim 说道。",
+          "startMs": 25270,
+          "endMs": 29100
+        },
+        {
+          "en": "\"I don't want to meet a dinosaur.\"",
+          "zh": "“我不想见到恐龙。”",
+          "startMs": 29130,
+          "endMs": 32220
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 19710,
+      "endMs": 32570
+    },
+    {
+      "sentences": [
+        {
+          "en": "A dragonfly flew by.",
+          "zh": "一只蜻蜓飞过。",
+          "startMs": 32860,
+          "endMs": 34960
+        },
+        {
+          "en": "\"Look at this,\" said Chip.",
+          "zh": "“你看，”Chip 说。",
+          "startMs": 38000,
+          "endMs": 40100
+        },
+        {
+          "en": "\"It's a giant dragonfly.",
+          "zh": "“这是一只巨型蜻蜓。",
+          "startMs": 40710,
+          "endMs": 42320
+        },
+        {
+          "en": "What a big one!\"",
+          "zh": "真大啊！”",
+          "startMs": 42350,
+          "endMs": 43960
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 32710,
+      "endMs": 44310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip found a footprint.",
+          "zh": "Chip 发现了一个脚印。",
+          "startMs": 48070,
+          "endMs": 49960
+        },
+        {
+          "en": "It was a giant footprint.",
+          "zh": "这是一个巨大的脚印。",
+          "startMs": 50100,
+          "endMs": 52720
+        },
+        {
+          "en": "\"Come and look,\" said Chip.",
+          "zh": "来和看， 说 Chip。 Chip 说道。",
+          "startMs": 54030,
+          "endMs": 57100
+        },
+        {
+          "en": "\"It must be a dinosaur's footprint.\"",
+          "zh": "“这一定是恐龙的脚印。”",
+          "startMs": 57130,
+          "endMs": 59600
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 47920,
+      "endMs": 59950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff took a photograph of the giant footprint.",
+          "zh": "Biff 拍下了那只巨大的脚印。",
+          "startMs": 59860,
+          "endMs": 63960
+        },
+        {
+          "en": "\"I can take this photograph to school,\" she said.",
+          "zh": "“我可以把这张照片带到学校去，”她说。",
+          "startMs": 66000,
+          "endMs": 70170
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 59950,
+      "endMs": 70520
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nadim found some eggs.",
+          "zh": "Nadim 找到了一些蛋。",
+          "startMs": 73860,
+          "endMs": 75960
+        },
+        {
+          "en": "They were big eggs.",
+          "zh": "这些蛋很大。",
+          "startMs": 75990,
+          "endMs": 77960
+        },
+        {
+          "en": "\"They must be a dinosaur's eggs,\" he said.",
+          "zh": "“它们一定是恐龙蛋，”他说。",
+          "startMs": 78000,
+          "endMs": 83110
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 73710,
+      "endMs": 83460
+    },
+    {
+      "sentences": [
+        {
+          "en": "One of the eggs began to crack.",
+          "zh": "其中一个蛋开始裂开。",
+          "startMs": 83310,
+          "endMs": 85780
+        },
+        {
+          "en": "\"It's going to hatch out,\" said Biff.",
+          "zh": "它是去到舱口出， 说 Biff。 Biff 说道。",
+          "startMs": 87000,
+          "endMs": 91100
+        },
+        {
+          "en": "Something came out of the egg.",
+          "zh": "某物来出的这鸡蛋。",
+          "startMs": 91240,
+          "endMs": 95080
+        },
+        {
+          "en": "\"It's a little dinosaur,\" said Nadim.",
+          "zh": "它是一个小的恐龙， 说 Nadim。 Nadim 说道。",
+          "startMs": 98000,
+          "endMs": 102100
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 83460,
+      "endMs": 102450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Something flew by.",
+          "zh": "有东西飞过去了。",
+          "startMs": 104860,
+          "endMs": 106960
+        },
+        {
+          "en": "The children were frightened.",
+          "zh": "孩子们吓坏了。",
+          "startMs": 111890,
+          "endMs": 113990
+        },
+        {
+          "en": "\"What is it?\" Asked Chip.",
+          "zh": "“这是什么？” Chip 问道。",
+          "startMs": 114020,
+          "endMs": 116360
+        },
+        {
+          "en": "\"I don't know,\" said Biff.",
+          "zh": "我不知道， 说 Biff。 Biff 说道。",
+          "startMs": 116390,
+          "endMs": 119100
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 104710,
+      "endMs": 119450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children ran.",
+          "zh": "孩子们跑开了。",
+          "startMs": 119130,
+          "endMs": 120960
+        },
+        {
+          "en": "\"It's a flying dinosaur,\" Said Nadim.",
+          "zh": "这是一只会飞的恐龙。 Nadim 说道。",
+          "startMs": 122000,
+          "endMs": 125100
+        },
+        {
+          "en": "\"And it's a big one.",
+          "zh": "而且是一只大恐龙。",
+          "startMs": 125130,
+          "endMs": 126960
+        },
+        {
+          "en": "Come on, let's hide.\"",
+          "zh": "来在……上， 让我们把。",
+          "startMs": 126990,
+          "endMs": 128960
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 119450,
+      "endMs": 129310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The flying dinosaur flew down to the eggs.",
+          "zh": "会飞的恐龙飞到蛋的旁边。",
+          "startMs": 134860,
+          "endMs": 138960
+        },
+        {
+          "en": "It picked up the little dinosaur in its teeth.",
+          "zh": "它挑选向上这小的恐龙在……里它的牙齿。",
+          "startMs": 138990,
+          "endMs": 142990
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 134710,
+      "endMs": 143340
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh,.",
+          "zh": "“哎呀！”",
+          "startMs": 148000,
+          "endMs": 148100
+        },
+        {
+          "en": "No!\"",
+          "zh": "“哎呀，不好了。”",
+          "startMs": 148100,
+          "endMs": 148420
+        },
+        {
+          "en": "\"Oh no!\" said Biff.",
+          "zh": "“哎呀，不好了！”Biff 说道。",
+          "startMs": 148450,
+          "endMs": 151280
+        },
+        {
+          "en": "\"It's going to eat it.\"",
+          "zh": "它要把它吃掉。",
+          "startMs": 151310,
+          "endMs": 152960
+        },
+        {
+          "en": "She picked up a stick and ran out.",
+          "zh": "她捡起一根棍子，跑了出去。",
+          "startMs": 153860,
+          "endMs": 156300
+        },
+        {
+          "en": "\"Go away!\" She yelled.",
+          "zh": "“走开！” 她大喊道。",
+          "startMs": 160200,
+          "endMs": 162360
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 147850,
+      "endMs": 162710
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dinosaur flew away but Chip was cross with Biff.",
+          "zh": "这恐龙飞离开但是 Chip 是叉形和……一起 Biff。",
+          "startMs": 169860,
+          "endMs": 174960
+        },
+        {
+          "en": "\"You were silly,\" he said.",
+          "zh": "你是傻的， 他说。",
+          "startMs": 175000,
+          "endMs": 177200
+        },
+        {
+          "en": "\"It could have got you.\"",
+          "zh": "它能有得到你。",
+          "startMs": 177420,
+          "endMs": 179060
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 169710,
+      "endMs": 179410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf ran on and climbed a hill.",
+          "zh": "Wilf 继续跑，爬上了一座小山。",
+          "startMs": 180000,
+          "endMs": 183100
+        },
+        {
+          "en": "He wanted to look for an apatosaurus.",
+          "zh": "他想去找一只梁龙。",
+          "startMs": 183130,
+          "endMs": 186200
+        },
+        {
+          "en": "\"Come up here Biff,\" he called.",
+          "zh": "来向上这里 Biff， 他叫。",
+          "startMs": 186230,
+          "endMs": 189100
+        },
+        {
+          "en": "\"You can take a photograph.\"",
+          "zh": "你可以拍张照片。",
+          "startMs": 189660,
+          "endMs": 192980
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 179850,
+      "endMs": 193330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf had not climbed on a hill.",
+          "zh": "Wilf 爬的不是一座小山。",
+          "startMs": 194860,
+          "endMs": 198560
+        },
+        {
+          "en": "He had climbed on a dinosaur and it was enormous.",
+          "zh": "他爬上了一只恐龙，这只恐龙非常庞大。",
+          "startMs": 198590,
+          "endMs": 202820
+        },
+        {
+          "en": "It looked around at Wilf.",
+          "zh": "它转过头来看着 Wilf。",
+          "startMs": 207000,
+          "endMs": 210100
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 194710,
+      "endMs": 210450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was frightened.",
+          "zh": "Wilf 吓坏了。",
+          "startMs": 210130,
+          "endMs": 212100
+        },
+        {
+          "en": "\"Oh help!\" He said.",
+          "zh": "“哎呀，救命！” 他说。",
+          "startMs": 212130,
+          "endMs": 214800
+        },
+        {
+          "en": "He jumped down and ran.",
+          "zh": "他跳下来，跑开了。",
+          "startMs": 214860,
+          "endMs": 217960
+        },
+        {
+          "en": "\"Let's get out of here,\" he called.",
+          "zh": "让我们得到出的这里， 他叫。",
+          "startMs": 219000,
+          "endMs": 221390
+        },
+        {
+          "en": "He called, said Chip.",
+          "zh": "他喊道。",
+          "startMs": 221420,
+          "endMs": 230780
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 210450,
+      "endMs": 231130
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't be frightened,\" said Chip.",
+          "zh": "不是受惊的， 说 Chip。",
+          "startMs": 230810,
+          "endMs": 232860
+        },
+        {
+          "en": "\"It's an apatosaurus.",
+          "zh": "“它叫梁龙。”",
+          "startMs": 232860,
+          "endMs": 233060
+        },
+        {
+          "en": "It's like the one in the museum.",
+          "zh": "它和博物馆里的那只很像。",
+          "startMs": 233060,
+          "endMs": 235280
+        },
+        {
+          "en": "It won't hurt us.\"",
+          "zh": "它不会伤害我们。",
+          "startMs": 235310,
+          "endMs": 236960
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 231130,
+      "endMs": 237310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff took a photograph of it.",
+          "zh": "Biff 给它拍了张照片。",
+          "startMs": 236990,
+          "endMs": 238960
+        },
+        {
+          "en": "\"What a long neck it's got,.",
+          "zh": "它的脖子真长啊。",
+          "startMs": 241000,
+          "endMs": 243100
+        },
+        {
+          "en": "And what a long tail,\" She said.",
+          "zh": "尾巴也真长。 她说。",
+          "startMs": 243130,
+          "endMs": 246460
+        },
+        {
+          "en": "\"I need a bigger camera.\"",
+          "zh": "我必须一个大的相机。",
+          "startMs": 246870,
+          "endMs": 248840
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 237310,
+      "endMs": 249190
+    },
+    {
+      "sentences": [
+        {
+          "en": "The apatosaurus ran into the water.",
+          "zh": "梁龙跑进了水里。",
+          "startMs": 252860,
+          "endMs": 255960
+        },
+        {
+          "en": "\"What an enormous splash!\" Said Wilf.",
+          "zh": "好大的水花。 Wilf 说道。",
+          "startMs": 258860,
+          "endMs": 264960
+        },
+        {
+          "en": "Nadim looked frightened.",
+          "zh": "Nadim 看受惊的。",
+          "startMs": 267000,
+          "endMs": 269100
+        },
+        {
+          "en": "\"Oh help!\" He called.",
+          "zh": "“哎呀，救命！” 他喊道。",
+          "startMs": 269130,
+          "endMs": 271860
+        },
+        {
+          "en": "\"Let's get out of here!\" Yelled Chip.",
+          "zh": "“我们离开这里吧！” 快拍。",
+          "startMs": 286890,
+          "endMs": 291190
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 252710,
+      "endMs": 291540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Another dinosaur was coming and it looked very fierce.",
+          "zh": "又有一只恐龙来了，它看起来非常凶猛。",
+          "startMs": 291220,
+          "endMs": 294590
+        },
+        {
+          "en": "\"Come on!\" Yelled Chip.",
+          "zh": "“快来！” 快拍。",
+          "startMs": 301860,
+          "endMs": 304960
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 291540,
+      "endMs": 305310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff took a photograph.",
+          "zh": "Biff 拍了一张照片。",
+          "startMs": 304990,
+          "endMs": 306710
+        },
+        {
+          "en": "\"Don't stop for that.",
+          "zh": "别为那停下来。",
+          "startMs": 306710,
+          "endMs": 306910
+        },
+        {
+          "en": "This one could eat us!\"",
+          "zh": "这个一能吃我们！",
+          "startMs": 306910,
+          "endMs": 308150
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 305310,
+      "endMs": 308500
+    },
+    {
+      "sentences": [
+        {
+          "en": "They began to run away.",
+          "zh": "他们开始逃跑。",
+          "startMs": 308180,
+          "endMs": 310960
+        },
+        {
+          "en": "Wilf's other shoe came off in the mud.",
+          "zh": "Wilf 的另一只鞋掉进了泥里。",
+          "startMs": 312860,
+          "endMs": 315800
+        },
+        {
+          "en": "Suddenly, the key began to glow.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 317860,
+          "endMs": 321960
+        },
+        {
+          "en": "\"Just in time!\" Said Chip.",
+          "zh": "正好赶上。 Chip 说道。",
+          "startMs": 323880,
+          "endMs": 339980
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 308500,
+      "endMs": 340330
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to Biff's bedroom.",
+          "zh": "魔法把孩子们带到了 Biff 的卧室。",
+          "startMs": 340010,
+          "endMs": 341960
+        },
+        {
+          "en": "\"What an adventure!\"",
+          "zh": "真是一次精彩的冒险啊！”",
+          "startMs": 342750,
+          "endMs": 345430
+        },
+        {
+          "en": "\"I've got some good photographs.\" Said Chip.",
+          "zh": "我拍了一些很棒的照片。 Chip 说道。",
+          "startMs": 346860,
+          "endMs": 350330
+        },
+        {
+          "en": "\"Yes,\" Said Biff.",
+          "zh": "“可以！” Biff 说道。",
+          "startMs": 354860,
+          "endMs": 356960
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 340330,
+      "endMs": 357310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is the fierce dinosaur,\" said Chip.",
+          "zh": "这个是这凶猛的恐龙， 说 Chip。",
+          "startMs": 356990,
+          "endMs": 359700
+        },
+        {
+          "en": "\"Did you take its photograph?\"",
+          "zh": "你给它拍了照片吗？",
+          "startMs": 359700,
+          "endMs": 359900
+        },
+        {
+          "en": "\"Let's tell Mum and Dad.\" Said Biff.",
+          "zh": "妈妈和爸爸。” Biff 说道。",
+          "startMs": 359900,
+          "endMs": 367100
+        },
+        {
+          "en": "\"Oh, yes,\" Said Dad.",
+          "zh": "“可以！” 爸爸说道。",
+          "startMs": 367130,
+          "endMs": 371960
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 357310,
+      "endMs": 372310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I took photographs of dinosaurs,\" said Biff.",
+          "zh": "“我拍了恐龙的照片，”Biff 说。",
+          "startMs": 371990,
+          "endMs": 374700
+        },
+        {
+          "en": "\"Well, I'm sorry.",
+          "zh": "哎呀，对不起。",
+          "startMs": 374700,
+          "endMs": 374900
+        },
+        {
+          "en": "\"Well, I'm sorry, I didn't put a film in the camera.\"",
+          "zh": "我没有在相机里装胶卷。”",
+          "startMs": 374900,
+          "endMs": 377100
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 372310,
+      "endMs": 377450
+    }
+  ]
+}

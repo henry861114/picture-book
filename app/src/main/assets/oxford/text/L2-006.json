@@ -1,0 +1,182 @@
+{
+  "id": "L2-006",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad told her a story.",
+          "zh": "爸爸告诉她一个故事。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The story was about a dragon.",
+          "zh": "这故事是关于一个龙。",
+          "startMs": 8000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 7850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff dreamed about the dragon.",
+          "zh": "Biff 梦关于这龙。",
+          "startMs": 17000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 16850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [],
+      "startMs": 31240,
+      "endMs": 32040,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a nasty dragon.",
+          "zh": "它是一个令人难受的龙。",
+          "startMs": 37000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 39450
+    },
+    {
+      "sentences": [],
+      "startMs": 40190,
+      "endMs": 40990,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a very nasty dragon.",
+          "zh": "它是一个非常令人难受的龙。",
+          "startMs": 47000,
+          "endMs": 52100
+        }
+      ],
+      "startMs": 46850,
+      "endMs": 52450
+    },
+    {
+      "sentences": [],
+      "startMs": 50160,
+      "endMs": 50960,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had to fight it.",
+          "zh": "Biff 有到打架它。",
+          "startMs": 61000,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 60850,
+      "endMs": 63450
+    },
+    {
+      "sentences": [],
+      "startMs": 57920,
+      "endMs": 58720,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff went downstairs.",
+          "zh": "Biff 去在楼下。",
+          "startMs": 74440,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 74290,
+      "endMs": 77450
+    },
+    {
+      "sentences": [],
+      "startMs": 68040,
+      "endMs": 68840,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum told her a story.",
+          "zh": "妈妈告诉她一个故事。",
+          "startMs": 81000,
+          "endMs": 84100
+        }
+      ],
+      "startMs": 80850,
+      "endMs": 84450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The story was about a dolphin.",
+          "zh": "这故事是关于一个海豚。",
+          "startMs": 86000,
+          "endMs": 89100
+        }
+      ],
+      "startMs": 85850,
+      "endMs": 89450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff dreamed about a dolphin.",
+          "zh": "Biff 梦关于一个海豚。",
+          "startMs": 94000,
+          "endMs": 97100
+        }
+      ],
+      "startMs": 93850,
+      "endMs": 97450
+    },
+    {
+      "sentences": [],
+      "startMs": 106300,
+      "endMs": 106800,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 106800,
+      "endMs": 106818,
+      "illustrationOnly": true
+    }
+  ]
+}

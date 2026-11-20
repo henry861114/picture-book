@@ -1,0 +1,141 @@
+{
+  "id": "L1-002",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip and Kipper got up early in the morning.",
+          "zh": "Chip 和 Kipper 得到向上提早的在……里这早晨。",
+          "startMs": 0,
+          "endMs": 8091
+        },
+        {
+          "en": "Shh.",
+          "zh": "Shh。",
+          "startMs": 8091,
+          "endMs": 8827
+        },
+        {
+          "en": "Keep quiet, Kipper.",
+          "zh": "保持安静的， Kipper。",
+          "startMs": 8827,
+          "endMs": 12321
+        },
+        {
+          "en": "Mm-hmm.",
+          "zh": "Mm-hmm。",
+          "startMs": 12321,
+          "endMs": 13608
+        },
+        {
+          "en": "I'm being quiet.",
+          "zh": "我是正在安静的。",
+          "startMs": 13608,
+          "endMs": 16550
+        }
+      ],
+      "startMs": 0,
+      "endMs": 16550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper started to get dressed.",
+          "zh": "Kipper 开始到得到连衣裙。",
+          "startMs": 17430,
+          "endMs": 19580
+        },
+        {
+          "en": "But if and chip were already dressed.",
+          "zh": "但是如果和 Chip 是已经连衣裙。",
+          "startMs": 19480,
+          "endMs": 22530
+        },
+        {
+          "en": "Hurry up, Kipper.",
+          "zh": "急忙向上， Kipper。",
+          "startMs": 22430,
+          "endMs": 24530
+        },
+        {
+          "en": "Shh.",
+          "zh": "Shh。",
+          "startMs": 24430,
+          "endMs": 27530
+        },
+        {
+          "en": "Kipper began to pull a clean shirt from out of the pile of ironing.",
+          "zh": "Kipper 开始到拉一个打扫衬衫从出的这堆的熨烫。",
+          "startMs": 27510,
+          "endMs": 35530
+        }
+      ],
+      "startMs": 17280,
+      "endMs": 35880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Get dressed.",
+          "zh": "得到连衣裙。",
+          "startMs": 35430,
+          "endMs": 37580
+        },
+        {
+          "en": "I will.",
+          "zh": "我将。",
+          "startMs": 37480,
+          "endMs": 41530
+        },
+        {
+          "en": "Everyone was ready except Kipper.",
+          "zh": "每个人是准备好的除 Kipper。",
+          "startMs": 44430,
+          "endMs": 47530
+        },
+        {
+          "en": "Shh.",
+          "zh": "Shh。",
+          "startMs": 47430,
+          "endMs": 49580
+        },
+        {
+          "en": "Hurry up.",
+          "zh": "急忙向上。",
+          "startMs": 49480,
+          "endMs": 50530
+        },
+        {
+          "en": "Wait.",
+          "zh": "等。",
+          "startMs": 50430,
+          "endMs": 52530
+        }
+      ],
+      "startMs": 35280,
+      "endMs": 52880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Happy birthday Dad! today",
+          "zh": "快乐的生日爸爸！ 在今天",
+          "startMs": 62480,
+          "endMs": 64530
+        }
+      ],
+      "startMs": 62330,
+      "endMs": 64880
+    }
+  ]
+}

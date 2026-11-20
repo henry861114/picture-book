@@ -1,0 +1,165 @@
+{
+  "id": "L1-058",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was a cold day.",
+          "zh": "它是一个冷的一天。",
+          "startMs": 0,
+          "endMs": 10540
+        }
+      ],
+      "startMs": 0,
+      "endMs": 10890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone got wet.",
+          "zh": "每个人得到湿的。",
+          "startMs": 15080,
+          "endMs": 15480
+        }
+      ],
+      "startMs": 14930,
+      "endMs": 15830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone got cold.",
+          "zh": "每个人得到冷的。",
+          "startMs": 15380,
+          "endMs": 19020
+        }
+      ],
+      "startMs": 15230,
+      "endMs": 19370
+    },
+    {
+      "sentences": [],
+      "startMs": 5775,
+      "endMs": 6575,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper got miserable.",
+          "zh": "Kipper 得到痛苦的。",
+          "startMs": 15080,
+          "endMs": 15230
+        }
+      ],
+      "startMs": 14930,
+      "endMs": 15580
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum got cross.",
+          "zh": "妈妈得到叉形。",
+          "startMs": 15080,
+          "endMs": 15230
+        }
+      ],
+      "startMs": 14930,
+      "endMs": 15580
+    },
+    {
+      "sentences": [],
+      "startMs": 9671,
+      "endMs": 10471,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a goal.",
+          "zh": "爸爸得到一个球门。",
+          "startMs": 10471,
+          "endMs": 11402
+        }
+      ],
+      "startMs": 10471,
+      "endMs": 11402
+    },
+    {
+      "sentences": [
+        {
+          "en": "This game helps the child notice the length of words.",
+          "zh": "这个游戏帮助这孩子布告这长度的单词。",
+          "startMs": 11402,
+          "endMs": 17225
+        },
+        {
+          "en": "• Ask the child to find a two-letter word in the book.",
+          "zh": "• 问这孩子到找到一个 two-letter 单词在……里这书。",
+          "startMs": 17225,
+          "endMs": 23157
+        },
+        {
+          "en": "Then you find a three-letter word.",
+          "zh": "然后你找到一个 three-letter 单词。",
+          "startMs": 23157,
+          "endMs": 26893
+        },
+        {
+          "en": "Then the child four, and so on.",
+          "zh": "然后这孩子四， 和所以在……上。",
+          "startMs": 26893,
+          "endMs": 30298
+        },
+        {
+          "en": "You will say \"None\" for the seven-letter word.",
+          "zh": "你将说全无为了这 seven-letter 单词。",
+          "startMs": 30298,
+          "endMs": 35352
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 35352,
+          "endMs": 41614
+        },
+        {
+          "en": "Take turns to think of words which are the opposite of 'cold\", 'wet', etc.",
+          "zh": "拿转动到想的单词哪个是这对立面的 '冷的， '湿的'， etc。",
+          "startMs": 41614,
+          "endMs": 49744
+        },
+        {
+          "en": "Find 'got' on the pages in the story.",
+          "zh": "找到 '得到' 在……上这页在……里这故事。",
+          "startMs": 49744,
+          "endMs": 53809
+        },
+        {
+          "en": "Practise spelling 'got.",
+          "zh": "练习拼写 '得到。",
+          "startMs": 53809,
+          "endMs": 56336
+        }
+      ],
+      "startMs": 11402,
+      "endMs": 56336
+    },
+    {
+      "sentences": [],
+      "startMs": 56336,
+      "endMs": 56635,
+      "illustrationOnly": true
+    }
+  ]
+}

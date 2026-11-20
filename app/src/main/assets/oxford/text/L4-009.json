@@ -1,0 +1,267 @@
+{
+  "id": "L4-009",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was painting the door.",
+          "zh": "爸爸是绘画这门。",
+          "startMs": 0,
+          "endMs": 2100
+        },
+        {
+          "en": "Mum went out.",
+          "zh": "妈妈去出。",
+          "startMs": 2630,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma came to play.",
+          "zh": "Wilf 和 Wilma 来到玩。",
+          "startMs": 4000,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 3850,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come in,\" said Dad.",
+          "zh": "来在……里， 说爸爸。",
+          "startMs": 9000,
+          "endMs": 13100
+        }
+      ],
+      "startMs": 8850,
+      "endMs": 13450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Three children came to the house.",
+          "zh": "三孩子们来到这房子。",
+          "startMs": 30000,
+          "endMs": 32100
+        },
+        {
+          "en": "They came to play with Biff.",
+          "zh": "他们来到玩和……一起 Biff。",
+          "startMs": 32000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "WET PAiNT!",
+          "zh": "湿的油漆！",
+          "startMs": 36940,
+          "endMs": 37607
+        },
+        {
+          "en": "Come in,\" said Biff.",
+          "zh": "来在……里， 说 Biff。",
+          "startMs": 37607,
+          "endMs": 38940
+        }
+      ],
+      "startMs": 36940,
+      "endMs": 38940
+    },
+    {
+      "sentences": [
+        {
+          "en": "Four children came to the house.",
+          "zh": "四孩子们来到这房子。",
+          "startMs": 45000,
+          "endMs": 48100
+        },
+        {
+          "en": "They came to play with Chip.",
+          "zh": "他们来到玩和……一起 Chip。",
+          "startMs": 48000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come in,\" said Chip.",
+          "zh": "来在……里， 说 Chip。",
+          "startMs": 52000,
+          "endMs": 54100
+        }
+      ],
+      "startMs": 51850,
+      "endMs": 54450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Five children came to play.",
+          "zh": "五孩子们来到玩。",
+          "startMs": 58280,
+          "endMs": 60100
+        },
+        {
+          "en": "They wanted to play with Kipper.",
+          "zh": "他们想要到玩和……一起 Kipper。",
+          "startMs": 60000,
+          "endMs": 63100
+        }
+      ],
+      "startMs": 58130,
+      "endMs": 63450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come in,\" said Kipper.",
+          "zh": "来在……里， 说 Kipper。",
+          "startMs": 63000,
+          "endMs": 67100
+        }
+      ],
+      "startMs": 62850,
+      "endMs": 67450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum came home.",
+          "zh": "妈妈来家。",
+          "startMs": 71000,
+          "endMs": 74100
+        }
+      ],
+      "startMs": 70850,
+      "endMs": 74450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a lot of children!",
+          "zh": "什么一个许多的孩子们！",
+          "startMs": 82000,
+          "endMs": 84100
+        },
+        {
+          "en": "What a mess!\" she said.",
+          "zh": "什么一个脏乱！ 她说。",
+          "startMs": 84000,
+          "endMs": 88100
+        }
+      ],
+      "startMs": 81850,
+      "endMs": 88450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked for Biff, Chip and Kipper.",
+          "zh": "妈妈看为了 Biff， Chip 和 Kipper。",
+          "startMs": 93000,
+          "endMs": 96100
+        },
+        {
+          "en": "They were watching television.",
+          "zh": "他们是手表电视。",
+          "startMs": 96000,
+          "endMs": 98100
+        }
+      ],
+      "startMs": 92850,
+      "endMs": 98450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was cross.",
+          "zh": "妈妈是叉形。",
+          "startMs": 115840,
+          "endMs": 117711
+        }
+      ],
+      "startMs": 115840,
+      "endMs": 117711
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum gave the children some biscuits.",
+          "zh": "妈妈给这孩子们一些饼干。",
+          "startMs": 106000,
+          "endMs": 109100
+        }
+      ],
+      "startMs": 105850,
+      "endMs": 109450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all went home.",
+          "zh": "他们全部去家。",
+          "startMs": 109000,
+          "endMs": 112100
+        }
+      ],
+      "startMs": 108850,
+      "endMs": 112450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went outside.",
+          "zh": "妈妈去外面。",
+          "startMs": 117000,
+          "endMs": 120100
+        },
+        {
+          "en": "\"Oh no!\" said Mum.",
+          "zh": "哦不！ 说妈妈。",
+          "startMs": 126000,
+          "endMs": 128900
+        }
+      ],
+      "startMs": 116850,
+      "endMs": 129250
+    },
+    {
+      "sentences": [],
+      "startMs": 138360,
+      "endMs": 139790,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 139790,
+      "endMs": 140089,
+      "illustrationOnly": true
+    }
+  ]
+}

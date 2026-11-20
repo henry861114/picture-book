@@ -1,0 +1,1028 @@
+{
+  "id": "L7-018",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Dad came into Chip's room.",
+          "zh": "爸爸来进入 Chip 房间。",
+          "startMs": 29,
+          "endMs": 5220
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 5570
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 5570,
+      "endMs": 5571
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was ringing a bell.",
+          "zh": "他是清脆响亮的一个铃。",
+          "startMs": 6000,
+          "endMs": 7100
+        },
+        {
+          "en": "Chip sat up in bed. Said Dad.",
+          "zh": "Chip 坐向上在……里床。 是， 说爸爸。",
+          "startMs": 7130,
+          "endMs": 14100
+        },
+        {
+          "en": "\"Mum's away and we have a lot of jobs to do.\"",
+          "zh": "妈妈离开和我们有一个许多的工作到做。",
+          "startMs": 15350,
+          "endMs": 18220
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 5850,
+      "endMs": 18570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Time to get up!\"",
+          "zh": "时间到得到向上！ 他叫。",
+          "startMs": 26860,
+          "endMs": 28860
+        },
+        {
+          "en": "Dad rang the bell on the stairs.",
+          "zh": "爸爸嚷这铃在……上这梯级。",
+          "startMs": 28890,
+          "endMs": 31600
+        },
+        {
+          "en": "\"Time to get up!\" He called.",
+          "zh": "时间到得到向上！ 他叫。 来在……上， 他叫。",
+          "startMs": 31600,
+          "endMs": 31800
+        },
+        {
+          "en": "\"Do we have to?\" Asked Biff.",
+          "zh": "做我们有到？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 31800,
+          "endMs": 34160
+        },
+        {
+          "en": "\"It's the weekend.\" \"Yes,\" \"Yes,\" said Dad.",
+          "zh": "它是这周末。",
+          "startMs": 34190,
+          "endMs": 37100
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 26710,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Mum gets back tonight.",
+          "zh": "妈妈得到回来今夜。",
+          "startMs": 38170,
+          "endMs": 39300
+        },
+        {
+          "en": "The house is a mess.",
+          "zh": "这房子是一个脏乱。",
+          "startMs": 39860,
+          "endMs": 42900
+        },
+        {
+          "en": "We must tidy up.\"",
+          "zh": "我们必须整洁的向上。",
+          "startMs": 42930,
+          "endMs": 44650
+        },
+        {
+          "en": "\"I suppose so,\" yawned Chip.",
+          "zh": "我认为所以， 打哈欠 Chip。",
+          "startMs": 44650,
+          "endMs": 46780
+        },
+        {
+          "en": "\"Good, I'll start breakfast,\" \"Yes,\" said Dad.",
+          "zh": "我会开始早饭， 说爸爸。 是， 说爸爸。",
+          "startMs": 47730,
+          "endMs": 53600
+        },
+        {
+          "en": "\"Bad news,\" \"Yes,\" said Dad.",
+          "zh": "坏的新的， 说爸爸。",
+          "startMs": 62000,
+          "endMs": 65100
+        },
+        {
+          "en": "\"The milk has gone off.",
+          "zh": "这雾有去了。",
+          "startMs": 65130,
+          "endMs": 66960
+        },
+        {
+          "en": "I've burned the toast and we've run out of juice.",
+          "zh": "这牛奶有去了离开， 我已经烧这烤面包片和我们已经跑出的果汁。",
+          "startMs": 66990,
+          "endMs": 71480
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 38020,
+      "endMs": 71830
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children came down for breakfast.",
+          "zh": "这孩子们来向下为了早饭。",
+          "startMs": 71510,
+          "endMs": 73890
+        },
+        {
+          "en": "I'm sorry.\" \"Oh no!\" Said Kipper.",
+          "zh": "我是对不起。 哦不！ 哦！ 说 Kipper。",
+          "startMs": 73890,
+          "endMs": 74920
+        },
+        {
+          "en": "\"I'm hungry!\" \"Yes,\" said Dad.",
+          "zh": "我是饿的！ 是， 说爸爸。 哦！",
+          "startMs": 75060,
+          "endMs": 85610
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 71830,
+      "endMs": 85960
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We'll have to go to the supermarket,\" said Dad.",
+          "zh": "我们会有到去到这超市， 说爸爸。",
+          "startMs": 85640,
+          "endMs": 89010
+        },
+        {
+          "en": "\"We need some more food.\"",
+          "zh": "我们必须一些更多食物。",
+          "startMs": 89010,
+          "endMs": 89210
+        },
+        {
+          "en": "\"I've got a better idea,\" said Chip.",
+          "zh": "我已经得到一个更好的主意， 说 Chip。",
+          "startMs": 89210,
+          "endMs": 89410
+        },
+        {
+          "en": "\"Let's have breakfast in the cafe.\" Said Dad.",
+          "zh": "让我们有早饭在……里这 café。 是， 说爸爸。",
+          "startMs": 89410,
+          "endMs": 93450
+        },
+        {
+          "en": "\"Hooray,\" Said Kipper.",
+          "zh": "这食物是准备好的。 哦！ 说 Kipper。",
+          "startMs": 99130,
+          "endMs": 101160
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 85960,
+      "endMs": 101510
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You can eat what you like,\" said Dad.",
+          "zh": "你能吃什么你喜欢， 说爸爸。",
+          "startMs": 101190,
+          "endMs": 104230
+        },
+        {
+          "en": "\"Then we'll do the shopping.\"",
+          "zh": "然后我们会做这商店。 说 Kipper。",
+          "startMs": 104230,
+          "endMs": 104430
+        },
+        {
+          "en": "\"I'm going to have a big breakfast!\" Said Biff.",
+          "zh": "我是去到有一个大的早饭！ 不， 说 Biff。",
+          "startMs": 104430,
+          "endMs": 104790
+        },
+        {
+          "en": "\"Hooray!\" said Kipper.",
+          "zh": "哦不！ 说 Kipper。",
+          "startMs": 110320,
+          "endMs": 112100
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 101510,
+      "endMs": 112450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'd like blueberry pancakes,\" said Biff.",
+          "zh": "I'd 喜欢蓝莓薄煎饼， 说 Biff。",
+          "startMs": 112130,
+          "endMs": 114510
+        },
+        {
+          "en": "\"I want eggs,\" said Kipper.",
+          "zh": "我想要鸡蛋， 说 Kipper。",
+          "startMs": 114510,
+          "endMs": 114710
+        },
+        {
+          "en": "\"Why not have a kipper, Kipper?\" Said Chip.",
+          "zh": "为什么不有一个 Kipper， Kipper？ 说 Chip。 哦！",
+          "startMs": 114710,
+          "endMs": 115760
+        },
+        {
+          "en": "\"Only if you have chips, Chip!\" Said Kipper.",
+          "zh": "只有如果你有 Chip， Chip！ 说 Kipper。 哦！",
+          "startMs": 115950,
+          "endMs": 120010
+        },
+        {
+          "en": "He said.",
+          "zh": "啊唷！ 她说。",
+          "startMs": 129850,
+          "endMs": 131200
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 112450,
+      "endMs": 131550
+    },
+    {
+      "sentences": [
+        {
+          "en": "At home, Dad told the children to start their jobs.",
+          "zh": "在家， 爸爸告诉这孩子们到开始他们的工作。",
+          "startMs": 131200,
+          "endMs": 131400
+        },
+        {
+          "en": "\"I'll put the shopping away,\" he said.",
+          "zh": "我会放这商店离开， 他说。",
+          "startMs": 134120,
+          "endMs": 136770
+        },
+        {
+          "en": "\"You go and tidy your rooms.",
+          "zh": "你去和整洁的你的房间。",
+          "startMs": 136770,
+          "endMs": 136970
+        },
+        {
+          "en": "That big breakfast should give you lots of energy.\"",
+          "zh": "那个大的早饭应该给你许多的活力。",
+          "startMs": 138600,
+          "endMs": 141530
+        },
+        {
+          "en": "\"Let's tie you up later,\" Said Chip.",
+          "zh": "让我们整洁的向上后来， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 149680,
+          "endMs": 153950
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 131550,
+      "endMs": 154300
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the mess.",
+          "zh": "这孩子们看在这脏乱。",
+          "startMs": 153980,
+          "endMs": 156360
+        },
+        {
+          "en": "\"I'm so full, I can't move!\"",
+          "zh": "我不能移动！",
+          "startMs": 156360,
+          "endMs": 156560
+        },
+        {
+          "en": "\"No chance of a walk then,\" thought Floppy.",
+          "zh": "不机会的一个走然后， 想 Floppy。",
+          "startMs": 159000,
+          "endMs": 163100
+        },
+        {
+          "en": "Just then, the magic key began to glow.",
+          "zh": "刚刚然后这魔法钥匙开始到光亮。",
+          "startMs": 163130,
+          "endMs": 167420
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 154300,
+      "endMs": 167770
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back in time.",
+          "zh": "这魔法拿他们回来在……里时间。",
+          "startMs": 175860,
+          "endMs": 192960
+        },
+        {
+          "en": "It took them to a big house.",
+          "zh": "它拿他们到一个大的房子。",
+          "startMs": 192990,
+          "endMs": 195780
+        },
+        {
+          "en": "It took them into a large hall with a big staircase.",
+          "zh": "它拿他们进入一个大的门厅和……一起一个大的楼梯。",
+          "startMs": 195930,
+          "endMs": 200330
+        },
+        {
+          "en": "\"It's still dark outside,\" said Biff.",
+          "zh": "它是仍然黑暗的外面， 说 Biff。 不， 说 Biff。",
+          "startMs": 201000,
+          "endMs": 209100
+        },
+        {
+          "en": "A bell began to ring.",
+          "zh": "一个铃开始到戒指。",
+          "startMs": 209130,
+          "endMs": 215160
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 175710,
+      "endMs": 215510
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a door opened.",
+          "zh": "突然地， 一个门打开。",
+          "startMs": 215860,
+          "endMs": 220180
+        },
+        {
+          "en": "A little girl came in.",
+          "zh": "一个小的女孩来在……里。",
+          "startMs": 220210,
+          "endMs": 222260
+        },
+        {
+          "en": "She was holding a candle.",
+          "zh": "她是拿着一个蜡烛。",
+          "startMs": 222290,
+          "endMs": 224950
+        },
+        {
+          "en": "\"I'm Rose.",
+          "zh": "我是 Rose。",
+          "startMs": 226000,
+          "endMs": 227330
+        },
+        {
+          "en": "You must be the new servants.",
+          "zh": "你必须是这新的用人。",
+          "startMs": 228470,
+          "endMs": 230430
+        },
+        {
+          "en": "The housekeeper will see you now.",
+          "zh": "这管家将看见你现在。",
+          "startMs": 230460,
+          "endMs": 233610
+        },
+        {
+          "en": "Follow me,\" She said.",
+          "zh": "跟随我， 她说。 啊唷！",
+          "startMs": 233640,
+          "endMs": 235510
+        },
+        {
+          "en": "\"You are late,\" She said sternly.",
+          "zh": "你是冷的和湿的。 你是晚的， 她说， 严厉地。",
+          "startMs": 259000,
+          "endMs": 259100
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 215710,
+      "endMs": 259450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rose took them down a corridor into a large storeroom.",
+          "zh": "Rose 拿他们向下一个走廊进入一个大的储藏室。",
+          "startMs": 259130,
+          "endMs": 262830
+        },
+        {
+          "en": "The housekeeper was waiting for them.",
+          "zh": "这管家是等为了他们。",
+          "startMs": 262830,
+          "endMs": 263030
+        },
+        {
+          "en": "\"There are lots of jobs to be done.\" She said.",
+          "zh": "那里是许多的工作到是做完。 啊唷！ 她说。",
+          "startMs": 263030,
+          "endMs": 263230
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 259450,
+      "endMs": 263580
+    },
+    {
+      "sentences": [
+        {
+          "en": "She gave the children lists of jobs.",
+          "zh": "她给这孩子们名单的工作。",
+          "startMs": 263230,
+          "endMs": 263430
+        },
+        {
+          "en": "\"Begin with the cleaning,\" she said.",
+          "zh": "开始和……一起这打扫， 她说。",
+          "startMs": 263430,
+          "endMs": 263630
+        },
+        {
+          "en": "\"It has to be done before breakfast.",
+          "zh": "它有到是做完在……之前早饭。",
+          "startMs": 264420,
+          "endMs": 268660
+        },
+        {
+          "en": "I see you have brought a dog.",
+          "zh": "我看见你有带来一个狗。",
+          "startMs": 268850,
+          "endMs": 271930
+        },
+        {
+          "en": "Good.\" \"This is Mrs. Fry,\" Said Rose.",
+          "zh": "好的。 这个是太太油煎， 说 Rose。",
+          "startMs": 278470,
+          "endMs": 283360
+        },
+        {
+          "en": "\"Hello,\" Said Mrs. Rose took them to a large kitchen.",
+          "zh": "帮助！ Biff， 说太太梅。",
+          "startMs": 283390,
+          "endMs": 286410
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 263580,
+      "endMs": 286760
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"She's the cook.\" Fry.",
+          "zh": "她是这做饭。 太太油煎。",
+          "startMs": 286410,
+          "endMs": 287220
+        },
+        {
+          "en": "\"I see you have brought a dog.",
+          "zh": "我看见你有带来一个狗。",
+          "startMs": 292080,
+          "endMs": 294340
+        },
+        {
+          "en": "Good.\" Mrs. \"Why is everyone pleased that we have brought a dog?\" Asked Chip.",
+          "zh": "好的。 太太油煎。",
+          "startMs": 294370,
+          "endMs": 306720
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 286760,
+      "endMs": 307070
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mrs Fry pointed at a wooden wheel.",
+          "zh": "太太油煎尖的在一个木制的车轮。",
+          "startMs": 306720,
+          "endMs": 306920
+        },
+        {
+          "en": "\"Put your dog in here,\" she said.",
+          "zh": "放你的狗在……里这里， 她说。",
+          "startMs": 306920,
+          "endMs": 307830
+        },
+        {
+          "en": "\"I may not like this,\" thought Floppy.",
+          "zh": "我梅不喜欢这个， 想 Floppy。",
+          "startMs": 309000,
+          "endMs": 310780
+        },
+        {
+          "en": "Thought Floppy. Said Rose.",
+          "zh": "哦不！ 想 Floppy。 一个休息？ 说 Rose。",
+          "startMs": 310780,
+          "endMs": 329380
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 307070,
+      "endMs": 329730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rose put Floppy inside the wheel.",
+          "zh": "Floppy 里面这车轮。",
+          "startMs": 329410,
+          "endMs": 331790
+        },
+        {
+          "en": "\"The wheel turns the meat over the fire,\" said Rose.",
+          "zh": "这车轮转动这肉在……上方这火， 说 Rose。",
+          "startMs": 331790,
+          "endMs": 331990
+        },
+        {
+          "en": "\"It stops the meat burning.\"",
+          "zh": "它停这肉烧。",
+          "startMs": 331990,
+          "endMs": 332190
+        },
+        {
+          "en": "\"You look like a giant hamster,\" laughed Kipper.",
+          "zh": "你看喜欢一个巨人仓鼠， 笑 Kipper。 哦！ 说 Kipper。",
+          "startMs": 335000,
+          "endMs": 342100
+        },
+        {
+          "en": "\"Now we must hurry.",
+          "zh": "现在， 哪里那个肤色？",
+          "startMs": 343100,
+          "endMs": 344960
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 329730,
+      "endMs": 345310
+    },
+    {
+      "sentences": [
+        {
+          "en": "There's so much to do,\" Said Rose.",
+          "zh": "有远也许多到做。 一个休息？ 说 Rose。",
+          "startMs": 344990,
+          "endMs": 347710
+        },
+        {
+          "en": "\"Lord Plum will be up soon.",
+          "zh": "君主李子将是向上很快。",
+          "startMs": 347740,
+          "endMs": 350030
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 345310,
+      "endMs": 350380
+    },
+    {
+      "sentences": [
+        {
+          "en": "We must finish the jobs.",
+          "zh": "我已经结束了的这海报。",
+          "startMs": 350060,
+          "endMs": 351980
+        },
+        {
+          "en": "Then we can get his breakfast ready.\" Mrs Fry put the meat on the spit.",
+          "zh": "我们必须结束这工作， 然后我们能得到他的早饭准备好的。 太太油煎。",
+          "startMs": 352470,
+          "endMs": 362820
+        },
+        {
+          "en": "\"We need this for Lord Plum's breakfast.\"",
+          "zh": "我们必须这个为了君主李子早饭。",
+          "startMs": 364130,
+          "endMs": 369950
+        },
+        {
+          "en": "She looked at Floppy.",
+          "zh": "她看在 Floppy。",
+          "startMs": 370410,
+          "endMs": 374100
+        },
+        {
+          "en": "\"Keep walking and don't stop!\" She said.",
+          "zh": "保持走和不停！ 她说。 啊唷！",
+          "startMs": 374100,
+          "endMs": 375100
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 350380,
+      "endMs": 375450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hm, funny way to get a walk,\" Thought Floppy.",
+          "zh": "有趣的方式到得到一个走， 想 Floppy。 哦不！ 想 Floppy。",
+          "startMs": 375960,
+          "endMs": 380020
+        },
+        {
+          "en": "\"What else is for breakfast?\" Asked Biff.",
+          "zh": "什么其他是为了早饭？ 问 Biff。 谁是你？ 问 Biff。",
+          "startMs": 389000,
+          "endMs": 391100
+        },
+        {
+          "en": "\"Kippers, oyster bread, beetroot pancakes, ale and ice-cream.",
+          "zh": "Kipper， 牡蛎面包， 红甜菜根薄煎饼， 艾尔啤酒和冰激凌。",
+          "startMs": 391860,
+          "endMs": 397080
+        },
+        {
+          "en": "Nothing too fancy,\" said Rose.",
+          "zh": "没有什么也想要， 说 Rose。 一个休息？ 说 Rose。",
+          "startMs": 397110,
+          "endMs": 400100
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 375810,
+      "endMs": 400450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'll get ready.",
+          "zh": "T'll 得到它准备好的。",
+          "startMs": 400130,
+          "endMs": 401960
+        },
+        {
+          "en": "You get on with the jobs on the list.\"",
+          "zh": "你得到在……上和……一起这工作在……上这名单。",
+          "startMs": 401990,
+          "endMs": 404170
+        },
+        {
+          "en": "Biff had to scrub the clothes clean.",
+          "zh": "Biff 有到擦洗这衣服打扫。",
+          "startMs": 405860,
+          "endMs": 412360
+        },
+        {
+          "en": "She beat the rugs.",
+          "zh": "她击打这小地毯。",
+          "startMs": 414900,
+          "endMs": 419000
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 400450,
+      "endMs": 419350
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then, she had to make some bread...",
+          "zh": "然后， 她有到做一些面包。。。 和放粉末在……上一些假发。",
+          "startMs": 422860,
+          "endMs": 425860
+        },
+        {
+          "en": "And put powder on some wigs.",
+          "zh": "然后， 她有到做一些面包。。。 和放粉末在……上一些假发。",
+          "startMs": 428860,
+          "endMs": 432960
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 422710,
+      "endMs": 433310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip had to clean all the fireplaces.",
+          "zh": "Chip 有到打扫全部这壁炉。",
+          "startMs": 436860,
+          "endMs": 442840
+        },
+        {
+          "en": "Then, he had to collect a lot of coal.",
+          "zh": "然后， 他有到收集一个许多的煤。",
+          "startMs": 446860,
+          "endMs": 450960
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 436710,
+      "endMs": 451310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next, he had to polish the silver...",
+          "zh": "下一个， 他有到上光剂这银。。。 和上光剂全部这靴子。",
+          "startMs": 453860,
+          "endMs": 458160
+        },
+        {
+          "en": "And polish all the boots.",
+          "zh": "下一个， 他有到上光剂这银。。。 和上光剂全部这靴子。",
+          "startMs": 458860,
+          "endMs": 463960
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 453710,
+      "endMs": 464310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper churned milk to make butter.",
+          "zh": "Kipper 搅乳器牛奶到做黄油。",
+          "startMs": 470860,
+          "endMs": 472960
+        },
+        {
+          "en": "He got ice cream from the ice house.",
+          "zh": "他得到冰奶油从这 icehouse。",
+          "startMs": 476860,
+          "endMs": 479960
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 470710,
+      "endMs": 480310
+    },
+    {
+      "sentences": [
+        {
+          "en": "He had to carry water to the bathrooms...",
+          "zh": "他有到搬运水到这浴室。。。 和擦洗全部这地板。",
+          "startMs": 483860,
+          "endMs": 490960
+        },
+        {
+          "en": "And scrub all the floors.",
+          "zh": "Nadim 叫这其他。",
+          "startMs": 490990,
+          "endMs": 494100
+        },
+        {
+          "en": "\"Come quickly,\" said Rose.",
+          "zh": "来快速地， 说 Rose。",
+          "startMs": 501860,
+          "endMs": 518220
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 483710,
+      "endMs": 518570
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The food is ready.",
+          "zh": "这食物是准备好的。",
+          "startMs": 518220,
+          "endMs": 518420
+        },
+        {
+          "en": "We must take it to the dining room.\" \"There's a newspaper,\" Said Mrs. Fry.",
+          "zh": "我们必须拿它到这进餐房间。 有一个龙在……里这她！ Biff， 说太太梅。",
+          "startMs": 518420,
+          "endMs": 524650
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 518570,
+      "endMs": 525000
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put out the dishes on a big table.",
+          "zh": "这孩子们放出这盘子在……上一个大的桌子。",
+          "startMs": 524680,
+          "endMs": 528380
+        },
+        {
+          "en": "\"Hurry up,\" \"Lord Plum will be down soon.",
+          "zh": "急忙向上， 他说。",
+          "startMs": 535050,
+          "endMs": 538310
+        },
+        {
+          "en": "He won't want to see you in here.\"",
+          "zh": "他不会想要到看见你在……里这里。",
+          "startMs": 538340,
+          "endMs": 541380
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 525000,
+      "endMs": 541730
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No!\" said the housekeeper.",
+          "zh": "不！ 说这管家。",
+          "startMs": 551600,
+          "endMs": 552930
+        },
+        {
+          "en": "At last, breakfast was finished.",
+          "zh": "在最后的， 早饭是结束了的。",
+          "startMs": 552960,
+          "endMs": 555010
+        },
+        {
+          "en": "\"Was Lord Plum happy with his breakfast?\" Asked Kipper.",
+          "zh": "是君主李子快乐的和……一起他的早饭？ 问 Kipper。 我们能， 说 Kipper。",
+          "startMs": 555010,
+          "endMs": 555210
+        },
+        {
+          "en": "\"No!\" Said the housekeeper.",
+          "zh": "哦不！ 不！ 说这管家。",
+          "startMs": 555210,
+          "endMs": 555410
+        },
+        {
+          "en": "\"You forgot to iron his newspaper!\" \"I've worn out,\" Said Kipper.",
+          "zh": "你忘记到铁他的报纸！ 我是穿出， 说 Kipper。 哦！ 说 Kipper。",
+          "startMs": 555410,
+          "endMs": 561730
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 551450,
+      "endMs": 562080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I never want another walk,\" said Floppy.",
+          "zh": "我从不想要另一个走， 说 Floppy。 哦不！ 说 Floppy。",
+          "startMs": 562210,
+          "endMs": 568030
+        },
+        {
+          "en": "\"At least we can have a rest now,\" said Chip.",
+          "zh": "在最小的我们能有一个休息现在， 说 Chip。",
+          "startMs": 568060,
+          "endMs": 574410
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 562080,
+      "endMs": 574760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Chip. \"A rest?\" Said Rose.",
+          "zh": "哦！ 说 Chip。 氩。 一个休息？",
+          "startMs": 574440,
+          "endMs": 579690
+        },
+        {
+          "en": "\"We have to start getting ready for lunch!\"",
+          "zh": "我们有到开始得到准备好的为了午餐！",
+          "startMs": 579720,
+          "endMs": 583370
+        },
+        {
+          "en": "Suddenly, the magic key began to glow.",
+          "zh": "突然地， 这魔法钥匙开始到光亮。",
+          "startMs": 588000,
+          "endMs": 589100
+        },
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 589130,
+          "endMs": 591960
+        },
+        {
+          "en": "\"What a relief!\" Said Biff.",
+          "zh": "什么一个解脱！ 说 Biff。",
+          "startMs": 593000,
+          "endMs": 599090
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 574760,
+      "endMs": 599440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That was hard work,\" said Biff.",
+          "zh": "那个是困难的工作， 说 Biff。 不， 说 Biff。",
+          "startMs": 599120,
+          "endMs": 606100
+        },
+        {
+          "en": "Dad came into Biff's room.",
+          "zh": "爸爸来进入 Biff 房间。",
+          "startMs": 606130,
+          "endMs": 608200
+        },
+        {
+          "en": "\"Hurry up,\" He said.",
+          "zh": "急忙向上， 他说。 啊唷！",
+          "startMs": 609000,
+          "endMs": 612700
+        },
+        {
+          "en": "\"We've still got lots of jobs to do.",
+          "zh": "我们已经仍然得到许多的工作到做。",
+          "startMs": 613990,
+          "endMs": 616470
+        },
+        {
+          "en": "Then we have to walk Floppy.\" \"Oh no!\" Said everyone.",
+          "zh": "然后我们有到走 Floppy。 哦不！ Gran， 说每个人。",
+          "startMs": 618180,
+          "endMs": 625100
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 599440,
+      "endMs": 625450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Early next morning, the children made Mum a surprise breakfast.",
+          "zh": "妈妈一个意想不到的事物早饭。",
+          "startMs": 625860,
+          "endMs": 632060
+        },
+        {
+          "en": "\"What a big breakfast!\" Said Mum.",
+          "zh": "什么一个大的早饭！ 说妈妈。 Kipper， 说妈妈。",
+          "startMs": 632090,
+          "endMs": 635550
+        },
+        {
+          "en": "\"You have gone to so much trouble.\"",
+          "zh": "你有去了到所以许多问题。",
+          "startMs": 636640,
+          "endMs": 639410
+        },
+        {
+          "en": "\"It was nothing,\" said Biff.",
+          "zh": "它是没有什么， 说 Biff。 不， 说 Biff。",
+          "startMs": 640000,
+          "endMs": 654302
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 625710,
+      "endMs": 654652
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 654652,
+      "endMs": 654653
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 654653,
+      "endMs": 654654
+    }
+  ]
+}

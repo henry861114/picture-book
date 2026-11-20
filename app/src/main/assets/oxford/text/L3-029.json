@@ -1,0 +1,213 @@
+{
+  "id": "L3-029",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip went to the zoo.",
+          "zh": "核去到这动物园。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip's dad was a zoo-keeper.",
+          "zh": "核爸爸是一个动物园饲养员。",
+          "startMs": 6000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 12450
+    },
+    {
+      "sentences": [
+        {
+          "en": "MONKEYS ELEPHANTS Pip helped her dad.",
+          "zh": "猴子大象核帮助她爸爸。",
+          "startMs": 12000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip gave the deer some food.",
+          "zh": "核给这鹿一些食物。",
+          "startMs": 18000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 17850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip gave the deer some food.",
+          "zh": "核给这鹿一些食物。",
+          "startMs": 18000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 17850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [],
+      "startMs": 23740,
+      "endMs": 24540,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The deer pushed Pip over.",
+          "zh": "这鹿推核在……上方。",
+          "startMs": 24020,
+          "endMs": 32100
+        }
+      ],
+      "startMs": 23870,
+      "endMs": 32450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip gave the monkeys some bananas.",
+          "zh": "核给这猴子一些香蕉。",
+          "startMs": 32000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 31850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A monkey took Pip's hat.",
+          "zh": "一个猴子拿核帽子。",
+          "startMs": 38000,
+          "endMs": 45100
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 45450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip gave the elephants some water.",
+          "zh": "核给这大象一些水。",
+          "startMs": 32000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 31850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elephant took Pip's sweets.",
+          "zh": "这大象拿核含糖的。",
+          "startMs": 50020,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 49870,
+      "endMs": 57450
+    },
+    {
+      "sentences": [],
+      "startMs": 55320,
+      "endMs": 56120,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Pip gave the parrots some fruit.",
+          "zh": "核给这鹦鹉一些水果。",
+          "startMs": 57000,
+          "endMs": 62100
+        },
+        {
+          "en": "A parrot pecked her finger.",
+          "zh": "一个鹦鹉啄她手指。",
+          "startMs": 62000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 56850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Do you want to feed the crocodiles?\"",
+          "zh": "做你想要到给这鳄鱼？",
+          "startMs": 69000,
+          "endMs": 76100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 76450
+    },
+    {
+      "sentences": [],
+      "startMs": 74010,
+      "endMs": 74810,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "No thanks,\" said Pip.",
+          "zh": "不谢谢， 说核。",
+          "startMs": 76020,
+          "endMs": 81975
+        }
+      ],
+      "startMs": 75870,
+      "endMs": 81975
+    },
+    {
+      "sentences": [
+        {
+          "en": "No thanks, said Pip.",
+          "zh": "不谢谢， 说核。",
+          "startMs": 76020,
+          "endMs": 81975
+        }
+      ],
+      "startMs": 75870,
+      "endMs": 81975
+    },
+    {
+      "sentences": [],
+      "startMs": 80380,
+      "endMs": 81975,
+      "illustrationOnly": true
+    }
+  ]
+}

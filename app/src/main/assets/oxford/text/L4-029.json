@@ -1,0 +1,435 @@
+{
+  "id": "L4-029",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the park.",
+          "zh": "这孩子们去到这公园。",
+          "startMs": 0,
+          "endMs": 5060
+        },
+        {
+          "en": "They went with Mum and Dad.",
+          "zh": "他们去和……一起妈妈和爸爸。",
+          "startMs": 4960,
+          "endMs": 11060
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11410
+    },
+    {
+      "sentences": [],
+      "startMs": 10500,
+      "endMs": 11300,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip saw a rope.",
+          "zh": "Chip 看见一个绳索。",
+          "startMs": 19660,
+          "endMs": 21060
+        },
+        {
+          "en": "It was by a tree.",
+          "zh": "它是由一个树。",
+          "startMs": 20960,
+          "endMs": 27060
+        }
+      ],
+      "startMs": 19510,
+      "endMs": 27410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有一个主意。",
+          "startMs": 26960,
+          "endMs": 29060
+        },
+        {
+          "en": "\"We can skip,\" he said.",
+          "zh": "我们能蹦蹦跳跳地走， 他说。",
+          "startMs": 28990,
+          "endMs": 32060
+        }
+      ],
+      "startMs": 26810,
+      "endMs": 32410
+    },
+    {
+      "sentences": [
+        {
+          "en": "He tied the rope to the tree.",
+          "zh": "他租给雇工的这绳索到这树。",
+          "startMs": 31960,
+          "endMs": 36710
+        }
+      ],
+      "startMs": 31810,
+      "endMs": 37060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad and the children began to skip.",
+          "zh": "爸爸和这孩子们开始到蹦蹦跳跳地走。",
+          "startMs": 21000,
+          "endMs": 25953
+        },
+        {
+          "en": "\"Go on, jump!\" said Mum.",
+          "zh": "去在……上， 跳！ 说妈妈。",
+          "startMs": 25953,
+          "endMs": 29350
+        }
+      ],
+      "startMs": 21000,
+      "endMs": 29350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Jump!",
+          "zh": "跳！",
+          "startMs": 29350,
+          "endMs": 30017
+        },
+        {
+          "en": "Jump!",
+          "zh": "跳！",
+          "startMs": 30017,
+          "endMs": 30574
+        },
+        {
+          "en": "Jump!\"",
+          "zh": "跳！",
+          "startMs": 30574,
+          "endMs": 31241
+        }
+      ],
+      "startMs": 29350,
+      "endMs": 31241
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all jumped.",
+          "zh": "他们全部跳。",
+          "startMs": 31241,
+          "endMs": 33991
+        },
+        {
+          "en": "They jumped too soon.",
+          "zh": "他们跳也很快。",
+          "startMs": 33991,
+          "endMs": 37600
+        }
+      ],
+      "startMs": 31241,
+      "endMs": 37600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Whoops!",
+          "zh": "哎哟！",
+          "startMs": 37600,
+          "endMs": 38268
+        },
+        {
+          "en": "They all fell over.",
+          "zh": "他们全部落下在……上方。",
+          "startMs": 38268,
+          "endMs": 40080
+        }
+      ],
+      "startMs": 37600,
+      "endMs": 40080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum had an idea.",
+          "zh": "妈妈有一个主意。",
+          "startMs": 27560,
+          "endMs": 29060
+        }
+      ],
+      "startMs": 27410,
+      "endMs": 29410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's have a tug of war,\" she said.",
+          "zh": "让我们有一个拉的战争， 她说。",
+          "startMs": 41741,
+          "endMs": 44120
+        }
+      ],
+      "startMs": 41741,
+      "endMs": 44120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad threw the rope over the stream.",
+          "zh": "爸爸扔这绳索在……上方这溪流。",
+          "startMs": 34210,
+          "endMs": 66060
+        }
+      ],
+      "startMs": 34060,
+      "endMs": 66410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went over the bridge.",
+          "zh": "妈妈去在……上方这桥梁。",
+          "startMs": 50944,
+          "endMs": 54220
+        }
+      ],
+      "startMs": 50944,
+      "endMs": 54220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children began to pull.",
+          "zh": "这孩子们开始到拉。",
+          "startMs": 41660,
+          "endMs": 43360
+        }
+      ],
+      "startMs": 41510,
+      "endMs": 43710
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad began to pull.",
+          "zh": "妈妈和爸爸开始到拉。",
+          "startMs": 57685,
+          "endMs": 62900
+        }
+      ],
+      "startMs": 57685,
+      "endMs": 62900
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf, and he let go.",
+          "zh": "Wilf， 和他让去。",
+          "startMs": 62900,
+          "endMs": 63700
+        }
+      ],
+      "startMs": 62900,
+      "endMs": 63700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad pulled and pulled.",
+          "zh": "妈妈和爸爸拉和拉。",
+          "startMs": 63700,
+          "endMs": 67537
+        }
+      ],
+      "startMs": 63700,
+      "endMs": 67537
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma, and she let go.",
+          "zh": "Wilma， 和她让去。",
+          "startMs": 67537,
+          "endMs": 72330
+        }
+      ],
+      "startMs": 67537,
+      "endMs": 72330
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad pulled and pulled.",
+          "zh": "妈妈和爸爸拉和拉。",
+          "startMs": 72330,
+          "endMs": 74277
+        }
+      ],
+      "startMs": 72330,
+      "endMs": 74277
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip, and they let go.",
+          "zh": "Biff 和 Chip， 和他们让去。",
+          "startMs": 74277,
+          "endMs": 78296
+        }
+      ],
+      "startMs": 74277,
+      "endMs": 78296
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Pull, Dad!\" called Wilma.",
+          "zh": "拉， 爸爸！ 叫 Wilma。",
+          "startMs": 78296,
+          "endMs": 81666
+        }
+      ],
+      "startMs": 78296,
+      "endMs": 81666
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Easy,\" said Kipper.",
+          "zh": "容易的， 说 Kipper。",
+          "startMs": 81666,
+          "endMs": 84338
+        },
+        {
+          "en": "\"Look at me.\"",
+          "zh": "看在我。",
+          "startMs": 84338,
+          "endMs": 86074
+        }
+      ],
+      "startMs": 81666,
+      "endMs": 86074
+    },
+    {
+      "sentences": [
+        {
+          "en": "He pulled Mum and Dad into the stream.",
+          "zh": "他拉妈妈和爸爸进入这溪流。",
+          "startMs": 86074,
+          "endMs": 92170
+        }
+      ],
+      "startMs": 86074,
+      "endMs": 92170
+    },
+    {
+      "sentences": [],
+      "startMs": 92170,
+      "endMs": 92970,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who said it?",
+          "zh": "谁说它？",
+          "startMs": 92970,
+          "endMs": 94514
+        },
+        {
+          "en": "To help the child understand who was speaking in the story.",
+          "zh": "到帮助这孩子理解谁是说在……里这故事。",
+          "startMs": 94514,
+          "endMs": 102104
+        },
+        {
+          "en": "• Ask the child how we know when someone starts to speak in a story.",
+          "zh": "• 问这孩子如何我们知道当……时某人开始到说在……里一个故事。",
+          "startMs": 102104,
+          "endMs": 110853
+        },
+        {
+          "en": "Can he/she find a page with speech marks?",
+          "zh": "能他/她找到一个页和……一起说话能力斑点？",
+          "startMs": 110853,
+          "endMs": 116128
+        },
+        {
+          "en": "• Choose any page where someone speaks.",
+          "zh": "• 选择任何页哪里某人说。",
+          "startMs": 116128,
+          "endMs": 121145
+        },
+        {
+          "en": "Ask the child who said it.",
+          "zh": "问这孩子谁说它。",
+          "startMs": 121145,
+          "endMs": 124490
+        },
+        {
+          "en": "• The child then reads something someone said and you have to find the page and say who said it.",
+          "zh": "• 这孩子然后读某物某人说和你有到找到这页和说谁说它。",
+          "startMs": 124490,
+          "endMs": 136841
+        },
+        {
+          "en": "• Have two or three turns each.",
+          "zh": "• 有二或者三转动每个。",
+          "startMs": 136841,
+          "endMs": 140829
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 140829,
+          "endMs": 148162
+        },
+        {
+          "en": "• Look through the book and find words with three letters.",
+          "zh": "• 看穿过这书和找到单词和……一起三信。",
+          "startMs": 148162,
+          "endMs": 155624
+        },
+        {
+          "en": "Ask the child if he/she can spell 'and\", 'the', 'dad', 'had\" , etc.",
+          "zh": "问这孩子如果他/她能咒语 '和， '这'， '爸爸'， '有， etc。",
+          "startMs": 155624,
+          "endMs": 164244
+        },
+        {
+          "en": "Give praise for correct spelling.",
+          "zh": "给称赞为了正确的拼写。",
+          "startMs": 164244,
+          "endMs": 168490
+        },
+        {
+          "en": "If possible, teach the child to skip.",
+          "zh": "如果能做到的， 教这孩子到蹦蹦跳跳地走。",
+          "startMs": 168490,
+          "endMs": 173250
+        }
+      ],
+      "startMs": 92970,
+      "endMs": 173250
+    },
+    {
+      "sentences": [],
+      "startMs": 173250,
+      "endMs": 173702,
+      "illustrationOnly": true
+    }
+  ]
+}

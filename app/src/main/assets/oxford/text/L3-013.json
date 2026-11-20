@@ -1,0 +1,279 @@
+{
+  "id": "L3-013",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children put on a circus.",
+          "zh": "这孩子们放在……上一个马戏。",
+          "startMs": 0,
+          "endMs": 5100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 5450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was a clown.",
+          "zh": "Kipper 是一个小丑。",
+          "startMs": 10000,
+          "endMs": 10150
+        }
+      ],
+      "startMs": 9850,
+      "endMs": 10500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy pulled his leg.",
+          "zh": "Floppy 拉他的腿。",
+          "startMs": 10000,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 9850,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was a strong-man.",
+          "zh": "Chip 是一个 strong-man。",
+          "startMs": 23000,
+          "endMs": 25100
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 25450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He made everyone laugh.",
+          "zh": "他做每个人笑。",
+          "startMs": 11940,
+          "endMs": 13793
+        }
+      ],
+      "startMs": 11940,
+      "endMs": 13793
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Biff did gymnastics.",
+          "zh": "Wilma 和 Biff 做体操。",
+          "startMs": 13793,
+          "endMs": 17381
+        }
+      ],
+      "startMs": 13793,
+      "endMs": 17381
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilma) Amazing.",
+          "zh": "Biff 和 Wilma) 使人十分惊奇的。",
+          "startMs": 17381,
+          "endMs": 19364
+        },
+        {
+          "en": "• Gymnasts",
+          "zh": "• 体操运动员",
+          "startMs": 19364,
+          "endMs": 20190
+        }
+      ],
+      "startMs": 17381,
+      "endMs": 20190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone had a drink.",
+          "zh": "每个人有一个喝。",
+          "startMs": 20190,
+          "endMs": 22990
+        }
+      ],
+      "startMs": 20190,
+      "endMs": 22990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a good circus!\" said Mum.",
+          "zh": "什么一个好的马戏！ 说妈妈。",
+          "startMs": 22990,
+          "endMs": 26620
+        }
+      ],
+      "startMs": 22990,
+      "endMs": 26620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was a stuntman.",
+          "zh": "Wilf 是一个特技替身演员。",
+          "startMs": 23000,
+          "endMs": 23150
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 23500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was fed up.",
+          "zh": "Kipper 是 fed 向上。",
+          "startMs": 30178,
+          "endMs": 32330
+        }
+      ],
+      "startMs": 30178,
+      "endMs": 32330
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wanted to be a stuntman.",
+          "zh": "他想要到是一个特技替身演员。",
+          "startMs": 32330,
+          "endMs": 35559
+        }
+      ],
+      "startMs": 32330,
+      "endMs": 35559
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me!\" he said.",
+          "zh": "看在我！ 他说。",
+          "startMs": 30000,
+          "endMs": 51270
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 51620
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at Kipper.",
+          "zh": "每个人看在 Kipper。",
+          "startMs": 38740,
+          "endMs": 43390
+        }
+      ],
+      "startMs": 38740,
+      "endMs": 43390
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was a strong man.",
+          "zh": "Chip 是一个强壮的男人。",
+          "startMs": 57410,
+          "endMs": 57920
+        }
+      ],
+      "startMs": 57260,
+      "endMs": 58270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm a clown, after all,\" said Kipper.",
+          "zh": "我是一个小丑， 在……之后全部， 说 Kipper。",
+          "startMs": 44190,
+          "endMs": 48475
+        }
+      ],
+      "startMs": 44190,
+      "endMs": 48475
+    },
+    {
+      "sentences": [
+        {
+          "en": "Who was it?",
+          "zh": "谁是它？",
+          "startMs": 48475,
+          "endMs": 49773
+        },
+        {
+          "en": "To help remember events in the story.",
+          "zh": "到帮助记得事件在……里这故事。",
+          "startMs": 49773,
+          "endMs": 54139
+        },
+        {
+          "en": "• Mime one thing that happened in the circus, e. riding a bike.",
+          "zh": "• 哑剧艺术一东西那个发生在……里这马戏， 呃。 骑一个自行车。",
+          "startMs": 54139,
+          "endMs": 61573
+        },
+        {
+          "en": "Who did the activity?\"",
+          "zh": "谁做这活跃？",
+          "startMs": 61573,
+          "endMs": 64169
+        },
+        {
+          "en": "• Check the answer by looking at the book.",
+          "zh": "• 查明这回答由看在这书。",
+          "startMs": 64169,
+          "endMs": 69125
+        },
+        {
+          "en": "Ask the child to mime an action for you to guess.",
+          "zh": "问这孩子到哑剧艺术一个行动为了你到猜测。",
+          "startMs": 69125,
+          "endMs": 74907
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 74907,
+          "endMs": 81632
+        },
+        {
+          "en": "• Think of other words where 'c' sounds like 's' ('ice', 'circle', 'centre', 'celebrate', 'cinema, 'city\", 'cereal').",
+          "zh": "• 想的其他单词哪里 '第三' 声音喜欢 '南美洲' ('冰'， '圆'， '正中'， '庆祝'， '电影院， '城市， '谷物')。",
+          "startMs": 81632,
+          "endMs": 95438
+        },
+        {
+          "en": "• Encourage the child to practise a dance or other skill, then perform it.",
+          "zh": "• 鼓励这孩子到练习一个跳舞或者其他能力， 然后做它。",
+          "startMs": 95438,
+          "endMs": 104170
+        }
+      ],
+      "startMs": 48475,
+      "endMs": 104170
+    },
+    {
+      "sentences": [],
+      "startMs": 104170,
+      "endMs": 106000,
+      "illustrationOnly": true
+    }
+  ]
+}

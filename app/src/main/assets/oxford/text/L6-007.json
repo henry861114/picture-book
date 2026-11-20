@@ -1,0 +1,826 @@
+{
+  "id": "L6-007",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.5051,
+        0.4654
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip went to stay with Gran.",
+          "zh": "Biff 和 Chip 去 Gran 家住了。",
+          "startMs": 3860,
+          "endMs": 9620
+        },
+        {
+          "en": "They went to stay for a week.",
+          "zh": "他们去住了一个星期。",
+          "startMs": 9650,
+          "endMs": 10070
+        },
+        {
+          "en": "\"Be good,\" Called Mum.",
+          "zh": "“乖乖的，” 妈妈叮嘱道。",
+          "startMs": 12070,
+          "endMs": 15970
+        },
+        {
+          "en": "\"Don't worry,\" Said Gran.",
+          "zh": "“别担心，” Gran 说道。",
+          "startMs": 16000,
+          "endMs": 16940
+        },
+        {
+          "en": "\"I will.\"",
+          "zh": "“我会的。”",
+          "startMs": 16970,
+          "endMs": 18750
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.5051,
+        0.0,
+        1.0,
+        0.4654
+      ],
+      "startMs": 3710,
+      "endMs": 19100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran's house was small.",
+          "zh": "Gran 的房子很小。",
+          "startMs": 30500,
+          "endMs": 32310
+        },
+        {
+          "en": "It had two bedrooms.",
+          "zh": "房子里有两间卧室。",
+          "startMs": 32340,
+          "endMs": 34050
+        },
+        {
+          "en": "Biff and Chip had to sleep in the same bedroom.",
+          "zh": "Biff 和 Chip 不得不睡在同一间卧室里。",
+          "startMs": 34080,
+          "endMs": 37680
+        },
+        {
+          "en": "It had two Biff wanted the bed by the door.",
+          "zh": "Biff 想要睡门边的床。",
+          "startMs": 37970,
+          "endMs": 40070
+        },
+        {
+          "en": "Chip wanted the bed by the window.",
+          "zh": "Chip 想要睡靠窗的床。",
+          "startMs": 40830,
+          "endMs": 45610
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4654,
+        1.0,
+        1.0
+      ],
+      "startMs": 30350,
+      "endMs": 45960
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4599
+      ],
+      "startMs": 45960,
+      "endMs": 45961
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That's good,\" Said Gran.",
+          "zh": "“那太好了。” Gran 说道。",
+          "startMs": 45610,
+          "endMs": 47070
+        },
+        {
+          "en": "Gran took Biff and Chip for a walk.",
+          "zh": "Gran 带着 Biff 和 Chip 去散步。",
+          "startMs": 55410,
+          "endMs": 57870
+        },
+        {
+          "en": "She They went to the woods.",
+          "zh": "她他们去到这木头。",
+          "startMs": 58470,
+          "endMs": 61050
+        },
+        {
+          "en": "Biff saw some blackberries.",
+          "zh": "Biff 看到了一些黑莓。",
+          "startMs": 61080,
+          "endMs": 63190
+        },
+        {
+          "en": "She wanted to pick some.",
+          "zh": "她想摘一些。",
+          "startMs": 63220,
+          "endMs": 65070
+        },
+        {
+          "en": "Gran had some plastic bags.",
+          "zh": "Gran 带了一些塑料袋。",
+          "startMs": 65970,
+          "endMs": 68000
+        },
+        {
+          "en": "She wanted to gave one to Biff and Chip.",
+          "zh": "她想要到给一到 Biff 和 Chip。",
+          "startMs": 68030,
+          "endMs": 71070
+        },
+        {
+          "en": "\"We can make some blackberry jam,\" Jam,\" she said.",
+          "zh": "“我们可以做一些黑莓酱。” 她说。",
+          "startMs": 71970,
+          "endMs": 75070
+        },
+        {
+          "en": "Gran made the blackberry jam.",
+          "zh": "Gran 做了黑莓酱。",
+          "startMs": 79970,
+          "endMs": 83870
+        },
+        {
+          "en": "Biff and Chip helped.",
+          "zh": "Biff 和 Chip 帮忙。",
+          "startMs": 83900,
+          "endMs": 84370
+        },
+        {
+          "en": "Chip made some labels and Biff licked the spoon.",
+          "zh": "Chip 做了些标签，Biff 舔了舔勺子。",
+          "startMs": 87830,
+          "endMs": 92650
+        },
+        {
+          "en": "They made nine jars of jam.",
+          "zh": "他们做了九罐果酱。",
+          "startMs": 95830,
+          "endMs": 99010
+        },
+        {
+          "en": "\"You can take a jar home for Kipper,\" Said Gran.",
+          "zh": "“你可以带一罐回家给 Kipper，” Gran 说道。",
+          "startMs": 99970,
+          "endMs": 103140
+        },
+        {
+          "en": "\"And a jar for Wilf and Wilma.\"",
+          "zh": "“再拿一罐给 Wilf 和 Wilma。”",
+          "startMs": 104090,
+          "endMs": 106600
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4599,
+        1.0,
+        1.0
+      ],
+      "startMs": 45961,
+      "endMs": 106950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children loved Gran's house.",
+          "zh": "孩子们喜欢 Gran 的家。",
+          "startMs": 109970,
+          "endMs": 111140
+        },
+        {
+          "en": "It was very old.",
+          "zh": "房子非常老旧。",
+          "startMs": 111140,
+          "endMs": 113170
+        },
+        {
+          "en": "It had a big fireplace.",
+          "zh": "房子里有一个大壁炉。",
+          "startMs": 114410,
+          "endMs": 115670
+        },
+        {
+          "en": "Biff helped Gran light the fire.",
+          "zh": "Biff 帮 Gran 生火。",
+          "startMs": 115920,
+          "endMs": 120070
+        },
+        {
+          "en": "Chip helped Gran get some logs.",
+          "zh": "Chip 帮 Gran 捡了一些木柴。",
+          "startMs": 126970,
+          "endMs": 127070
+        },
+        {
+          "en": "\"Do you have ghosts?\" He asked.",
+          "zh": "“这里有鬼吗？” 他问。",
+          "startMs": 127100,
+          "endMs": 131760
+        },
+        {
+          "en": "Gran laughed.",
+          "zh": "Gran 笑了。",
+          "startMs": 131790,
+          "endMs": 134070
+        },
+        {
+          "en": "Jam,\" she said.",
+          "zh": "她说。",
+          "startMs": 150040,
+          "endMs": 151070
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.474
+      ],
+      "startMs": 109820,
+      "endMs": 151420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They sat by the fire.",
+          "zh": "他们坐在炉火旁。",
+          "startMs": 151100,
+          "endMs": 153150
+        },
+        {
+          "en": "Gran made some toast.",
+          "zh": "Gran 烤了一些吐司。",
+          "startMs": 153150,
+          "endMs": 153350
+        },
+        {
+          "en": "Biff wanted to try the new jam.",
+          "zh": "Biff 想尝尝新果酱。",
+          "startMs": 153350,
+          "endMs": 153550
+        },
+        {
+          "en": "\"It's still too hot,\" said Gran.",
+          "zh": "它是仍然也热的， 说 Gran。 Gran 说道。",
+          "startMs": 153550,
+          "endMs": 154070
+        },
+        {
+          "en": "Chip had a new game.",
+          "zh": "Chip 有一个新游戏。",
+          "startMs": 154100,
+          "endMs": 157970
+        },
+        {
+          "en": "It was called Haunted House.",
+          "zh": "它叫做“鬼屋”。",
+          "startMs": 158000,
+          "endMs": 185700
+        },
+        {
+          "en": "\"Can we play Haunted House, before we go to bed?\"",
+          "zh": "“我们睡觉前可以玩‘鬼屋’吗？”",
+          "startMs": 185730,
+          "endMs": 189430
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.474,
+        1.0,
+        1.0
+      ],
+      "startMs": 151420,
+      "endMs": 189780
+    },
+    {
+      "sentences": [
+        {
+          "en": "There are no such things.\" He asked.",
+          "zh": "“没有这种东西。” 他问。",
+          "startMs": 189430,
+          "endMs": 189630
+        },
+        {
+          "en": "It was time for bed.",
+          "zh": "该睡觉了。",
+          "startMs": 189630,
+          "endMs": 189830
+        },
+        {
+          "en": "Gran got Chip a hot water bottle.",
+          "zh": "Gran 给 Chip 拿来一个热水袋。",
+          "startMs": 189830,
+          "endMs": 190030
+        },
+        {
+          "en": "\"Is this house haunted?\" Asked Biff.",
+          "zh": "“这栋房子闹鬼吗？” Biff 问道。",
+          "startMs": 190030,
+          "endMs": 190230
+        },
+        {
+          "en": "\"Don't worry,\" Laughed Gran.",
+          "zh": "“别担心，” Gran 笑了。",
+          "startMs": 190230,
+          "endMs": 190430
+        },
+        {
+          "en": "Asked \"I don't have ghosts in my house.",
+          "zh": "“我家里没有鬼。",
+          "startMs": 190430,
+          "endMs": 190630
+        },
+        {
+          "en": "There are no such things.\"",
+          "zh": "“没有这种东西。”",
+          "startMs": 190630,
+          "endMs": 190830
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4751
+      ],
+      "startMs": 189780,
+      "endMs": 191180
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip couldn't sleep.",
+          "zh": "Biff 和 Chip 睡不着。",
+          "startMs": 194860,
+          "endMs": 197760
+        },
+        {
+          "en": "Biff had an idea.",
+          "zh": "Biff 想到了一个主意。",
+          "startMs": 198030,
+          "endMs": 198890
+        },
+        {
+          "en": "She wanted to play a joke on Chip.",
+          "zh": "她想跟 Chip 开个玩笑。",
+          "startMs": 200890,
+          "endMs": 204990
+        },
+        {
+          "en": "She had a torch in the bed.",
+          "zh": "她把手电筒放在床上。",
+          "startMs": 205020,
+          "endMs": 205250
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4751,
+        0.508,
+        1.0
+      ],
+      "startMs": 194710,
+      "endMs": 205600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff put the sheet over her head.",
+          "zh": "Biff 把床单蒙在头上。",
+          "startMs": 205970,
+          "endMs": 207840
+        },
+        {
+          "en": "She switched on the torch.",
+          "zh": "她打开了手电筒。",
+          "startMs": 208310,
+          "endMs": 210500
+        },
+        {
+          "en": "The sheet glowed.",
+          "zh": "床单发出了光。",
+          "startMs": 210530,
+          "endMs": 213070
+        },
+        {
+          "en": "\"Ooh, I am a ghost,\" \"Oh no!\" said Biff.",
+          "zh": "“我是一只鬼。”",
+          "startMs": 213970,
+          "endMs": 221070
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.508,
+        0.4751,
+        1.0,
+        1.0
+      ],
+      "startMs": 205820,
+      "endMs": 221420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip laughed.",
+          "zh": "Chip 笑了。",
+          "startMs": 224310,
+          "endMs": 225260
+        },
+        {
+          "en": "He wasn't frightened.",
+          "zh": "他没有被吓到。",
+          "startMs": 225290,
+          "endMs": 227140
+        },
+        {
+          "en": "He pulled the sheet off Biff.",
+          "zh": "他把床单从 Biff 身上扯了下来。",
+          "startMs": 227170,
+          "endMs": 229000
+        },
+        {
+          "en": "\"That was a good joke,\" He said.",
+          "zh": "“这个玩笑开得不错。” 他说。",
+          "startMs": 229910,
+          "endMs": 232270
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        0.4734,
+        0.4764
+      ],
+      "startMs": 224160,
+      "endMs": 232620
+    },
+    {
+      "sentences": [
+        {
+          "en": "He wasn't Biff and Chip heard a noise.",
+          "zh": "他不是 Biff 和 Chip 听见一个噪音。",
+          "startMs": 232970,
+          "endMs": 235360
+        },
+        {
+          "en": "It came from outside.",
+          "zh": "声音是从外面传来的。",
+          "startMs": 237120,
+          "endMs": 238280
+        },
+        {
+          "en": "\"Ooh, ooh,\" Went the noise.",
+          "zh": "“嗖！” “声音从哪儿来的？”",
+          "startMs": 242970,
+          "endMs": 249070
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "“哎呀，不好了。” Biff 说道。",
+          "startMs": 249100,
+          "endMs": 249930
+        },
+        {
+          "en": "\"It's a ghost.\"",
+          "zh": "“是鬼。”",
+          "startMs": 249960,
+          "endMs": 250990
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4734,
+        0.0,
+        1.0,
+        0.4764
+      ],
+      "startMs": 232820,
+      "endMs": 251340
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked out of the window.",
+          "zh": "Chip 向窗外望去。",
+          "startMs": 254970,
+          "endMs": 255070
+        },
+        {
+          "en": "\"It's not a ghost!\" He laughed.",
+          "zh": "“那不是鬼，” “他笑了。",
+          "startMs": 255100,
+          "endMs": 258650
+        },
+        {
+          "en": "\"It's an owl.",
+          "zh": "“这是一只猫头鹰。",
+          "startMs": 258680,
+          "endMs": 260630
+        },
+        {
+          "en": "Come and look.\"",
+          "zh": "过来看看。”",
+          "startMs": 261510,
+          "endMs": 262730
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4764,
+        0.4768,
+        1.0
+      ],
+      "startMs": 254820,
+      "endMs": 263080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked outside.",
+          "zh": "Biff 和 Chip 向外看去。",
+          "startMs": 265970,
+          "endMs": 267060
+        },
+        {
+          "en": "\"Oh no!\" Said Chip.",
+          "zh": "“哎呀，不好了。” Chip 说道。",
+          "startMs": 267090,
+          "endMs": 268810
+        },
+        {
+          "en": "\"I can see a ghost.",
+          "zh": "“我看到一个鬼。",
+          "startMs": 269600,
+          "endMs": 272700
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4768,
+        0.4764,
+        1.0,
+        1.0
+      ],
+      "startMs": 265820,
+      "endMs": 273050
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is a ghost this time.\" \"Gran, Gran,\" Biff and Chip ran to Gran's room.",
+          "zh": "这次真是一只鬼。” “Gran，Gran！”",
+          "startMs": 272730,
+          "endMs": 281960
+        },
+        {
+          "en": "Gran!\" called Biff.",
+          "zh": "Gran！ 叫 Biff。",
+          "startMs": 284960,
+          "endMs": 287070
+        },
+        {
+          "en": "\"There's a ghost outside.\"",
+          "zh": "“外面有个鬼。”",
+          "startMs": 287100,
+          "endMs": 288210
+        },
+        {
+          "en": "But Gran wasn't in bed.",
+          "zh": "但是 Gran 不在床上。",
+          "startMs": 288830,
+          "endMs": 290930
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        0.4965,
+        0.4685
+      ],
+      "startMs": 273050,
+      "endMs": 291280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip ran downstairs.",
+          "zh": "Biff 和 Chip 跑下楼去。",
+          "startMs": 291820,
+          "endMs": 294010
+        },
+        {
+          "en": "\"Gran! Called Biff.",
+          "zh": "“Gran！ Biff 喊道。",
+          "startMs": 294040,
+          "endMs": 295430
+        },
+        {
+          "en": "\"Where are you?",
+          "zh": "“您在哪里？",
+          "startMs": 299510,
+          "endMs": 300000
+        },
+        {
+          "en": "I've seen a ghost.\"",
+          "zh": "我们看见了一个鬼。”",
+          "startMs": 300000,
+          "endMs": 301070
+        },
+        {
+          "en": "But Gran wasn't downstairs.",
+          "zh": "但是 Gran 不在楼下。",
+          "startMs": 301880,
+          "endMs": 304190
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.4965,
+        0.0,
+        1.0,
+        0.4685
+      ],
+      "startMs": 291670,
+      "endMs": 304540
+    },
+    {
+      "sentences": [
+        {
+          "en": "The door opened.",
+          "zh": "门开了。",
+          "startMs": 307300,
+          "endMs": 309300
+        },
+        {
+          "en": "Biff and Chip \"We were frightened,\" said Chip.",
+          "zh": "Biff 和 Chip 吓坏了。",
+          "startMs": 309330,
+          "endMs": 315070
+        },
+        {
+          "en": "\"Oh no!\" They said.",
+          "zh": "“哎呀，不好了。” 他们说。",
+          "startMs": 316080,
+          "endMs": 318830
+        },
+        {
+          "en": "Gran came in.",
+          "zh": "Gran 进来了。",
+          "startMs": 318860,
+          "endMs": 321070
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4685,
+        0.4972,
+        1.0
+      ],
+      "startMs": 307150,
+      "endMs": 321420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We were frightened,\" Said Chip.",
+          "zh": "“我们被吓到了。” Chip 说道。",
+          "startMs": 321100,
+          "endMs": 323270
+        },
+        {
+          "en": "\"You looked like a ghost.\" Gran laughed.",
+          "zh": "你看喜欢一个鬼。 Gran 笑了。",
+          "startMs": 323300,
+          "endMs": 327070
+        },
+        {
+          "en": "\"I'm not a ghost,\" she said.",
+          "zh": "我是不一个鬼， 她说。",
+          "startMs": 330830,
+          "endMs": 333750
+        },
+        {
+          "en": "She said, said Gran.",
+          "zh": "她说。",
+          "startMs": 333780,
+          "endMs": 340960
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.4972,
+        0.4685,
+        1.0,
+        1.0
+      ],
+      "startMs": 321420,
+      "endMs": 341310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't have ghosts,\" said Gran.",
+          "zh": "“我没有鬼，”",
+          "startMs": 340990,
+          "endMs": 343370
+        },
+        {
+          "en": "\"But I do have two little monsters!\"",
+          "zh": "“但我确实有两个小怪物。”",
+          "startMs": 343370,
+          "endMs": 344820
+        },
+        {
+          "en": "Gran laughed and so did Biff and Chip.",
+          "zh": "Gran 笑了，Biff 和 Chip 也笑了。",
+          "startMs": 345070,
+          "endMs": 348050
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5467,
+        0.4565
+      ],
+      "startMs": 341310,
+      "endMs": 348400
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5467,
+        0.0,
+        1.0,
+        0.4565
+      ],
+      "startMs": 348400,
+      "endMs": 348401
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.4565,
+        0.5146,
+        1.0
+      ],
+      "startMs": 348401,
+      "endMs": 348402
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5146,
+        0.4565,
+        1.0,
+        1.0
+      ],
+      "startMs": 348402,
+      "endMs": 348403
+    }
+  ]
+}

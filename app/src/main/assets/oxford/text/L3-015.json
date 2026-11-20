@@ -1,0 +1,279 @@
+{
+  "id": "L3-015",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad were spring-cleaning.",
+          "zh": "妈妈和爸爸是大扫除。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum looked in a drawer.",
+          "zh": "妈妈看在……里一个抽屉。",
+          "startMs": 12000,
+          "endMs": 12540
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 12890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad threw things out.",
+          "zh": "爸爸扔东西出。",
+          "startMs": 12440,
+          "endMs": 16100
+        }
+      ],
+      "startMs": 12290,
+      "endMs": 16450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the junk.",
+          "zh": "这孩子们看在这垃圾。",
+          "startMs": 8057,
+          "endMs": 11970
+        },
+        {
+          "en": "JIGSAW PuzzLE",
+          "zh": "拼图谜",
+          "startMs": 11970,
+          "endMs": 13560
+        }
+      ],
+      "startMs": 8057,
+      "endMs": 13560
+    },
+    {
+      "sentences": [
+        {
+          "en": "They played with the old toys.",
+          "zh": "他们玩和……一起这旧的玩具。",
+          "startMs": 23000,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum put the old toys in the car.",
+          "zh": "妈妈放这旧的玩具在……里这汽车。",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were sad.",
+          "zh": "这孩子们是伤心的。",
+          "startMs": 23000,
+          "endMs": 23150
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 23500
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all went to the jumble sale.",
+          "zh": "他们全部去到这胡乱堆放出售。",
+          "startMs": 23120,
+          "endMs": 25890
+        }
+      ],
+      "startMs": 23120,
+      "endMs": 25890
+    },
+    {
+      "sentences": [],
+      "startMs": 25890,
+      "endMs": 26690,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children wanted to buy something.",
+          "zh": "这孩子们想要到买某物。",
+          "startMs": 26690,
+          "endMs": 29040
+        }
+      ],
+      "startMs": 26690,
+      "endMs": 29040
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a lot of junk!\" said Wilf.",
+          "zh": "什么一个许多的垃圾！ 说 Wilf。",
+          "startMs": 29040,
+          "endMs": 32390
+        }
+      ],
+      "startMs": 29040,
+      "endMs": 32390
+    },
+    {
+      "sentences": [],
+      "startMs": 32390,
+      "endMs": 33190,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They counted their money.",
+          "zh": "他们数数他们的钱。",
+          "startMs": 33190,
+          "endMs": 36760
+        }
+      ],
+      "startMs": 33190,
+      "endMs": 36760
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was time to go home.",
+          "zh": "它是时间到去家。",
+          "startMs": 36760,
+          "endMs": 38660
+        }
+      ],
+      "startMs": 36760,
+      "endMs": 38660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What's in the bags?\" said Mum.",
+          "zh": "是什么在……里这包？ 说妈妈。",
+          "startMs": 38660,
+          "endMs": 40644
+        }
+      ],
+      "startMs": 38660,
+      "endMs": 40644
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 40644,
+          "endMs": 41444
+        }
+      ],
+      "startMs": 40644,
+      "endMs": 41444
+    },
+    {
+      "sentences": [
+        {
+          "en": "This helps children to notice how words are spelt.",
+          "zh": "这个帮助孩子们到布告如何单词是 spelt。",
+          "startMs": 41444,
+          "endMs": 46615
+        },
+        {
+          "en": "• Open the book, e.",
+          "zh": "• 打开这书， 呃。",
+          "startMs": 46615,
+          "endMs": 48579
+        },
+        {
+          "en": "I can see 'we' inside were\" • Then the child looks for a word inside a word.",
+          "zh": "我能看见 '我们' 里面是 • 然后这孩子看为了一个单词里面一个单词。",
+          "startMs": 48579,
+          "endMs": 56439
+        },
+        {
+          "en": "If they find this difficult, suggest a word that appears often in words, such as 'in' ('spring', 'cleaning', 'things', etc.",
+          "zh": "如果他们找到这个困难的， 建议一个单词那个出现经常在……里单词， 这样的像 '在……里' ('春天'， '打扫'， '东西'， etc。",
+          "startMs": 56439,
+          "endMs": 69158
+        },
+        {
+          "en": "• Have two or three turns each.",
+          "zh": "• 有二或者三转动每个。",
+          "startMs": 69158,
+          "endMs": 72364
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 72364,
+          "endMs": 78259
+        },
+        {
+          "en": "• Find words that end in 'ed'.",
+          "zh": "• 找到单词那个末尾在……里 '勃起功能障碍'。",
+          "startMs": 78259,
+          "endMs": 81361
+        },
+        {
+          "en": "Cover the 'ed' and read the remaining word.",
+          "zh": "遮盖这 '勃起功能障碍' 和读这剩余的单词。",
+          "startMs": 81361,
+          "endMs": 85808
+        },
+        {
+          "en": "I spy', e.",
+          "zh": "我间谍'， 呃。",
+          "startMs": 85808,
+          "endMs": 86842
+        },
+        {
+          "en": "I spy with my little eye, something beginning with 'b'.\"",
+          "zh": "我间谍和……一起我的小的眼睛， 某物开始和……一起 '第二'。",
+          "startMs": 86842,
+          "endMs": 92633
+        },
+        {
+          "en": "('ball', 'boxes', 'bear' 'brick\", 'boot', 'bolt')",
+          "zh": "('球'， '盒子'， '承载' '砖， '靴子'， '插销')",
+          "startMs": 92633,
+          "endMs": 97700
+        }
+      ],
+      "startMs": 41444,
+      "endMs": 97700
+    },
+    {
+      "sentences": [],
+      "startMs": 97700,
+      "endMs": 99051,
+      "illustrationOnly": true
+    }
+  ]
+}

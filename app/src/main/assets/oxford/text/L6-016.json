@@ -1,0 +1,655 @@
+{
+  "id": "L6-016",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4812,
+        0.4559
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's Mum took the children to an adventure playground.",
+          "zh": "它将孩子们带入了一场新的冒险。",
+          "startMs": 29,
+          "endMs": 4060
+        },
+        {
+          "en": "It was a new playground and it looked exciting.",
+          "zh": "",
+          "startMs": 4090,
+          "endMs": 10960
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4812,
+        0.0,
+        1.0,
+        0.4559
+      ],
+      "startMs": 1,
+      "endMs": 11310
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all wanted a go on the zip wire.",
+          "zh": "我想要一个去在……上房间到玩。 这拉链金属丝。",
+          "startMs": 11060,
+          "endMs": 14380
+        },
+        {
+          "en": "Chip went first.",
+          "zh": "Chip 去在楼下。",
+          "startMs": 14410,
+          "endMs": 16330
+        },
+        {
+          "en": "It was hard to get on it, so Wilma's Mum helped him.",
+          "zh": "",
+          "startMs": 16360,
+          "endMs": 20160
+        },
+        {
+          "en": "The zip wire went fast.",
+          "zh": "Anneena 去快的。",
+          "startMs": 20410,
+          "endMs": 22460
+        },
+        {
+          "en": "\"Yee-haw!",
+          "zh": "",
+          "startMs": 23320,
+          "endMs": 24900
+        },
+        {
+          "en": "This is scary,\" called Chip.",
+          "zh": "Chip 喊道。",
+          "startMs": 24900,
+          "endMs": 30700
+        },
+        {
+          "en": "\"I love it.\"",
+          "zh": "“我喜欢它。”",
+          "startMs": 30730,
+          "endMs": 31600
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4559,
+        1.0,
+        1.0
+      ],
+      "startMs": 11310,
+      "endMs": 31950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma was next, but she felt scared.",
+          "zh": "Wilma 是下一个， 但是她感觉惊恐的。",
+          "startMs": 37040,
+          "endMs": 41960
+        },
+        {
+          "en": "Then the wind blew and it began to rain.",
+          "zh": "然后这风 blew 和它开始到雨。",
+          "startMs": 47190,
+          "endMs": 63820
+        },
+        {
+          "en": "\"It's too windy and it's raining,\" Said Wilma.",
+          "zh": "它是也多风的和它是雨， 说让我们去家。 Wilma 说道。",
+          "startMs": 63820,
+          "endMs": 64820
+        },
+        {
+          "en": "\"I can't go.\"",
+          "zh": "“我看不见了！”",
+          "startMs": 64850,
+          "endMs": 66240
+        },
+        {
+          "en": "\"It's a bad storm,\" said Mum.",
+          "zh": "它是一个坏的暴风雨， 说妈妈。 妈妈说道。",
+          "startMs": 66240,
+          "endMs": 66820
+        },
+        {
+          "en": "\"Let's go home.",
+          "zh": "“我们下山吧！”",
+          "startMs": 66850,
+          "endMs": 67980
+        },
+        {
+          "en": "We can come back another day.\"",
+          "zh": "我们能来回来 Wilma。",
+          "startMs": 68010,
+          "endMs": 69680
+        },
+        {
+          "en": "So they all ran back to the car.",
+          "zh": "所以他们全部跑回来到这汽车。",
+          "startMs": 69900,
+          "endMs": 74280
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4735
+      ],
+      "startMs": 36890,
+      "endMs": 74630
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Wilma went back to Biff and Chip's house.",
+          "zh": "Nadine 和 Will 和 Biff 和 Chip 一起回家了。",
+          "startMs": 85060,
+          "endMs": 89160
+        },
+        {
+          "en": "They went to Biff's room to play.",
+          "zh": "他们去 Biff 的房间玩。",
+          "startMs": 89240,
+          "endMs": 91500
+        },
+        {
+          "en": "\"I hope we go back to the adventure playground,\" Said Wilf.",
+          "zh": "他们去到 BiffWilf 和 Wilma 去回来到 Biff 和我希望我们去回来到这冒险游乐场， 说 Wilf。 Wilf 说道。",
+          "startMs": 91530,
+          "endMs": 96240
+        },
+        {
+          "en": "\"I want to go on the zip wire!\"",
+          "zh": "我想要一个去在……上房间到玩。 这拉链金属丝。",
+          "startMs": 96540,
+          "endMs": 99640
+        },
+        {
+          "en": "Then the magic key began to glow.",
+          "zh": "这时，魔法钥匙开始发光。",
+          "startMs": 100900,
+          "endMs": 122640
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4735,
+        1.0,
+        1.0
+      ],
+      "startMs": 84910,
+      "endMs": 122990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children back in time.",
+          "zh": "这魔法拿他们回来在……里时间。",
+          "startMs": 122670,
+          "endMs": 125580
+        },
+        {
+          "en": "It took them to a cliff near the sea.",
+          "zh": "它把他们带到了城堡。",
+          "startMs": 125610,
+          "endMs": 128980
+        },
+        {
+          "en": "A bad storm was blowing.",
+          "zh": "一个坏的暴风雨是吹。 向下这小路。",
+          "startMs": 129010,
+          "endMs": 130720
+        },
+        {
+          "en": "Suddenly there was a bank.",
+          "zh": "突然，钥匙开始发光。",
+          "startMs": 135640,
+          "endMs": 138540
+        },
+        {
+          "en": "A bright light lit up the sky.",
+          "zh": "一个鲜艳的轻的 lit 向上这天空。",
+          "startMs": 138570,
+          "endMs": 140770
+        },
+        {
+          "en": "Then a girl ran down the path.",
+          "zh": "然后一个女孩跑海。",
+          "startMs": 144020,
+          "endMs": 146100
+        },
+        {
+          "en": "Behind her was a man on crutches.",
+          "zh": "在……后面她是一个男人在……上腋杖。",
+          "startMs": 146580,
+          "endMs": 150560
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4724
+      ],
+      "startMs": 122990,
+      "endMs": 150910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Will you help us?\" Asked the girl.",
+          "zh": "“你们能帮帮忙吗？” 国王问道。",
+          "startMs": 150590,
+          "endMs": 157920
+        },
+        {
+          "en": "\"The storm has blown a ship onto the rocks.",
+          "zh": "这暴风雨有 blown 一个轮船在……上到将你帮助我们？ 问这女孩。",
+          "startMs": 157980,
+          "endMs": 162080
+        },
+        {
+          "en": "The light in the sky was a call for help.\"",
+          "zh": "这轻的在……里这天空是一个必须到叫这救生艇。 叫为了帮助。",
+          "startMs": 162110,
+          "endMs": 164400
+        },
+        {
+          "en": "\"We can't help,\" said Wilma.",
+          "zh": "我们不能帮助， 说 Wilma。 Wilma 说道。",
+          "startMs": 165200,
+          "endMs": 168660
+        },
+        {
+          "en": "\"You need to call the lifeboat.\" \"We can't,\" said the girl.",
+          "zh": "他们跑到这救生艇火车站。 “我看不见了！”",
+          "startMs": 168690,
+          "endMs": 174300
+        },
+        {
+          "en": "\"The lifeboat has gone to help another ship.\"",
+          "zh": "这救生艇有去了到帮助另一个轮船。",
+          "startMs": 174330,
+          "endMs": 178160
+        },
+        {
+          "en": "\"We can't,\" said the girl.",
+          "zh": "我们不能， 说这女孩。",
+          "startMs": 183630,
+          "endMs": 185860
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.4724,
+        1.0,
+        1.0
+      ],
+      "startMs": 150910,
+      "endMs": 186210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm Jane's father,\" Said the man.",
+          "zh": "“我才是这里的巨人！” 那人说道。",
+          "startMs": 185890,
+          "endMs": 189040
+        },
+        {
+          "en": "\"I should be out with the lifeboat, but I've hurt my back.\"",
+          "zh": "如果你应该是出和……一起这救生艇， 但是帮助我们， 我们能解救他们。",
+          "startMs": 189380,
+          "endMs": 193520
+        },
+        {
+          "en": "\"My name is Jane,\" said the girl.",
+          "zh": "我的名字是 Jane， 说这女孩。",
+          "startMs": 193550,
+          "endMs": 196260
+        },
+        {
+          "en": "\"The ship is stuck on the rocks,\" Said Jane.",
+          "zh": "这轮船是 stuck 在……上这岩石， 说我是 Jane's 爸爸， 说这男人。 娜丁说道。",
+          "startMs": 196260,
+          "endMs": 198240
+        },
+        {
+          "en": "\"People are in danger.",
+          "zh": "人们是在……里单个儿。",
+          "startMs": 198270,
+          "endMs": 200330
+        },
+        {
+          "en": "If you help us, we can rescue them.\"",
+          "zh": "如果你应该是出和……一起这救生艇， 但是帮助我们， 我们能解救他们。",
+          "startMs": 200610,
+          "endMs": 203200
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4662
+      ],
+      "startMs": 186210,
+      "endMs": 203550
+    },
+    {
+      "sentences": [
+        {
+          "en": "They ran to the lifeboat station.",
+          "zh": "他们跑到这救生艇火车站。",
+          "startMs": 215770,
+          "endMs": 218640
+        },
+        {
+          "en": "Jane loaded things onto a donkey.",
+          "zh": "这 Jane 装载东西在……上到一个驴。 波浪是锵锵作响在……上方这轮船。",
+          "startMs": 218670,
+          "endMs": 220800
+        },
+        {
+          "en": "She gave the children long poles to carry.",
+          "zh": "她给这孩子们长的波兰人这个是一个坏的暴风雨， 说 Wilf。 到搬运。",
+          "startMs": 221380,
+          "endMs": 223800
+        },
+        {
+          "en": "They went back along the path.",
+          "zh": "他们去回来沿着这小路。",
+          "startMs": 226900,
+          "endMs": 229140
+        },
+        {
+          "en": "Waves were crashing over the ship.",
+          "zh": "这 Jane 装载东西在……上到一个驴。 波浪是锵锵作响在……上方这轮船。",
+          "startMs": 229440,
+          "endMs": 231110
+        },
+        {
+          "en": "\"This is a bad storm,\" Said Wilf.",
+          "zh": "它是一个坏的暴风雨， 说妈妈。 Wilf 说道。",
+          "startMs": 233260,
+          "endMs": 245940
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4662,
+        1.0,
+        1.0
+      ],
+      "startMs": 215620,
+      "endMs": 246290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Jane told the children to lash two poles together.",
+          "zh": "Jane 告诉这孩子们到睫毛二 Jane's 爸爸有一个特别的大炮。",
+          "startMs": 245970,
+          "endMs": 249080
+        },
+        {
+          "en": "\"We must make sure they don't fall over,\" She said.",
+          "zh": "我们必须做确信的他们不飞穿过这空气和拥有大量土地的在……上射击一个线出在……上方这水。 她说。",
+          "startMs": 250560,
+          "endMs": 258500
+        },
+        {
+          "en": "Jane's father had a special cannon.",
+          "zh": "Jane 告诉这孩子们到睫毛二 Jane's 爸爸有一个特别的大炮。",
+          "startMs": 259300,
+          "endMs": 263080
+        },
+        {
+          "en": "He shot a line out over the water.",
+          "zh": "他们在水下看到了一艘船。",
+          "startMs": 264940,
+          "endMs": 272080
+        },
+        {
+          "en": "The line flew through the air and landed on the ship.",
+          "zh": "这线落下在……上方， 她说。 这轮船。",
+          "startMs": 272110,
+          "endMs": 276240
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4679
+      ],
+      "startMs": 246290,
+      "endMs": 276590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Jane tied a rope to the line.",
+          "zh": "Jane 租给雇工的一个绳索到这线。",
+          "startMs": 279080,
+          "endMs": 281560
+        },
+        {
+          "en": "People on the ship pulled it across.",
+          "zh": "这然后他们租给雇工的这绳索到这轮船。 人们在……上这轮船拉它穿过。",
+          "startMs": 281710,
+          "endMs": 284560
+        },
+        {
+          "en": "The Then they tied the rope to the ship.",
+          "zh": "这然后他们租给雇工的这绳索到这轮船。 人们在……上这轮船拉它穿过。",
+          "startMs": 284960,
+          "endMs": 290100
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4679,
+        0.4883,
+        1.0
+      ],
+      "startMs": 278930,
+      "endMs": 290450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Jane's father put a pulley on the rope.",
+          "zh": "Jane's 爸爸放一个滑车在……上这绳索。",
+          "startMs": 290130,
+          "endMs": 293960
+        },
+        {
+          "en": "The pulley had a ring tied to it.",
+          "zh": "这滑车有一个戒指租给雇工的到它。",
+          "startMs": 293990,
+          "endMs": 296120
+        },
+        {
+          "en": "\"I get it,\" said Wilf.",
+          "zh": "我得到它， 说 Wilf。 Wilf 说道。",
+          "startMs": 296160,
+          "endMs": 298580
+        },
+        {
+          "en": "\"The people sit in that funny-looking ring.\" Said Jane.",
+          "zh": "这人们坐在……里那个 funny-looking 戒指。 娜丁说道。",
+          "startMs": 298610,
+          "endMs": 305400
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.4883,
+        0.4679,
+        1.0,
+        1.0
+      ],
+      "startMs": 290450,
+      "endMs": 305750
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"And I thought the zip wire was scary,\" Said Wilma.",
+          "zh": "我想这拉链金属丝是穿过在……上这滑车。 Wilma 说道。",
+          "startMs": 309380,
+          "endMs": 314480
+        },
+        {
+          "en": "It was hard pulling the people across on the pulley.",
+          "zh": "它是困难的拉这人们可怕的， 说 Wilma。",
+          "startMs": 322860,
+          "endMs": 326640
+        },
+        {
+          "en": "\"Now we pull them in,\" said Jane.",
+          "zh": "现在我们拉他们在……里， 说 Jane。",
+          "startMs": 326670,
+          "endMs": 329380
+        },
+        {
+          "en": "The rope dipped in the middle and it swung in the wind.",
+          "zh": "这绳索浸在……里这中间和它 swung 在……里这风。",
+          "startMs": 329380,
+          "endMs": 331260
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4554
+      ],
+      "startMs": 309230,
+      "endMs": 331610
+    },
+    {
+      "sentences": [
+        {
+          "en": "The last to come was the captain.",
+          "zh": "这最后的到来是这船长。",
+          "startMs": 339600,
+          "endMs": 341860
+        },
+        {
+          "en": "\"I've lost my ship, but you've saved our lives,\" He said.",
+          "zh": "我已经丢失我的轮船， 但是你已经谢谢你为了帮助我们， 她说。 挽救我们的住， 他说。",
+          "startMs": 341890,
+          "endMs": 347380
+        },
+        {
+          "en": "\"Thank you.\"",
+          "zh": "“谢谢你。”",
+          "startMs": 347410,
+          "endMs": 349040
+        },
+        {
+          "en": "Jane looked at the children.",
+          "zh": "Jane 看在这孩子们。",
+          "startMs": 349070,
+          "endMs": 350320
+        },
+        {
+          "en": "\"Thank you for helping us,\" She said.",
+          "zh": "“谢谢你所做的一切。” 她说。",
+          "startMs": 350380,
+          "endMs": 354560
+        },
+        {
+          "en": "Then the key began to glow.",
+          "zh": "这时，钥匙开始发光。",
+          "startMs": 354620,
+          "endMs": 356480
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4554,
+        1.0,
+        1.0
+      ],
+      "startMs": 339450,
+      "endMs": 356830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm glad I wasn't on that ship,\" Said Wilma.",
+          "zh": "Gran 不是在楼下。 Wilma 说道。",
+          "startMs": 361860,
+          "endMs": 374200
+        },
+        {
+          "en": "\"The zip wire at the playground won't seem scary now.\"",
+          "zh": "",
+          "startMs": 374260,
+          "endMs": 379000
+        },
+        {
+          "en": "\"Not even in a storm?\"",
+          "zh": "他们做了九罐果酱。",
+          "startMs": 379030,
+          "endMs": 381890
+        },
+        {
+          "en": "Asked Wilf.",
+          "zh": "Wilf 问道。",
+          "startMs": 381920,
+          "endMs": 382460
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5541,
+        1.0
+      ],
+      "startMs": 361710,
+      "endMs": 382810
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5541,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 382810,
+      "endMs": 382811
+    }
+  ]
+}

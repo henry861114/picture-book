@@ -1,0 +1,2499 @@
+{
+  "levels": [
+    {
+      "books": [
+        {
+          "aspect": 1.3333333333333333,
+          "audio": "oxford/audio/L1-001.m4a",
+          "cover": "oxford/covers/L1-001.jpg",
+          "id": "L1-001",
+          "number": 1,
+          "pages": 6,
+          "pdf": "oxford/pdf/L1-001.pdf",
+          "title": "At school"
+        },
+        {
+          "aspect": 1.3333333333333333,
+          "audio": "oxford/audio/L1-002.m4a",
+          "cover": "oxford/covers/L1-002.jpg",
+          "id": "L1-002",
+          "number": 2,
+          "pages": 6,
+          "pdf": "oxford/pdf/L1-002.pdf",
+          "title": "Getting up"
+        },
+        {
+          "aspect": 1.3333333333333333,
+          "audio": "oxford/audio/L1-003.m4a",
+          "cover": "oxford/covers/L1-003.jpg",
+          "id": "L1-003",
+          "number": 3,
+          "pages": 6,
+          "pdf": "oxford/pdf/L1-003.pdf",
+          "title": "Look out"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-004.m4a",
+          "cover": "oxford/covers/L1-004.jpg",
+          "id": "L1-004",
+          "number": 4,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-004.pdf",
+          "title": "The Haircut"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-005.m4a",
+          "cover": "oxford/covers/L1-005.jpg",
+          "id": "L1-005",
+          "number": 5,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-005.pdf",
+          "title": "The Lost Teddy"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-006.m4a",
+          "cover": "oxford/covers/L1-006.jpg",
+          "id": "L1-006",
+          "number": 6,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-006.pdf",
+          "title": "The Library"
+        },
+        {
+          "aspect": 1.3333333333333333,
+          "audio": "oxford/audio/L1-007.m4a",
+          "cover": "oxford/covers/L1-007.jpg",
+          "id": "L1-007",
+          "number": 7,
+          "pages": 6,
+          "pdf": "oxford/pdf/L1-007.pdf",
+          "title": "The swing ball"
+        },
+        {
+          "aspect": 1.3333333333333333,
+          "audio": "oxford/audio/L1-008.m4a",
+          "cover": "oxford/covers/L1-008.jpg",
+          "id": "L1-008",
+          "number": 8,
+          "pages": 6,
+          "pdf": "oxford/pdf/L1-008.pdf",
+          "title": "The street fair"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-009.m4a",
+          "cover": "oxford/covers/L1-009.jpg",
+          "id": "L1-009",
+          "number": 9,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-009.pdf",
+          "title": "The Big Box"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-010.m4a",
+          "cover": "oxford/covers/L1-010.jpg",
+          "id": "L1-010",
+          "number": 10,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-010.pdf",
+          "title": "Fetch"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-011.m4a",
+          "cover": "oxford/covers/L1-011.jpg",
+          "id": "L1-011",
+          "number": 11,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-011.pdf",
+          "title": "The Hedgehog"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L1-012.m4a",
+          "cover": "oxford/covers/L1-012.jpg",
+          "id": "L1-012",
+          "number": 12,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-012.pdf",
+          "title": "The Apple"
+        },
+        {
+          "aspect": 0.8636379302525964,
+          "audio": "oxford/audio/L1-013.m4a",
+          "cover": "oxford/covers/L1-013.jpg",
+          "id": "L1-013",
+          "number": 13,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-013.pdf",
+          "title": "who is it"
+        },
+        {
+          "aspect": 0.7798894000792176,
+          "audio": "oxford/audio/L1-014.m4a",
+          "cover": "oxford/covers/L1-014.jpg",
+          "id": "L1-014",
+          "number": 14,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-014.pdf",
+          "title": "floppy floppy"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-015.m4a",
+          "cover": "oxford/covers/L1-015.jpg",
+          "id": "L1-015",
+          "number": 15,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-015.pdf",
+          "title": "six in a bed"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-016.m4a",
+          "cover": "oxford/covers/L1-016.jpg",
+          "id": "L1-016",
+          "number": 16,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-016.pdf",
+          "title": "a good trick"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-017.m4a",
+          "cover": "oxford/covers/L1-017.jpg",
+          "id": "L1-017",
+          "number": 17,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-017.pdf",
+          "title": "fun at the beach"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-018.m4a",
+          "cover": "oxford/covers/L1-018.jpg",
+          "id": "L1-018",
+          "number": 18,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-018.pdf",
+          "title": "The pancake"
+        },
+        {
+          "aspect": 0.7271171941830625,
+          "audio": "oxford/audio/L1-019.m4a",
+          "cover": "oxford/covers/L1-019.jpg",
+          "id": "L1-019",
+          "number": 19,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-019.pdf",
+          "title": "Is It"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L1-020.m4a",
+          "cover": "oxford/covers/L1-020.jpg",
+          "id": "L1-020",
+          "number": 20,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-020.pdf",
+          "title": "Get On"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-021.m4a",
+          "cover": "oxford/covers/L1-021.jpg",
+          "id": "L1-021",
+          "number": 21,
+          "pages": 22,
+          "pdf": "oxford/pdf/L1-021.pdf",
+          "title": "Floppy did this"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L1-022.m4a",
+          "cover": "oxford/covers/L1-022.jpg",
+          "id": "L1-022",
+          "number": 22,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-022.pdf",
+          "title": "Get Dad"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L1-023.m4a",
+          "cover": "oxford/covers/L1-023.jpg",
+          "id": "L1-023",
+          "number": 23,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-023.pdf",
+          "title": "Up You Go"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L1-024.m4a",
+          "cover": "oxford/covers/L1-024.jpg",
+          "id": "L1-024",
+          "number": 24,
+          "pages": 9,
+          "pdf": "oxford/pdf/L1-024.pdf",
+          "title": "I See"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-025.m4a",
+          "cover": "oxford/covers/L1-025.jpg",
+          "id": "L1-025",
+          "number": 25,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-025.pdf",
+          "title": "Hide and Seek"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-026.m4a",
+          "cover": "oxford/covers/L1-026.jpg",
+          "id": "L1-026",
+          "number": 26,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-026.pdf",
+          "title": "Look at Me"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-027.m4a",
+          "cover": "oxford/covers/L1-027.jpg",
+          "id": "L1-027",
+          "number": 27,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-027.pdf",
+          "title": "Go away Floppy"
+        },
+        {
+          "aspect": 0.7496320918415909,
+          "audio": "oxford/audio/L1-028.m4a",
+          "cover": "oxford/covers/L1-028.jpg",
+          "id": "L1-028",
+          "number": 28,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-028.pdf",
+          "title": "Reds and blues"
+        },
+        {
+          "aspect": 0.7452668816374661,
+          "audio": "oxford/audio/L1-029.m4a",
+          "cover": "oxford/covers/L1-029.jpg",
+          "id": "L1-029",
+          "number": 29,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-029.pdf",
+          "title": "Big Feet"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-030.m4a",
+          "cover": "oxford/covers/L1-030.jpg",
+          "id": "L1-030",
+          "number": 30,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-030.pdf",
+          "title": "Kipper's Dairy"
+        },
+        {
+          "aspect": 0.8729281767955801,
+          "audio": "oxford/audio/L1-031.m4a",
+          "cover": "oxford/covers/L1-031.jpg",
+          "id": "L1-031",
+          "number": 31,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-031.pdf",
+          "title": "What Dogs Like"
+        },
+        {
+          "aspect": 0.8729281767955801,
+          "audio": "oxford/audio/L1-032.m4a",
+          "cover": "oxford/covers/L1-032.jpg",
+          "id": "L1-032",
+          "number": 32,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-032.pdf",
+          "title": "Presents for Dad"
+        },
+        {
+          "aspect": 0.8710801393728222,
+          "audio": "oxford/audio/L1-033.m4a",
+          "cover": "oxford/covers/L1-033.jpg",
+          "id": "L1-033",
+          "number": 33,
+          "pages": 13,
+          "pdf": "oxford/pdf/L1-033.pdf",
+          "title": "Top Dog"
+        },
+        {
+          "aspect": 0.8729281767955801,
+          "audio": "oxford/audio/L1-034.m4a",
+          "cover": "oxford/covers/L1-034.jpg",
+          "id": "L1-034",
+          "number": 34,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-034.pdf",
+          "title": "Look After Me"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L1-035.m4a",
+          "cover": "oxford/covers/L1-035.jpg",
+          "id": "L1-035",
+          "number": 35,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-035.pdf",
+          "title": "Go On,Mum"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L1-036.m4a",
+          "cover": "oxford/covers/L1-036.jpg",
+          "id": "L1-036",
+          "number": 36,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-036.pdf",
+          "title": "Go Away,Cat"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-037.m4a",
+          "cover": "oxford/covers/L1-037.jpg",
+          "id": "L1-037",
+          "number": 37,
+          "pages": 16,
+          "pdf": "oxford/pdf/L1-037.pdf",
+          "title": "The Sandcastle"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-038.m4a",
+          "cover": "oxford/covers/L1-038.jpg",
+          "id": "L1-038",
+          "number": 38,
+          "pages": 16,
+          "pdf": "oxford/pdf/L1-038.pdf",
+          "title": "Floppy's Bone"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L1-039.m4a",
+          "cover": "oxford/covers/L1-039.jpg",
+          "id": "L1-039",
+          "number": 39,
+          "pages": 16,
+          "pdf": "oxford/pdf/L1-039.pdf",
+          "title": "The Box of Treasure"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L1-040.m4a",
+          "cover": "oxford/covers/L1-040.jpg",
+          "id": "L1-040",
+          "number": 40,
+          "pages": 15,
+          "pdf": "oxford/pdf/L1-040.pdf",
+          "title": "Hook a Duck"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L1-041.m4a",
+          "cover": "oxford/covers/L1-041.jpg",
+          "id": "L1-041",
+          "number": 41,
+          "pages": 15,
+          "pdf": "oxford/pdf/L1-041.pdf",
+          "title": "Chip's Robot"
+        },
+        {
+          "aspect": 0.8663003663003663,
+          "audio": "oxford/audio/L1-042.m4a",
+          "cover": "oxford/covers/L1-042.jpg",
+          "id": "L1-042",
+          "number": 42,
+          "pages": 16,
+          "pdf": "oxford/pdf/L1-042.pdf",
+          "title": "One Wheel"
+        },
+        {
+          "aspect": 0.7490836461008319,
+          "audio": "oxford/audio/L1-043.m4a",
+          "cover": "oxford/covers/L1-043.jpg",
+          "id": "L1-043",
+          "number": 43,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-043.pdf",
+          "title": "The Ice Cream"
+        },
+        {
+          "aspect": 1.2546916890080428,
+          "audio": "oxford/audio/L1-044.m4a",
+          "cover": "oxford/covers/L1-044.jpg",
+          "id": "L1-044",
+          "number": 44,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-044.pdf",
+          "title": "Can You See Me"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-045.m4a",
+          "cover": "oxford/covers/L1-045.jpg",
+          "id": "L1-045",
+          "number": 45,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-045.pdf",
+          "title": "Good Dog"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L1-046.m4a",
+          "cover": "oxford/covers/L1-046.jpg",
+          "id": "L1-046",
+          "number": 46,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-046.pdf",
+          "title": "What a DIN!"
+        },
+        {
+          "aspect": 0.8710865561694291,
+          "audio": "oxford/audio/L1-047.m4a",
+          "cover": "oxford/covers/L1-047.jpg",
+          "id": "L1-047",
+          "number": 47,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-047.pdf",
+          "title": "See Me Skip"
+        },
+        {
+          "aspect": 0.8710865561694291,
+          "audio": "oxford/audio/L1-048.m4a",
+          "cover": "oxford/covers/L1-048.jpg",
+          "id": "L1-048",
+          "number": 48,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-048.pdf",
+          "title": "The Mud Pie"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-049.m4a",
+          "cover": "oxford/covers/L1-049.jpg",
+          "id": "L1-049",
+          "number": 49,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-049.pdf",
+          "title": "The Headache"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-050.m4a",
+          "cover": "oxford/covers/L1-050.jpg",
+          "id": "L1-050",
+          "number": 50,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-050.pdf",
+          "title": "At the Park"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-051.m4a",
+          "cover": "oxford/covers/L1-051.jpg",
+          "id": "L1-051",
+          "number": 51,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-051.pdf",
+          "title": "Fancy Dress"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-052.m4a",
+          "cover": "oxford/covers/L1-052.jpg",
+          "id": "L1-052",
+          "number": 52,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-052.pdf",
+          "title": "Push!"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-053.m4a",
+          "cover": "oxford/covers/L1-053.jpg",
+          "id": "L1-053",
+          "number": 53,
+          "pages": 11,
+          "pdf": "oxford/pdf/L1-053.pdf",
+          "title": "Good Old Mum"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L1-054.m4a",
+          "cover": "oxford/covers/L1-054.jpg",
+          "id": "L1-054",
+          "number": 54,
+          "pages": 10,
+          "pdf": "oxford/pdf/L1-054.pdf",
+          "title": "The Pet Shop"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-055.m4a",
+          "cover": "oxford/covers/L1-055.jpg",
+          "id": "L1-055",
+          "number": 55,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-055.pdf",
+          "title": "What a Mess"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-056.m4a",
+          "cover": "oxford/covers/L1-056.jpg",
+          "id": "L1-056",
+          "number": 56,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-056.pdf",
+          "title": "Making Faces"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-057.m4a",
+          "cover": "oxford/covers/L1-057.jpg",
+          "id": "L1-057",
+          "number": 57,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-057.pdf",
+          "title": "The Journey"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L1-058.m4a",
+          "cover": "oxford/covers/L1-058.jpg",
+          "id": "L1-058",
+          "number": 58,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-058.pdf",
+          "title": "Goal!"
+        },
+        {
+          "aspect": 0.8663003663003663,
+          "audio": "oxford/audio/L1-059.m4a",
+          "cover": "oxford/covers/L1-059.jpg",
+          "id": "L1-059",
+          "number": 59,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-059.pdf",
+          "title": "Who did that"
+        },
+        {
+          "aspect": 0.8663003663003663,
+          "audio": "oxford/audio/L1-060.m4a",
+          "cover": "oxford/covers/L1-060.jpg",
+          "id": "L1-060",
+          "number": 60,
+          "pages": 12,
+          "pdf": "oxford/pdf/L1-060.pdf",
+          "title": "Shopping"
+        }
+      ],
+      "level": 1,
+      "name": "Level 1",
+      "nameCn": "第 1 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.8729281767955801,
+          "audio": "oxford/audio/L2-001.m4a",
+          "cover": "oxford/covers/L2-001.jpg",
+          "id": "L2-001",
+          "number": 1,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-001.pdf",
+          "title": "The Toy's Party"
+        },
+        {
+          "aspect": 0.8729281767955801,
+          "audio": "oxford/audio/L2-002.m4a",
+          "cover": "oxford/covers/L2-002.jpg",
+          "id": "L2-002",
+          "number": 2,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-002.pdf",
+          "title": "New Trainers"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L2-003.m4a",
+          "cover": "oxford/covers/L2-003.jpg",
+          "id": "L2-003",
+          "number": 3,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-003.pdf",
+          "title": "A New Dog"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-004.m4a",
+          "cover": "oxford/covers/L2-004.jpg",
+          "id": "L2-004",
+          "number": 4,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-004.pdf",
+          "title": "What a Bad Dog!"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L2-005.m4a",
+          "cover": "oxford/covers/L2-005.jpg",
+          "id": "L2-005",
+          "number": 5,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-005.pdf",
+          "title": "The Go-Kart"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L2-006.m4a",
+          "cover": "oxford/covers/L2-006.jpg",
+          "id": "L2-006",
+          "number": 6,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-006.pdf",
+          "title": "The Dream"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-007.m4a",
+          "cover": "oxford/covers/L2-007.jpg",
+          "id": "L2-007",
+          "number": 7,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-007.pdf",
+          "title": "Floppy's Bath"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-008.m4a",
+          "cover": "oxford/covers/L2-008.jpg",
+          "id": "L2-008",
+          "number": 8,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-008.pdf",
+          "title": "The Baby-sitter"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-009.m4a",
+          "cover": "oxford/covers/L2-009.jpg",
+          "id": "L2-009",
+          "number": 9,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-009.pdf",
+          "title": "The Water Fight"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-010.m4a",
+          "cover": "oxford/covers/L2-010.jpg",
+          "id": "L2-010",
+          "number": 10,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-010.pdf",
+          "title": "Kipper's Balloon"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-011.m4a",
+          "cover": "oxford/covers/L2-011.jpg",
+          "id": "L2-011",
+          "number": 11,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-011.pdf",
+          "title": "Spots"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-012.m4a",
+          "cover": "oxford/covers/L2-012.jpg",
+          "id": "L2-012",
+          "number": 12,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-012.pdf",
+          "title": "Kipper's Birthday"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-013.m4a",
+          "cover": "oxford/covers/L2-013.jpg",
+          "id": "L2-013",
+          "number": 13,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-013.pdf",
+          "title": "Kipper's Laces"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-014.m4a",
+          "cover": "oxford/covers/L2-014.jpg",
+          "id": "L2-014",
+          "number": 14,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-014.pdf",
+          "title": "The Wobbly Tooth"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-015.m4a",
+          "cover": "oxford/covers/L2-015.jpg",
+          "id": "L2-015",
+          "number": 15,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-015.pdf",
+          "title": "The Foggy Day"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-016.m4a",
+          "cover": "oxford/covers/L2-016.jpg",
+          "id": "L2-016",
+          "number": 16,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-016.pdf",
+          "title": "Biff's Aeroplane"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-017.m4a",
+          "cover": "oxford/covers/L2-017.jpg",
+          "id": "L2-017",
+          "number": 17,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-017.pdf",
+          "title": "Floppy the Hero"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-018.m4a",
+          "cover": "oxford/covers/L2-018.jpg",
+          "id": "L2-018",
+          "number": 18,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-018.pdf",
+          "title": "The Chase"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L2-019.m4a",
+          "cover": "oxford/covers/L2-019.jpg",
+          "id": "L2-019",
+          "number": 19,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-019.pdf",
+          "title": "The Big Egg"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L2-020.m4a",
+          "cover": "oxford/covers/L2-020.jpg",
+          "id": "L2-020",
+          "number": 20,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-020.pdf",
+          "title": "Poor Floppy"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L2-021.m4a",
+          "cover": "oxford/covers/L2-021.jpg",
+          "id": "L2-021",
+          "number": 21,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-021.pdf",
+          "title": "Put it back"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L2-022.m4a",
+          "cover": "oxford/covers/L2-022.jpg",
+          "id": "L2-022",
+          "number": 22,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-022.pdf",
+          "title": "In a bit"
+        },
+        {
+          "aspect": 0.7529397056985064,
+          "audio": "oxford/audio/L2-023.m4a",
+          "cover": "oxford/covers/L2-023.jpg",
+          "id": "L2-023",
+          "number": 23,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-023.pdf",
+          "title": "A present for Mum"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L2-024.m4a",
+          "cover": "oxford/covers/L2-024.jpg",
+          "id": "L2-024",
+          "number": 24,
+          "pages": 18,
+          "pdf": "oxford/pdf/L2-024.pdf",
+          "title": "A hole in the sand"
+        },
+        {
+          "aspect": 0.8731617647058824,
+          "audio": "oxford/audio/L2-025.m4a",
+          "cover": "oxford/covers/L2-025.jpg",
+          "id": "L2-025",
+          "number": 25,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-025.pdf",
+          "title": "Monkey Tricks"
+        },
+        {
+          "aspect": 0.8731617647058824,
+          "audio": "oxford/audio/L2-026.m4a",
+          "cover": "oxford/covers/L2-026.jpg",
+          "id": "L2-026",
+          "number": 26,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-026.pdf",
+          "title": "Hey Presto!"
+        },
+        {
+          "aspect": 0.8731617647058824,
+          "audio": "oxford/audio/L2-027.m4a",
+          "cover": "oxford/covers/L2-027.jpg",
+          "id": "L2-027",
+          "number": 27,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-027.pdf",
+          "title": "It's the Weather"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-028.m4a",
+          "cover": "oxford/covers/L2-028.jpg",
+          "id": "L2-028",
+          "number": 28,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-028.pdf",
+          "title": "Naughty Children"
+        },
+        {
+          "aspect": 0.8731617647058824,
+          "audio": "oxford/audio/L2-029.m4a",
+          "cover": "oxford/covers/L2-029.jpg",
+          "id": "L2-029",
+          "number": 29,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-029.pdf",
+          "title": "A Sinking Feeling"
+        },
+        {
+          "aspect": 0.8731617647058824,
+          "audio": "oxford/audio/L2-030.m4a",
+          "cover": "oxford/covers/L2-030.jpg",
+          "id": "L2-030",
+          "number": 30,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-030.pdf",
+          "title": "Creepy-crawly!"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-031.m4a",
+          "cover": "oxford/covers/L2-031.jpg",
+          "id": "L2-031",
+          "number": 31,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-031.pdf",
+          "title": "What is it"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-032.m4a",
+          "cover": "oxford/covers/L2-032.jpg",
+          "id": "L2-032",
+          "number": 32,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-032.pdf",
+          "title": "the Lost Puppy"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-033.m4a",
+          "cover": "oxford/covers/L2-033.jpg",
+          "id": "L2-033",
+          "number": 33,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-033.pdf",
+          "title": "New Trees"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-034.m4a",
+          "cover": "oxford/covers/L2-034.jpg",
+          "id": "L2-034",
+          "number": 34,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-034.pdf",
+          "title": "Up and Down"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-035.m4a",
+          "cover": "oxford/covers/L2-035.jpg",
+          "id": "L2-035",
+          "number": 35,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-035.pdf",
+          "title": "The Little Dragon"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L2-036.m4a",
+          "cover": "oxford/covers/L2-036.jpg",
+          "id": "L2-036",
+          "number": 36,
+          "pages": 20,
+          "pdf": "oxford/pdf/L2-036.pdf",
+          "title": "The Band"
+        }
+      ],
+      "level": 2,
+      "name": "Level 2",
+      "nameCn": "第 2 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-001.m4a",
+          "cover": "oxford/covers/L3-001.jpg",
+          "id": "L3-001",
+          "number": 1,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-001.pdf",
+          "title": "The Duck Race"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-002.m4a",
+          "cover": "oxford/covers/L3-002.jpg",
+          "id": "L3-002",
+          "number": 2,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-002.pdf",
+          "title": "Sniff"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-003.m4a",
+          "cover": "oxford/covers/L3-003.jpg",
+          "id": "L3-003",
+          "number": 3,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-003.pdf",
+          "title": "Pond Dipping"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-004.m4a",
+          "cover": "oxford/covers/L3-004.jpg",
+          "id": "L3-004",
+          "number": 4,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-004.pdf",
+          "title": "The Ice Rink"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-005.m4a",
+          "cover": "oxford/covers/L3-005.jpg",
+          "id": "L3-005",
+          "number": 5,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-005.pdf",
+          "title": "The Mud Bath"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-006.m4a",
+          "cover": "oxford/covers/L3-006.jpg",
+          "id": "L3-006",
+          "number": 6,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-006.pdf",
+          "title": "The Steel Band"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-007.m4a",
+          "cover": "oxford/covers/L3-007.jpg",
+          "id": "L3-007",
+          "number": 7,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-007.pdf",
+          "title": "On the Sand"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-008.m4a",
+          "cover": "oxford/covers/L3-008.jpg",
+          "id": "L3-008",
+          "number": 8,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-008.pdf",
+          "title": "The Egg Hunt"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-009.m4a",
+          "cover": "oxford/covers/L3-009.jpg",
+          "id": "L3-009",
+          "number": 9,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-009.pdf",
+          "title": "Nobody Wanted to Play"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-010.m4a",
+          "cover": "oxford/covers/L3-010.jpg",
+          "id": "L3-010",
+          "number": 10,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-010.pdf",
+          "title": "A Cat in the Tree"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-011.m4a",
+          "cover": "oxford/covers/L3-011.jpg",
+          "id": "L3-011",
+          "number": 11,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-011.pdf",
+          "title": "The Rope Swing"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-012.m4a",
+          "cover": "oxford/covers/L3-012.jpg",
+          "id": "L3-012",
+          "number": 12,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-012.pdf",
+          "title": "By the Stream"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-013.m4a",
+          "cover": "oxford/covers/L3-013.jpg",
+          "id": "L3-013",
+          "number": 13,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-013.pdf",
+          "title": "Kipper the Clown"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-014.m4a",
+          "cover": "oxford/covers/L3-014.jpg",
+          "id": "L3-014",
+          "number": 14,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-014.pdf",
+          "title": "Srawberry Jam"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-015.m4a",
+          "cover": "oxford/covers/L3-015.jpg",
+          "id": "L3-015",
+          "number": 15,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-015.pdf",
+          "title": "The Jumble Sale"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-016.m4a",
+          "cover": "oxford/covers/L3-016.jpg",
+          "id": "L3-016",
+          "number": 16,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-016.pdf",
+          "title": "At the Seaside"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-017.m4a",
+          "cover": "oxford/covers/L3-017.jpg",
+          "id": "L3-017",
+          "number": 17,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-017.pdf",
+          "title": "Kipper's Idea"
+        },
+        {
+          "aspect": 0.8678899082568807,
+          "audio": "oxford/audio/L3-018.m4a",
+          "cover": "oxford/covers/L3-018.jpg",
+          "id": "L3-018",
+          "number": 18,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-018.pdf",
+          "title": "The Snowman"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-019.m4a",
+          "cover": "oxford/covers/L3-019.jpg",
+          "id": "L3-019",
+          "number": 19,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-019.pdf",
+          "title": "The Barbecue"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-020.m4a",
+          "cover": "oxford/covers/L3-020.jpg",
+          "id": "L3-020",
+          "number": 20,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-020.pdf",
+          "title": "The Carnival"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-021.m4a",
+          "cover": "oxford/covers/L3-021.jpg",
+          "id": "L3-021",
+          "number": 21,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-021.pdf",
+          "title": "At the Pool"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-022.m4a",
+          "cover": "oxford/covers/L3-022.jpg",
+          "id": "L3-022",
+          "number": 22,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-022.pdf",
+          "title": "Bull's-eye!"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-023.m4a",
+          "cover": "oxford/covers/L3-023.jpg",
+          "id": "L3-023",
+          "number": 23,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-023.pdf",
+          "title": "Book Week"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-024.m4a",
+          "cover": "oxford/covers/L3-024.jpg",
+          "id": "L3-024",
+          "number": 24,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-024.pdf",
+          "title": "The Cold Day"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-025.m4a",
+          "cover": "oxford/covers/L3-025.jpg",
+          "id": "L3-025",
+          "number": 25,
+          "pages": 18,
+          "pdf": "oxford/pdf/L3-025.pdf",
+          "title": "Midge in Hospital"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L3-026.m4a",
+          "cover": "oxford/covers/L3-026.jpg",
+          "id": "L3-026",
+          "number": 26,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-026.pdf",
+          "title": "Joe and the Bike"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-027.m4a",
+          "cover": "oxford/covers/L3-027.jpg",
+          "id": "L3-027",
+          "number": 27,
+          "pages": 18,
+          "pdf": "oxford/pdf/L3-027.pdf",
+          "title": "Roy and the Budgie"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L3-028.m4a",
+          "cover": "oxford/covers/L3-028.jpg",
+          "id": "L3-028",
+          "number": 28,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-028.pdf",
+          "title": "Midge and the Eggs"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L3-029.m4a",
+          "cover": "oxford/covers/L3-029.jpg",
+          "id": "L3-029",
+          "number": 29,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-029.pdf",
+          "title": "Pip at the Zoo"
+        },
+        {
+          "aspect": 0.8713235294117647,
+          "audio": "oxford/audio/L3-030.m4a",
+          "cover": "oxford/covers/L3-030.jpg",
+          "id": "L3-030",
+          "number": 30,
+          "pages": 20,
+          "pdf": "oxford/pdf/L3-030.pdf",
+          "title": "Pip and the Little Monkey"
+        }
+      ],
+      "level": 3,
+      "name": "Level 3",
+      "nameCn": "第 3 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-001.m4a",
+          "cover": "oxford/covers/L4-001.jpg",
+          "id": "L4-001",
+          "number": 1,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-001.pdf",
+          "title": "Lucky the Goat"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-002.m4a",
+          "cover": "oxford/covers/L4-002.jpg",
+          "id": "L4-002",
+          "number": 2,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-002.pdf",
+          "title": "Adam's Car"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-003.m4a",
+          "cover": "oxford/covers/L4-003.jpg",
+          "id": "L4-003",
+          "number": 3,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-003.pdf",
+          "title": "Yasmin and the Flood"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-004.m4a",
+          "cover": "oxford/covers/L4-004.jpg",
+          "id": "L4-004",
+          "number": 4,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-004.pdf",
+          "title": "Yasmin's Dress"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-005.m4a",
+          "cover": "oxford/covers/L4-005.jpg",
+          "id": "L4-005",
+          "number": 5,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-005.pdf",
+          "title": "Mosque School"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-006.m4a",
+          "cover": "oxford/covers/L4-006.jpg",
+          "id": "L4-006",
+          "number": 6,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-006.pdf",
+          "title": "Adam Goes Shopping"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-007.m4a",
+          "cover": "oxford/covers/L4-007.jpg",
+          "id": "L4-007",
+          "number": 7,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-007.pdf",
+          "title": "House for Sale"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-008.m4a",
+          "cover": "oxford/covers/L4-008.jpg",
+          "id": "L4-008",
+          "number": 8,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-008.pdf",
+          "title": "The New House"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-009.m4a",
+          "cover": "oxford/covers/L4-009.jpg",
+          "id": "L4-009",
+          "number": 9,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-009.pdf",
+          "title": "Come In!"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-010.m4a",
+          "cover": "oxford/covers/L4-010.jpg",
+          "id": "L4-010",
+          "number": 10,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-010.pdf",
+          "title": "The Secret Room"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-011.m4a",
+          "cover": "oxford/covers/L4-011.jpg",
+          "id": "L4-011",
+          "number": 11,
+          "pages": 27,
+          "pdf": "oxford/pdf/L4-011.pdf",
+          "title": "The Play"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-012.m4a",
+          "cover": "oxford/covers/L4-012.jpg",
+          "id": "L4-012",
+          "number": 12,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-012.pdf",
+          "title": "The Storm"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-013.m4a",
+          "cover": "oxford/covers/L4-013.jpg",
+          "id": "L4-013",
+          "number": 13,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-013.pdf",
+          "title": "Nobody Got Wet"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-014.m4a",
+          "cover": "oxford/covers/L4-014.jpg",
+          "id": "L4-014",
+          "number": 14,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-014.pdf",
+          "title": "The Weather Vane"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-015.m4a",
+          "cover": "oxford/covers/L4-015.jpg",
+          "id": "L4-015",
+          "number": 15,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-015.pdf",
+          "title": "Poor Old Mum"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-016.m4a",
+          "cover": "oxford/covers/L4-016.jpg",
+          "id": "L4-016",
+          "number": 16,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-016.pdf",
+          "title": "The Wedding"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-017.m4a",
+          "cover": "oxford/covers/L4-017.jpg",
+          "id": "L4-017",
+          "number": 17,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-017.pdf",
+          "title": "The Camcorder"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-018.m4a",
+          "cover": "oxford/covers/L4-018.jpg",
+          "id": "L4-018",
+          "number": 18,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-018.pdf",
+          "title": "The Balloon"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-019.m4a",
+          "cover": "oxford/covers/L4-019.jpg",
+          "id": "L4-019",
+          "number": 19,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-019.pdf",
+          "title": "Wet Paint"
+        },
+        {
+          "aspect": 0.8697247706422019,
+          "audio": "oxford/audio/L4-020.m4a",
+          "cover": "oxford/covers/L4-020.jpg",
+          "id": "L4-020",
+          "number": 20,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-020.pdf",
+          "title": "Swap!"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-021.m4a",
+          "cover": "oxford/covers/L4-021.jpg",
+          "id": "L4-021",
+          "number": 21,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-021.pdf",
+          "title": "The Flying Elephant"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-022.m4a",
+          "cover": "oxford/covers/L4-022.jpg",
+          "id": "L4-022",
+          "number": 22,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-022.pdf",
+          "title": "The Scarf"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-023.m4a",
+          "cover": "oxford/covers/L4-023.jpg",
+          "id": "L4-023",
+          "number": 23,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-023.pdf",
+          "title": "The Dragon Dance"
+        },
+        {
+          "aspect": 0.8665447897623401,
+          "audio": "oxford/audio/L4-024.m4a",
+          "cover": "oxford/covers/L4-024.jpg",
+          "id": "L4-024",
+          "number": 24,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-024.pdf",
+          "title": "Everyone Got Wet"
+        },
+        {
+          "aspect": 0.86996336996337,
+          "audio": "oxford/audio/L4-025.m4a",
+          "cover": "oxford/covers/L4-025.jpg",
+          "id": "L4-025",
+          "number": 25,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-025.pdf",
+          "title": "Dad's Jacket"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-026.m4a",
+          "cover": "oxford/covers/L4-026.jpg",
+          "id": "L4-026",
+          "number": 26,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-026.pdf",
+          "title": "Stuck in the Mud"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L4-027.m4a",
+          "cover": "oxford/covers/L4-027.jpg",
+          "id": "L4-027",
+          "number": 27,
+          "pages": 20,
+          "pdf": "oxford/pdf/L4-027.pdf",
+          "title": "The Den"
+        },
+        {
+          "aspect": 0.86996336996337,
+          "audio": "oxford/audio/L4-028.m4a",
+          "cover": "oxford/covers/L4-028.jpg",
+          "id": "L4-028",
+          "number": 28,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-028.pdf",
+          "title": "Look Smart"
+        },
+        {
+          "aspect": 0.86996336996337,
+          "audio": "oxford/audio/L4-029.m4a",
+          "cover": "oxford/covers/L4-029.jpg",
+          "id": "L4-029",
+          "number": 29,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-029.pdf",
+          "title": "Tug of War"
+        },
+        {
+          "aspect": 0.86996336996337,
+          "audio": "oxford/audio/L4-030.m4a",
+          "cover": "oxford/covers/L4-030.jpg",
+          "id": "L4-030",
+          "number": 30,
+          "pages": 28,
+          "pdf": "oxford/pdf/L4-030.pdf",
+          "title": "An Important Case"
+        }
+      ],
+      "level": 4,
+      "name": "Level 4",
+      "nameCn": "第 4 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-001.m4a",
+          "cover": "oxford/covers/L5-001.jpg",
+          "id": "L5-001",
+          "number": 1,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-001.pdf",
+          "title": "The Magic key"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-002.m4a",
+          "cover": "oxford/covers/L5-002.jpg",
+          "id": "L5-002",
+          "number": 2,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-002.pdf",
+          "title": "Pirate Adventure"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-003.m4a",
+          "cover": "oxford/covers/L5-003.jpg",
+          "id": "L5-003",
+          "number": 3,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-003.pdf",
+          "title": "The Dragon Tree"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-004.m4a",
+          "cover": "oxford/covers/L5-004.jpg",
+          "id": "L5-004",
+          "number": 4,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-004.pdf",
+          "title": "Gran"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-005.m4a",
+          "cover": "oxford/covers/L5-005.jpg",
+          "id": "L5-005",
+          "number": 5,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-005.pdf",
+          "title": "Castle Adventure"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-006.m4a",
+          "cover": "oxford/covers/L5-006.jpg",
+          "id": "L5-006",
+          "number": 6,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-006.pdf",
+          "title": "Village in the Snow"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-007.m4a",
+          "cover": "oxford/covers/L5-007.jpg",
+          "id": "L5-007",
+          "number": 7,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-007.pdf",
+          "title": "The Whatsit"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-008.m4a",
+          "cover": "oxford/covers/L5-008.jpg",
+          "id": "L5-008",
+          "number": 8,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-008.pdf",
+          "title": "Undergrand Adventure"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-009.m4a",
+          "cover": "oxford/covers/L5-009.jpg",
+          "id": "L5-009",
+          "number": 9,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-009.pdf",
+          "title": "Vanishing Cream"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-010.m4a",
+          "cover": "oxford/covers/L5-010.jpg",
+          "id": "L5-010",
+          "number": 10,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-010.pdf",
+          "title": "It's Not Fair"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-011.m4a",
+          "cover": "oxford/covers/L5-011.jpg",
+          "id": "L5-011",
+          "number": 11,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-011.pdf",
+          "title": "The Great Race"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-012.m4a",
+          "cover": "oxford/covers/L5-012.jpg",
+          "id": "L5-012",
+          "number": 12,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-012.pdf",
+          "title": "A Monster Mistake"
+        },
+        {
+          "aspect": 0.8644688644688645,
+          "audio": "oxford/audio/L5-013.m4a",
+          "cover": "oxford/covers/L5-013.jpg",
+          "id": "L5-013",
+          "number": 13,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-013.pdf",
+          "title": "The New Baby"
+        },
+        {
+          "aspect": 0.8644688644688645,
+          "audio": "oxford/audio/L5-014.m4a",
+          "cover": "oxford/covers/L5-014.jpg",
+          "id": "L5-014",
+          "number": 14,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-014.pdf",
+          "title": "Camping Adventure"
+        },
+        {
+          "aspect": 0.8644688644688645,
+          "audio": "oxford/audio/L5-015.m4a",
+          "cover": "oxford/covers/L5-015.jpg",
+          "id": "L5-015",
+          "number": 15,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-015.pdf",
+          "title": "Scarecrows"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-016.m4a",
+          "cover": "oxford/covers/L5-016.jpg",
+          "id": "L5-016",
+          "number": 16,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-016.pdf",
+          "title": "Noah's Ark Adventure"
+        },
+        {
+          "aspect": 0.8644688644688645,
+          "audio": "oxford/audio/L5-017.m4a",
+          "cover": "oxford/covers/L5-017.jpg",
+          "id": "L5-017",
+          "number": 17,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-017.pdf",
+          "title": "A New Classroom"
+        },
+        {
+          "aspect": 0.8644688644688645,
+          "audio": "oxford/audio/L5-018.m4a",
+          "cover": "oxford/covers/L5-018.jpg",
+          "id": "L5-018",
+          "number": 18,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-018.pdf",
+          "title": "Mum to the Rescue"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-019.m4a",
+          "cover": "oxford/covers/L5-019.jpg",
+          "id": "L5-019",
+          "number": 19,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-019.pdf",
+          "title": "Sleeping Beauty"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-020.m4a",
+          "cover": "oxford/covers/L5-020.jpg",
+          "id": "L5-020",
+          "number": 20,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-020.pdf",
+          "title": "The Adventure Park"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-021.m4a",
+          "cover": "oxford/covers/L5-021.jpg",
+          "id": "L5-021",
+          "number": 21,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-021.pdf",
+          "title": "Kipper and the Trolls"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-022.m4a",
+          "cover": "oxford/covers/L5-022.jpg",
+          "id": "L5-022",
+          "number": 22,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-022.pdf",
+          "title": "Safari Adventure"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-023.m4a",
+          "cover": "oxford/covers/L5-023.jpg",
+          "id": "L5-023",
+          "number": 23,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-023.pdf",
+          "title": "Dad's Run"
+        },
+        {
+          "aspect": 0.8681318681318682,
+          "audio": "oxford/audio/L5-024.m4a",
+          "cover": "oxford/covers/L5-024.jpg",
+          "id": "L5-024",
+          "number": 24,
+          "pages": 28,
+          "pdf": "oxford/pdf/L5-024.pdf",
+          "title": "Drawing Adventure"
+        }
+      ],
+      "level": 5,
+      "name": "Level 5",
+      "nameCn": "第 5 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-001.m4a",
+          "cover": "oxford/covers/L6-001.jpg",
+          "id": "L6-001",
+          "number": 1,
+          "pages": 25,
+          "pdf": "oxford/pdf/L6-001.pdf",
+          "title": "In the Garden"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L6-002.m4a",
+          "cover": "oxford/covers/L6-002.jpg",
+          "id": "L6-002",
+          "number": 2,
+          "pages": 25,
+          "pdf": "oxford/pdf/L6-002.pdf",
+          "title": "Kipper and the Giant"
+        },
+        {
+          "aspect": 0.7648917863525051,
+          "audio": "oxford/audio/L6-003.m4a",
+          "cover": "oxford/covers/L6-003.jpg",
+          "id": "L6-003",
+          "number": 3,
+          "pages": 19,
+          "pdf": "oxford/pdf/L6-003.pdf",
+          "title": "The Outing"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-004.m4a",
+          "cover": "oxford/covers/L6-004.jpg",
+          "id": "L6-004",
+          "number": 4,
+          "pages": 25,
+          "pdf": "oxford/pdf/L6-004.pdf",
+          "title": "Land of the Dinosaurs"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L6-005.m4a",
+          "cover": "oxford/covers/L6-005.jpg",
+          "id": "L6-005",
+          "number": 5,
+          "pages": 25,
+          "pdf": "oxford/pdf/L6-005.pdf",
+          "title": "Robbin Hood"
+        },
+        {
+          "aspect": 0.7658476741059426,
+          "audio": "oxford/audio/L6-006.m4a",
+          "cover": "oxford/covers/L6-006.jpg",
+          "id": "L6-006",
+          "number": 6,
+          "pages": 24,
+          "pdf": "oxford/pdf/L6-006.pdf",
+          "title": "The Treasure Chest"
+        },
+        {
+          "aspect": 0.7668259086075052,
+          "audio": "oxford/audio/L6-007.m4a",
+          "cover": "oxford/covers/L6-007.jpg",
+          "id": "L6-007",
+          "number": 7,
+          "pages": 22,
+          "pdf": "oxford/pdf/L6-007.pdf",
+          "title": "A Fright in the Night"
+        },
+        {
+          "aspect": 0.7465521025000422,
+          "audio": "oxford/audio/L6-008.m4a",
+          "cover": "oxford/covers/L6-008.jpg",
+          "id": "L6-008",
+          "number": 8,
+          "pages": 20,
+          "pdf": "oxford/pdf/L6-008.pdf",
+          "title": "Rotten Apples"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-009.m4a",
+          "cover": "oxford/covers/L6-009.jpg",
+          "id": "L6-009",
+          "number": 9,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-009.pdf",
+          "title": "The Laughing Princess"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-010.m4a",
+          "cover": "oxford/covers/L6-010.jpg",
+          "id": "L6-010",
+          "number": 10,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-010.pdf",
+          "title": "Christmas Adventure"
+        },
+        {
+          "aspect": 0.7448822584961199,
+          "audio": "oxford/audio/L6-011.m4a",
+          "cover": "oxford/covers/L6-011.jpg",
+          "id": "L6-011",
+          "number": 11,
+          "pages": 17,
+          "pdf": "oxford/pdf/L6-011.pdf",
+          "title": "The Go-Kart Race"
+        },
+        {
+          "aspect": 0.8207599723155354,
+          "audio": "oxford/audio/L6-012.m4a",
+          "cover": "oxford/covers/L6-012.jpg",
+          "id": "L6-012",
+          "number": 12,
+          "pages": 21,
+          "pdf": "oxford/pdf/L6-012.pdf",
+          "title": "The Shiny Key"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-013.m4a",
+          "cover": "oxford/covers/L6-013.jpg",
+          "id": "L6-013",
+          "number": 13,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-013.pdf",
+          "title": "Paris Adventure"
+        },
+        {
+          "aspect": 0.7485223960792615,
+          "audio": "oxford/audio/L6-014.m4a",
+          "cover": "oxford/covers/L6-014.jpg",
+          "id": "L6-014",
+          "number": 14,
+          "pages": 20,
+          "pdf": "oxford/pdf/L6-014.pdf",
+          "title": "The Stolen Crown Part 1"
+        },
+        {
+          "aspect": 0.7550352508263185,
+          "audio": "oxford/audio/L6-015.m4a",
+          "cover": "oxford/covers/L6-015.jpg",
+          "id": "L6-015",
+          "number": 15,
+          "pages": 21,
+          "pdf": "oxford/pdf/L6-015.pdf",
+          "title": "The Stolen Crown Part 2"
+        },
+        {
+          "aspect": 0.7420095413322045,
+          "audio": "oxford/audio/L6-016.m4a",
+          "cover": "oxford/covers/L6-016.jpg",
+          "id": "L6-016",
+          "number": 16,
+          "pages": 16,
+          "pdf": "oxford/pdf/L6-016.pdf",
+          "title": "Ship in Trouble"
+        },
+        {
+          "aspect": 0.7318181072793165,
+          "audio": "oxford/audio/L6-017.m4a",
+          "cover": "oxford/covers/L6-017.jpg",
+          "id": "L6-017",
+          "number": 17,
+          "pages": 18,
+          "pdf": "oxford/pdf/L6-017.pdf",
+          "title": "Homework"
+        },
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L6-018.m4a",
+          "cover": "oxford/covers/L6-018.jpg",
+          "id": "L6-018",
+          "number": 18,
+          "pages": 28,
+          "pdf": "oxford/pdf/L6-018.pdf",
+          "title": "Olympic Adventure"
+        },
+        {
+          "aspect": 0.7635467980295566,
+          "audio": "oxford/audio/L6-019.m4a",
+          "cover": "oxford/covers/L6-019.jpg",
+          "id": "L6-019",
+          "number": 19,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-019.pdf",
+          "title": "Dad's Grand Plan"
+        },
+        {
+          "aspect": 0.7635467980295566,
+          "audio": "oxford/audio/L6-020.m4a",
+          "cover": "oxford/covers/L6-020.jpg",
+          "id": "L6-020",
+          "number": 20,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-020.pdf",
+          "title": "Mirror Island"
+        },
+        {
+          "aspect": 0.7598039215686274,
+          "audio": "oxford/audio/L6-021.m4a",
+          "cover": "oxford/covers/L6-021.jpg",
+          "id": "L6-021",
+          "number": 21,
+          "pages": 26,
+          "pdf": "oxford/pdf/L6-021.pdf",
+          "title": "Don't Be Silly"
+        }
+      ],
+      "level": 6,
+      "name": "Level 6",
+      "nameCn": "第 6 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.7066508313539193,
+          "audio": "oxford/audio/L7-001.m4a",
+          "cover": "oxford/covers/L7-001.jpg",
+          "id": "L7-001",
+          "number": 1,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-001.pdf",
+          "title": "Red Planet"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L7-002.m4a",
+          "cover": "oxford/covers/L7-002.jpg",
+          "id": "L7-002",
+          "number": 2,
+          "pages": 34,
+          "pdf": "oxford/pdf/L7-002.pdf",
+          "title": "Lost in the jungle"
+        },
+        {
+          "aspect": 0.7507313961417479,
+          "audio": "oxford/audio/L7-003.m4a",
+          "cover": "oxford/covers/L7-003.jpg",
+          "id": "L7-003",
+          "number": 3,
+          "pages": 34,
+          "pdf": "oxford/pdf/L7-003.pdf",
+          "title": "The Broken Roof"
+        },
+        {
+          "aspect": 0.7598039215686274,
+          "audio": "oxford/audio/L7-005.m4a",
+          "cover": "oxford/covers/L7-005.jpg",
+          "id": "L7-005",
+          "number": 5,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-005.pdf",
+          "title": "The Willow Pattern Plot"
+        },
+        {
+          "aspect": 0.7598039215686274,
+          "audio": "oxford/audio/L7-006.m4a",
+          "cover": "oxford/covers/L7-006.jpg",
+          "id": "L7-006",
+          "number": 6,
+          "pages": 34,
+          "pdf": "oxford/pdf/L7-006.pdf",
+          "title": "Submarine Adventure"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-007.m4a",
+          "cover": "oxford/covers/L7-007.jpg",
+          "id": "L7-007",
+          "number": 7,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-007.pdf",
+          "title": "The Motorway"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-008.m4a",
+          "cover": "oxford/covers/L7-008.jpg",
+          "id": "L7-008",
+          "number": 8,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-008.pdf",
+          "title": "The Bully"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-009.m4a",
+          "cover": "oxford/covers/L7-009.jpg",
+          "id": "L7-009",
+          "number": 9,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-009.pdf",
+          "title": "The Hunt for Gold"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-010.m4a",
+          "cover": "oxford/covers/L7-010.jpg",
+          "id": "L7-010",
+          "number": 10,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-010.pdf",
+          "title": "Chinese Adventure"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-011.m4a",
+          "cover": "oxford/covers/L7-011.jpg",
+          "id": "L7-011",
+          "number": 11,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-011.pdf",
+          "title": "Roman Adventure"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-012.m4a",
+          "cover": "oxford/covers/L7-012.jpg",
+          "id": "L7-012",
+          "number": 12,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-012.pdf",
+          "title": "The Jigsaw Puzzle"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-013.m4a",
+          "cover": "oxford/covers/L7-013.jpg",
+          "id": "L7-013",
+          "number": 13,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-013.pdf",
+          "title": "The Power Cut"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-014.m4a",
+          "cover": "oxford/covers/L7-014.jpg",
+          "id": "L7-014",
+          "number": 14,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-014.pdf",
+          "title": "Australian Adventure"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-015.m4a",
+          "cover": "oxford/covers/L7-015.jpg",
+          "id": "L7-015",
+          "number": 15,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-015.pdf",
+          "title": "The Riddle Stone Part 1"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-016.m4a",
+          "cover": "oxford/covers/L7-016.jpg",
+          "id": "L7-016",
+          "number": 16,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-016.pdf",
+          "title": "The Riddle Stone Part 2"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-017.m4a",
+          "cover": "oxford/covers/L7-017.jpg",
+          "id": "L7-017",
+          "number": 17,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-017.pdf",
+          "title": "A Sea Mystery"
+        },
+        {
+          "aspect": 0.761437908496732,
+          "audio": "oxford/audio/L7-018.m4a",
+          "cover": "oxford/covers/L7-018.jpg",
+          "id": "L7-018",
+          "number": 18,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-018.pdf",
+          "title": "The Big Breakfast"
+        },
+        {
+          "aspect": 0.7598039215686274,
+          "audio": "oxford/audio/L7-019.m4a",
+          "cover": "oxford/covers/L7-019.jpg",
+          "id": "L7-019",
+          "number": 19,
+          "pages": 36,
+          "pdf": "oxford/pdf/L7-019.pdf",
+          "title": "The Joke Machine"
+        }
+      ],
+      "level": 7,
+      "name": "Level 7",
+      "nameCn": "第 7 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-001.m4a",
+          "cover": "oxford/covers/L8-001.jpg",
+          "id": "L8-001",
+          "number": 1,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-001.pdf",
+          "title": "The Kidnappers"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-002.m4a",
+          "cover": "oxford/covers/L8-002.jpg",
+          "id": "L8-002",
+          "number": 2,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-002.pdf",
+          "title": "Viking Adenture"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-003.m4a",
+          "cover": "oxford/covers/L8-003.jpg",
+          "id": "L8-003",
+          "number": 3,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-003.pdf",
+          "title": "The Rainbow Machine"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-004.m4a",
+          "cover": "oxford/covers/L8-004.jpg",
+          "id": "L8-004",
+          "number": 4,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-004.pdf",
+          "title": "The Flying Carpet"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-005.m4a",
+          "cover": "oxford/covers/L8-005.jpg",
+          "id": "L8-005",
+          "number": 5,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-005.pdf",
+          "title": "A Day in London"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-006.m4a",
+          "cover": "oxford/covers/L8-006.jpg",
+          "id": "L8-006",
+          "number": 6,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-006.pdf",
+          "title": "Victorian Adenture"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-007.m4a",
+          "cover": "oxford/covers/L8-007.jpg",
+          "id": "L8-007",
+          "number": 7,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-007.pdf",
+          "title": "Pocket Money"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-008.m4a",
+          "cover": "oxford/covers/L8-008.jpg",
+          "id": "L8-008",
+          "number": 8,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-008.pdf",
+          "title": "The Evil Genie"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-009.m4a",
+          "cover": "oxford/covers/L8-009.jpg",
+          "id": "L8-009",
+          "number": 9,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-009.pdf",
+          "title": "Save Floppy!"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-010.m4a",
+          "cover": "oxford/covers/L8-010.jpg",
+          "id": "L8-010",
+          "number": 10,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-010.pdf",
+          "title": "What was it like"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-011.m4a",
+          "cover": "oxford/covers/L8-011.jpg",
+          "id": "L8-011",
+          "number": 11,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-011.pdf",
+          "title": "Flood!"
+        },
+        {
+          "aspect": 0.7610474631751227,
+          "audio": "oxford/audio/L8-012.m4a",
+          "cover": "oxford/covers/L8-012.jpg",
+          "id": "L8-012",
+          "number": 12,
+          "pages": 36,
+          "pdf": "oxford/pdf/L8-012.pdf",
+          "title": "Egyptian Adventure"
+        }
+      ],
+      "level": 8,
+      "name": "Level 8",
+      "nameCn": "第 8 级"
+    },
+    {
+      "books": [
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-001.m4a",
+          "cover": "oxford/covers/L9-001.jpg",
+          "id": "L9-001",
+          "number": 1,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-001.pdf",
+          "title": "Green Island"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-002.m4a",
+          "cover": "oxford/covers/L9-002.jpg",
+          "id": "L9-002",
+          "number": 2,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-002.pdf",
+          "title": "Storm Castle"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-003.m4a",
+          "cover": "oxford/covers/L9-003.jpg",
+          "id": "L9-003",
+          "number": 3,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-003.pdf",
+          "title": "Superdog"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-004.m4a",
+          "cover": "oxford/covers/L9-004.jpg",
+          "id": "L9-004",
+          "number": 4,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-004.pdf",
+          "title": "The Litter Queen"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-005.m4a",
+          "cover": "oxford/covers/L9-005.jpg",
+          "id": "L9-005",
+          "number": 5,
+          "pages": 32,
+          "pdf": "oxford/pdf/L9-005.pdf",
+          "title": "The Quest"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-006.m4a",
+          "cover": "oxford/covers/L9-006.jpg",
+          "id": "L9-006",
+          "number": 6,
+          "pages": 38,
+          "pdf": "oxford/pdf/L9-006.pdf",
+          "title": "Survival Adventure"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-007.m4a",
+          "cover": "oxford/covers/L9-007.jpg",
+          "id": "L9-007",
+          "number": 7,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-007.pdf",
+          "title": "The Blue Eye"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-008.m4a",
+          "cover": "oxford/covers/L9-008.jpg",
+          "id": "L9-008",
+          "number": 8,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-008.pdf",
+          "title": "Rescue!"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-009.m4a",
+          "cover": "oxford/covers/L9-009.jpg",
+          "id": "L9-009",
+          "number": 9,
+          "pages": 35,
+          "pdf": "oxford/pdf/L9-009.pdf",
+          "title": "Dutch Adventure"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-010.m4a",
+          "cover": "oxford/covers/L9-010.jpg",
+          "id": "L9-010",
+          "number": 10,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-010.pdf",
+          "title": "The Finest in the Land"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-011.m4a",
+          "cover": "oxford/covers/L9-011.jpg",
+          "id": "L9-011",
+          "number": 11,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-011.pdf",
+          "title": "The Flying Machine"
+        },
+        {
+          "aspect": 0.7594108019639935,
+          "audio": "oxford/audio/L9-012.m4a",
+          "cover": "oxford/covers/L9-012.jpg",
+          "id": "L9-012",
+          "number": 12,
+          "pages": 36,
+          "pdf": "oxford/pdf/L9-012.pdf",
+          "title": "Key Trouble"
+        }
+      ],
+      "level": 9,
+      "name": "Level 9",
+      "nameCn": "第 9 级"
+    }
+  ],
+  "title": "Oxford Reading Tree",
+  "titleCn": "牛津树分级绘本"
+}

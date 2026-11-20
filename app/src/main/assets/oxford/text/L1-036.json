@@ -1,0 +1,117 @@
+{
+  "id": "L1-036",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, little cat.",
+          "zh": "去离开， 小的猫。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, little cat.",
+          "zh": "去离开， 小的猫。",
+          "startMs": 0,
+          "endMs": 4100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 4450
+    },
+    {
+      "sentences": [],
+      "startMs": 17060,
+      "endMs": 20502,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, little cat.",
+          "zh": "去离开， 小的猫。",
+          "startMs": 13000,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 12850,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A big dog is coming.",
+          "zh": "一个大的狗是来。",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Go away, little cat.",
+          "zh": "去离开， 小的猫。",
+          "startMs": 25000,
+          "endMs": 28100
+        }
+      ],
+      "startMs": 24850,
+      "endMs": 28450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy is coming.",
+          "zh": "Floppy 是来。",
+          "startMs": 38090,
+          "endMs": 42100
+        }
+      ],
+      "startMs": 37940,
+      "endMs": 42450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 57360,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 57210,
+      "endMs": 60450
+    },
+    {
+      "sentences": [],
+      "startMs": 61926,
+      "endMs": 62624,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 62624,
+      "endMs": 62924,
+      "illustrationOnly": true
+    }
+  ]
+}

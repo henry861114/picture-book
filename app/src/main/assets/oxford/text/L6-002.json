@@ -1,0 +1,677 @@
+{
+  "id": "L6-002",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was watching television.",
+          "zh": "Kipper 在看电视。",
+          "startMs": 29,
+          "endMs": 5820
+        },
+        {
+          "en": "He was watching a programme called 'The angry giant'.",
+          "zh": "他正在看一档名为《愤怒的巨人》的节目。",
+          "startMs": 5850,
+          "endMs": 10230
+        },
+        {
+          "en": "He liked the program.",
+          "zh": "她喜欢这个节目。",
+          "startMs": 11110,
+          "endMs": 12930
+        }
+      ],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 13280
+    },
+    {
+      "sentences": [
+        {
+          "en": "The angry giant lived in a castle near a village.",
+          "zh": "愤怒的巨人住在村庄附近的一座城堡里。",
+          "startMs": 15830,
+          "endMs": 20170
+        },
+        {
+          "en": "Nobody in the village liked the giant.",
+          "zh": "村里没有人喜欢这个巨人。",
+          "startMs": 20200,
+          "endMs": 23250
+        },
+        {
+          "en": "He was always cross.",
+          "zh": "他总是很生气。",
+          "startMs": 24160,
+          "endMs": 27610
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 15680,
+      "endMs": 27960
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the giant was cross he stamped his feet and the houses shook.",
+          "zh": "巨人生气的时候，他会跺脚，房子就会摇晃。",
+          "startMs": 27640,
+          "endMs": 31590
+        },
+        {
+          "en": "'Oh no!' Everyone said.",
+          "zh": "“哎呀，不好了。” 大家都这么说。",
+          "startMs": 37840,
+          "endMs": 41930
+        },
+        {
+          "en": "'He's cross again.",
+          "zh": "“他又生气了。",
+          "startMs": 41960,
+          "endMs": 43970
+        },
+        {
+          "en": "He's always cross.' \"Oh!\"",
+          "zh": "他总是很生气。” “哎呀！”",
+          "startMs": 44000,
+          "endMs": 46690
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 27960,
+      "endMs": 47040
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went to find Chip but he was out.",
+          "zh": "Kipper 去找 Chip，但他不在家。",
+          "startMs": 50870,
+          "endMs": 55460
+        },
+        {
+          "en": "He picked up the magic key and it began to glow.",
+          "zh": "他拿起魔法钥匙，钥匙开始发光。Kipper 说。",
+          "startMs": 55490,
+          "endMs": 60190
+        },
+        {
+          "en": "'Ooh!' said Kipper.",
+          "zh": "“哎呀！”Kipper 说道。",
+          "startMs": 61380,
+          "endMs": 62890
+        },
+        {
+          "en": "The magic took Kipper to the gate of the giant's castle.",
+          "zh": "魔法把 Kipper 带到了巨人的城堡大门。",
+          "startMs": 81970,
+          "endMs": 83230
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 50720,
+      "endMs": 83580
+    },
+    {
+      "sentences": [
+        {
+          "en": "He ran to get Biff but she was out with Chip.",
+          "zh": "他跑去找 Biff，但她和 Chip 出去了。",
+          "startMs": 83260,
+          "endMs": 87290
+        },
+        {
+          "en": "The magic began to work.",
+          "zh": "魔法开始起作用了。",
+          "startMs": 87290,
+          "endMs": 87490
+        },
+        {
+          "en": "It took Kipper inside the magic house.",
+          "zh": "它把 Kipper 带进了魔法屋。",
+          "startMs": 87490,
+          "endMs": 87690
+        },
+        {
+          "en": "He saw a signpost.",
+          "zh": "他看到了一块路标。",
+          "startMs": 90450,
+          "endMs": 92750
+        },
+        {
+          "en": "It pointed to the village.",
+          "zh": "它指向村庄。",
+          "startMs": 92780,
+          "endMs": 94200
+        },
+        {
+          "en": "He didn't want to meet the giant so he went to the village.",
+          "zh": "他不想见到巨人，所以他去了村庄。",
+          "startMs": 94830,
+          "endMs": 99770
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 83580,
+      "endMs": 100120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was frightened.",
+          "zh": "Kipper 吓坏了。",
+          "startMs": 99800,
+          "endMs": 101190
+        },
+        {
+          "en": "Kipper came to the village but it was tiny.",
+          "zh": "Kipper 来到了村庄，但村庄很小。",
+          "startMs": 105860,
+          "endMs": 110380
+        },
+        {
+          "en": "Kipper was a giant.",
+          "zh": "Kipper 变成了一个巨人。",
+          "startMs": 110480,
+          "endMs": 112580
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 100120,
+      "endMs": 112930
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Kipper.",
+          "zh": "“哎呀，不好了。” Kipper 说道。",
+          "startMs": 112970,
+          "endMs": 117070
+        },
+        {
+          "en": "\"Go away!\" Yelled the people.",
+          "zh": "“走开！” 人们大喊道。",
+          "startMs": 117970,
+          "endMs": 120670
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 112930,
+      "endMs": 121020
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people threw things at Kipper.",
+          "zh": "人们向 Kipper 扔东西。",
+          "startMs": 134210,
+          "endMs": 137810
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 134060,
+      "endMs": 138160
+    },
+    {
+      "sentences": [
+        {
+          "en": "'We don't want you.",
+          "zh": "'我们不想要你。",
+          "startMs": 137840,
+          "endMs": 139560
+        },
+        {
+          "en": "We've got one giant.",
+          "zh": "我们已经有一个巨人了！",
+          "startMs": 139560,
+          "endMs": 139760
+        },
+        {
+          "en": "We don't want another one'.",
+          "zh": "我们不想要另一个一'。",
+          "startMs": 139760,
+          "endMs": 139960
+        },
+        {
+          "en": "\"Go away!\" They yelled.",
+          "zh": "“走开！” 他们大喊大叫。",
+          "startMs": 139960,
+          "endMs": 144930
+        },
+        {
+          "en": "\"We don't want another giant!",
+          "zh": "“我们不想要另一个巨人！",
+          "startMs": 144960,
+          "endMs": 148090
+        },
+        {
+          "en": "'We don't want you.",
+          "zh": "'我们不想要你。",
+          "startMs": 148120,
+          "endMs": 149900
+        },
+        {
+          "en": "\"Stop it!\" Shouted Kipper.",
+          "zh": "“住手！” Kipper 喊道。",
+          "startMs": 151000,
+          "endMs": 154890
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 138160,
+      "endMs": 155240
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people said.",
+          "zh": "人们说道。",
+          "startMs": 158450,
+          "endMs": 160550
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 158300,
+      "endMs": 160900
+    },
+    {
+      "sentences": [
+        {
+          "en": "I'm not a giant.",
+          "zh": "“我不是巨人！",
+          "startMs": 160580,
+          "endMs": 162300
+        },
+        {
+          "en": "I'm a boy.'",
+          "zh": "我是一个男孩。'",
+          "startMs": 162300,
+          "endMs": 162500
+        },
+        {
+          "en": "The people said, 'Well, you look like a giant.'",
+          "zh": "这人们说， '好， 你看喜欢一个巨人。'",
+          "startMs": 162500,
+          "endMs": 165070
+        },
+        {
+          "en": "I'm not a giant.",
+          "zh": "“我不是巨人！",
+          "startMs": 170420,
+          "endMs": 173640
+        },
+        {
+          "en": "He said.",
+          "zh": "他说。",
+          "startMs": 173640,
+          "endMs": 174560
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 160900,
+      "endMs": 174910
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper began to cry.",
+          "zh": "Kipper 开始哭了起来。",
+          "startMs": 174590,
+          "endMs": 176310
+        },
+        {
+          "en": "I'm a little boy and I don't like this adventure.",
+          "zh": "他说：“我只是个小男孩，我不喜欢这次冒险！”",
+          "startMs": 176310,
+          "endMs": 180700
+        },
+        {
+          "en": "\"Giants don't cry!\" Said the people.",
+          "zh": "“巨人是不会哭的！” 人们说道。",
+          "startMs": 182500,
+          "endMs": 186500
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 174910,
+      "endMs": 186850
+    },
+    {
+      "sentences": [
+        {
+          "en": "he is a little boy but he looks like a giant to us.",
+          "zh": "“他也许是个小男孩，但在我们看来，他像个巨人！”",
+          "startMs": 188490,
+          "endMs": 198070
+        },
+        {
+          "en": "Perhaps he can help us?",
+          "zh": "“也许他能帮我们！”",
+          "startMs": 198070,
+          "endMs": 198270
+        },
+        {
+          "en": "Kipper began to mend their houses.",
+          "zh": "Kipper 帮助村民们修补房屋。",
+          "startMs": 199000,
+          "endMs": 203510
+        },
+        {
+          "en": "\"Good old Kipper!\"",
+          "zh": "“好样的 Kipper！”",
+          "startMs": 207130,
+          "endMs": 210270
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 188340,
+      "endMs": 210620
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put back the broken roofs.",
+          "zh": "他把破损的屋顶修好了。",
+          "startMs": 210300,
+          "endMs": 212680
+        },
+        {
+          "en": "Everyone said.",
+          "zh": "大家都这么说。",
+          "startMs": 212680,
+          "endMs": 212880
+        },
+        {
+          "en": "Said the people.",
+          "zh": "人们说道。",
+          "startMs": 215820,
+          "endMs": 216970
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 210620,
+      "endMs": 217320
+    },
+    {
+      "sentences": [
+        {
+          "en": "'The giant threw this big stone at us,' said the people.",
+          "zh": "'这巨人扔这个大的石块在我们，' 说这人们。",
+          "startMs": 217000,
+          "endMs": 221360
+        },
+        {
+          "en": "\"I don't want it here!",
+          "zh": "“我们不想要它在这里！",
+          "startMs": 221360,
+          "endMs": 221560
+        },
+        {
+          "en": "Can you put it outside the village?' \"Yes!\" Said Kipper.",
+          "zh": "能你放它外面这村庄？' “可以！” Kipper 说道。",
+          "startMs": 221560,
+          "endMs": 228290
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 217320,
+      "endMs": 228640
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'll try!\"",
+          "zh": "“我会试试的！”",
+          "startMs": 229050,
+          "endMs": 230150
+        },
+        {
+          "en": "He picked up the stone and took it outside the village.",
+          "zh": "他拿起石头，把它搬到了村子外面。",
+          "startMs": 237920,
+          "endMs": 241730
+        },
+        {
+          "en": "'Good old Kipper!' Everyone called.",
+          "zh": "“好样的 Kipper！” 大家都喊了起来。",
+          "startMs": 241870,
+          "endMs": 245930
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 228900,
+      "endMs": 246280
+    },
+    {
+      "sentences": [
+        {
+          "en": "All the people liked Kipper.",
+          "zh": "“所有人都喜欢 Kipper！”",
+          "startMs": 246860,
+          "endMs": 248960
+        },
+        {
+          "en": "\"Thank you!\" They said.",
+          "zh": "“谢谢你。” 他们说。",
+          "startMs": 249450,
+          "endMs": 252310
+        },
+        {
+          "en": "'You have helped us a lot.'",
+          "zh": "'你有帮助我们一个许多。'",
+          "startMs": 252340,
+          "endMs": 255020
+        },
+        {
+          "en": "The village band played for him.",
+          "zh": "村里的乐队为他演奏。",
+          "startMs": 255830,
+          "endMs": 258930
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 246710,
+      "endMs": 259280
+    },
+    {
+      "sentences": [
+        {
+          "en": "The giant came back.",
+          "zh": "巨人回来了。",
+          "startMs": 259830,
+          "endMs": 265130
+        },
+        {
+          "en": "He was very angry when he saw Kipper in the village.",
+          "zh": "当他看到 Kipper 在村子里时，他非常生气。",
+          "startMs": 265160,
+          "endMs": 269940
+        },
+        {
+          "en": "\"I'm the giant here!\"",
+          "zh": "“我才是这里的巨人！”",
+          "startMs": 270860,
+          "endMs": 272960
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 259680,
+      "endMs": 273310
+    },
+    {
+      "sentences": [
+        {
+          "en": "He shouted.",
+          "zh": "他大喊道。",
+          "startMs": 273160,
+          "endMs": 274610
+        },
+        {
+          "en": "He ran towards the village.",
+          "zh": "他朝村子跑去。",
+          "startMs": 274640,
+          "endMs": 277300
+        },
+        {
+          "en": "Crash!",
+          "zh": "“砰！”",
+          "startMs": 277300,
+          "endMs": 278670
+        },
+        {
+          "en": "He fell over the stone.",
+          "zh": "他被石头绊倒了。",
+          "startMs": 279460,
+          "endMs": 282130
+        },
+        {
+          "en": "'Ouch!' He yelled.",
+          "zh": "“哎哟！” 他大喊道。",
+          "startMs": 286940,
+          "endMs": 290960
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 273310,
+      "endMs": 291310
+    },
+    {
+      "sentences": [
+        {
+          "en": "The people were frightened but Kipper went to help the giant.",
+          "zh": "人们吓坏了，但 Kipper 去帮助巨人。",
+          "startMs": 290990,
+          "endMs": 299480
+        },
+        {
+          "en": "He picked up the giant's things and put a bandage round his head.",
+          "zh": "他捡起巨人的东西，在巨人的头上缠上绷带。",
+          "startMs": 300970,
+          "endMs": 304070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 291310,
+      "endMs": 304420
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was bigger than the giant.",
+          "zh": "“Kipper 比巨人还大。”",
+          "startMs": 304860,
+          "endMs": 308960
+        },
+        {
+          "en": "'Be a good giant,' said Kipper.",
+          "zh": "'是一个好的巨人，' 说 Kipper。 Kipper 说道。",
+          "startMs": 308990,
+          "endMs": 312630
+        },
+        {
+          "en": "'Stop being angry and the people will like you.'",
+          "zh": "'停正在生气的和这人们将喜欢你。'",
+          "startMs": 312660,
+          "endMs": 315690
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 304710,
+      "endMs": 316040
+    },
+    {
+      "sentences": [
+        {
+          "en": "So the giant stopped being angry.",
+          "zh": "于是，巨人不再生气了。",
+          "startMs": 318860,
+          "endMs": 322960
+        },
+        {
+          "en": "I'll try to be good,' he said.",
+          "zh": "“我会努力做个好人！”",
+          "startMs": 323570,
+          "endMs": 327870
+        },
+        {
+          "en": "'Hooray!' Shouted the people.",
+          "zh": "太棒了！ 人们大声喊道。",
+          "startMs": 328180,
+          "endMs": 332800
+        },
+        {
+          "en": "'Let's have a party!'",
+          "zh": "'让我们有一个聚会！'",
+          "startMs": 332830,
+          "endMs": 334880
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 318710,
+      "endMs": 335230
+    },
+    {
+      "sentences": [
+        {
+          "en": "The key began to glow.",
+          "zh": "钥匙开始发光。",
+          "startMs": 337290,
+          "endMs": 339320
+        },
+        {
+          "en": "'It's time for me to go now, said Kipper.",
+          "zh": "'它是时间为了我到去现在， 说 Kipper。 Kipper 说道。",
+          "startMs": 339480,
+          "endMs": 344610
+        },
+        {
+          "en": "'Goodbye.",
+          "zh": "“再见。”",
+          "startMs": 345370,
+          "endMs": 346470
+        },
+        {
+          "en": "Thank you for the party.'",
+          "zh": "谢谢你为了这聚会。'",
+          "startMs": 346740,
+          "endMs": 348610
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 337140,
+      "endMs": 348960
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took Kipper home.",
+          "zh": "魔法把 Kipper 带回了家。",
+          "startMs": 359210,
+          "endMs": 361310
+        },
+        {
+          "en": "'Nobody likes an angry giant,' said Kipper.",
+          "zh": "“没有人喜欢一个生气的巨人，”Kipper 说。 Kipper 说道。",
+          "startMs": 361990,
+          "endMs": 367010
+        },
+        {
+          "en": "'What an adventure!'",
+          "zh": "“真是一次奇妙的冒险！”",
+          "startMs": 367160,
+          "endMs": 368400
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 359060,
+      "endMs": 368750
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "L3-028",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "sentences": [],
+      "startMs": 800,
+      "endMs": 1600
+    },
+    {
+      "sentences": [
+        {
+          "en": "/2 eggs RECIPE Flour Midge's mum wanted some eggs.",
+          "zh": "/2 鸡蛋食谱面粉蠓妈妈想要一些鸡蛋。",
+          "startMs": 2100,
+          "endMs": 8060
+        }
+      ],
+      "startMs": 1950,
+      "endMs": 8410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge went to the egg shop.",
+          "zh": "蠓去到这鸡蛋商店。",
+          "startMs": 7960,
+          "endMs": 13160
+        }
+      ],
+      "startMs": 7810,
+      "endMs": 13510
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put the eggs in a bag.",
+          "zh": "他放这鸡蛋在……里一个包。",
+          "startMs": 13060,
+          "endMs": 17560
+        }
+      ],
+      "startMs": 12910,
+      "endMs": 17910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and play,\" said his friends.",
+          "zh": "来和玩， 说他的朋友们。",
+          "startMs": 17460,
+          "endMs": 24060
+        }
+      ],
+      "startMs": 17310,
+      "endMs": 24410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can't,\" said Midge.",
+          "zh": "我不能， 说蠓。",
+          "startMs": 23960,
+          "endMs": 26650
+        },
+        {
+          "en": "\"My Mum wants these eggs.\"",
+          "zh": "我的妈妈想要这些鸡蛋。",
+          "startMs": 28180,
+          "endMs": 33760
+        }
+      ],
+      "startMs": 23810,
+      "endMs": 34110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge saw his friend.",
+          "zh": "蠓看见他的朋友。",
+          "startMs": 33660,
+          "endMs": 37260
+        },
+        {
+          "en": "The friend had a go-kart.",
+          "zh": "这朋友有一个卡丁车。",
+          "startMs": 38300,
+          "endMs": 46760
+        }
+      ],
+      "startMs": 33510,
+      "endMs": 47110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge wanted a go.",
+          "zh": "蠓想要一个去。",
+          "startMs": 41660,
+          "endMs": 46760
+        }
+      ],
+      "startMs": 41510,
+      "endMs": 47110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge put the bag down.",
+          "zh": "蠓放这包向下。",
+          "startMs": 46660,
+          "endMs": 50760
+        }
+      ],
+      "startMs": 46510,
+      "endMs": 51110
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went on the go-kart.",
+          "zh": "他去在……上这卡丁车。",
+          "startMs": 50660,
+          "endMs": 52580
+        },
+        {
+          "en": "He forgot the eggs.",
+          "zh": "他忘记这鸡蛋。",
+          "startMs": 54180,
+          "endMs": 59760
+        }
+      ],
+      "startMs": 50510,
+      "endMs": 60110
+    },
+    {
+      "sentences": [
+        {
+          "en": "A man put the bag in the cart.",
+          "zh": "一个男人放这包在……里这大车。",
+          "startMs": 59660,
+          "endMs": 62370
+        },
+        {
+          "en": "\"Oh no!\" said Midge.",
+          "zh": "哦不！ 说蠓。",
+          "startMs": 63660,
+          "endMs": 65840
+        },
+        {
+          "en": "\"The eggs!\"",
+          "zh": "这鸡蛋！",
+          "startMs": 67160,
+          "endMs": 72260
+        }
+      ],
+      "startMs": 59510,
+      "endMs": 72610
+    },
+    {
+      "sentences": [],
+      "startMs": 70720,
+      "endMs": 71520,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge's mum looked at the bag.",
+          "zh": "蠓妈妈看在这包。",
+          "startMs": 72160,
+          "endMs": 77260
+        }
+      ],
+      "startMs": 72010,
+      "endMs": 77610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum,\" said Midge.",
+          "zh": "妈妈， 说蠓。",
+          "startMs": 78740,
+          "endMs": 82120
+        }
+      ],
+      "startMs": 78590,
+      "endMs": 82470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge's mum went to the egg shop.",
+          "zh": "蠓妈妈去到这鸡蛋商店。",
+          "startMs": 83180,
+          "endMs": 87260
+        },
+        {
+          "en": "She got some more eggs.",
+          "zh": "她得到一些更多鸡蛋。",
+          "startMs": 87160,
+          "endMs": 91260
+        }
+      ],
+      "startMs": 83030,
+      "endMs": 91610
+    },
+    {
+      "sentences": [
+        {
+          "en": "A GET CRACKING ON AN EGG She put the eggs in a basket.",
+          "zh": "一个得到出色的在……上一个鸡蛋她放这鸡蛋在……里一个篮子。",
+          "startMs": 85690,
+          "endMs": 97260
+        }
+      ],
+      "startMs": 85540,
+      "endMs": 97610
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 97180,
+          "endMs": 102120
+        }
+      ],
+      "startMs": 97030,
+      "endMs": 102470
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no,\" said Mitch.",
+          "zh": "哦不， 说 Mitch。",
+          "startMs": 97180,
+          "endMs": 108260
+        }
+      ],
+      "startMs": 97030,
+      "endMs": 108610
+    },
+    {
+      "sentences": [],
+      "startMs": 101640,
+      "endMs": 102975,
+      "illustrationOnly": true
+    }
+  ]
+}

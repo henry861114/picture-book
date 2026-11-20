@@ -1,0 +1,1109 @@
+{
+  "id": "L7-006",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Appy Wilf and Wilma had come to play at Biff and Chip's house.",
+          "zh": "Wilf 和 Wilma 有来到玩在 Biff 和 Chip 房子。",
+          "startMs": 29,
+          "endMs": 8060
+        },
+        {
+          "en": "It was Wilf's birthday.",
+          "zh": "它是 Wilf 生日。",
+          "startMs": 8820,
+          "endMs": 10880
+        },
+        {
+          "en": "\"Happy Birthday, Wilf!\"",
+          "zh": "快乐的生日， 他们说。",
+          "startMs": 10960,
+          "endMs": 13320
+        },
+        {
+          "en": "\"Happy birthday, Wilf,\" said Biff and Chip.",
+          "zh": "Wilf， 说 Biff 和 Chip。",
+          "startMs": 13350,
+          "endMs": 15060
+        },
+        {
+          "en": "They gave him a big card.",
+          "zh": "他们给他一个大的卡片。",
+          "startMs": 15090,
+          "endMs": 17920
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 18270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf had a large box.",
+          "zh": "Wilf 有一个大的盒子。",
+          "startMs": 20990,
+          "endMs": 23070
+        },
+        {
+          "en": "\"This is my birthday present,\" he said.",
+          "zh": "这个是我的生日礼物， 他说。",
+          "startMs": 23100,
+          "endMs": 27110
+        },
+        {
+          "en": "Everyone looked inside the box.",
+          "zh": "每个人看里面这盒子。",
+          "startMs": 27270,
+          "endMs": 29930
+        },
+        {
+          "en": "\"What is it?\" Asked Chip.",
+          "zh": "什么是这个？ 什么是它？ 问 Chip。",
+          "startMs": 29960,
+          "endMs": 31920
+        },
+        {
+          "en": "\"It looks like a submarine,\" said Biff.",
+          "zh": "它看喜欢一个潜艇， 说 Biff。 帮助！ 说 Wilf。",
+          "startMs": 31950,
+          "endMs": 36530
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 20840,
+      "endMs": 36880
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Biff.",
+          "zh": "不， 说 Biff。",
+          "startMs": 36560,
+          "endMs": 37620
+        },
+        {
+          "en": "\"It's a kind of submarine,\" said Wilf.",
+          "zh": "它是一个友善的的潜艇， 说 Wilf。",
+          "startMs": 37620,
+          "endMs": 38090
+        },
+        {
+          "en": "\"It explores the sea bed.\" \"That's right,\" Said Wilma.",
+          "zh": "它勘察这海床。 那是正确的， 说 Wilma。 » 说 Nadim。",
+          "startMs": 38790,
+          "endMs": 43890
+        },
+        {
+          "en": "\"It goes to the bottom of the sea.\"",
+          "zh": "它去到这底部的这海。",
+          "startMs": 44210,
+          "endMs": 46180
+        },
+        {
+          "en": "\"What a brilliant present!\" Said Biff.",
+          "zh": "什么一个明亮的礼物！ 说 Biff。",
+          "startMs": 46210,
+          "endMs": 49590
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 36880,
+      "endMs": 49940
+    },
+    {
+      "sentences": [
+        {
+          "en": "The submarine looked like a car.",
+          "zh": "这潜艇看喜欢一个汽车。",
+          "startMs": 52820,
+          "endMs": 55920
+        },
+        {
+          "en": "It had big windows and it had headlights.",
+          "zh": "它有大的窗户和它有前灯。",
+          "startMs": 55950,
+          "endMs": 59890
+        },
+        {
+          "en": "Wilf put the headlights on.",
+          "zh": "Wilf 放这前灯在……上。",
+          "startMs": 59920,
+          "endMs": 61920
+        },
+        {
+          "en": "\"It's brilliant,\" Said Chip.",
+          "zh": "它是明亮的， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 61960,
+          "endMs": 65060
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 52670,
+      "endMs": 65410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the magic key.",
+          "zh": "Biff 看在这魔法钥匙。",
+          "startMs": 65090,
+          "endMs": 68040
+        },
+        {
+          "en": "Suddenly it began to glow.",
+          "zh": "突然地它开始到光亮。",
+          "startMs": 68510,
+          "endMs": 70690
+        },
+        {
+          "en": "It was time for a new adventure.",
+          "zh": "它是时间为了一个新的冒险。",
+          "startMs": 72850,
+          "endMs": 75850
+        },
+        {
+          "en": "\"I wonder where the key will take us,\" said Wilf.",
+          "zh": "我惊奇哪里这钥匙将拿我们， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 75930,
+          "endMs": 80060
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 65410,
+      "endMs": 80410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children to the sea, where there were lots of boats.",
+          "zh": "这魔法拿这孩子们到这海， 哪里那里是许多的船。",
+          "startMs": 90820,
+          "endMs": 95920
+        },
+        {
+          "en": "Chip pointed to a yellow submarine.",
+          "zh": "Chip 尖的到一个黄色的潜艇。",
+          "startMs": 95950,
+          "endMs": 99310
+        },
+        {
+          "en": "\"Look at that one,\" he said.",
+          "zh": "看在那个一， 他说。",
+          "startMs": 99340,
+          "endMs": 101140
+        },
+        {
+          "en": "\"It looks just like Wilf's submarine!\"",
+          "zh": "它看刚刚喜欢 Wilf 潜艇！",
+          "startMs": 101490,
+          "endMs": 104080
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 90670,
+      "endMs": 104430
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to look at the submarine.",
+          "zh": "这孩子们去到看在这潜艇。",
+          "startMs": 104110,
+          "endMs": 107240
+        },
+        {
+          "en": "\"I wish we could look inside,\" said Chip.",
+          "zh": "我希望我们能看里面， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 107270,
+          "endMs": 111060
+        },
+        {
+          "en": "Just then a hatch began to open and a man looked out.",
+          "zh": "刚刚然后一个舱口开始到打开和一个男人看出。",
+          "startMs": 111090,
+          "endMs": 115920
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 104430,
+      "endMs": 116270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man peered at them.",
+          "zh": "这男人仔细看在他们。",
+          "startMs": 121850,
+          "endMs": 123550
+        },
+        {
+          "en": "\"Hello!\" He said.",
+          "zh": "帮助！ 啊唷！ 她说。",
+          "startMs": 124300,
+          "endMs": 126300
+        },
+        {
+          "en": "\"I'm Professor Tangle.\" Said Wilf.",
+          "zh": "教授缠结！ 帮助！ 说 Wilf。",
+          "startMs": 126300,
+          "endMs": 131060
+        },
+        {
+          "en": "\"My new crew?\" Said Professor Tangle.",
+          "zh": "教授缠结！",
+          "startMs": 131090,
+          "endMs": 134360
+        },
+        {
+          "en": "\"You look a bit young.\" Shouted Wilf.",
+          "zh": "你看一个一小块年轻的。 嗨 Wilf！",
+          "startMs": 134920,
+          "endMs": 137710
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 121700,
+      "endMs": 138060
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"How do you do!\"",
+          "zh": "如何做你做！",
+          "startMs": 137740,
+          "endMs": 139460
+        },
+        {
+          "en": "\"We're not your new crew,\" shouted Wilf.",
+          "zh": "我们是不你的新的全体船员， 喊 Wilf。",
+          "startMs": 139460,
+          "endMs": 139660
+        },
+        {
+          "en": "\"How do you do!\"",
+          "zh": "如何做你做！",
+          "startMs": 140170,
+          "endMs": 141900
+        },
+        {
+          "en": "Professor Tangle didn't hear properly.",
+          "zh": "教授缠结没有听见正确地。",
+          "startMs": 141930,
+          "endMs": 144660
+        },
+        {
+          "en": "He got things muddled up.",
+          "zh": "他得到东西糊涂的向上。",
+          "startMs": 144940,
+          "endMs": 147060
+        },
+        {
+          "en": "\"You know what to do?\" He said.",
+          "zh": "你知道什么到做？ 他说。 啊唷！",
+          "startMs": 147090,
+          "endMs": 149550
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 138060,
+      "endMs": 149900
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"That's good!",
+          "zh": "STET 那是好的！",
+          "startMs": 152560,
+          "endMs": 154410
+        },
+        {
+          "en": "Get on board,\" went on the Professor.",
+          "zh": "好的。",
+          "startMs": 155010,
+          "endMs": 158290
+        },
+        {
+          "en": "\"And tell me your names.\" \"I'm Biff,\" Said Biff.",
+          "zh": "和告诉我你的名字。 Biff！ 不， 说 Biff。",
+          "startMs": 158320,
+          "endMs": 162370
+        },
+        {
+          "en": "\"And this is Wilma, this is Wilf, and this is Chip.\"",
+          "zh": "这个是 Wilf， 和这个是 Chip。",
+          "startMs": 162400,
+          "endMs": 166470
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 152410,
+      "endMs": 166820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, it's not a ship,\" said the Professor.",
+          "zh": "不， 它是不一个轮船， 说这教授。 我们必须得到出， 说这教授。",
+          "startMs": 166960,
+          "endMs": 171060
+        },
+        {
+          "en": "\"It's a diving machine.\"",
+          "zh": "它是一个跳水机器。",
+          "startMs": 171090,
+          "endMs": 172920
+        },
+        {
+          "en": "\"We know that,\" said Wilf.",
+          "zh": "我们知道那个， 说 Wilf。 帮助！ 说 Wilf。",
+          "startMs": 172960,
+          "endMs": 176060
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 166820,
+      "endMs": 176410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We've never been in one,\" Said Wilma.",
+          "zh": "我已经从不看见他们在……之前。 » 说 Nadim。",
+          "startMs": 176090,
+          "endMs": 178950
+        },
+        {
+          "en": "\"And we're not your new crew.\" \"You flew?\" Said Professor Tangle.",
+          "zh": "Wilma， 和我们是不你的新的全体船员！ 是你独自？ 教授缠结！",
+          "startMs": 178980,
+          "endMs": 185980
+        },
+        {
+          "en": "\"I didn't see an aeroplane.",
+          "zh": "我没有看见一个飞机。",
+          "startMs": 187880,
+          "endMs": 189330
+        },
+        {
+          "en": "Now shall we go?\"",
+          "zh": "现在将我们去？",
+          "startMs": 190800,
+          "endMs": 192040
+        },
+        {
+          "en": "Everyone smiled, and they all climbed into the submarine.",
+          "zh": "每个人微笑， 和他们全部爬进入这潜艇。",
+          "startMs": 192070,
+          "endMs": 196480
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 176410,
+      "endMs": 196830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Professor Tangle shut the hatch.",
+          "zh": "教授缠结关上这舱口。",
+          "startMs": 200480,
+          "endMs": 202520
+        },
+        {
+          "en": "\"There's not much room,\" said Wilma.",
+          "zh": "有不许多房间， 说 Wilma。 » 说 Nadim。",
+          "startMs": 205960,
+          "endMs": 209060
+        },
+        {
+          "en": "\"No,\" Said Biff.",
+          "zh": "哦不！ 不， 说 Biff。",
+          "startMs": 209090,
+          "endMs": 211150
+        },
+        {
+          "en": "\"I hope it doesn't leak.\"",
+          "zh": "我希望它不裂缝。",
+          "startMs": 211180,
+          "endMs": 214010
+        },
+        {
+          "en": "\"Of course you can speak,\" said the Professor.",
+          "zh": "的进程你能说， 说这教授。",
+          "startMs": 214040,
+          "endMs": 216250
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 200330,
+      "endMs": 216600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said the professor.",
+          "zh": "我们必须得到出， 说这教授。",
+          "startMs": 216280,
+          "endMs": 218110
+        },
+        {
+          "en": "Professor Tangle started the engines.",
+          "zh": "教授缠结开始这发动机。",
+          "startMs": 220820,
+          "endMs": 224920
+        },
+        {
+          "en": "\"It's time to dive,\" he said.",
+          "zh": "它是时间到跳水， 他说。",
+          "startMs": 224960,
+          "endMs": 228990
+        },
+        {
+          "en": "The submarine went under the water.",
+          "zh": "这潜艇去在……下方这水。",
+          "startMs": 234400,
+          "endMs": 240500
+        },
+        {
+          "en": "\"Glub, glub, glub,\" Glub!\" it went.",
+          "zh": "Glub！ 它去。",
+          "startMs": 240530,
+          "endMs": 243280
+        },
+        {
+          "en": "Everyone looked out of the window.",
+          "zh": "每个人看出的这窗户。",
+          "startMs": 243310,
+          "endMs": 244920
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 216600,
+      "endMs": 245270
+    },
+    {
+      "sentences": [
+        {
+          "en": "They could see fish everywhere.",
+          "zh": "他们能看见鱼到处。",
+          "startMs": 245400,
+          "endMs": 247380
+        },
+        {
+          "en": "\"It's wonderful,\" Said Chip.",
+          "zh": "它是精彩的， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 247960,
+          "endMs": 250440
+        },
+        {
+          "en": "\"It's amazing to be under the sea.\" \"You can't see?\" Said Professor Tangle.",
+          "zh": "它是使人十分惊奇的到是在……下方这海。 你能？ 说琥珀。 教授缠结！",
+          "startMs": 250470,
+          "endMs": 256640
+        },
+        {
+          "en": "\"Look out of the window, then.\"",
+          "zh": "看出的这窗户， 然后。",
+          "startMs": 257410,
+          "endMs": 261060
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 245270,
+      "endMs": 261410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on, crew!\" Said Professor Tangle.",
+          "zh": "来在……上！ 教授缠结！",
+          "startMs": 262280,
+          "endMs": 266980
+        },
+        {
+          "en": "\"Time to do some work.",
+          "zh": "时间到做一些工作。",
+          "startMs": 267010,
+          "endMs": 269060
+        },
+        {
+          "en": "Push that button, Biff.",
+          "zh": "推那个纽扣， Biff。",
+          "startMs": 269060,
+          "endMs": 269260
+        },
+        {
+          "en": "Press that handle, Wilf.",
+          "zh": "按那个把手， Wilf。",
+          "startMs": 269260,
+          "endMs": 269600
+        },
+        {
+          "en": "Pull that lever, Chip.\"",
+          "zh": "拉那个控制杆， Chip。",
+          "startMs": 269830,
+          "endMs": 271930
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 262130,
+      "endMs": 272280
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We're not the crew!\" Yelled Biff.",
+          "zh": "我们是不这全体船员！ 叫喊 Biff。 快的！ 叫喊 Biff。",
+          "startMs": 271960,
+          "endMs": 275470
+        },
+        {
+          "en": "\"Things might go wrong.\" \"Sing a song?\" Said Professor Tangle.",
+          "zh": "东西可能去错误的。 丁， 丁！ 教授缠结！",
+          "startMs": 275500,
+          "endMs": 280920
+        },
+        {
+          "en": "\"There's no time for that.",
+          "zh": "有不时间为了那个。",
+          "startMs": 281600,
+          "endMs": 283340
+        },
+        {
+          "en": "There's far too much to do.\" \"Glub, glub, glub,\" The submarine began to dive.",
+          "zh": "有远也许多到做。",
+          "startMs": 283370,
+          "endMs": 297450
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 272280,
+      "endMs": 297800
+    },
+    {
+      "sentences": [
+        {
+          "en": "It went deeper and deeper.",
+          "zh": "它去深的和深的。",
+          "startMs": 297450,
+          "endMs": 299330
+        },
+        {
+          "en": "Glub!\" it went.",
+          "zh": "Glub！ 它去。",
+          "startMs": 299330,
+          "endMs": 299530
+        },
+        {
+          "en": "\"Where are we heading?\" Shouted Chip.",
+          "zh": "哪里是我们标题？ 喊 Chip。 停它！ 喊 Chip。",
+          "startMs": 299530,
+          "endMs": 301460
+        },
+        {
+          "en": "\"Will we dive deep?\" Said Professor Tangle.",
+          "zh": "将我们跳水深的？ 教授缠结！ » 说 Nadim。",
+          "startMs": 301460,
+          "endMs": 318060
+        },
+        {
+          "en": "The submarine went deeper and deeper.",
+          "zh": "这潜艇去深的和深的。",
+          "startMs": 320960,
+          "endMs": 322960
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 297800,
+      "endMs": 323310
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"No, you can't go to sleep,\" said Professor Tangle.",
+          "zh": "不， 你不能去到睡觉， 说教授缠结。",
+          "startMs": 322990,
+          "endMs": 326360
+        },
+        {
+          "en": "\"You're the crew!",
+          "zh": "你是这全体船员！",
+          "startMs": 326360,
+          "endMs": 326560
+        },
+        {
+          "en": "You have to stay awake!",
+          "zh": "你有到停留醒着的！",
+          "startMs": 326560,
+          "endMs": 326760
+        },
+        {
+          "en": "We are going to dive deep.\"",
+          "zh": "我们是去到跳水深的。",
+          "startMs": 326760,
+          "endMs": 326960
+        },
+        {
+          "en": "\"This thing scares me,\" said Wilma.",
+          "zh": "这个东西使害怕我， 说 Wilma。",
+          "startMs": 326960,
+          "endMs": 327160
+        },
+        {
+          "en": "\"Glub, glub, glub,\" It went.",
+          "zh": "Glub！ 它去。",
+          "startMs": 327160,
+          "endMs": 327360
+        },
+        {
+          "en": "Everyone looked out of the window.",
+          "zh": "每个人看出的这窗户。",
+          "startMs": 327790,
+          "endMs": 329500
+        },
+        {
+          "en": "\"It's getting dark,\" Said the Professor.",
+          "zh": "它是得到非常黑暗的， 说 Biff。 我们必须得到出， 说这教授。",
+          "startMs": 333730,
+          "endMs": 336600
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 323310,
+      "endMs": 336950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can see a shark!\" Said Wilma.",
+          "zh": "我能看见一个鲨鱼！ 说 Wilma。",
+          "startMs": 336630,
+          "endMs": 339340
+        },
+        {
+          "en": "The Professor pushed the light switch.",
+          "zh": "这教授推这轻的开关。",
+          "startMs": 357960,
+          "endMs": 359860
+        },
+        {
+          "en": "\"Mother, the lights don't work,\" He said.",
+          "zh": "这轻的不工作， 他说。 啊唷！",
+          "startMs": 361520,
+          "endMs": 365820
+        },
+        {
+          "en": "Biff looked out of the window.",
+          "zh": "Biff 看出的这窗户。",
+          "startMs": 365850,
+          "endMs": 368920
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 336950,
+      "endMs": 369270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The submarine went even deeper.",
+          "zh": "这潜艇去竟然深的。",
+          "startMs": 368950,
+          "endMs": 371000
+        },
+        {
+          "en": "Professor Tangle was excited.",
+          "zh": "教授缠结是兴奋的。",
+          "startMs": 371000,
+          "endMs": 371200
+        },
+        {
+          "en": "It began to get dark.",
+          "zh": "它开始到得到黑暗的。",
+          "startMs": 371200,
+          "endMs": 371400
+        },
+        {
+          "en": "\"It's getting very dark,\" said Biff.",
+          "zh": "它是得到非常黑暗的， 说 Biff。",
+          "startMs": 371400,
+          "endMs": 371600
+        },
+        {
+          "en": "\"Put the lights on, Professor.\" Help!",
+          "zh": "放这轻的在……上， 教授。 帮助！",
+          "startMs": 371600,
+          "endMs": 371800
+        },
+        {
+          "en": "Professor Tangle, I can see huge rocks,\" She called.",
+          "zh": "教授缠结是兴奋的。 来在……上， 她叫。",
+          "startMs": 371800,
+          "endMs": 376280
+        },
+        {
+          "en": "\"No, I don't need clean socks,\" Said the Professor.",
+          "zh": "不， 我不必须打扫短袜， 说这教授。 我们必须得到出， 说这教授。",
+          "startMs": 376820,
+          "endMs": 381920
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 369270,
+      "endMs": 382270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!",
+          "zh": "哦不！",
+          "startMs": 381950,
+          "endMs": 383010
+        },
+        {
+          "en": "He began to look for his toolbox.",
+          "zh": "他开始到看为了他的工具盒子。",
+          "startMs": 383010,
+          "endMs": 385950
+        },
+        {
+          "en": "Professor Tangle pushed a button and he pulled a lever.",
+          "zh": "教授缠结推一个纽扣和他拉一个控制杆。",
+          "startMs": 394900,
+          "endMs": 399920
+        },
+        {
+          "en": "The submarine didn't crash.",
+          "zh": "这潜艇没有锵锵作响。",
+          "startMs": 403820,
+          "endMs": 406800
+        },
+        {
+          "en": "It just missed the rocks.",
+          "zh": "它刚刚小姐这岩石。",
+          "startMs": 406830,
+          "endMs": 409890
+        },
+        {
+          "en": "\"Phew!",
+          "zh": "哦！",
+          "startMs": 409990,
+          "endMs": 411180
+        },
+        {
+          "en": "That was close,\" Said Wilma.",
+          "zh": "那个是我的腿。 » 说 Nadim。",
+          "startMs": 411210,
+          "endMs": 415000
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 382270,
+      "endMs": 415350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now, where's that fuse?\" \"Look out!\" Yelled Chip.",
+          "zh": "现在， 哪里那个肤色？ 看！ 看出！ 叫喊 Chip。",
+          "startMs": 415030,
+          "endMs": 418070
+        },
+        {
+          "en": "\"We're going to crash!\"",
+          "zh": "我们是去到锵锵作响！",
+          "startMs": 418070,
+          "endMs": 418270
+        },
+        {
+          "en": "There was a cave ahead of them.",
+          "zh": "那里是一个洞穴向前的他们。",
+          "startMs": 418270,
+          "endMs": 418470
+        },
+        {
+          "en": "The submarine was heading for it.",
+          "zh": "这潜艇是标题为了它。",
+          "startMs": 418470,
+          "endMs": 421630
+        },
+        {
+          "en": "\"Slow down, Professor,\" Called Wilf.",
+          "zh": "慢的向下， 教授， 叫 Wilf。 太太梅！ 叫 Biff。",
+          "startMs": 421660,
+          "endMs": 423920
+        },
+        {
+          "en": "\"We are heading for a cave in the rocks.\"",
+          "zh": "我们是标题为了一个洞穴在……里这岩石。",
+          "startMs": 423950,
+          "endMs": 425540
+        },
+        {
+          "en": "\"Yes, it was in the box,\" Said the Professor.",
+          "zh": "是， 它是在……里这盒子， 说这教授。 我们必须得到出， 说这教授。",
+          "startMs": 428960,
+          "endMs": 432430
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 415350,
+      "endMs": 432780
+    },
+    {
+      "sentences": [
+        {
+          "en": "He held up the fuse.",
+          "zh": "他拿着向上这肤色。",
+          "startMs": 434300,
+          "endMs": 435290
+        },
+        {
+          "en": "\"Professor, slow down,\" Yelled Wilf.",
+          "zh": "教授， 慢的向下！ 叫喊 Wilf。 我们将， 说 Wilf。",
+          "startMs": 435320,
+          "endMs": 437950
+        },
+        {
+          "en": "\"We are going into a cave.\"",
+          "zh": "我们是去进入一个洞穴。",
+          "startMs": 437980,
+          "endMs": 439810
+        },
+        {
+          "en": "\"Well, why didn't you say so?\" Asked Professor Tangle.",
+          "zh": "好， 为什么没有你说所以？ 问教授缠结。 教授缠结！",
+          "startMs": 439900,
+          "endMs": 446200
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 434150,
+      "endMs": 446550
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We'd better slow down.\"",
+          "zh": "We'd 更好的慢的向下。",
+          "startMs": 446230,
+          "endMs": 447950
+        },
+        {
+          "en": "He pulled a lever and the submarine slowed down just in time.",
+          "zh": "他拉一个控制杆和这潜艇慢的向下刚刚在……里时间。",
+          "startMs": 447950,
+          "endMs": 452920
+        },
+        {
+          "en": "The submarine went into the cave.",
+          "zh": "这潜艇去在……下方这水。",
+          "startMs": 454820,
+          "endMs": 458740
+        },
+        {
+          "en": "Professor Tangle put the new fuse in.",
+          "zh": "教授缠结开始这发动机。",
+          "startMs": 458770,
+          "endMs": 461370
+        },
+        {
+          "en": "All the lights came on.",
+          "zh": "突然地全部这轻的去出。",
+          "startMs": 461400,
+          "endMs": 463250
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 446550,
+      "endMs": 463600
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cave shone and sparkled.",
+          "zh": "这雕像打开它的手和说。",
+          "startMs": 464590,
+          "endMs": 466310
+        },
+        {
+          "en": "There were diamonds all over the walls.",
+          "zh": "那里是红色的灰尘全部在……上方这行星。",
+          "startMs": 466340,
+          "endMs": 470010
+        },
+        {
+          "en": "\"Diamonds!",
+          "zh": "我是一个怪物。",
+          "startMs": 473960,
+          "endMs": 474060
+        },
+        {
+          "en": "I'm rich!\" Said the Professor.",
+          "zh": "我是 Rose。 我们必须得到出， 说这教授。",
+          "startMs": 475260,
+          "endMs": 478220
+        },
+        {
+          "en": "\"But you can't get at them,\" Said Biff.",
+          "zh": "但是如何能我们？ 问 Kim。 不， 说 Biff。",
+          "startMs": 478250,
+          "endMs": 481920
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 464440,
+      "endMs": 482270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh, bother,\" Said Professor Tangle.",
+          "zh": "两个都！ 教授缠结！",
+          "startMs": 481950,
+          "endMs": 485920
+        },
+        {
+          "en": "Suddenly, the walls of the cave began to shake.",
+          "zh": "突然地， 这地面开始到抖动。",
+          "startMs": 485950,
+          "endMs": 489920
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 482270,
+      "endMs": 490270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Rocks and stones fell all around them.",
+          "zh": "岩石和石块落下全部在……周围他们。",
+          "startMs": 491430,
+          "endMs": 500050
+        },
+        {
+          "en": "\"We must get out,\" said the Professor.",
+          "zh": "我们必须得到出， 说这教授。",
+          "startMs": 500080,
+          "endMs": 503060
+        },
+        {
+          "en": "\"Full speed ahead.\" \"Oh no!",
+          "zh": "满的速度向前。 哦不！",
+          "startMs": 503090,
+          "endMs": 506420
+        },
+        {
+          "en": "We aren't going to make it,\" said Wilma.",
+          "zh": "我们不是去到做它， 说 Wilma。 » 说 Nadim。",
+          "startMs": 506450,
+          "endMs": 510060
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 491280,
+      "endMs": 510410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The submarine got out just in time.",
+          "zh": "这潜艇得到出刚刚在……里时间。",
+          "startMs": 514850,
+          "endMs": 517950
+        },
+        {
+          "en": "\"Phew!",
+          "zh": "哦！",
+          "startMs": 518720,
+          "endMs": 520060
+        },
+        {
+          "en": "That was close!\" Said Biff.",
+          "zh": "那个是我的腿。 不， 说 Biff。",
+          "startMs": 520090,
+          "endMs": 522960
+        },
+        {
+          "en": "\"We're sorry you couldn't get the diamonds, Professor,\" said Chip.",
+          "zh": "我们是对不起你不能得到这钻石， 教授， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 522990,
+          "endMs": 527060
+        },
+        {
+          "en": "Just then the key began to glow.",
+          "zh": "刚刚然后这钥匙开始到光亮。",
+          "startMs": 527090,
+          "endMs": 530920
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 514700,
+      "endMs": 531270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them back to Biff's room.",
+          "zh": "这魔法拿他们回来到 Biff 房间。",
+          "startMs": 541850,
+          "endMs": 545190
+        },
+        {
+          "en": "«That was a good adventure,\" said Chip.",
+          "zh": "«那个是一个好的冒险， 说 Chip。 哦！ 说 Chip。",
+          "startMs": 545220,
+          "endMs": 548060
+        },
+        {
+          "en": "\"We must go home for tea,\" said Wilma.",
+          "zh": "我们必须去家为了茶， 说 Wilma。 » 说 Nadim。",
+          "startMs": 548090,
+          "endMs": 551030
+        },
+        {
+          "en": "\"What's that?\" Joked Wilf.",
+          "zh": "是什么那个？ 笑话 Wilf。",
+          "startMs": 551030,
+          "endMs": 554060
+        },
+        {
+          "en": "\"You want to go back to sea?\"",
+          "zh": "你想要到去回来到海？",
+          "startMs": 554090,
+          "endMs": 555920
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 541700,
+      "endMs": 556270
+    },
+    {
+      "sentences": [],
+      "pdfPage": 32,
+      "startMs": 556270,
+      "endMs": 556271
+    },
+    {
+      "sentences": [],
+      "pdfPage": 33,
+      "startMs": 556271,
+      "endMs": 556272
+    }
+  ]
+}

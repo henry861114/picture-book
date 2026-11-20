@@ -1,0 +1,225 @@
+{
+  "id": "L2-026",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Conjuror The children went to a show.",
+          "zh": "这魔术师这孩子们去到一个展示。",
+          "startMs": 0,
+          "endMs": 18080
+        },
+        {
+          "en": "Mum and Dad took them.",
+          "zh": "妈妈和爸爸拿他们。",
+          "startMs": 18380,
+          "endMs": 19660
+        }
+      ],
+      "startMs": 0,
+      "endMs": 20010
+    },
+    {
+      "sentences": [
+        {
+          "en": "A conjuror was in the show.",
+          "zh": "一个魔术师是在……里这展示。",
+          "startMs": 10970,
+          "endMs": 14750
+        }
+      ],
+      "startMs": 10970,
+      "endMs": 14750
+    },
+    {
+      "sentences": [
+        {
+          "en": "She was called Sheena.",
+          "zh": "她是叫 Sheena。",
+          "startMs": 33540,
+          "endMs": 35220
+        }
+      ],
+      "startMs": 33390,
+      "endMs": 35570
+    },
+    {
+      "sentences": [
+        {
+          "en": "She took Dad's tie.",
+          "zh": "她拿爸爸题额。",
+          "startMs": 21020,
+          "endMs": 24420
+        }
+      ],
+      "startMs": 21020,
+      "endMs": 24420
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it in a bag.",
+          "zh": "她放它在……里一个包。",
+          "startMs": 42040,
+          "endMs": 43700
+        }
+      ],
+      "startMs": 41890,
+      "endMs": 44050
+    },
+    {
+      "sentences": [
+        {
+          "en": "She took Mum's ear-ring.",
+          "zh": "她拿妈妈 ear-ring。",
+          "startMs": 39210,
+          "endMs": 39660
+        }
+      ],
+      "startMs": 39060,
+      "endMs": 40010
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it in the bag.",
+          "zh": "她放它在……里这包。",
+          "startMs": 52320,
+          "endMs": 54100
+        }
+      ],
+      "startMs": 52170,
+      "endMs": 54450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She took Dad's watch.",
+          "zh": "她拿爸爸手表。",
+          "startMs": 59460,
+          "endMs": 61400
+        }
+      ],
+      "startMs": 59310,
+      "endMs": 61750
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it in the bag.",
+          "zh": "她放它在……里这包。",
+          "startMs": 52320,
+          "endMs": 54100
+        }
+      ],
+      "startMs": 52170,
+      "endMs": 54450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She took Dad on to the stage.",
+          "zh": "她拿爸爸在……上到这舞台。",
+          "startMs": 69900,
+          "endMs": 72500
+        }
+      ],
+      "startMs": 69750,
+      "endMs": 72850
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put the bag on Dad's head.",
+          "zh": "她放这包在……上爸爸头。",
+          "startMs": 78140,
+          "endMs": 80580
+        }
+      ],
+      "startMs": 77990,
+      "endMs": 80930
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sheena took a big box.",
+          "zh": "Sheena 拿一个大的盒子。",
+          "startMs": 85320,
+          "endMs": 87660
+        }
+      ],
+      "startMs": 85170,
+      "endMs": 88010
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put Wilma inside.",
+          "zh": "她放 Wilma 里面。",
+          "startMs": 88720,
+          "endMs": 90820
+        }
+      ],
+      "startMs": 88570,
+      "endMs": 91170
+    },
+    {
+      "sentences": [
+        {
+          "en": "Sheena took her wand.",
+          "zh": "Sheena 拿她魔杖。",
+          "startMs": 98300,
+          "endMs": 99980
+        }
+      ],
+      "startMs": 98150,
+      "endMs": 100330
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hey presto!\" she said.",
+          "zh": "嗨急板地！ 她说。",
+          "startMs": 101340,
+          "endMs": 104540
+        }
+      ],
+      "startMs": 101190,
+      "endMs": 104890
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hey presto!\" said Wilma.",
+          "zh": "嗨急板地！ 说 Wilma。",
+          "startMs": 109880,
+          "endMs": 113140
+        }
+      ],
+      "startMs": 109730,
+      "endMs": 113490
+    },
+    {
+      "sentences": [],
+      "startMs": 121924,
+      "endMs": 122424,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 122424,
+      "endMs": 122597,
+      "illustrationOnly": true
+    }
+  ]
+}

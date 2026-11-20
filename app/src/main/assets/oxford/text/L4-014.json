@@ -1,0 +1,237 @@
+{
+  "id": "L4-014",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad went to the building site.",
+          "zh": "爸爸去到这建造地点。",
+          "startMs": 0,
+          "endMs": 3500
+        },
+        {
+          "en": "He took Wilf and Wilma.",
+          "zh": "他拿 Wilf 和 Wilma。",
+          "startMs": 3400,
+          "endMs": 11500
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11850
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the crane.",
+          "zh": "他们看在这起重机。",
+          "startMs": 11810,
+          "endMs": 21620
+        }
+      ],
+      "startMs": 11660,
+      "endMs": 21970
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma spoke to the man in the cab.",
+          "zh": "Wilma 说到这男人在……里这出租车。",
+          "startMs": 21520,
+          "endMs": 32500
+        }
+      ],
+      "startMs": 21370,
+      "endMs": 32850
+    },
+    {
+      "sentences": [
+        {
+          "en": "A van came to the building site.",
+          "zh": "一个送货车来到这建造地点。",
+          "startMs": 32440,
+          "endMs": 40740
+        }
+      ],
+      "startMs": 32290,
+      "endMs": 41090
+    },
+    {
+      "sentences": [
+        {
+          "en": "It had a weather vane on the back.",
+          "zh": "它有一个天气叶片在……上这回来。",
+          "startMs": 40640,
+          "endMs": 49220
+        }
+      ],
+      "startMs": 40490,
+      "endMs": 49570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf looked at the weather vane.",
+          "zh": "Wilf 看在这天气叶片。",
+          "startMs": 49530,
+          "endMs": 56100
+        }
+      ],
+      "startMs": 49380,
+      "endMs": 56450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had an idea.",
+          "zh": "爸爸有一个主意。",
+          "startMs": 56000,
+          "endMs": 59740
+        }
+      ],
+      "startMs": 55850,
+      "endMs": 60090
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf jumped over the weather vane.",
+          "zh": "Wilf 跳在……上方这天气叶片。",
+          "startMs": 59640,
+          "endMs": 66820
+        }
+      ],
+      "startMs": 59490,
+      "endMs": 67170
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Be careful,\" said Dad.",
+          "zh": "是谨慎的， 说爸爸。",
+          "startMs": 66720,
+          "endMs": 73260
+        }
+      ],
+      "startMs": 66570,
+      "endMs": 73610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Take a photograph,\" said Wilma.",
+          "zh": "拿一个照片， 说 Wilma。",
+          "startMs": 73190,
+          "endMs": 80260
+        }
+      ],
+      "startMs": 73040,
+      "endMs": 80610
+    },
+    {
+      "sentences": [
+        {
+          "en": "She jumped over the weather vane.",
+          "zh": "她跳在……上方这天气叶片。",
+          "startMs": 80160,
+          "endMs": 87140
+        }
+      ],
+      "startMs": 80010,
+      "endMs": 87490
+    },
+    {
+      "sentences": [
+        {
+          "en": "The weather vane went on the roof.",
+          "zh": "这天气叶片去在……上这屋顶。",
+          "startMs": 87460,
+          "endMs": 98700
+        }
+      ],
+      "startMs": 87310,
+      "endMs": 99050
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf took a photograph.",
+          "zh": "Wilf 拿一个照片。",
+          "startMs": 98600,
+          "endMs": 98740
+        }
+      ],
+      "startMs": 98450,
+      "endMs": 99090
+    },
+    {
+      "sentences": [
+        {
+          "en": "rley's Curley's \"See the weather vane,\" said Wilf.",
+          "zh": "rley's Curley's 看见这天气叶片， 说 Wilf。",
+          "startMs": 98640,
+          "endMs": 105540
+        },
+        {
+          "en": "\"We've jumped over it,\" said Wilma.",
+          "zh": "我们已经跳在……上方它， 说 Wilma。",
+          "startMs": 105440,
+          "endMs": 109380
+        }
+      ],
+      "startMs": 98490,
+      "endMs": 109730
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a tall story!\" said Biff.",
+          "zh": "什么一个高的故事！ 说 Biff。",
+          "startMs": 109310,
+          "endMs": 115640
+        }
+      ],
+      "startMs": 109160,
+      "endMs": 115990
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf had a photograph.",
+          "zh": "Wilf 有一个照片。",
+          "startMs": 117790,
+          "endMs": 122340
+        },
+        {
+          "en": "\"See,\" he said.",
+          "zh": "看见， 他说。",
+          "startMs": 122240,
+          "endMs": 128820
+        }
+      ],
+      "startMs": 117640,
+      "endMs": 129170
+    },
+    {
+      "sentences": [],
+      "startMs": 130420,
+      "endMs": 131030,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 131030,
+      "endMs": 131329,
+      "illustrationOnly": true
+    }
+  ]
+}

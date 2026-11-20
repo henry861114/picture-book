@@ -1,0 +1,429 @@
+{
+  "id": "L4-022",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena liked knitting.",
+          "zh": "Anneena 喜欢编织。",
+          "startMs": 0,
+          "endMs": 3410
+        },
+        {
+          "en": "She made a scarf.",
+          "zh": "她做一个头巾。",
+          "startMs": 3310,
+          "endMs": 7600
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena's mum helped her.",
+          "zh": "Anneena 妈妈帮助她。",
+          "startMs": 9400,
+          "endMs": 11450
+        },
+        {
+          "en": "The scarf was long and warm.",
+          "zh": "这头巾是长的和温暖的。",
+          "startMs": 11350,
+          "endMs": 16600
+        }
+      ],
+      "startMs": 9250,
+      "endMs": 16950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a good scarf,\" said Anneena.",
+          "zh": "它是一个好的头巾， 说 Anneena。",
+          "startMs": 16500,
+          "endMs": 20220
+        }
+      ],
+      "startMs": 16350,
+      "endMs": 20570
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip came to play.",
+          "zh": "Biff 和 Chip 来到玩。",
+          "startMs": 21740,
+          "endMs": 31600
+        },
+        {
+          "en": "It was a cold day.",
+          "zh": "它是一个冷的一天。",
+          "startMs": 31500,
+          "endMs": 33600
+        }
+      ],
+      "startMs": 21590,
+      "endMs": 33950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena put on her scarf.",
+          "zh": "Anneena 放在……上她头巾。",
+          "startMs": 34200,
+          "endMs": 36600
+        },
+        {
+          "en": "\"What a cold day!\" she said.",
+          "zh": "什么一个冷的一天！ 她说。",
+          "startMs": 37410,
+          "endMs": 44600
+        }
+      ],
+      "startMs": 34050,
+      "endMs": 44950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at Anneena's scarf.",
+          "zh": "Biff 看在 Anneena 头巾。",
+          "startMs": 44500,
+          "endMs": 47600
+        },
+        {
+          "en": "\"What a long scarf!\" she said.",
+          "zh": "什么一个长的头巾！ 她说。",
+          "startMs": 47540,
+          "endMs": 51600
+        }
+      ],
+      "startMs": 44350,
+      "endMs": 51950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I made it,\" said Anneena.",
+          "zh": "我做它， 说 Anneena。",
+          "startMs": 51500,
+          "endMs": 53580
+        },
+        {
+          "en": "\"I couldn't stop knitting.\"",
+          "zh": "我不能停编织。",
+          "startMs": 54500,
+          "endMs": 61600
+        }
+      ],
+      "startMs": 51350,
+      "endMs": 61950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the park.",
+          "zh": "这孩子们去到这公园。",
+          "startMs": 61500,
+          "endMs": 69600
+        },
+        {
+          "en": "They went to the pond.",
+          "zh": "他们去到这池塘。",
+          "startMs": 69990,
+          "endMs": 74740
+        }
+      ],
+      "startMs": 61350,
+      "endMs": 75090
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pond was frozen.",
+          "zh": "这池塘是结冰的。",
+          "startMs": 74640,
+          "endMs": 79630
+        },
+        {
+          "en": "It had ice on it.",
+          "zh": "它有冰在……上它。",
+          "startMs": 79530,
+          "endMs": 83600
+        }
+      ],
+      "startMs": 74490,
+      "endMs": 83950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some children ran up.",
+          "zh": "一些孩子们跑向上。",
+          "startMs": 83500,
+          "endMs": 89600
+        },
+        {
+          "en": "They pulled Anneena's scarf.",
+          "zh": "他们拉 Anneena 头巾。",
+          "startMs": 89990,
+          "endMs": 100600
+        }
+      ],
+      "startMs": 83350,
+      "endMs": 100950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop it!\" shouted Anneena.",
+          "zh": "停它！ 喊 Anneena。",
+          "startMs": 100500,
+          "endMs": 104330
+        },
+        {
+          "en": "\"Stop it!\" shouted Anneena's mum.",
+          "zh": "停它！ 喊 Anneena 妈妈。",
+          "startMs": 117140,
+          "endMs": 119600
+        }
+      ],
+      "startMs": 100350,
+      "endMs": 119950
+    },
+    {
+      "sentences": [
+        {
+          "en": "A boy went on the ice.",
+          "zh": "一个男孩去在……上这冰。",
+          "startMs": 107500,
+          "endMs": 113600
+        },
+        {
+          "en": "The ice was dangerous.",
+          "zh": "这冰是危险的。",
+          "startMs": 113550,
+          "endMs": 116000
+        }
+      ],
+      "startMs": 107350,
+      "endMs": 116350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get off,\" shouted Anneena's mum.",
+          "zh": "得到离开， 喊 Anneena 妈妈。",
+          "startMs": 115900,
+          "endMs": 119600
+        },
+        {
+          "en": "\"The ice is not safe.\"",
+          "zh": "这冰是不安全的。",
+          "startMs": 119500,
+          "endMs": 126600
+        }
+      ],
+      "startMs": 115750,
+      "endMs": 126950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena's mum couldn't get the boy.",
+          "zh": "Anneena 妈妈不能得到这男孩。",
+          "startMs": 127180,
+          "endMs": 129720
+        },
+        {
+          "en": "She couldn't go on the ice.",
+          "zh": "她不能去在……上这冰。",
+          "startMs": 129620,
+          "endMs": 132600
+        }
+      ],
+      "startMs": 127030,
+      "endMs": 132950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was frightened.",
+          "zh": "每个人是受惊的。",
+          "startMs": 132500,
+          "endMs": 137600
+        },
+        {
+          "en": "\"Help!\" shouted the boy.",
+          "zh": "帮助！ 喊这男孩。",
+          "startMs": 139610,
+          "endMs": 144600
+        }
+      ],
+      "startMs": 132350,
+      "endMs": 144950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena had a good idea.",
+          "zh": "Anneena 有一个好的主意。",
+          "startMs": 145240,
+          "endMs": 147720
+        },
+        {
+          "en": "She took off her scarf.",
+          "zh": "她拿离开她头巾。",
+          "startMs": 147620,
+          "endMs": 149600
+        }
+      ],
+      "startMs": 145090,
+      "endMs": 149950
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Make a rope,\" she said.",
+          "zh": "做一个绳索， 她说。",
+          "startMs": 149500,
+          "endMs": 156600
+        }
+      ],
+      "startMs": 149350,
+      "endMs": 156950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena's mum made a rope.",
+          "zh": "Anneena 妈妈做一个绳索。",
+          "startMs": 157150,
+          "endMs": 158600
+        },
+        {
+          "en": "She made it out of scarves and coats.",
+          "zh": "她做它出的 scarves 和外套。",
+          "startMs": 158500,
+          "endMs": 162600
+        }
+      ],
+      "startMs": 157000,
+      "endMs": 162950
+    },
+    {
+      "sentences": [
+        {
+          "en": "She threw it to the boy.",
+          "zh": "她扔它到这男孩。",
+          "startMs": 162990,
+          "endMs": 169600
+        }
+      ],
+      "startMs": 162840,
+      "endMs": 169950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone pulled the rope.",
+          "zh": "每个人拉这绳索。",
+          "startMs": 169500,
+          "endMs": 172720
+        },
+        {
+          "en": "They pulled the boy out of the pond.",
+          "zh": "他们拉这男孩出的这池塘。",
+          "startMs": 172620,
+          "endMs": 181600
+        }
+      ],
+      "startMs": 169350,
+      "endMs": 181950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boy was safe. shouted Anneena.",
+          "zh": "这男孩是安全的。 喊 Anneena。",
+          "startMs": 181500,
+          "endMs": 188640
+        }
+      ],
+      "startMs": 181350,
+      "endMs": 188990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am sorry!\" said the boy.",
+          "zh": "我是对不起！ 说这男孩。",
+          "startMs": 190530,
+          "endMs": 193600
+        },
+        {
+          "en": "\"Thank you.\"",
+          "zh": "谢谢你。",
+          "startMs": 193500,
+          "endMs": 195580
+        }
+      ],
+      "startMs": 190380,
+      "endMs": 195930
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ice is dangerous,\" said Anneena.",
+          "zh": "冰是危险的， 说 Anneena。",
+          "startMs": 196300,
+          "endMs": 201250
+        }
+      ],
+      "startMs": 196150,
+      "endMs": 201600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena looked at her scarf.",
+          "zh": "Anneena 看在她头巾。",
+          "startMs": 207150,
+          "endMs": 209600
+        },
+        {
+          "en": "I made it long,\" she said.",
+          "zh": "我做它长的， 她说。",
+          "startMs": 210580,
+          "endMs": 216600
+        }
+      ],
+      "startMs": 207000,
+      "endMs": 216950
+    },
+    {
+      "sentences": [],
+      "startMs": 227520,
+      "endMs": 228341,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 228341,
+      "endMs": 228641,
+      "illustrationOnly": true
+    }
+  ]
+}

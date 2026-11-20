@@ -1,0 +1,538 @@
+{
+  "id": "L5-007",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad painted the kitchen.",
+          "zh": "妈妈和爸爸粉刷了厨房。",
+          "startMs": 7860,
+          "endMs": 13080
+        },
+        {
+          "en": "Dad painted the ceiling.",
+          "zh": "爸爸刷了天花板。",
+          "startMs": 13330,
+          "endMs": 16810
+        },
+        {
+          "en": "Mum painted the walls.",
+          "zh": "妈妈刷了墙。",
+          "startMs": 17740,
+          "endMs": 20750
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 7710,
+      "endMs": 21100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum pulled up the old carpet.",
+          "zh": "妈妈掀起了旧地毯。",
+          "startMs": 21330,
+          "endMs": 27070
+        },
+        {
+          "en": "\"The walls look good,\" she said.",
+          "zh": "“墙看起来不错，”她说。",
+          "startMs": 27500,
+          "endMs": 33400
+        },
+        {
+          "en": "\"But this looks a mess.\" Said Biff.",
+          "zh": "“但这里看起来乱糟糟的。” Biff 说道。",
+          "startMs": 33430,
+          "endMs": 37110
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 21180,
+      "endMs": 37460
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad looked at the floor.",
+          "zh": "爸爸看着地板。",
+          "startMs": 37330,
+          "endMs": 39430
+        },
+        {
+          "en": "\"We need a new carpet,\" said Biff.",
+          "zh": "“我们需要一块新地毯，”Biff 说。",
+          "startMs": 39430,
+          "endMs": 41410
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 37460,
+      "endMs": 41760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum found a trap door.",
+          "zh": "妈妈发现了一扇暗门。",
+          "startMs": 47330,
+          "endMs": 51580
+        },
+        {
+          "en": "She pulled it up.",
+          "zh": "她把活板门拉了起来。",
+          "startMs": 51580,
+          "endMs": 51780
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 47180,
+      "endMs": 52130
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked.",
+          "zh": "大家都看了看。",
+          "startMs": 54050,
+          "endMs": 59570
+        },
+        {
+          "en": "\"It's a cellar,\" said Dad.",
+          "zh": "“这是一个地窖，”爸爸说。 爸爸说道。",
+          "startMs": 59600,
+          "endMs": 61570
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 53900,
+      "endMs": 61920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum went into the cellar.",
+          "zh": "妈妈走进了地窖。",
+          "startMs": 61600,
+          "endMs": 67550
+        },
+        {
+          "en": "\"It looks big,\" she said.",
+          "zh": "“看起来挺大的，”她说。",
+          "startMs": 71460,
+          "endMs": 75600
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 61920,
+      "endMs": 75950
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked in.",
+          "zh": "孩子们往里看。",
+          "startMs": 75600,
+          "endMs": 75800
+        },
+        {
+          "en": "\"It looks dark,\" said Biff.",
+          "zh": "“看起来很黑，”Biff 说。 Biff 说道。",
+          "startMs": 77360,
+          "endMs": 83280
+        },
+        {
+          "en": "\"It looks spooky,\" said Chip.",
+          "zh": "“看起来很吓人，”Chip 说。 Chip 说道。",
+          "startMs": 83310,
+          "endMs": 85750
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 75950,
+      "endMs": 86100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a light.",
+          "zh": "爸爸拿来了一盏灯。",
+          "startMs": 85780,
+          "endMs": 91530
+        },
+        {
+          "en": "They went into the cellar.",
+          "zh": "他们进了地下室。",
+          "startMs": 91560,
+          "endMs": 95710
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 86100,
+      "endMs": 96060
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper found an old sheet.",
+          "zh": "Kipper 找到了一张旧床单。",
+          "startMs": 95710,
+          "endMs": 97570
+        },
+        {
+          "en": "\"Ooh, I'm a ghost,\" She said.",
+          "zh": "“哦，我是一只鬼。” 她说。",
+          "startMs": 101360,
+          "endMs": 107460
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 96060,
+      "endMs": 107810
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ooh, whoa!\"",
+          "zh": "“哇！”",
+          "startMs": 107490,
+          "endMs": 109570
+        },
+        {
+          "en": "\"Look at this,\" said Kipper.",
+          "zh": "“你看这个，”Kipper 说。 Kipper 说道。",
+          "startMs": 113330,
+          "endMs": 118970
+        },
+        {
+          "en": "\"What is it?\" Asked Chip.",
+          "zh": "“这是什么？” Chip 问道。",
+          "startMs": 119000,
+          "endMs": 119570
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 107810,
+      "endMs": 119920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I don't know,\" said Mum.",
+          "zh": "“我不知道，”妈妈说。",
+          "startMs": 119600,
+          "endMs": 123570
+        },
+        {
+          "en": "\"It's a whatsit,\" said Dad.",
+          "zh": "“这是一个不知名的东西，”爸爸说。 爸爸说道。",
+          "startMs": 123600,
+          "endMs": 129570
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 119920,
+      "endMs": 129920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wolf and Wilma came to play.",
+          "zh": "Wilf 和 Wilma 来玩了。",
+          "startMs": 129570,
+          "endMs": 133560
+        },
+        {
+          "en": "They looked at the whatsit.",
+          "zh": "他们看了看这个“啥玩意儿”。",
+          "startMs": 133560,
+          "endMs": 135570
+        },
+        {
+          "en": "\"What is it?\" Asked Wilma.",
+          "zh": "“这是什么？” Wilma 问道。",
+          "startMs": 135600,
+          "endMs": 139570
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 129920,
+      "endMs": 139920
+    },
+    {
+      "sentences": [],
+      "pdfPage": 14,
+      "startMs": 139920,
+      "endMs": 139921
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a whatsit,\" Said Chip.",
+          "zh": "“这是一个‘这是什么’。” Chip 说道。",
+          "startMs": 139600,
+          "endMs": 143560
+        },
+        {
+          "en": "\"We found it in the cellar\" Two men came to the house.",
+          "zh": "“我们在地窖里找到了它。”",
+          "startMs": 143590,
+          "endMs": 152150
+        },
+        {
+          "en": "They came in a lorry.",
+          "zh": "他们开着一辆卡车来的。",
+          "startMs": 152230,
+          "endMs": 155290
+        },
+        {
+          "en": "They took away the old things.",
+          "zh": "他们把旧东西都搬走了。",
+          "startMs": 157330,
+          "endMs": 161430
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 139921,
+      "endMs": 161780
+    },
+    {
+      "sentences": [
+        {
+          "en": "One man looked at the whatsit.",
+          "zh": "其中一个人看了看这个玩意儿。",
+          "startMs": 161460,
+          "endMs": 163230
+        },
+        {
+          "en": "\"What is it?\" He asked.",
+          "zh": "“这是什么？” 他问。",
+          "startMs": 163490,
+          "endMs": 167430
+        },
+        {
+          "en": "\"It's a whatsit,\" Said Dad.",
+          "zh": "“这是一个‘这是什么’。” 爸爸说道。",
+          "startMs": 167460,
+          "endMs": 169570
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 161780,
+      "endMs": 169920
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men took the whatsit.",
+          "zh": "这两个人拿走了那件不知名的东西。",
+          "startMs": 173710,
+          "endMs": 176270
+        },
+        {
+          "en": "They put it in a lorry.",
+          "zh": "他们把它放进了卡车。",
+          "startMs": 177460,
+          "endMs": 179570
+        },
+        {
+          "en": "A car stopped.",
+          "zh": "一辆汽车停了下来。",
+          "startMs": 179600,
+          "endMs": 180870
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 173560,
+      "endMs": 181220
+    },
+    {
+      "sentences": [
+        {
+          "en": "A lady jumped out and called to the men.",
+          "zh": "一位女士跳下车，喊着叫那些男人。",
+          "startMs": 183330,
+          "endMs": 187430
+        },
+        {
+          "en": "\"Stop!\" She said.",
+          "zh": "“停下！” 她说。",
+          "startMs": 188400,
+          "endMs": 191030
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 183180,
+      "endMs": 191380
+    },
+    {
+      "sentences": [
+        {
+          "en": "The lady wanted the whatsit.",
+          "zh": "这位女士想要那个玩意儿。",
+          "startMs": 193330,
+          "endMs": 197320
+        },
+        {
+          "en": "She wanted it for a museum.",
+          "zh": "她想要把这个东西放到博物馆里。",
+          "startMs": 197460,
+          "endMs": 199570
+        },
+        {
+          "en": "The men put it in the car.",
+          "zh": "男人们把它放进了车里。",
+          "startMs": 200780,
+          "endMs": 203070
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 193180,
+      "endMs": 203420
+    },
+    {
+      "sentences": [
+        {
+          "en": "The lady gave Dad some money.",
+          "zh": "那位女士给了爸爸一些钱。",
+          "startMs": 203460,
+          "endMs": 205570
+        },
+        {
+          "en": "\"Come to the museum,\" She said, \"and bring the children.\"",
+          "zh": "“来博物馆吧，”",
+          "startMs": 205990,
+          "endMs": 211480
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 203420,
+      "endMs": 211830
+    },
+    {
+      "sentences": [
+        {
+          "en": "The whatsit was in the museum.",
+          "zh": "那个玩意儿在博物馆里。",
+          "startMs": 215470,
+          "endMs": 219560
+        },
+        {
+          "en": "Mum and Dad went to see it.",
+          "zh": "妈妈和爸爸去看它了。",
+          "startMs": 219590,
+          "endMs": 221420
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 215320,
+      "endMs": 221770
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took Biff, Chip and Kipper.",
+          "zh": "他们带走了 Biff、Chip 和 Kipper。",
+          "startMs": 221890,
+          "endMs": 225790
+        },
+        {
+          "en": "\"So that's what it is,\" said Dad.",
+          "zh": "“原来是这样，”爸爸说。",
+          "startMs": 229470,
+          "endMs": 229570
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 221770,
+      "endMs": 229920
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Dad had a surprise.",
+          "zh": "妈妈和爸爸准备了一个惊喜。",
+          "startMs": 233330,
+          "endMs": 237770
+        },
+        {
+          "en": "It was for the children.",
+          "zh": "这是给孩子们的。",
+          "startMs": 237800,
+          "endMs": 239740
+        },
+        {
+          "en": "\"What is it?\" Asked Biff.",
+          "zh": "“这是什么？” Biff 问道。",
+          "startMs": 239770,
+          "endMs": 243230
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 233180,
+      "endMs": 243580
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a whatsit,\" Said Dad.",
+          "zh": "“这是一个‘这是什么’。” 爸爸说道。",
+          "startMs": 243260,
+          "endMs": 245310
+        },
+        {
+          "en": "He pulled off the sheet.",
+          "zh": "他掀开了布。",
+          "startMs": 245990,
+          "endMs": 248390
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 243580,
+      "endMs": 248740
+    },
+    {
+      "sentences": [
+        {
+          "en": "The whatsit was a snooker table.",
+          "zh": "那个玩意儿是一张斯诺克台球桌。",
+          "startMs": 255470,
+          "endMs": 259560
+        },
+        {
+          "en": "\"It's brilliant!\" They said.",
+          "zh": "“这个主意太棒了！” 他们说。",
+          "startMs": 259590,
+          "endMs": 263380
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 255320,
+      "endMs": 263730
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 263730,
+      "endMs": 263731
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 263731,
+      "endMs": 263732
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "L1-042",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "One wheel,\" said Chip.",
+          "zh": "一车轮， 说 Chip。",
+          "startMs": 580,
+          "endMs": 2920
+        }
+      ],
+      "startMs": 430,
+      "endMs": 3270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look,\" said Chip.",
+          "zh": "看， 说 Chip。",
+          "startMs": 7660,
+          "endMs": 8130
+        }
+      ],
+      "startMs": 7510,
+      "endMs": 8480
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"One wheel\"",
+          "zh": "一车轮",
+          "startMs": 580,
+          "endMs": 730
+        }
+      ],
+      "startMs": 430,
+      "endMs": 1080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look,\" said Mum.",
+          "zh": "看， 说妈妈。",
+          "startMs": 7660,
+          "endMs": 7800
+        }
+      ],
+      "startMs": 7510,
+      "endMs": 8150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am on two wheels.\"",
+          "zh": "我是在……上二车轮。",
+          "startMs": 0,
+          "endMs": 2080
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me,\" said Kipper.",
+          "zh": "看在我， 说 Kipper。",
+          "startMs": 7660,
+          "endMs": 7800
+        }
+      ],
+      "startMs": 7510,
+      "endMs": 8150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am on three wheels.\"",
+          "zh": "我是在……上三车轮。",
+          "startMs": 3180,
+          "endMs": 6621
+        }
+      ],
+      "startMs": 3180,
+      "endMs": 6621
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me,\" said Biff.",
+          "zh": "看在我， 说 Biff。",
+          "startMs": 7660,
+          "endMs": 7800
+        }
+      ],
+      "startMs": 7510,
+      "endMs": 8150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I am on four wheels.\"",
+          "zh": "我是在……上四车轮。",
+          "startMs": 21760,
+          "endMs": 23760
+        }
+      ],
+      "startMs": 21610,
+      "endMs": 24110
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at Dad,\" said Mum.",
+          "zh": "看在爸爸， 说妈妈。",
+          "startMs": 7660,
+          "endMs": 7800
+        }
+      ],
+      "startMs": 7510,
+      "endMs": 8150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"He is on one wheel.\"",
+          "zh": "他是在……上一车轮。",
+          "startMs": 580,
+          "endMs": 730
+        }
+      ],
+      "startMs": 430,
+      "endMs": 1080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no,\" said Dad.",
+          "zh": "哦不， 说爸爸。",
+          "startMs": 16461,
+          "endMs": 19616
+        },
+        {
+          "en": "\"No wheels.\"",
+          "zh": "不车轮。",
+          "startMs": 19616,
+          "endMs": 21720
+        }
+      ],
+      "startMs": 16461,
+      "endMs": 21720
+    },
+    {
+      "sentences": [
+        {
+          "en": "What do you remember?",
+          "zh": "什么做你记得？",
+          "startMs": 21720,
+          "endMs": 23966
+        },
+        {
+          "en": "This helps children to recall the main events in a story.",
+          "zh": "这个帮助孩子们到召回这主要的事件在……里一个故事。",
+          "startMs": 23966,
+          "endMs": 30061
+        },
+        {
+          "en": "What was Biff riding on?",
+          "zh": "什么是 Biff 骑在……上？",
+          "startMs": 30061,
+          "endMs": 32628
+        },
+        {
+          "en": "Why was Mum balancing on a stick?",
+          "zh": "为什么是妈妈平衡在……上一个枝条？",
+          "startMs": 32628,
+          "endMs": 36157
+        },
+        {
+          "en": "Who was on three wheels?\"",
+          "zh": "谁是在……上三车轮？",
+          "startMs": 36157,
+          "endMs": 38830
+        },
+        {
+          "en": "When the child answers the question, ask him/her to find the page to check.",
+          "zh": "当……时这孩子回答这问题， 问他/她到找到这页到查明。",
+          "startMs": 38830,
+          "endMs": 46851
+        },
+        {
+          "en": "Let the child ask you a question about the story.",
+          "zh": "让这孩子问你一个问题关于这故事。",
+          "startMs": 46851,
+          "endMs": 52091
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 52091,
+          "endMs": 55192
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 55192,
+          "endMs": 61288
+        },
+        {
+          "en": "• Choose one of the words from the list on the back cover, e.",
+          "zh": "• 选择一的这单词从这名单在……上这回来遮盖， 呃。",
+          "startMs": 61288,
+          "endMs": 67811
+        },
+        {
+          "en": "'on'.",
+          "zh": "'在……上'。",
+          "startMs": 67811,
+          "endMs": 68346
+        },
+        {
+          "en": "Ask the child to find out how many times it appears in the story.",
+          "zh": "问这孩子到找到出如何许多时间它出现在……里这故事。",
+          "startMs": 68346,
+          "endMs": 75297
+        },
+        {
+          "en": "Look through a toy catalogue and find things with wheels.",
+          "zh": "看穿过一个玩具目录和找到东西和……一起车轮。",
+          "startMs": 75297,
+          "endMs": 81393
+        },
+        {
+          "en": "Count the wheels each time.",
+          "zh": "数数这车轮每个时间。",
+          "startMs": 81393,
+          "endMs": 84280
+        }
+      ],
+      "startMs": 21720,
+      "endMs": 84280
+    },
+    {
+      "sentences": [],
+      "startMs": 84280,
+      "endMs": 84580,
+      "illustrationOnly": true
+    }
+  ]
+}

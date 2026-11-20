@@ -1,0 +1,1489 @@
+{
+  "id": "L9-003",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The \"Dog of the Year Show\" was on television.",
+          "zh": "这狗的这年展示是在……上电视。",
+          "startMs": 0,
+          "endMs": 5100
+        },
+        {
+          "en": "\"I love the way the dogs run so quickly,\" said Mum.",
+          "zh": "我爱这方式这狗跑所以快速地， 说妈妈。 哦亲爱的！ 说妈妈。",
+          "startMs": 5100,
+          "endMs": 9490
+        },
+        {
+          "en": "\"They seem to enjoy it, too.\"",
+          "zh": "他们好像到享受它， 也。",
+          "startMs": 9490,
+          "endMs": 12100
+        },
+        {
+          "en": "They watched a dog called Pepper.",
+          "zh": "他们手表一个狗叫胡椒粉。",
+          "startMs": 12100,
+          "endMs": 14300
+        },
+        {
+          "en": "She ran quickly and didn't make a mistake.",
+          "zh": "她跑快速地和没有做一个错误。",
+          "startMs": 14300,
+          "endMs": 17100
+        },
+        {
+          "en": "\"I hope Pepper wins,\" said Chip.",
+          "zh": "我希望胡椒粉赢， 说 Chip。 ， 说 Chip。",
+          "startMs": 17100,
+          "endMs": 21100
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 21450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next dog was called Raffles.",
+          "zh": "这下一个狗是叫抽奖。",
+          "startMs": 21100,
+          "endMs": 21300
+        },
+        {
+          "en": "Kipper liked him more than Pepper.",
+          "zh": "Kipper 喜欢他更多比胡椒粉。",
+          "startMs": 21300,
+          "endMs": 28100
+        },
+        {
+          "en": "\"I want Raffles to win,\" said Kipper.",
+          "zh": "我想要抽奖到赢， 说 Kipper。 全部正确的， 说 Kipper。",
+          "startMs": 28100,
+          "endMs": 31140
+        },
+        {
+          "en": "\"Look how fast he can run.\"",
+          "zh": "看如何快的他能跑。",
+          "startMs": 31140,
+          "endMs": 34100
+        },
+        {
+          "en": "Everyone was excited as Raffles came to the end, but he didn't win.",
+          "zh": "每个人是兴奋的像抽奖来到这末尾， 但是他没有赢。",
+          "startMs": 34100,
+          "endMs": 37990
+        },
+        {
+          "en": "Pepper did.",
+          "zh": "胡椒粉做。",
+          "startMs": 37990,
+          "endMs": 40100
+        },
+        {
+          "en": "\"I knew Pepper would do it,\" shouted Biff.",
+          "zh": "我知道胡椒粉会做它， 喊 Biff。",
+          "startMs": 40100,
+          "endMs": 43120
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 21450,
+      "endMs": 43470
+    },
+    {
+      "sentences": [
+        {
+          "en": "Shouted Biff.",
+          "zh": "哦不！ 喊 Biff。",
+          "startMs": 43120,
+          "endMs": 44100
+        },
+        {
+          "en": "Floppy was asleep on the floor.",
+          "zh": "Floppy 是睡着的在……上这地板。",
+          "startMs": 44100,
+          "endMs": 46090
+        },
+        {
+          "en": "Biff poked him with her toe.",
+          "zh": "Biff 戳他和……一起她脚趾。",
+          "startMs": 46090,
+          "endMs": 48100
+        },
+        {
+          "en": "\"Wake up, Floppy,\" she said.",
+          "zh": "Floppy， 她说。",
+          "startMs": 48100,
+          "endMs": 51140
+        },
+        {
+          "en": "\"Look at all these clever dogs on television.",
+          "zh": "看在全部这些聪明的狗在……上电视。",
+          "startMs": 51140,
+          "endMs": 55100
+        },
+        {
+          "en": "Why can't you do clever things like them?\"",
+          "zh": "为什么不能你做聪明的东西喜欢他们？",
+          "startMs": 55100,
+          "endMs": 58140
+        },
+        {
+          "en": "Floppy opened one eye.",
+          "zh": "Floppy 打开一眼睛。",
+          "startMs": 58140,
+          "endMs": 60100
+        },
+        {
+          "en": "Then he yawned and went back to sleep.",
+          "zh": "然后他打哈欠和去回来到睡觉。",
+          "startMs": 60100,
+          "endMs": 64100
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 43470,
+      "endMs": 64450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day,.",
+          "zh": "这下一个一天， Chip 是在学校。",
+          "startMs": 67000,
+          "endMs": 67100
+        },
+        {
+          "en": "The next day, Biff, Chip and Kipper went outside to play.",
+          "zh": "这下一个一天， Biff， Chip 和 Kipper 去外面到玩。",
+          "startMs": 67100,
+          "endMs": 72100
+        },
+        {
+          "en": "Wolf and Wilma came round.",
+          "zh": "Wilf 和 Wilma 来圆形的。",
+          "startMs": 72100,
+          "endMs": 75140
+        },
+        {
+          "en": "Floppy was fast asleep on the grass.",
+          "zh": "Floppy 是快的睡着的在……上这草。",
+          "startMs": 75140,
+          "endMs": 78100
+        },
+        {
+          "en": "\"Did you see the 'Dog of the Year Show' on television?\" Asked Biff.",
+          "zh": "做你看见这 '狗的这年展示' 在……上电视？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 78100,
+          "endMs": 83100
+        },
+        {
+          "en": "\"Yes, it was brilliant,\" Said Wilma.",
+          "zh": "它是明亮的， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 83100,
+          "endMs": 86100
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 66850,
+      "endMs": 86450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I wonder if Floppy could do some of the things we saw on television,\" said Chip.",
+          "zh": "我惊奇如果 Floppy 能做一些的这东西我们看见在……上电视， 说 Chip。 ， 说 Chip。",
+          "startMs": 86100,
+          "endMs": 92100
+        },
+        {
+          "en": "Biff found a box.",
+          "zh": "Biff 找到一个盒子。",
+          "startMs": 92100,
+          "endMs": 94090
+        },
+        {
+          "en": "\"Come on, Floppy,\" she said.",
+          "zh": "来在……上， Floppy， 她说。",
+          "startMs": 94090,
+          "endMs": 97180
+        },
+        {
+          "en": "\"Let's see what you can do.",
+          "zh": "让我们看见什么你能做。",
+          "startMs": 97180,
+          "endMs": 99100
+        },
+        {
+          "en": "Jump on this box.\"",
+          "zh": "跳在……上这个盒子。",
+          "startMs": 99100,
+          "endMs": 101100
+        },
+        {
+          "en": "Floppy looked at the box.",
+          "zh": "Floppy 看在这盒子。",
+          "startMs": 101100,
+          "endMs": 103090
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 86450,
+      "endMs": 103440
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no, I'm too old to do tricks,\" He thought.",
+          "zh": "我是也旧的到做诡计， 他想。 哦不！ 他想。",
+          "startMs": 103090,
+          "endMs": 109100
+        },
+        {
+          "en": "The children made a course for Floppy.",
+          "zh": "这孩子们做一个进程为了 Floppy。",
+          "startMs": 113030,
+          "endMs": 116140
+        },
+        {
+          "en": "It had all kinds of things for him to run round or jump over.",
+          "zh": "它有全部友善的的东西为了他到跑圆形的或者跳在……上方。",
+          "startMs": 116140,
+          "endMs": 120100
+        },
+        {
+          "en": "\"We must give him a treat every time he does well,\" said Biff.",
+          "zh": "我们必须给他一个对待每个时间他做好， 说 Biff。 ， 说 Biff。",
+          "startMs": 120100,
+          "endMs": 125170
+        },
+        {
+          "en": "\"That's the way to train a dog.\"",
+          "zh": "那是这方式到火车一个狗。",
+          "startMs": 125170,
+          "endMs": 127100
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 103440,
+      "endMs": 127450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no,\" \"Oh no!\" thought Floppy.",
+          "zh": "哦不！",
+          "startMs": 127100,
+          "endMs": 130220
+        },
+        {
+          "en": "\"I don't believe this.\"",
+          "zh": "我不相信这个。",
+          "startMs": 130220,
+          "endMs": 133100
+        },
+        {
+          "en": "At first, Floppy did quite well, but he soon got tired and fed up.",
+          "zh": "在第一， Floppy 做相当好。",
+          "startMs": 133100,
+          "endMs": 137890
+        },
+        {
+          "en": "He didn't like the way the children shouted at him all at the same time.",
+          "zh": "他没有喜欢这方式这孩子们喊在他全部在这同样的时间。",
+          "startMs": 137890,
+          "endMs": 143100
+        },
+        {
+          "en": "\"I don't want to be Dog of the Year,\" he thought.",
+          "zh": "我不想要到是狗的这年， 他想。",
+          "startMs": 143100,
+          "endMs": 146860
+        },
+        {
+          "en": "\"I just want to be left alone.\"",
+          "zh": "我刚刚想要到是离开独自。",
+          "startMs": 146860,
+          "endMs": 150100
+        },
+        {
+          "en": "\"Oh Floppy, you're hopeless,\" You're hopeless!\" said Kipper.",
+          "zh": "你是绝望的！ 说 Kipper。",
+          "startMs": 150100,
+          "endMs": 155100
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 127450,
+      "endMs": 155450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum came round.",
+          "zh": "Wilma 妈妈来圆形的。",
+          "startMs": 158030,
+          "endMs": 160010
+        },
+        {
+          "en": "She wanted to take everyone swimming.",
+          "zh": "她想要到拿每个人游泳。",
+          "startMs": 160010,
+          "endMs": 163170
+        },
+        {
+          "en": "Kipper liked going swimming with Wilma's mum.",
+          "zh": "Kipper 喜欢去游泳和……一起 Wilma 妈妈。",
+          "startMs": 163170,
+          "endMs": 166100
+        },
+        {
+          "en": "\"She always buys us an ice cream,\" he said.",
+          "zh": "她总是买我们一个冰奶油， 他说。",
+          "startMs": 166100,
+          "endMs": 169860
+        },
+        {
+          "en": "Floppy was pleased, too.",
+          "zh": "Floppy 是请， 也。",
+          "startMs": 169860,
+          "endMs": 172100
+        },
+        {
+          "en": "He just wanted to find a quiet place to go to sleep.",
+          "zh": "他刚刚想要到找到一个安静的地方到去到睡觉。",
+          "startMs": 172100,
+          "endMs": 175100
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 157880,
+      "endMs": 175450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy crept up to Biff's room.",
+          "zh": "Floppy crept 向上到 Biff 房间。",
+          "startMs": 175100,
+          "endMs": 177680
+        },
+        {
+          "en": "He knew Biff and Chip wouldn't be back for a long time.",
+          "zh": "他知道 Biff 和 Chip 不会是回来为了一个长的时间。",
+          "startMs": 177680,
+          "endMs": 182100
+        },
+        {
+          "en": "He was almost asleep when something made him open one eye.",
+          "zh": "他是几乎睡着的当……时某物做他打开一眼睛。",
+          "startMs": 182100,
+          "endMs": 187100
+        },
+        {
+          "en": "The magic key was glowing.",
+          "zh": "这魔法钥匙是发光的。",
+          "startMs": 187500,
+          "endMs": 191100
+        },
+        {
+          "en": "Dogs don't have magic adventures by themselves, do they?",
+          "zh": "狗不有魔法冒险由他们自己， 做他们？",
+          "startMs": 192000,
+          "endMs": 195860
+        },
+        {
+          "en": "The magic began to work.",
+          "zh": "这魔法开始到工作。",
+          "startMs": 195860,
+          "endMs": 199100
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 175450,
+      "endMs": 199450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy was in a big city.",
+          "zh": "Floppy 是在……里一个大的城市。",
+          "startMs": 213030,
+          "endMs": 215000
+        },
+        {
+          "en": "The city was full of people and traffic.",
+          "zh": "这城市是满的的人们和交通。",
+          "startMs": 215000,
+          "endMs": 218200
+        },
+        {
+          "en": "Everyone was busy.",
+          "zh": "每个人是忙碌的。",
+          "startMs": 218200,
+          "endMs": 219100
+        },
+        {
+          "en": "There was noise everywhere.",
+          "zh": "那里是噪音到处。",
+          "startMs": 219100,
+          "endMs": 222100
+        },
+        {
+          "en": "\"Well,\" \"So this is the big city!",
+          "zh": "好， 他说。",
+          "startMs": 222100,
+          "endMs": 227170
+        },
+        {
+          "en": "I've never seen so many people, and I've never seen such tall buildings.",
+          "zh": "和我已经从不看见这样的高的建筑物。",
+          "startMs": 227170,
+          "endMs": 231930
+        },
+        {
+          "en": "What a place!\"",
+          "zh": "什么一个地方！",
+          "startMs": 231930,
+          "endMs": 233100
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 212880,
+      "endMs": 233450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy explored the city.",
+          "zh": "Floppy 勘察这城市。",
+          "startMs": 233100,
+          "endMs": 235120
+        },
+        {
+          "en": "He came to a steep hill.",
+          "zh": "他来到一个陡峭的小山。",
+          "startMs": 235120,
+          "endMs": 236900
+        },
+        {
+          "en": "A tram took people up and down the hill.",
+          "zh": "一个有轨电车拿人们向上和向下这小山。",
+          "startMs": 236900,
+          "endMs": 239780
+        },
+        {
+          "en": "He had never seen buses like these before.",
+          "zh": "他有从不看见公共汽车喜欢这些在……之前。",
+          "startMs": 239780,
+          "endMs": 243100
+        },
+        {
+          "en": "A lady went past with two dogs.",
+          "zh": "一个女士去过和……一起二狗。",
+          "startMs": 243100,
+          "endMs": 246140
+        },
+        {
+          "en": "\"What funny dogs,\" thought Floppy.",
+          "zh": "什么有趣的狗， 想 Floppy。",
+          "startMs": 246140,
+          "endMs": 249100
+        },
+        {
+          "en": "\"I've never seen dogs with coats on before.\"",
+          "zh": "我已经从不看见狗和……一起外套在……上在……之前。",
+          "startMs": 249100,
+          "endMs": 252100
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 233450,
+      "endMs": 252450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was a pram outside a shop.",
+          "zh": "那里是一个婴儿车外面一个商店。",
+          "startMs": 255080,
+          "endMs": 257310
+        },
+        {
+          "en": "In the pram was a baby.",
+          "zh": "在……里这婴儿车是一个婴儿。",
+          "startMs": 257310,
+          "endMs": 258820
+        },
+        {
+          "en": "Suddenly the pram began to move.",
+          "zh": "突然地这婴儿车开始到移动。",
+          "startMs": 258820,
+          "endMs": 261420
+        },
+        {
+          "en": "The baby's mother had forgotten to put the brake on.",
+          "zh": "这婴儿妈妈有忘记到放这刹车在……上。",
+          "startMs": 261420,
+          "endMs": 265100
+        },
+        {
+          "en": "At first, nobody saw the pram moving.",
+          "zh": "在第一， 没有人看见这婴儿车运动的。",
+          "startMs": 265100,
+          "endMs": 268830
+        },
+        {
+          "en": "But then it began to move faster and faster.",
+          "zh": "但是然后它开始到移动快的和快的。",
+          "startMs": 268830,
+          "endMs": 273100
+        },
+        {
+          "en": "\"Stop that pram!\" Someone shouted.",
+          "zh": "停那个婴儿车！ 某人喊。 来在……上！ 他喊。",
+          "startMs": 273100,
+          "endMs": 276150
+        },
+        {
+          "en": "\"Oh, no!\"",
+          "zh": "哦不！",
+          "startMs": 282030,
+          "endMs": 283200
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 254930,
+      "endMs": 283550
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pram rolled out into the road.",
+          "zh": "这婴儿车使滚动出进入这路。",
+          "startMs": 283200,
+          "endMs": 283400
+        },
+        {
+          "en": "By now, it was going too fast for anyone to stop it.",
+          "zh": "由现在， 它是去也快的为了任何人到停它。",
+          "startMs": 283400,
+          "endMs": 283600
+        },
+        {
+          "en": "\"Oh no!\" screamed the mother.",
+          "zh": "哦不！ 尖叫这妈妈。",
+          "startMs": 283600,
+          "endMs": 285230
+        },
+        {
+          "en": "\"My baby will be killed.",
+          "zh": "我的婴儿将是杀死。",
+          "startMs": 285230,
+          "endMs": 287460
+        },
+        {
+          "en": "Do something, somebody.\"",
+          "zh": "做某物， 某人。",
+          "startMs": 287460,
+          "endMs": 290100
+        },
+        {
+          "en": "Floppy saw the pram running down the hill.",
+          "zh": "Floppy 看见这婴儿车跑向下这小山。",
+          "startMs": 290100,
+          "endMs": 293140
+        },
+        {
+          "en": "\"This looks like a job for me,\" he thought.",
+          "zh": "这个看喜欢一个工作为了我， 他想。",
+          "startMs": 293140,
+          "endMs": 297100
+        },
+        {
+          "en": "\"Phew, that was a close thing,\" Floppy ran after the pram and grabbed it with his teeth.",
+          "zh": "那个是关上。",
+          "startMs": 306030,
+          "endMs": 309340
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 283550,
+      "endMs": 309690
+    },
+    {
+      "sentences": [
+        {
+          "en": "He stopped it just in time.",
+          "zh": "他停它刚刚在……里时间。",
+          "startMs": 309340,
+          "endMs": 309540
+        },
+        {
+          "en": "Thought Floppy.",
+          "zh": "哦不！ 想 Floppy。",
+          "startMs": 309540,
+          "endMs": 311190
+        },
+        {
+          "en": "Everyone came running up.",
+          "zh": "每个人来跑向上。",
+          "startMs": 311190,
+          "endMs": 313100
+        },
+        {
+          "en": "\"Did you see what that dog did?\" Shouted a man.",
+          "zh": "做你看见什么那个狗做？ 喊一个男人。 哦不！ 喊一个男人。",
+          "startMs": 313100,
+          "endMs": 316740
+        },
+        {
+          "en": "\"He's a hero.\"",
+          "zh": "他是一个英雄。",
+          "startMs": 316740,
+          "endMs": 318100
+        },
+        {
+          "en": "\"He saved my baby!\" Cried the mother.",
+          "zh": "他挽救我的儿子。 哦不！ 尖叫这妈妈。",
+          "startMs": 318100,
+          "endMs": 321830
+        },
+        {
+          "en": "\"He's a super dog!\"",
+          "zh": "他是一个英雄。",
+          "startMs": 331030,
+          "endMs": 332940
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 309690,
+      "endMs": 333290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone made a fuss of Floppy.",
+          "zh": "每个人做一个大惊小怪的 Floppy。",
+          "startMs": 332940,
+          "endMs": 333140
+        },
+        {
+          "en": "\"Did you see that dog?\" People said.",
+          "zh": "做你看见那个狗？ 人们说。",
+          "startMs": 333140,
+          "endMs": 333340
+        },
+        {
+          "en": "\"He stopped a runaway pram.\" Someone shouted.",
+          "zh": "他停一个逃跑者婴儿车。 来在……上！ 他喊。",
+          "startMs": 333340,
+          "endMs": 334710
+        },
+        {
+          "en": "\"It was nothing,\" thought Floppy.",
+          "zh": "它是没有什么， 想 Floppy。",
+          "startMs": 334710,
+          "endMs": 338100
+        },
+        {
+          "en": "Then suddenly, he saw something else happening.",
+          "zh": "然后突然地， 他看见某物其他发生的事情。",
+          "startMs": 338100,
+          "endMs": 343100
+        },
+        {
+          "en": "\"Help!\"",
+          "zh": "帮助！",
+          "startMs": 357030,
+          "endMs": 358630
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 333290,
+      "endMs": 358980
+    },
+    {
+      "sentences": [
+        {
+          "en": "A lady had put her handbag with her shopping.",
+          "zh": "一个女士有放她手提包和……一起她商店。",
+          "startMs": 358630,
+          "endMs": 358830
+        },
+        {
+          "en": "She was looking at the baby in the runaway pram.",
+          "zh": "她是看在这婴儿在……里这逃跑者婴儿车。",
+          "startMs": 358830,
+          "endMs": 359030
+        },
+        {
+          "en": "Suddenly, a thief grabbed the handbag and ran away with it.",
+          "zh": "突然地， 一个小偷抓住这手提包和跑离开和……一起它。",
+          "startMs": 359030,
+          "endMs": 359230
+        },
+        {
+          "en": "\"Help!\" shouted the lady.",
+          "zh": "帮助！ 喊这女士。",
+          "startMs": 359230,
+          "endMs": 360820
+        },
+        {
+          "en": "\"My handbag has gone.\"",
+          "zh": "我的手提包有去了。",
+          "startMs": 360820,
+          "endMs": 364100
+        },
+        {
+          "en": "\"Another job for Super Dog!\" Thought Floppy.",
+          "zh": "另一个工作为了 Superdog， 想 Floppy。 哦不！ 想 Floppy。",
+          "startMs": 364100,
+          "endMs": 368100
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 358980,
+      "endMs": 368450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran after the thief.",
+          "zh": "Floppy 跑在……之后这小偷。",
+          "startMs": 368100,
+          "endMs": 371140
+        },
+        {
+          "en": "The thief tried to get over a wall, but Floppy was too quick for him.",
+          "zh": "这小偷经过考验的到得到在……上方一个墙， 但是 Floppy 是也快的为了他。",
+          "startMs": 371140,
+          "endMs": 376100
+        },
+        {
+          "en": "He grabbed the man by his trousers and the man dropped the handbag.",
+          "zh": "他抓住这男人由他的裤子和这男人掉下这手提包。",
+          "startMs": 376100,
+          "endMs": 381100
+        },
+        {
+          "en": "\"Got you!\" Growled Floppy.",
+          "zh": "做你？ 得到你！ 低声吼叫 Floppy。",
+          "startMs": 381100,
+          "endMs": 383340
+        },
+        {
+          "en": "\"All right!",
+          "zh": "全部正确的！",
+          "startMs": 383340,
+          "endMs": 385680
+        },
+        {
+          "en": "All right!\" said the thief.",
+          "zh": "全部正确的！ 说这小偷。",
+          "startMs": 385680,
+          "endMs": 387100
+        },
+        {
+          "en": "\"I didn't mean to keep it anyway.\" Someone shouted.",
+          "zh": "我没有意思是到保持它无论如何。 来在……上！ 他喊。",
+          "startMs": 387100,
+          "endMs": 400100
+        },
+        {
+          "en": "\"He got my handbag back,\" Said the old lady.",
+          "zh": "他得到我的手提包回来， 说这旧的女士。",
+          "startMs": 400100,
+          "endMs": 403830
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 368450,
+      "endMs": 404180
+    },
+    {
+      "sentences": [
+        {
+          "en": "People made a fuss of Floppy.",
+          "zh": "人们做一个大惊小怪的 Floppy。",
+          "startMs": 403830,
+          "endMs": 404030
+        },
+        {
+          "en": "\"This dog is a hero,\" someone shouted.",
+          "zh": "这个狗是一个英雄， 某人喊。",
+          "startMs": 404030,
+          "endMs": 404230
+        },
+        {
+          "en": "\"It had all my money in it.\"",
+          "zh": "它有全部我的钱在……里它。",
+          "startMs": 404230,
+          "endMs": 407100
+        },
+        {
+          "en": "\"I know who this dog really is, Super Dog,\" Said a man.",
+          "zh": "这个狗真的是 Superdog， 说一个男人。 哦！ 说 Aisha。",
+          "startMs": 407100,
+          "endMs": 412100
+        },
+        {
+          "en": "\"It was nothing,\" Thought Floppy.",
+          "zh": "它是不一个男人。 哦不！ 想 Floppy。",
+          "startMs": 412100,
+          "endMs": 415100
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 404180,
+      "endMs": 415450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A big ship was coming in.",
+          "zh": "一个大的轮船是来在……里。",
+          "startMs": 415100,
+          "endMs": 418140
+        },
+        {
+          "en": "Floppy went to the dock to see it.",
+          "zh": "Floppy 去到这船坞到看见它。",
+          "startMs": 418140,
+          "endMs": 421100
+        },
+        {
+          "en": "There were lots of people watching the ship.",
+          "zh": "那里是许多的人们手表这轮船。",
+          "startMs": 421100,
+          "endMs": 424150
+        },
+        {
+          "en": "Some of them were waving.",
+          "zh": "一些的他们是波浪。",
+          "startMs": 424150,
+          "endMs": 426100
+        },
+        {
+          "en": "The people were so excited that some of them went too close to the edge of the dock.",
+          "zh": "这人们是所以兴奋的那个一些的他们去也关上到这边缘的这船坞。",
+          "startMs": 426100,
+          "endMs": 432100
+        },
+        {
+          "en": "Suddenly, Floppy saw something happen.",
+          "zh": "突然地， Floppy 看见某物发生。",
+          "startMs": 432100,
+          "endMs": 436100
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 415450,
+      "endMs": 436450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A boy had fallen in the water.",
+          "zh": "一个男孩有落下在……里这水。",
+          "startMs": 438000,
+          "endMs": 439640
+        },
+        {
+          "en": "Everyone was cheering, so nobody saw the boy fall in.",
+          "zh": "每个人是令人振作的， 所以没有人看见这男孩落下在……里。",
+          "startMs": 439640,
+          "endMs": 446100
+        },
+        {
+          "en": "\"Another job for Super Dog,\" Thought Floppy.",
+          "zh": "另一个工作为了 Superdog， 想 Floppy。 哦不！ 想 Floppy。",
+          "startMs": 446100,
+          "endMs": 449500
+        },
+        {
+          "en": "He jumped in the water and swam to the little boy.",
+          "zh": "他跳在……里这水和游泳到这小的男孩。",
+          "startMs": 449500,
+          "endMs": 453100
+        },
+        {
+          "en": "\"Oh no!\" Shouted a man.",
+          "zh": "哦不！ 喊一个男人。",
+          "startMs": 453100,
+          "endMs": 455320
+        },
+        {
+          "en": "\"It's my little boy.",
+          "zh": "它是我的小的男孩。",
+          "startMs": 455320,
+          "endMs": 457230
+        },
+        {
+          "en": "He's in the water.\" \"Don't worry,\" Someone called.",
+          "zh": "他是在……里这水。 不担心， 说 Wilf。",
+          "startMs": 457230,
+          "endMs": 461340
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 437850,
+      "endMs": 461690
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"He'll be all right.",
+          "zh": "他会是全部正确的。",
+          "startMs": 461340,
+          "endMs": 462970
+        },
+        {
+          "en": "Super Dog will save him!\"",
+          "zh": "Superdog 将挽救他。",
+          "startMs": 462970,
+          "endMs": 465100
+        },
+        {
+          "en": "Floppy held the boy's shirt in his teeth and pulled the boy out of the water.",
+          "zh": "Floppy 拿着这男孩衬衫在……里他的牙齿和拉这男孩出的这水。",
+          "startMs": 465100,
+          "endMs": 470100
+        },
+        {
+          "en": "\"What a dog!\" Said the man.",
+          "zh": "什么将我们做？ 什么一个狗！ 说这男人。",
+          "startMs": 470100,
+          "endMs": 473140
+        },
+        {
+          "en": "\"He saved my son.\"",
+          "zh": "他挽救我的儿子。",
+          "startMs": 473140,
+          "endMs": 475100
+        },
+        {
+          "en": "\"Think nothing of it,\" thought Floppy.",
+          "zh": "想没有什么的它， 想 Floppy。",
+          "startMs": 475100,
+          "endMs": 478100
+        },
+        {
+          "en": "There was a story about Floppy in the newspaper.",
+          "zh": "这漏发这英雄狗击城镇那里是一个故事关于 Floppy 在……里这报纸。",
+          "startMs": 481000,
+          "endMs": 484810
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 461690,
+      "endMs": 485160
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were some pictures of him, too.",
+          "zh": "那里是一些图画的他， 也。",
+          "startMs": 484810,
+          "endMs": 487100
+        },
+        {
+          "en": "Everyone wanted to read about Floppy the hero.",
+          "zh": "每个人想要到读关于 Floppy 这英雄。",
+          "startMs": 487100,
+          "endMs": 491100
+        },
+        {
+          "en": "The newspaper said that Floppy was called Super Dog.",
+          "zh": "这报纸说那个 Floppy 是叫 Superdog。",
+          "startMs": 491100,
+          "endMs": 495100
+        },
+        {
+          "en": "\"It's better than being called Floppy,\" thought Floppy.",
+          "zh": "它是没有什么， 想 Floppy。",
+          "startMs": 495100,
+          "endMs": 499100
+        },
+        {
+          "en": "Everywhere Floppy went, people said, \"There's Super Dog!",
+          "zh": "Floppy 去， 人们说， 有 Superdog！",
+          "startMs": 499100,
+          "endMs": 504300
+        },
+        {
+          "en": "He's the hero!\"",
+          "zh": "他是一个英雄。",
+          "startMs": 504300,
+          "endMs": 506100
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 485160,
+      "endMs": 506450
+    },
+    {
+      "sentences": [
+        {
+          "en": "When Floppy crossed the road, all the cars stopped to let him across.",
+          "zh": "当……时 Floppy 交扰的这路， 全部这汽车停到让他穿过。",
+          "startMs": 506100,
+          "endMs": 511100
+        },
+        {
+          "en": "\"It's Super Dog!\"",
+          "zh": "它是可怕的。",
+          "startMs": 511100,
+          "endMs": 512780
+        },
+        {
+          "en": "\"It's Superdog!\" shouted the car drivers.",
+          "zh": "它是 Superdog！ 喊这汽车驾驶员。",
+          "startMs": 512780,
+          "endMs": 514860
+        },
+        {
+          "en": "\"Can we take you anywhere.",
+          "zh": "能我们拿你在任何地方。",
+          "startMs": 514860,
+          "endMs": 517100
+        },
+        {
+          "en": "Do you need a lift?\"",
+          "zh": "做你必须一个拿起？",
+          "startMs": 517100,
+          "endMs": 521100
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 506450,
+      "endMs": 521450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There were some mean dogs in the city.",
+          "zh": "那里是一些意思是狗在……里这城市。",
+          "startMs": 523000,
+          "endMs": 526140
+        },
+        {
+          "en": "The meanest dog was called Fang.",
+          "zh": "这意思是狗是叫直角四边形或六面都是直角四边形的立体。",
+          "startMs": 526140,
+          "endMs": 528100
+        },
+        {
+          "en": "He went round with a dog called Hook and a dog called Snap.",
+          "zh": "他去圆形的和……一起一个狗叫挂钩和一个狗叫啪的一声。",
+          "startMs": 528100,
+          "endMs": 532100
+        },
+        {
+          "en": "Fang, Hook and Snap met a lost dog.",
+          "zh": "直角四边形或六面都是直角四边形的立体， 挂钩和啪的一声遇见一个丢失狗。",
+          "startMs": 532100,
+          "endMs": 536100
+        },
+        {
+          "en": "\"We don't like dogs who wear coats,\" growled Fang.",
+          "zh": "我们不喜欢狗谁穿外套， 低声吼叫直角四边形或六面都是直角四边形的立体。",
+          "startMs": 536100,
+          "endMs": 541100
+        },
+        {
+          "en": "\"What are you doing in our part of town?\"",
+          "zh": "什么是你做在……里我们的部分的城镇？",
+          "startMs": 541100,
+          "endMs": 544100
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 522850,
+      "endMs": 544450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy saw what was happening.",
+          "zh": "Floppy 看见什么是发生的事情。",
+          "startMs": 544100,
+          "endMs": 547140
+        },
+        {
+          "en": "He walked up to Fang, Hook and Snap.",
+          "zh": "他走向上到直角四边形或六面都是直角四边形的立体， 挂钩和啪的一声。",
+          "startMs": 547140,
+          "endMs": 550100
+        },
+        {
+          "en": "\"I hope you're not being nasty to this lost dog,\" he said.",
+          "zh": "我希望你是不正在令人难受的到这个丢失狗， 他说。 的进程不， Superdog， 说直角四边形或六面都是直角四边形的立体。",
+          "startMs": 550100,
+          "endMs": 555100
+        },
+        {
+          "en": "\"No, of course not, Super Dog,\" Said Fang.",
+          "zh": "， 说 Biff。",
+          "startMs": 555100,
+          "endMs": 560180
+        },
+        {
+          "en": "\"We were just offering to take him home.\" \"Don't worry,\" Said Floppy.",
+          "zh": "我们是刚刚给予到拿他家。 不担心， 说 Wilf。 哦 Floppy！",
+          "startMs": 560180,
+          "endMs": 565340
+        },
+        {
+          "en": "\"I'll take him.\"",
+          "zh": "我会拿他。",
+          "startMs": 565340,
+          "endMs": 567100
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 544450,
+      "endMs": 567450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some men were working on a tall building.",
+          "zh": "一些男人们是有工作的在……上一个高的建造。",
+          "startMs": 572040,
+          "endMs": 575140
+        },
+        {
+          "en": "It was dangerous working so high up.",
+          "zh": "它是危险的有工作的所以高的向上。",
+          "startMs": 575140,
+          "endMs": 577100
+        },
+        {
+          "en": "Suddenly, one of the men slipped and fell.",
+          "zh": "突然地， 一的这男人们滑倒和落下。",
+          "startMs": 577100,
+          "endMs": 580140
+        },
+        {
+          "en": "He was on a girder and couldn't get off.",
+          "zh": "他是在……上一个大梁和不能得到离开。",
+          "startMs": 580140,
+          "endMs": 583100
+        },
+        {
+          "en": "The fire service raced to the rescue, but the ladders weren't long enough.",
+          "zh": "这火效劳速度竞赛到这解救， 但是这梯子不是长的足够。",
+          "startMs": 583100,
+          "endMs": 588100
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 571890,
+      "endMs": 588450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We need to get a rope to him.",
+          "zh": "我们必须到得到一个绳索到他。",
+          "startMs": 588100,
+          "endMs": 591140
+        },
+        {
+          "en": "But how?\" shouted one of the firemen.",
+          "zh": "但是如何？ 喊一的这消防队员。",
+          "startMs": 591140,
+          "endMs": 593100
+        },
+        {
+          "en": "\"We can't use a helicopter.\"",
+          "zh": "我们不能使用一个直升机。",
+          "startMs": 593100,
+          "endMs": 596100
+        },
+        {
+          "en": "A crowd of people stood in the street.",
+          "zh": "一个人群的人们站在……里这街道。",
+          "startMs": 596100,
+          "endMs": 598060
+        },
+        {
+          "en": "Everyone looked up at the building.",
+          "zh": "每个人看向上在这建造。",
+          "startMs": 598060,
+          "endMs": 601100
+        },
+        {
+          "en": "\"Someone will have to take the rope to him.",
+          "zh": "某人将有到拿这绳索到他。",
+          "startMs": 601100,
+          "endMs": 604830
+        },
+        {
+          "en": "But who?\" shouted a man.",
+          "zh": "但是谁？ 喊一个男人。",
+          "startMs": 604830,
+          "endMs": 607100
+        },
+        {
+          "en": "\"Another little job for me,\" thought Superdog.",
+          "zh": "另一个小的工作为了我， 想 Superdog。",
+          "startMs": 607100,
+          "endMs": 609370
+        },
+        {
+          "en": "Thought Super Dog.",
+          "zh": "谢谢你， Superdog， 他叫。",
+          "startMs": 609370,
+          "endMs": 611100
+        },
+        {
+          "en": "\"Don't look down, Super Dog,\" Shouted the man.",
+          "zh": "不看向下， Superdog， 喊这男人。 嗨！ 喊这大的男人。",
+          "startMs": 622000,
+          "endMs": 625860
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 588450,
+      "endMs": 626210
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy went to the rescue.",
+          "zh": "Floppy 去到这解救。",
+          "startMs": 625860,
+          "endMs": 626060
+        },
+        {
+          "en": "He took the rope in his teeth.",
+          "zh": "他拿这绳索在……里他的牙齿。",
+          "startMs": 626060,
+          "endMs": 626260
+        },
+        {
+          "en": "Then he went slowly along the girder to the man.",
+          "zh": "然后他去慢悠悠地沿着这大梁到这男人。",
+          "startMs": 626260,
+          "endMs": 626460
+        },
+        {
+          "en": "\"It's a long way to fall.\" \"Oh dear!\" Thought Floppy.",
+          "zh": "它是一个长的方式到落下。 哦亲爱的！ 哦不！ 想 Floppy。",
+          "startMs": 626460,
+          "endMs": 631120
+        },
+        {
+          "en": "\"What am I doing in this adventure?",
+          "zh": "什么是我做在……里这个冒险？",
+          "startMs": 631120,
+          "endMs": 633200
+        },
+        {
+          "en": "I don't like being up here.\" \"Thank you,.",
+          "zh": "我不喜欢正在向上这里。 谢谢你， Gran。",
+          "startMs": 633200,
+          "endMs": 640120
+        },
+        {
+          "en": "Super Dog,\" He called.",
+          "zh": "Superdog 将挽救他。 帮助！ 她叫。",
+          "startMs": 640120,
+          "endMs": 642170
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 626210,
+      "endMs": 642520
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man grabbed the rope from Floppy.",
+          "zh": "这男人抓住这绳索从 Floppy。",
+          "startMs": 642170,
+          "endMs": 642370
+        },
+        {
+          "en": "\"You're a real hero.\" Everyone cheered.",
+          "zh": "你是一个真的英雄。 每个人向。",
+          "startMs": 642370,
+          "endMs": 646090
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 646090,
+          "endMs": 649100
+        },
+        {
+          "en": "It was time for Floppy's adventure to end.",
+          "zh": "它是时间为了 Floppy 冒险到末尾。",
+          "startMs": 651000,
+          "endMs": 654100
+        },
+        {
+          "en": "\"I can't say I'm sorry,\" thought Floppy.",
+          "zh": "我不能说我是对不起， 想 Floppy。",
+          "startMs": 654100,
+          "endMs": 658100
+        },
+        {
+          "en": "She said.",
+          "zh": "我看见， 他说。",
+          "startMs": 675060,
+          "endMs": 675960
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 642520,
+      "endMs": 676310
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was cross when she found Floppy on her bed.",
+          "zh": "Biff 是叉形当……时她找到 Floppy 在……上她床。",
+          "startMs": 675960,
+          "endMs": 676160
+        },
+        {
+          "en": "\"You know you mustn't sleep on the bed,\" she said.",
+          "zh": "你知道你不可以睡觉在……上这床， 她说。",
+          "startMs": 676160,
+          "endMs": 676360
+        },
+        {
+          "en": "\"What a bad dog you are, Floppy!\"",
+          "zh": "什么一个坏的狗你是， Floppy！",
+          "startMs": 676360,
+          "endMs": 679100
+        },
+        {
+          "en": "Floppy jumped off the bed, and crept downstairs.",
+          "zh": "Floppy 跳离开这床， 和 crept 在楼下。",
+          "startMs": 679100,
+          "endMs": 684100
+        },
+        {
+          "en": "\"I don't know,\" he thought.",
+          "zh": "我不知道， 他想。",
+          "startMs": 684100,
+          "endMs": 686320
+        },
+        {
+          "en": "\"I'm a hero one minute, and a bad dog the next.\" They said.",
+          "zh": "我是一个英雄一分， 和一个坏的狗这下一个。 再见， 他们说。",
+          "startMs": 686320,
+          "endMs": 699100
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 676310,
+      "endMs": 699450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children took Floppy outside.",
+          "zh": "这孩子们拿 Floppy 外面。",
+          "startMs": 699100,
+          "endMs": 699300
+        },
+        {
+          "en": "\"It's time to do the Dog of the Year course again,\" they said.",
+          "zh": "它是时间到做这狗的这年进程再一次， 他们说。",
+          "startMs": 699300,
+          "endMs": 699500
+        },
+        {
+          "en": "Suddenly Floppy ran off.",
+          "zh": "突然地 Floppy 跑离开。",
+          "startMs": 699500,
+          "endMs": 701090
+        },
+        {
+          "en": "He jumped over the fence and ran away as fast as he could.",
+          "zh": "他跳在……上方这分册和跑离开像快的像他能。",
+          "startMs": 701090,
+          "endMs": 705100
+        },
+        {
+          "en": "\"Come back, you bad dog,\" shouted Chip.",
+          "zh": "来回来， 你坏的狗， 喊 Chip。 ， 说 Chip。",
+          "startMs": 705100,
+          "endMs": 709100
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 699450,
+      "endMs": 709450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy ran into the park and hid inside a giant pipe.",
+          "zh": "Floppy 跑进入这公园和 hid 里面一个巨人管子。",
+          "startMs": 713000,
+          "endMs": 717100
+        },
+        {
+          "en": "\"They won't find me in here,\" he thought.",
+          "zh": "他们不会找到我在……里这里， 他想。",
+          "startMs": 717100,
+          "endMs": 721100
+        },
+        {
+          "en": "\"I don't want to be the Dog of the Year, and I'm not Superdog.",
+          "zh": "我不想要到是这狗的这年， 和我是不 Superdog。",
+          "startMs": 721100,
+          "endMs": 724960
+        },
+        {
+          "en": "I'm just me.",
+          "zh": "我是刚刚我。",
+          "startMs": 724960,
+          "endMs": 727100
+        },
+        {
+          "en": "I'm just a floppy old dog who wants a bit of peace.\" (upbeat music).",
+          "zh": "我是刚刚一个 Floppy 旧的狗谁想要一个一小块的和平。 你必须是音乐家。",
+          "startMs": 727100,
+          "endMs": 737680
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 712850,
+      "endMs": 738030
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 738030,
+      "endMs": 738031
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 738031,
+      "endMs": 738032
+    }
+  ]
+}

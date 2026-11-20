@@ -1,0 +1,220 @@
+{
+  "id": "L4-004",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin's dress.",
+          "zh": "Yasmin's 连衣裙。",
+          "startMs": 800,
+          "endMs": 3700
+        }
+      ],
+      "startMs": 800,
+      "endMs": 3700
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin had a new dress.",
+          "zh": "Yasmin 有一个新的连衣裙。",
+          "startMs": 4960,
+          "endMs": 10060
+        }
+      ],
+      "startMs": 4810,
+      "endMs": 10410
+    },
+    {
+      "sentences": [],
+      "startMs": 10480,
+      "endMs": 11280,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Her mum had made it.",
+          "zh": "她妈妈有做它。",
+          "startMs": 11960,
+          "endMs": 15060
+        },
+        {
+          "en": "Yasmin put it on.",
+          "zh": "Yasmin 放它在……上。",
+          "startMs": 14960,
+          "endMs": 19060
+        }
+      ],
+      "startMs": 11810,
+      "endMs": 19410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin looked pretty.",
+          "zh": "Yasmin 看漂亮的。",
+          "startMs": 21960,
+          "endMs": 25060
+        }
+      ],
+      "startMs": 21810,
+      "endMs": 25410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a pretty dress!\" said Dad.",
+          "zh": "什么一个漂亮的连衣裙！ 说爸爸。",
+          "startMs": 24960,
+          "endMs": 29060
+        }
+      ],
+      "startMs": 24810,
+      "endMs": 29410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin went to Gran's.",
+          "zh": "Yasmin 去到 Gran。",
+          "startMs": 29980,
+          "endMs": 31750
+        }
+      ],
+      "startMs": 29830,
+      "endMs": 32100
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a pretty dress!\" said everyone.",
+          "zh": "什么一个漂亮的连衣裙！ 说每个人。",
+          "startMs": 32960,
+          "endMs": 43060
+        }
+      ],
+      "startMs": 32810,
+      "endMs": 43410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin and Adam went to play.",
+          "zh": "Yasmin 和亚当去到玩。",
+          "startMs": 42960,
+          "endMs": 48060
+        }
+      ],
+      "startMs": 42810,
+      "endMs": 48410
+    },
+    {
+      "sentences": [
+        {
+          "en": "WET PAINT Adam got paint on his hands.",
+          "zh": "湿的油漆亚当得到油漆在……上他的手。",
+          "startMs": 47960,
+          "endMs": 55060
+        }
+      ],
+      "startMs": 47810,
+      "endMs": 55410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam got paint on Yasmin's dress.",
+          "zh": "亚当得到油漆在……上 Yasmin's 连衣裙。",
+          "startMs": 47960,
+          "endMs": 60060
+        }
+      ],
+      "startMs": 47810,
+      "endMs": 60410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Yasmin.",
+          "zh": "哦不！ 说 Yasmin。",
+          "startMs": 59960,
+          "endMs": 67060
+        }
+      ],
+      "startMs": 59810,
+      "endMs": 67410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yasmin was cross.",
+          "zh": "Yasmin 是叉形。",
+          "startMs": 67960,
+          "endMs": 71060
+        }
+      ],
+      "startMs": 67810,
+      "endMs": 71410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam was upset.",
+          "zh": "亚当是使苦恼。",
+          "startMs": 70960,
+          "endMs": 77060
+        }
+      ],
+      "startMs": 70810,
+      "endMs": 77410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Grandfather got the paint off.",
+          "zh": "外祖父得到这油漆离开。",
+          "startMs": 76960,
+          "endMs": 84060
+        }
+      ],
+      "startMs": 76810,
+      "endMs": 84410
+    },
+    {
+      "sentences": [],
+      "startMs": 83850,
+      "endMs": 86456,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was happy.",
+          "zh": "每个人是快乐的。",
+          "startMs": 84660,
+          "endMs": 89060
+        }
+      ],
+      "startMs": 84510,
+      "endMs": 89410
+    },
+    {
+      "sentences": [],
+      "startMs": 89770,
+      "endMs": 90998,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 90998,
+      "endMs": 91298,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,1279 @@
+{
+  "id": "L8-009",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "The last magic adventure had gone wrong.",
+          "zh": "这最后的魔法冒险有去了错误的。",
+          "startMs": 0,
+          "endMs": 3760
+        },
+        {
+          "en": "Floppy had been left behind.",
+          "zh": "Floppy 有是离开在……后面。",
+          "startMs": 3760,
+          "endMs": 9770
+        },
+        {
+          "en": "A giant bird had flown off with him.",
+          "zh": "一个巨人鸟有飞离开和……一起他。",
+          "startMs": 9770,
+          "endMs": 12770
+        },
+        {
+          "en": "This was because a horrid genie had escaped from a bottle.",
+          "zh": "这个是因为一个极讨厌的精灵有逃跑从一个瓶子。",
+          "startMs": 12770,
+          "endMs": 17770
+        },
+        {
+          "en": "\"And it was all my fault,\" said Biff.",
+          "zh": "和它是全部我的缺点， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 17770,
+          "endMs": 21590
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 21940
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We've got to rescue Floppy,\" said Chip.",
+          "zh": "我们会有到解救 Floppy。 咳！ 说 Chip。",
+          "startMs": 21590,
+          "endMs": 26460
+        },
+        {
+          "en": "\"We must go back into the adventure.\"",
+          "zh": "我们必须去回来进入这冒险。",
+          "startMs": 26460,
+          "endMs": 30770
+        },
+        {
+          "en": "\"But we can't make the key glow,\" said Biff.",
+          "zh": "但是我们不能做这钥匙光亮， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 30770,
+          "endMs": 34500
+        },
+        {
+          "en": "\"I know,\" Said Chip.",
+          "zh": "不！ 咳！ 说 Chip。",
+          "startMs": 34500,
+          "endMs": 36610
+        },
+        {
+          "en": "\"But we must try.",
+          "zh": "我知道， 说 Chip， 但是我们必须尝试。",
+          "startMs": 36610,
+          "endMs": 37770
+        },
+        {
+          "en": "We have to find a way to get the genie back in the bottle.\"",
+          "zh": "我们有到找到一个方式到得到这精灵回来在……里这瓶子。",
+          "startMs": 37770,
+          "endMs": 41770
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 21940,
+      "endMs": 42120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip looked at the magic key.",
+          "zh": "Biff 和 Chip 看在这魔法钥匙。",
+          "startMs": 41770,
+          "endMs": 46070
+        },
+        {
+          "en": "\"Oh, if only it would glow,\" said Biff.",
+          "zh": "哦， 如果只有它会光亮， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 46070,
+          "endMs": 50770
+        },
+        {
+          "en": "Then the magic key did begin to glow.",
+          "zh": "然后这魔法钥匙做开始到光亮。",
+          "startMs": 50770,
+          "endMs": 56770
+        },
+        {
+          "en": "The magic took the children back into the last adventure.",
+          "zh": "这魔法拿这孩子们回来进入这最后的冒险。",
+          "startMs": 57080,
+          "endMs": 72770
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 42120,
+      "endMs": 73120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to an island.",
+          "zh": "这魔法拿他们到一个岛屿。",
+          "startMs": 73050,
+          "endMs": 76410
+        },
+        {
+          "en": "Biff had been there before.",
+          "zh": "Biff 有是那里在……之前。",
+          "startMs": 76410,
+          "endMs": 79570
+        },
+        {
+          "en": "It was the island where the giant bird had flown away with Floppy.",
+          "zh": "它是这岛屿哪里这巨人鸟有飞离开和……一起 Floppy。",
+          "startMs": 79570,
+          "endMs": 86780
+        },
+        {
+          "en": "Kumar was still there.",
+          "zh": "Kamar 是仍然那里。",
+          "startMs": 86780,
+          "endMs": 87220
+        },
+        {
+          "en": "He was with his father, Hassan.",
+          "zh": "他是和……一起他的爸爸， Hassan。",
+          "startMs": 87220,
+          "endMs": 87770
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 73120,
+      "endMs": 88120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hassan and Kamar were mending their boat.",
+          "zh": "Hassan 和 Kamar 是门丁他们的船。",
+          "startMs": 87770,
+          "endMs": 91480
+        },
+        {
+          "en": "Kumar ran to meet them.",
+          "zh": "Kamar 跑到遇见他们。",
+          "startMs": 91480,
+          "endMs": 93490
+        },
+        {
+          "en": "\"You have come back!\"",
+          "zh": "你有来回来！ 他说到 Biff。",
+          "startMs": 93490,
+          "endMs": 95420
+        },
+        {
+          "en": "He said to Biff.",
+          "zh": "咳！ 说 Biff。",
+          "startMs": 95420,
+          "endMs": 96770
+        },
+        {
+          "en": "\"Where have you been?\"",
+          "zh": "哪里有你是？",
+          "startMs": 96770,
+          "endMs": 98770
+        },
+        {
+          "en": "\"You wouldn't believe it,\" Said Biff.",
+          "zh": "我不相信它！ 哇！ 说 Biff。",
+          "startMs": 98770,
+          "endMs": 104410
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 88120,
+      "endMs": 104760
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Even if we told you.\"",
+          "zh": "竟然如果它是冷的。",
+          "startMs": 104410,
+          "endMs": 107770
+        },
+        {
+          "en": "\"This is my brother, Chip,\" said Biff.",
+          "zh": "这个是我的弟弟， Chip， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 108030,
+          "endMs": 119900
+        },
+        {
+          "en": "\"We have come back to rescue Floppy.\"",
+          "zh": "我们有来回来到解救 Floppy。",
+          "startMs": 119900,
+          "endMs": 131710
+        },
+        {
+          "en": "Kumar shook his head.",
+          "zh": "Kamar shook 他的头。",
+          "startMs": 131710,
+          "endMs": 131910
+        },
+        {
+          "en": "\"That will be very dangerous,\" he said.",
+          "zh": "那个将是非常危险的， 他说。",
+          "startMs": 131910,
+          "endMs": 132110
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 104760,
+      "endMs": 132460
+    },
+    {
+      "sentences": [
+        {
+          "en": "He said.",
+          "zh": "Biff， 他说。",
+          "startMs": 132110,
+          "endMs": 132310
+        },
+        {
+          "en": "\"The giant bird took him up to the top of that mountain.\" \"I know,\" Said Biff.",
+          "zh": "这巨人鸟拿他向上到这顶的那个山。 不！ 哇！ 说 Biff。",
+          "startMs": 132310,
+          "endMs": 132510
+        },
+        {
+          "en": "\"And that's where we're going.",
+          "zh": "我知道， 说 Biff， 和那是哪里我们是去。",
+          "startMs": 132510,
+          "endMs": 132710
+        },
+        {
+          "en": "We must get up there as fast as we can.\" \"Stop!\" Shouted Kumar.",
+          "zh": "我们必须得到向上那里像快的像我们能。 停！ 喊 Kamar。",
+          "startMs": 132710,
+          "endMs": 134680
+        },
+        {
+          "en": "\"Don't go!",
+          "zh": "不去！",
+          "startMs": 134680,
+          "endMs": 135730
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 132460,
+      "endMs": 136080
+    },
+    {
+      "sentences": [
+        {
+          "en": "Have you forgotten about the evil genie?\"",
+          "zh": "有你忘记关于这邪恶的精灵？",
+          "startMs": 135730,
+          "endMs": 138490
+        },
+        {
+          "en": "\"We'll worry about him later,\" said Chip.",
+          "zh": "我们会担心关于他后来， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 138490,
+          "endMs": 144770
+        },
+        {
+          "en": "Biff and Chip went as fast as they could, but it was hard work.",
+          "zh": "Biff 和 Chip 去像快的像他们能， 但是它是困难的工作。",
+          "startMs": 144770,
+          "endMs": 151120
+        },
+        {
+          "en": "They had to climb over big rocks.",
+          "zh": "他们有到爬在……上方大的岩石。",
+          "startMs": 151120,
+          "endMs": 153770
+        },
+        {
+          "en": "At last they came to the mountain.",
+          "zh": "在最后的他们来到这山。",
+          "startMs": 153770,
+          "endMs": 155770
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 136080,
+      "endMs": 156120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was tired.",
+          "zh": "Biff 是累的。",
+          "startMs": 155770,
+          "endMs": 157770
+        },
+        {
+          "en": "She sat on a rock for a rest.",
+          "zh": "她坐在……上一个岩石为了一个休息。",
+          "startMs": 157770,
+          "endMs": 160770
+        },
+        {
+          "en": "\"The mountain looks deep and rocky.\"",
+          "zh": "这山看陡峭的和岩石的。",
+          "startMs": 160770,
+          "endMs": 164490
+        },
+        {
+          "en": "\"How can we climb up?\" Asked Biff.",
+          "zh": "如何能我们爬向上？ 问 Biff。 为什么？ 问 Biff。",
+          "startMs": 164490,
+          "endMs": 167770
+        },
+        {
+          "en": "Then Chip found a dried up stream.",
+          "zh": "然后 Chip 找到一个脱水的向上溪流。",
+          "startMs": 167770,
+          "endMs": 170770
+        },
+        {
+          "en": "\"Come on,\" Called Chip.",
+          "zh": "来在……上！ 来在……上， 叫 Chip。",
+          "startMs": 170770,
+          "endMs": 174250
+        },
+        {
+          "en": "\"This gully looks an easy way up.\"",
+          "zh": "这个冲沟看一个容易的方式向上。",
+          "startMs": 174250,
+          "endMs": 178770
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 156120,
+      "endMs": 179120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip began to climb up the gully.",
+          "zh": "Biff 和 Chip 开始到爬向上这冲沟。",
+          "startMs": 178770,
+          "endMs": 183480
+        },
+        {
+          "en": "Suddenly there was a loud noise and a terrible smell.",
+          "zh": "突然地那里是一个大声的噪音和一个可怕的气味。",
+          "startMs": 183480,
+          "endMs": 189150
+        },
+        {
+          "en": "It was the evil genie.",
+          "zh": "它是这邪恶的精灵。",
+          "startMs": 189150,
+          "endMs": 191770
+        },
+        {
+          "en": "He was standing at the top of the gully.",
+          "zh": "他是站在这顶的这冲沟。",
+          "startMs": 191770,
+          "endMs": 195770
+        },
+        {
+          "en": "\"Ah, I can soon get rid of you,\" He shouted.",
+          "zh": "我能很快得到使摆脱的你， 他喊。",
+          "startMs": 195770,
+          "endMs": 200990
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 179120,
+      "endMs": 201340
+    },
+    {
+      "sentences": [
+        {
+          "en": "The genie clapped his hands.",
+          "zh": "这精灵鼓掌他的手。",
+          "startMs": 200990,
+          "endMs": 204470
+        },
+        {
+          "en": "Water began to gush down the gully.",
+          "zh": "水开始到涌出向下这冲沟。",
+          "startMs": 204470,
+          "endMs": 208770
+        },
+        {
+          "en": "Biff and Chip had no time to climb out.",
+          "zh": "Biff 和 Chip 有不时间到爬出。",
+          "startMs": 208770,
+          "endMs": 211770
+        },
+        {
+          "en": "The water rushed towards them.",
+          "zh": "这水仓促的向他们。",
+          "startMs": 211770,
+          "endMs": 214770
+        },
+        {
+          "en": "\"Gully Biff, climb on this rock and hang on,\" Shouted Chip.",
+          "zh": "爬在……上到这个岩石和夯在……上， 喊 Chip。 她展示它到 Chip。",
+          "startMs": 214770,
+          "endMs": 225770
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 201340,
+      "endMs": 226120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip hung on to the rock.",
+          "zh": "Biff 和 Chip 各党势均力敌的在……上到这岩石。",
+          "startMs": 225770,
+          "endMs": 226810
+        },
+        {
+          "en": "The water roared past them.",
+          "zh": "这水咆哮过他们。",
+          "startMs": 226810,
+          "endMs": 227770
+        },
+        {
+          "en": "Biff and Chip were frightened.",
+          "zh": "Biff 和 Chip 是受惊的。",
+          "startMs": 227770,
+          "endMs": 230770
+        },
+        {
+          "en": "\"What are we going to do?\" Shouted Biff.",
+          "zh": "什么是我们去到做？ 喊 Biff。 如何？ 问 Biff。",
+          "startMs": 230770,
+          "endMs": 234530
+        },
+        {
+          "en": "\"I don't know,\" called Chip.",
+          "zh": "我不知道， 叫 Chip。 来在……上， 叫 Chip。",
+          "startMs": 234530,
+          "endMs": 237280
+        },
+        {
+          "en": "\"It's too far to jump to safety.\"",
+          "zh": "它是也远到跳到安全。",
+          "startMs": 237280,
+          "endMs": 240240
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 226120,
+      "endMs": 240590
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then they saw Kamar.",
+          "zh": "然后他们看见 Kamar。",
+          "startMs": 240240,
+          "endMs": 242180
+        },
+        {
+          "en": "He had followed them to the mountain.",
+          "zh": "他有跟随他们到这山。",
+          "startMs": 242180,
+          "endMs": 245770
+        },
+        {
+          "en": "\"Hang on!\" He shouted.",
+          "zh": "哦不！ 哈！ 他喊。",
+          "startMs": 245770,
+          "endMs": 248760
+        },
+        {
+          "en": "\"I'll soon have you safe.\"",
+          "zh": "T'll 很快有你安全的。",
+          "startMs": 248760,
+          "endMs": 252130
+        },
+        {
+          "en": "He threw a rope across the gully.",
+          "zh": "他扔一个绳索穿过这冲沟。",
+          "startMs": 252130,
+          "endMs": 255970
+        },
+        {
+          "en": "It caught on a branch on the other side.",
+          "zh": "它抓住在……上一个树枝在……上这其他私德。",
+          "startMs": 255970,
+          "endMs": 260770
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 240590,
+      "endMs": 261120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip climbed to safety on the rope.",
+          "zh": "Biff 和 Chip 爬到安全在……上这绳索。",
+          "startMs": 260770,
+          "endMs": 262770
+        },
+        {
+          "en": "\"We are so pleased to see you!\" Said Biff.",
+          "zh": "我们是所以请到看见你！ 说 Biff。 哇！",
+          "startMs": 262770,
+          "endMs": 266500
+        },
+        {
+          "en": "\"I thought we'd never get off that rock.\"",
+          "zh": "我想 we'd 从不得到离开那个岩石这邪恶的精灵做这个， 说 Chip。",
+          "startMs": 266500,
+          "endMs": 270540
+        },
+        {
+          "en": "\"The evil genie did this,\" Said Chip.",
+          "zh": "这邪恶的精灵出现！ 咳！ 说 Chip。",
+          "startMs": 270540,
+          "endMs": 274150
+        },
+        {
+          "en": "\"It's a good job I came when I did,\" said Kamar.",
+          "zh": "我来当……时我做， 说 Kamar。 帮助！ 叫 Kamar。",
+          "startMs": 274150,
+          "endMs": 278730
+        },
+        {
+          "en": "\"I came to help you rescue Floppy.\"",
+          "zh": "我来到帮助你解救 Floppy。",
+          "startMs": 278730,
+          "endMs": 281770
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 261120,
+      "endMs": 282120
+    },
+    {
+      "sentences": [
+        {
+          "en": "They began to climb the mountain again.",
+          "zh": "他们开始到爬这山再一次。",
+          "startMs": 282050,
+          "endMs": 285140
+        },
+        {
+          "en": "Biff and Chip were pleased that Kamar had come to help them.",
+          "zh": "Biff 和 Chip 是请那个 Kamar 有来到帮助他们。",
+          "startMs": 285140,
+          "endMs": 290240
+        },
+        {
+          "en": "The giant bird was flying high above them.",
+          "zh": "这巨人鸟是飞高的在他们。",
+          "startMs": 290240,
+          "endMs": 293770
+        },
+        {
+          "en": "\"What have you done with Floppy?\" Yelled Biff crossly.",
+          "zh": "什么有你做完和……一起 Floppy？ Biff 生气地。",
+          "startMs": 293770,
+          "endMs": 300140
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 282120,
+      "endMs": 300490
+    },
+    {
+      "sentences": [
+        {
+          "en": "It took them a long time to get to the top of the mountain.",
+          "zh": "它拿他们一个长的时间到得到到这顶的这山。",
+          "startMs": 300140,
+          "endMs": 306240
+        },
+        {
+          "en": "At last they reached the nest of the giant bird.",
+          "zh": "在最后的他们到达这窝的这巨人鸟。",
+          "startMs": 306240,
+          "endMs": 311770
+        },
+        {
+          "en": "\"Ugh!\" Said Chip.",
+          "zh": "咳！ 说 Chip。",
+          "startMs": 311770,
+          "endMs": 313640
+        },
+        {
+          "en": "\"Look at all these bones.",
+          "zh": "看在全部这些骨头。",
+          "startMs": 313640,
+          "endMs": 315990
+        },
+        {
+          "en": "I hope the bird hasn't eaten Floppy!\" \"Floppy!\" Called Biff.",
+          "zh": "我希望这鸟没有吃 Floppy！ 哦 Floppy！ Floppy！ 叫 Biff。",
+          "startMs": 315990,
+          "endMs": 321980
+        },
+        {
+          "en": "\"Where are you?\"",
+          "zh": "哪里有你是？",
+          "startMs": 321980,
+          "endMs": 323810
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 300490,
+      "endMs": 324160
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then they saw Floppy.",
+          "zh": "然后他们看见 Floppy。",
+          "startMs": 323810,
+          "endMs": 325770
+        },
+        {
+          "en": "He was fast asleep and he had a contented look on his face.",
+          "zh": "他是快的睡着的和他有一个满足的看在……上他的脸。",
+          "startMs": 325780,
+          "endMs": 333170
+        },
+        {
+          "en": "In front of him was a pile of bones.",
+          "zh": "在……里前面的他是一个堆的骨头。",
+          "startMs": 333170,
+          "endMs": 337810
+        },
+        {
+          "en": "\"Oh Floppy!\" Said Biff.",
+          "zh": "哦 Floppy！ 哇！ 说 Biff。",
+          "startMs": 337810,
+          "endMs": 341160
+        },
+        {
+          "en": "\"Wake up!\"",
+          "zh": "醒来向上！",
+          "startMs": 341160,
+          "endMs": 342810
+        },
+        {
+          "en": "Floppy woke up and wagged his tail. Said Kamar.",
+          "zh": "Floppy 醒来向上和摇摆他的尾。 帮助！ 叫 Kamar。",
+          "startMs": 342810,
+          "endMs": 351610
+        },
+        {
+          "en": "\"I'm glad we're going,\" \"We must get back quickly,\" said Kamar.",
+          "zh": "它意思是我们是去到是烂醉的。",
+          "startMs": 355670,
+          "endMs": 357070
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 324160,
+      "endMs": 357420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The evil genie may use his powers again.\" Thought Floppy.",
+          "zh": "这邪恶的精灵梅使用他的控制力再一次。 我憎恶船！ 想 Floppy。",
+          "startMs": 357070,
+          "endMs": 357770
+        },
+        {
+          "en": "\"But I'm sorry I can't take all the lovely bones.\"",
+          "zh": "Floppy， 但是我是对不起我不能拿全部这美丽的骨头。",
+          "startMs": 357770,
+          "endMs": 361770
+        },
+        {
+          "en": "They went down the mountain as fast as they could.",
+          "zh": "他们去向下这山像快的像他们能。",
+          "startMs": 362050,
+          "endMs": 366480
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 357420,
+      "endMs": 366830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then they saw Hasan.",
+          "zh": "然后他们看见 Hassan。",
+          "startMs": 366480,
+          "endMs": 368250
+        },
+        {
+          "en": "He had come to look for them.",
+          "zh": "他有来到看为了他们。",
+          "startMs": 368250,
+          "endMs": 370860
+        },
+        {
+          "en": "\"I am so glad I have found you,\" he said.",
+          "zh": "我是所以高兴的我有找到你， 他说。",
+          "startMs": 370860,
+          "endMs": 374500
+        },
+        {
+          "en": "\"I have been worried about you.\"",
+          "zh": "他是也发愁的关于这洪水。",
+          "startMs": 374500,
+          "endMs": 377730
+        },
+        {
+          "en": "\"We are all safe,\" Said Kamar.",
+          "zh": "这相机是安全的。 帮助！ 叫 Kamar。",
+          "startMs": 377730,
+          "endMs": 379770
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 366830,
+      "endMs": 380120
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"And we have rescued Floppy.\" Hasan was worried.",
+          "zh": "我们没有解救 Floppy。 Hassan 是发愁的。",
+          "startMs": 379770,
+          "endMs": 386520
+        },
+        {
+          "en": "He looked at Kamar.",
+          "zh": "他看在 Kamar。",
+          "startMs": 386520,
+          "endMs": 388250
+        },
+        {
+          "en": "\"The genie may use his powers again.",
+          "zh": "这精灵梅使用他的控制力再一次。",
+          "startMs": 388250,
+          "endMs": 391340
+        },
+        {
+          "en": "We must get away from the island as quickly as we can,\" he said.",
+          "zh": "我们必须得到离开从这岛屿像快速地像我们能， 他说。",
+          "startMs": 391340,
+          "endMs": 396810
+        },
+        {
+          "en": "They began to load things into the boat.",
+          "zh": "他们开始到装载东西进入这船。",
+          "startMs": 396810,
+          "endMs": 399770
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 380120,
+      "endMs": 400120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the old chest on the beach.",
+          "zh": "Chip 看在这旧的胸膛在……上这海滩。",
+          "startMs": 399770,
+          "endMs": 403770
+        },
+        {
+          "en": "It had been washed up in a storm.",
+          "zh": "它有是洗向上在……里一个暴风雨。",
+          "startMs": 403770,
+          "endMs": 406770
+        },
+        {
+          "en": "\"I don't know what's inside it,\" said Hassan.",
+          "zh": "我不知道是什么里面它， 说 Hassan。 是， 说 Hassan。",
+          "startMs": 406770,
+          "endMs": 411280
+        },
+        {
+          "en": "\"It could be treasure.\"",
+          "zh": "它能是宝藏。",
+          "startMs": 411280,
+          "endMs": 413590
+        },
+        {
+          "en": "\"Why don't you open it?\" Asked Chip.",
+          "zh": "为什么不你打开它？ 问 Chip。 Gran！ 说 Chip。",
+          "startMs": 413590,
+          "endMs": 417370
+        },
+        {
+          "en": "\"I don't have a key,\" said Hassan.",
+          "zh": "我不有一个钥匙， 说 Hassan。",
+          "startMs": 417370,
+          "endMs": 419310
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 400120,
+      "endMs": 419660
+    },
+    {
+      "sentences": [
+        {
+          "en": "Said Hasan.",
+          "zh": "是， 说 Hassan。",
+          "startMs": 419310,
+          "endMs": 420780
+        },
+        {
+          "en": "Chip had an idea.",
+          "zh": "Chip 有一个主意。",
+          "startMs": 420780,
+          "endMs": 423770
+        },
+        {
+          "en": "\"Lend me the magic key, Biff,\" he said.",
+          "zh": "这魔法钥匙光亮在……里这夜晚， 他说。",
+          "startMs": 423770,
+          "endMs": 428200
+        },
+        {
+          "en": "He put the key in the lock and turned it.",
+          "zh": "他放这钥匙在……里这锁和转动它。",
+          "startMs": 428200,
+          "endMs": 432140
+        },
+        {
+          "en": "The lid of the chest sprang open.",
+          "zh": "这盖子的这胸膛 sprang 打开。",
+          "startMs": 432140,
+          "endMs": 435810
+        },
+        {
+          "en": "Everyone looked in the chest, but it was completely empty.",
+          "zh": "每个人看在……里这胸膛， 但是它是彻底地空的。",
+          "startMs": 435810,
+          "endMs": 441770
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 419660,
+      "endMs": 442120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly there was a crackling sound and a terrible smell of old burnt socks.",
+          "zh": "突然地那里是一个劈啪声声音和一个可怕的气味的旧的烧短袜。",
+          "startMs": 442080,
+          "endMs": 450650
+        },
+        {
+          "en": "The evil genie appeared!",
+          "zh": "这邪恶的精灵出现！",
+          "startMs": 450650,
+          "endMs": 453810
+        },
+        {
+          "en": "\"Hah!\" \"Ha!\" he shouted.",
+          "zh": "哈！ 他喊。",
+          "startMs": 453810,
+          "endMs": 460510
+        },
+        {
+          "en": "\"You have escaped my powers too many times.",
+          "zh": "你有逃跑我的控制力也许多时间。",
+          "startMs": 460510,
+          "endMs": 463650
+        },
+        {
+          "en": "Now I will deal with you once and for all.\"",
+          "zh": "我将交易和……一起你一次和为了全部。",
+          "startMs": 463650,
+          "endMs": 466770
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 442120,
+      "endMs": 467120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip thought of a way to trick the genie.",
+          "zh": "Chip 想的一个方式到诡计这精灵。",
+          "startMs": 467010,
+          "endMs": 469770
+        },
+        {
+          "en": "Quickly he shut the lid of the chest.",
+          "zh": "快速地他关上这盖子的这胸膛。",
+          "startMs": 469770,
+          "endMs": 472500
+        },
+        {
+          "en": "\"Why did you shut that chest?\" Asked the genie.",
+          "zh": "为什么做你关上那个胸膛？ 问这精灵。 是它宝藏？ 问这精灵。",
+          "startMs": 472500,
+          "endMs": 476770
+        },
+        {
+          "en": "\"What is inside it?\"",
+          "zh": "我惊奇是什么在……里它。",
+          "startMs": 476770,
+          "endMs": 478770
+        },
+        {
+          "en": "\"Er... it's something very valuable,\" said Chip.",
+          "zh": "什么是里面它？ 它是某物非常很值钱的， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 478770,
+          "endMs": 483630
+        },
+        {
+          "en": "\"Is it treasure?\" Asked the genie.",
+          "zh": "它能是宝藏。 是它宝藏？ 问这精灵。 咳！ 说 Chip。",
+          "startMs": 483630,
+          "endMs": 493310
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 467120,
+      "endMs": 493660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a lot more valuable than treasure,\" said Chip.",
+          "zh": "它是一个许多更多很值钱的比宝藏， 说 Chip。",
+          "startMs": 493310,
+          "endMs": 493510
+        },
+        {
+          "en": "The genie looked in the chest.",
+          "zh": "这精灵看在……里这胸膛。",
+          "startMs": 493510,
+          "endMs": 496770
+        },
+        {
+          "en": "\"There's nothing valuable in here,\" he shouted.",
+          "zh": "有没有什么很值钱的在……里这里， 他喊。",
+          "startMs": 496770,
+          "endMs": 499770
+        },
+        {
+          "en": "\"Oh, but there is,\" said Chip.",
+          "zh": "哦， 但是那里是， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 499770,
+          "endMs": 501770
+        },
+        {
+          "en": "\"You're just not looking hard enough.\"",
+          "zh": "你是刚刚不看困难的足够。",
+          "startMs": 501770,
+          "endMs": 504770
+        },
+        {
+          "en": "The genie bent inside the chest to look.",
+          "zh": "这精灵弯曲的里面这胸膛到看。",
+          "startMs": 505070,
+          "endMs": 511130
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 493660,
+      "endMs": 511480
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly Chip pushed the genie into the chest and slammed down the lid.",
+          "zh": "突然地 Chip 推这精灵进入这胸膛和砰的一声关上向下这盖子。",
+          "startMs": 511130,
+          "endMs": 516810
+        },
+        {
+          "en": "Then he locked it with the magic key.",
+          "zh": "然后他锁它和……一起这魔法钥匙。",
+          "startMs": 516810,
+          "endMs": 519770
+        },
+        {
+          "en": "\"How dare you!\" Shouted the genie.",
+          "zh": "如何激你！ 喊这精灵。 哦是我能， 喊这精灵。",
+          "startMs": 519770,
+          "endMs": 523420
+        },
+        {
+          "en": "\"You will pay for this when I get out.\"",
+          "zh": "你将付钱为了这个当……时我得到出。",
+          "startMs": 523420,
+          "endMs": 527100
+        },
+        {
+          "en": "\"But you can't get out,\" called Chip.",
+          "zh": "但是你不能得到出， 叫 Chip。 来在……上， 叫 Chip。 哦是我能， 喊这精灵。",
+          "startMs": 527100,
+          "endMs": 534770
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 511480,
+      "endMs": 535120
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh yes I can,\" shouted the genie.",
+          "zh": "哦是我能， 喊这精灵。",
+          "startMs": 534770,
+          "endMs": 534970
+        },
+        {
+          "en": "\"I can't get out of bottles, but it's easy to get out of a chest.\"",
+          "zh": "我不能得到出的瓶子， 但是它是容易的到得到出的一个胸膛。",
+          "startMs": 534970,
+          "endMs": 538770
+        },
+        {
+          "en": "\"But you're locked in,\" said Chip.",
+          "zh": "但是你是锁在……里， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 538770,
+          "endMs": 543000
+        },
+        {
+          "en": "\"We don't believe you can get out.\"",
+          "zh": "我们不相信你能得到出。",
+          "startMs": 543000,
+          "endMs": 547140
+        },
+        {
+          "en": "\"I'll use my powers,\" said the genie.",
+          "zh": "我会使用我的控制力， 说这精灵。 帮助！ 哭这精灵。",
+          "startMs": 547140,
+          "endMs": 551770
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 535120,
+      "endMs": 552120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The genie made himself thin and started to slip through the keyhole.",
+          "zh": "这精灵做他自己瘦的和开始到滑倒穿过这锁孔。",
+          "startMs": 551780,
+          "endMs": 557710
+        },
+        {
+          "en": "Chip held the bottle over the keyhole, and the genie slid into it.",
+          "zh": "Chip 拿着这瓶子在……上方这锁孔。",
+          "startMs": 557710,
+          "endMs": 563410
+        },
+        {
+          "en": "\"He fell for my trick,\" said Chip.",
+          "zh": "他落下为了我的诡计， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 563410,
+          "endMs": 566540
+        },
+        {
+          "en": "\"I thought he would.\"",
+          "zh": "我想他会。",
+          "startMs": 566540,
+          "endMs": 568770
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 552120,
+      "endMs": 569120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hassan and Kamar shook Chip's hand.",
+          "zh": "Hassan 和 Kamar shook Chip 手。",
+          "startMs": 569070,
+          "endMs": 572370
+        },
+        {
+          "en": "\"That was brilliant, Chip!\" Said Kamar.",
+          "zh": "那个是明亮的， Chip！ 说 Kamar。 帮助！ 叫 Kamar。",
+          "startMs": 572370,
+          "endMs": 576670
+        },
+        {
+          "en": "\"The genie is safely in the bottle.",
+          "zh": "这精灵是平安地在……里这瓶子。",
+          "startMs": 576670,
+          "endMs": 580130
+        },
+        {
+          "en": "Now we can all go home.\"",
+          "zh": "现在我们能全部去家。",
+          "startMs": 580130,
+          "endMs": 582770
+        },
+        {
+          "en": "\"I'm glad it was all right in the end,\" said Biff.",
+          "zh": "我是高兴的它是全部正确的在……里这末尾， 说 Biff。 哇！ 说 Biff。",
+          "startMs": 582770,
+          "endMs": 583770
+        },
+        {
+          "en": "\"And I'm glad Floppy is safe.\"",
+          "zh": "Floppy 是安全的。",
+          "startMs": 583770,
+          "endMs": 589770
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 569120,
+      "endMs": 590120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 590070,
+          "endMs": 595220
+        },
+        {
+          "en": "It was time to go.",
+          "zh": "它是时间到去。",
+          "startMs": 595220,
+          "endMs": 598770
+        },
+        {
+          "en": "\"I bet Floppy hated this adventure,\" said Chip.",
+          "zh": "我赌 Floppy 帽子这个冒险， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 598770,
+          "endMs": 602510
+        },
+        {
+          "en": "Floppy looked at them both.",
+          "zh": "Floppy 看在他们两个都。",
+          "startMs": 602510,
+          "endMs": 604770
+        },
+        {
+          "en": "\"I don't know,\" He thought.",
+          "zh": "我不知道， 说 Biff。 我惊奇如果。。？ 她想。",
+          "startMs": 604770,
+          "endMs": 607130
+        },
+        {
+          "en": "\"I quite enjoyed it, really.\"",
+          "zh": "我相当享受它， 真的。",
+          "startMs": 607130,
+          "endMs": 609770
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 590120,
+      "endMs": 610120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them home.",
+          "zh": "这魔法拿他们家。",
+          "startMs": 620030,
+          "endMs": 622690
+        },
+        {
+          "en": "Kipper ran into Biff's room.",
+          "zh": "Kipper 跑进入 Biff 房间。",
+          "startMs": 622690,
+          "endMs": 625490
+        },
+        {
+          "en": "\"Hooray!",
+          "zh": "",
+          "startMs": 625490,
+          "endMs": 626770
+        },
+        {
+          "en": "You rescued Floppy!\" He said.",
+          "zh": "你解救 Floppy！ 他说。",
+          "startMs": 626770,
+          "endMs": 629570
+        },
+        {
+          "en": "\"What happened to the evil genie?\"",
+          "zh": "什么发生到这邪恶的精灵？",
+          "startMs": 629570,
+          "endMs": 632770
+        },
+        {
+          "en": "\"We put him back in the bottle,\" said Chip.",
+          "zh": "我们放他回来在……里这瓶子， 说 Chip。 咳！ 说 Chip。",
+          "startMs": 632770,
+          "endMs": 639770
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 619880,
+      "endMs": 640120
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children looked at the little chest.",
+          "zh": "这孩子们看在这小的胸膛。",
+          "startMs": 639780,
+          "endMs": 643370
+        },
+        {
+          "en": "\"I'm glad the bottle didn't come back from the adventure,\" said Kipper.",
+          "zh": "我是高兴的这瓶子没有来回来从这冒险， 说 Kipper。 哦帮助， 说 Kipper。",
+          "startMs": 643370,
+          "endMs": 649770
+        },
+        {
+          "en": "Biff tried to lift the lid of the chest, but it wouldn't open.",
+          "zh": "Biff 经过考验的到拿起这盖子的这胸膛， 但是它不会打开。",
+          "startMs": 649770,
+          "endMs": 653780
+        },
+        {
+          "en": "\"And now the key won't fit,\" she laughed.",
+          "zh": "和现在这钥匙不会健康的， 她笑。",
+          "startMs": 653780,
+          "endMs": 658770
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 640120,
+      "endMs": 659120
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 659120,
+      "endMs": 659121
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 659121,
+      "endMs": 659122
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "L2-025",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the zoo.",
+          "zh": "这孩子们去到这动物园。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the giraffes.",
+          "zh": "他们看在这长颈鹿。",
+          "startMs": 6900,
+          "endMs": 8800
+        }
+      ],
+      "startMs": 6750,
+      "endMs": 9150
+    },
+    {
+      "sentences": [
+        {
+          "en": "The giraffes were tall.",
+          "zh": "这长颈鹿是高的。",
+          "startMs": 12700,
+          "endMs": 14600
+        }
+      ],
+      "startMs": 12550,
+      "endMs": 14950
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the seals.",
+          "zh": "他们看在这海豹。",
+          "startMs": 19300,
+          "endMs": 21100
+        }
+      ],
+      "startMs": 19150,
+      "endMs": 21450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The seals were hungry.",
+          "zh": "这海豹是饿的。",
+          "startMs": 25700,
+          "endMs": 27600
+        }
+      ],
+      "startMs": 25550,
+      "endMs": 27950
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the crocodiles.",
+          "zh": "他们看在这鳄鱼。",
+          "startMs": 6900,
+          "endMs": 7050
+        }
+      ],
+      "startMs": 6750,
+      "endMs": 7400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The crocodiles were asleep.",
+          "zh": "这鳄鱼是睡着的。",
+          "startMs": 32200,
+          "endMs": 34600
+        }
+      ],
+      "startMs": 32050,
+      "endMs": 34950
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the parrots.",
+          "zh": "他们看在这鹦鹉。",
+          "startMs": 6900,
+          "endMs": 7050
+        }
+      ],
+      "startMs": 6750,
+      "endMs": 7400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The parrots were noisy.",
+          "zh": "这鹦鹉是喧闹的。",
+          "startMs": 6900,
+          "endMs": 13260
+        }
+      ],
+      "startMs": 6750,
+      "endMs": 13610
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the elephants.",
+          "zh": "他们看在这大象。",
+          "startMs": 19300,
+          "endMs": 19670
+        }
+      ],
+      "startMs": 19150,
+      "endMs": 20020
+    },
+    {
+      "sentences": [
+        {
+          "en": "The elephants were big.",
+          "zh": "这大象是大的。",
+          "startMs": 19320,
+          "endMs": 26070
+        }
+      ],
+      "startMs": 19170,
+      "endMs": 26420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the monkeys. shoP",
+          "zh": "他们看在这猴子。 商店",
+          "startMs": 19300,
+          "endMs": 19670
+        }
+      ],
+      "startMs": 19150,
+      "endMs": 20020
+    },
+    {
+      "sentences": [
+        {
+          "en": "The monkeys were funny.",
+          "zh": "这猴子是有趣的。",
+          "startMs": 25700,
+          "endMs": 26070
+        }
+      ],
+      "startMs": 25550,
+      "endMs": 26420
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked for Kipper.",
+          "zh": "他们看为了 Kipper。",
+          "startMs": 32200,
+          "endMs": 32350
+        }
+      ],
+      "startMs": 32050,
+      "endMs": 32700
+    },
+    {
+      "sentences": [],
+      "startMs": 40540,
+      "endMs": 41340,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper looked like a monkey.",
+          "zh": "Kipper 看喜欢一个猴子。",
+          "startMs": 41340,
+          "endMs": 44240
+        }
+      ],
+      "startMs": 41340,
+      "endMs": 44240
+    },
+    {
+      "sentences": [
+        {
+          "en": "This game reminds the child of the order of the letters of the alphabet.",
+          "zh": "这个游戏提醒这孩子的这条理的这信的这字母表。",
+          "startMs": 44240,
+          "endMs": 53486
+        },
+        {
+          "en": "• Look through the book, noticing the letter beginning each animal name.",
+          "zh": "• 看穿过这书， 布告这信开始每个动物名字。",
+          "startMs": 53486,
+          "endMs": 62732
+        },
+        {
+          "en": "Think of an animal/bird/insect that starts with 'a'.",
+          "zh": "想的一个动物/鸟/昆虫那个开始和……一起 '一个'。",
+          "startMs": 62732,
+          "endMs": 69410
+        },
+        {
+          "en": "The child then thinks of one with 'b'.",
+          "zh": "这孩子然后想的一和……一起 '第二'。",
+          "startMs": 69410,
+          "endMs": 74290
+        },
+        {
+          "en": "Take turns through the alphabet.",
+          "zh": "拿转动穿过这字母表。",
+          "startMs": 74290,
+          "endMs": 78400
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 78400,
+          "endMs": 85719
+        },
+        {
+          "en": "• Make up a quiz.",
+          "zh": "• 做向上一个知识竞赛。",
+          "startMs": 85719,
+          "endMs": 87903
+        },
+        {
+          "en": "Ask, \"Which animals were noisy?\"",
+          "zh": "问， 哪个动物是喧闹的？",
+          "startMs": 87903,
+          "endMs": 92012
+        },
+        {
+          "en": ", \"Which were asleep?\"",
+          "zh": "， 哪个是睡着的？",
+          "startMs": 92012,
+          "endMs": 94837
+        },
+        {
+          "en": ", \"Which were hungry?\"",
+          "zh": "， 哪个是饿的？",
+          "startMs": 94837,
+          "endMs": 97663
+        },
+        {
+          "en": "• Look at ABC books from the Book Box.",
+          "zh": "• 看在某方面的基础知识书从这书盒子。",
+          "startMs": 97663,
+          "endMs": 102542
+        },
+        {
+          "en": "Look at pictures of minibeasts in a library book.",
+          "zh": "看在图画的 minibeasts 在……里一个图书馆书。",
+          "startMs": 102542,
+          "endMs": 108835
+        }
+      ],
+      "startMs": 44240,
+      "endMs": 108835
+    },
+    {
+      "sentences": [],
+      "startMs": 108835,
+      "endMs": 109135,
+      "illustrationOnly": true
+    }
+  ]
+}

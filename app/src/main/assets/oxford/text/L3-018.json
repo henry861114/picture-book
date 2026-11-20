@@ -1,0 +1,219 @@
+{
+  "id": "L3-018",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was snowing.",
+          "zh": "它是雪。",
+          "startMs": 0,
+          "endMs": 4100
+        },
+        {
+          "en": "\"Hooray,\" said the children.",
+          "zh": "好耶， 说这孩子们。",
+          "startMs": 4000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They saw Wilf and Wilma.",
+          "zh": "他们看见 Wilf 和 Wilma。",
+          "startMs": 12000,
+          "endMs": 16100
+        }
+      ],
+      "startMs": 11850,
+      "endMs": 16450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf was sweeping the snow.",
+          "zh": "Wilf 是影响广泛的这雪。",
+          "startMs": 16000,
+          "endMs": 21100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 21450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had a good idea.",
+          "zh": "Biff 有一个好的主意。",
+          "startMs": 24030,
+          "endMs": 26260
+        }
+      ],
+      "startMs": 23880,
+      "endMs": 26610
+    },
+    {
+      "sentences": [
+        {
+          "en": "She made a giant snowball.",
+          "zh": "她做一个巨人雪球。",
+          "startMs": 26160,
+          "endMs": 29100
+        }
+      ],
+      "startMs": 26010,
+      "endMs": 29450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone pushed the snowball.",
+          "zh": "每个人推这雪球。",
+          "startMs": 34000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 33850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked and barked.",
+          "zh": "Floppy 吠叫和吠叫。",
+          "startMs": 37000,
+          "endMs": 41100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 41450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf had an idea.",
+          "zh": "Wilf 有一个主意。",
+          "startMs": 47000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 46850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [],
+      "startMs": 52179,
+      "endMs": 52979,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children made a giant snowman.",
+          "zh": "这孩子们做一个巨人雪人。",
+          "startMs": 55000,
+          "endMs": 60100
+        }
+      ],
+      "startMs": 54850,
+      "endMs": 60450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was snowing.",
+          "zh": "它是雪。",
+          "startMs": 60747,
+          "endMs": 64419
+        }
+      ],
+      "startMs": 60747,
+      "endMs": 64419
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf's dad opened the door.",
+          "zh": "Wilf 爸爸打开这门。",
+          "startMs": 63000,
+          "endMs": 67100
+        }
+      ],
+      "startMs": 62850,
+      "endMs": 67450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He saw the snowman.",
+          "zh": "他看见这雪人。",
+          "startMs": 67000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 66850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma's mum took a photograph.",
+          "zh": "Wilma 妈妈拿一个照片。",
+          "startMs": 74000,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 73850,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The snow fell off the roof.",
+          "zh": "这雪落下离开这屋顶。",
+          "startMs": 78000,
+          "endMs": 83100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 83450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Six snowmen!\" said Wilma's dad.",
+          "zh": "六雪人！ 说 Wilma 爸爸。",
+          "startMs": 85000,
+          "endMs": 90100
+        }
+      ],
+      "startMs": 84850,
+      "endMs": 90450
+    },
+    {
+      "sentences": [],
+      "startMs": 96570,
+      "endMs": 97654,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 97654,
+      "endMs": 97954,
+      "illustrationOnly": true
+    }
+  ]
+}

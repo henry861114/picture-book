@@ -1,0 +1,285 @@
+{
+  "id": "L2-028",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Two children came.",
+          "zh": "二孩子们来。",
+          "startMs": 0,
+          "endMs": 2080
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2430
+    },
+    {
+      "sentences": [
+        {
+          "en": "They climbed on the furniture.",
+          "zh": "他们爬在……上这家具。",
+          "startMs": 50,
+          "endMs": 6196
+        }
+      ],
+      "startMs": 50,
+      "endMs": 6196
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped on the sofa.",
+          "zh": "他们跳在……上这长沙发。",
+          "startMs": 6196,
+          "endMs": 10284
+        }
+      ],
+      "startMs": 6196,
+      "endMs": 10284
+    },
+    {
+      "sentences": [
+        {
+          "en": "They climbed up the curtains.",
+          "zh": "他们爬向上这窗帘。",
+          "startMs": 10284,
+          "endMs": 15224
+        }
+      ],
+      "startMs": 10284,
+      "endMs": 15224
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped on the bed.",
+          "zh": "他们跳在……上这床。",
+          "startMs": 15224,
+          "endMs": 19142
+        }
+      ],
+      "startMs": 15224,
+      "endMs": 19142
+    },
+    {
+      "sentences": [
+        {
+          "en": "They climbed up the tree.",
+          "zh": "他们爬向上这树。",
+          "startMs": 33980,
+          "endMs": 40590
+        }
+      ],
+      "startMs": 33830,
+      "endMs": 40940
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped on the flowers.",
+          "zh": "他们跳在……上这花。",
+          "startMs": 33980,
+          "endMs": 40590
+        }
+      ],
+      "startMs": 33830,
+      "endMs": 40940
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Mum.",
+          "zh": "哦不！ 说妈妈。",
+          "startMs": 26850,
+          "endMs": 30500
+        }
+      ],
+      "startMs": 26850,
+      "endMs": 30500
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff had an idea.",
+          "zh": "Biff 有一个主意。",
+          "startMs": 30500,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 30500,
+      "endMs": 33100
+    },
+    {
+      "sentences": [
+        {
+          "en": "They climbed up the ladder.",
+          "zh": "他们爬向上这梯子。",
+          "startMs": 52430,
+          "endMs": 54430
+        }
+      ],
+      "startMs": 52280,
+      "endMs": 54780
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped off the log.",
+          "zh": "他们跳离开这原木。",
+          "startMs": 43980,
+          "endMs": 49520
+        }
+      ],
+      "startMs": 43830,
+      "endMs": 49870
+    },
+    {
+      "sentences": [
+        {
+          "en": "They climbed on the net.",
+          "zh": "他们爬在……上这网。",
+          "startMs": 33980,
+          "endMs": 40590
+        }
+      ],
+      "startMs": 33830,
+      "endMs": 40940
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped off the wall.",
+          "zh": "他们跳离开这墙。",
+          "startMs": 43980,
+          "endMs": 49520
+        }
+      ],
+      "startMs": 43830,
+      "endMs": 49870
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was happy.",
+          "zh": "每个人是快乐的。",
+          "startMs": 50740,
+          "endMs": 55350
+        }
+      ],
+      "startMs": 50740,
+      "endMs": 55350
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What good children!\" said Mum.",
+          "zh": "什么好的孩子们！ 说妈妈。",
+          "startMs": 55350,
+          "endMs": 61400
+        }
+      ],
+      "startMs": 55350,
+      "endMs": 61400
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went home.",
+          "zh": "这孩子们去家。",
+          "startMs": 61400,
+          "endMs": 64170
+        }
+      ],
+      "startMs": 61400,
+      "endMs": 64170
+    },
+    {
+      "sentences": [
+        {
+          "en": "What did they do?",
+          "zh": "什么做他们做？",
+          "startMs": 64170,
+          "endMs": 67039
+        },
+        {
+          "en": "To help the child to remember, and to find words in the story.",
+          "zh": "到帮助这孩子到记得， 和到找到单词在……里这故事。",
+          "startMs": 67039,
+          "endMs": 77500
+        },
+        {
+          "en": "• Say, \"Without looking in the book, tell me one naughty or good thing the children did.\"",
+          "zh": "• 说， 没有看在……里这书， 告诉我一顽皮的或者好的东西这孩子们做。",
+          "startMs": 77500,
+          "endMs": 92518
+        },
+        {
+          "en": "Check the answer in the book.",
+          "zh": "查明这回答在……里这书。",
+          "startMs": 92518,
+          "endMs": 97412
+        },
+        {
+          "en": "The child then asks you the question.",
+          "zh": "这孩子然后问你这问题。",
+          "startMs": 97412,
+          "endMs": 103655
+        },
+        {
+          "en": "Have two or three turns each.",
+          "zh": "有二或者三转动每个。",
+          "startMs": 103655,
+          "endMs": 108548
+        },
+        {
+          "en": "You can use these ideas straight away, or on another day.",
+          "zh": "你能使用这些主意直的离开， 或者在……上另一个一天。",
+          "startMs": 108548,
+          "endMs": 118166
+        },
+        {
+          "en": "• Find 'they' wherever it occurs in the book.",
+          "zh": "• 找到 '他们' 究竟在哪里它发生在……里这书。",
+          "startMs": 118166,
+          "endMs": 125760
+        },
+        {
+          "en": "Practise spelling 'they'.",
+          "zh": "练习拼写 '他们'。",
+          "startMs": 125760,
+          "endMs": 129978
+        },
+        {
+          "en": "Ask the child to use the pictures to retell the story.",
+          "zh": "问这孩子到使用这图画到复述这故事。",
+          "startMs": 129978,
+          "endMs": 139090
+        }
+      ],
+      "startMs": 64170,
+      "endMs": 139090
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went home.",
+          "zh": "这孩子们去家。",
+          "startMs": 137980,
+          "endMs": 144080
+        }
+      ],
+      "startMs": 137830,
+      "endMs": 144430
+    }
+  ]
+}

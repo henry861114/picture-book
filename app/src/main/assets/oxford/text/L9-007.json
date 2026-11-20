@@ -1,0 +1,1471 @@
+{
+  "id": "L9-007",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was tidying up.",
+          "zh": "妈妈是整洁的向上。",
+          "startMs": 0,
+          "endMs": 2240
+        },
+        {
+          "en": "Biff and Wilf were helping her.",
+          "zh": "Biff 和 Wilf 是帮助她。",
+          "startMs": 2240,
+          "endMs": 5660
+        },
+        {
+          "en": "They found an old case. Said Wilf.",
+          "zh": "他们找到一个旧的箱子。 不， 说 Wilf。",
+          "startMs": 5660,
+          "endMs": 12050
+        },
+        {
+          "en": "\"I wonder what's inside it.\"",
+          "zh": "我惊奇是什么里面它。",
+          "startMs": 12050,
+          "endMs": 15900
+        },
+        {
+          "en": "Mum opened the case and laughed.",
+          "zh": "妈妈打开这箱子和笑。",
+          "startMs": 16800,
+          "endMs": 20030
+        },
+        {
+          "en": "\"Some of Dad's old toys,\" she said.",
+          "zh": "一些的爸爸旧的玩具， 她说。",
+          "startMs": 20030,
+          "endMs": 23900
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 24250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's quite heavy.\"",
+          "zh": "它是相当重的。",
+          "startMs": 23900,
+          "endMs": 24100
+        },
+        {
+          "en": "They called Dad and showed him the toys.",
+          "zh": "他们叫爸爸和展示他这玩具。",
+          "startMs": 25160,
+          "endMs": 29600
+        },
+        {
+          "en": "Dad laughed.",
+          "zh": "爸爸笑。",
+          "startMs": 29600,
+          "endMs": 30900
+        },
+        {
+          "en": "\"Well,\" He said, \"they're not much use.",
+          "zh": "好， 他说。",
+          "startMs": 31800,
+          "endMs": 35210
+        },
+        {
+          "en": "Most of them are broken.",
+          "zh": "最多的他们是打破。",
+          "startMs": 35210,
+          "endMs": 37880
+        },
+        {
+          "en": "I don't know why I kept them.\"",
+          "zh": "我不知道为什么我保持他们。",
+          "startMs": 37880,
+          "endMs": 39900
+        },
+        {
+          "en": "Biff pulled a bag out of the case.",
+          "zh": "Biff 拉一个包出的这箱子。",
+          "startMs": 40800,
+          "endMs": 43950
+        },
+        {
+          "en": "\"What's in this bag?\" She asked.",
+          "zh": "是什么在……里这个包？ 她问。 她是乐趣。",
+          "startMs": 43950,
+          "endMs": 46880
+        },
+        {
+          "en": "\"It's quite heavy.\"",
+          "zh": "它是相当重的。",
+          "startMs": 46880,
+          "endMs": 47900
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 24250,
+      "endMs": 48250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bag was full of marbles.",
+          "zh": "这包是满的的大理石。",
+          "startMs": 49000,
+          "endMs": 51670
+        },
+        {
+          "en": "Biff tipped them out on a tray.",
+          "zh": "Biff 尖端他们出在……上一个托盘。",
+          "startMs": 51670,
+          "endMs": 54900
+        },
+        {
+          "en": "\"They're all different,\" she said.",
+          "zh": "他们是全部不同的， 她说。",
+          "startMs": 55800,
+          "endMs": 58190
+        },
+        {
+          "en": "\"Some of them are beautiful.\"",
+          "zh": "一些的他们是美丽的。",
+          "startMs": 58190,
+          "endMs": 60900
+        },
+        {
+          "en": "Dad told Mum to throw the old toys away, but he said Biff could keep the marbles.",
+          "zh": "爸爸告诉妈妈到扔这旧的玩具离开， 但是他说 Biff 能保持这大理石。",
+          "startMs": 61800,
+          "endMs": 67900
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 48850,
+      "endMs": 68250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilf went up to Biff's room.",
+          "zh": "Biff 和 Wilf 去向上到 Biff 房间。",
+          "startMs": 71800,
+          "endMs": 75060
+        },
+        {
+          "en": "They looked at the marbles.",
+          "zh": "他们看在这大理石。",
+          "startMs": 75060,
+          "endMs": 76900
+        },
+        {
+          "en": "\"What a collection,\" said Wilf.",
+          "zh": "什么一个收集， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 77830,
+          "endMs": 80360
+        },
+        {
+          "en": "\"There are all sorts - big ones and small ones.\"",
+          "zh": "那里是全部种类 - 大的在……上和小的在……上。",
+          "startMs": 80360,
+          "endMs": 83900
+        },
+        {
+          "en": "Biff picked up the biggest marble of all.",
+          "zh": "Biff 挑选向上这大的大理石的全部。",
+          "startMs": 84800,
+          "endMs": 88000
+        },
+        {
+          "en": "\"See this blue one,\" she said.",
+          "zh": "看见这个蓝色的一， 她说。",
+          "startMs": 88000,
+          "endMs": 90880
+        },
+        {
+          "en": "\"It's a beauty.\"",
+          "zh": "它是一个破坏。",
+          "startMs": 90880,
+          "endMs": 92900
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 71650,
+      "endMs": 93250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf put the marbles back in the bag.",
+          "zh": "Wilf 放这大理石回来在……里这包。",
+          "startMs": 93800,
+          "endMs": 95900
+        },
+        {
+          "en": "\"Let's play with them outside,\" he said.",
+          "zh": "让我们玩和……一起他们外面， 他说。",
+          "startMs": 95900,
+          "endMs": 98900
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 99800,
+          "endMs": 102900
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哦不！ ， 说 Biff。",
+          "startMs": 104830,
+          "endMs": 106990
+        },
+        {
+          "en": "\"I don't want the key to glow.",
+          "zh": "我不想要这钥匙到光亮。",
+          "startMs": 106990,
+          "endMs": 109900
+        },
+        {
+          "en": "I don't want a magic adventure.",
+          "zh": "我不想要一个魔法冒险。",
+          "startMs": 109900,
+          "endMs": 111900
+        },
+        {
+          "en": "I want to play with the marbles.\"",
+          "zh": "我想要到玩和……一起这大理石。",
+          "startMs": 111900,
+          "endMs": 114900
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 93650,
+      "endMs": 115250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a town.",
+          "zh": "这魔法拿他们到一个城镇。",
+          "startMs": 128960,
+          "endMs": 131100
+        },
+        {
+          "en": "They were in a narrow street.",
+          "zh": "他们是在……里一个狭窄的街道。",
+          "startMs": 131100,
+          "endMs": 133550
+        },
+        {
+          "en": "The houses were close together.",
+          "zh": "这房子是关上一起。",
+          "startMs": 133550,
+          "endMs": 135900
+        },
+        {
+          "en": "\"I wonder where we are,\" said Biff.",
+          "zh": "我惊奇哪里我们是， 说 Biff。 ， 说 Biff。",
+          "startMs": 136800,
+          "endMs": 140020
+        },
+        {
+          "en": "\"I don't know,\" said Wilf.",
+          "zh": "我不知道， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 140020,
+          "endMs": 142880
+        },
+        {
+          "en": "\"But I don't like this place.",
+          "zh": "我不喜欢这个地方。",
+          "startMs": 142880,
+          "endMs": 144200
+        },
+        {
+          "en": "It's scary.\"",
+          "zh": "它是可怕的。",
+          "startMs": 144200,
+          "endMs": 144900
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 128810,
+      "endMs": 145250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, some men ran down the street.",
+          "zh": "突然地， 一些男人们跑向下这街道。",
+          "startMs": 145800,
+          "endMs": 148630
+        },
+        {
+          "en": "They were shouting and yelling.",
+          "zh": "他们是喊和叫喊。",
+          "startMs": 148630,
+          "endMs": 151900
+        },
+        {
+          "en": "Biff and Wilf hid in a doorway.",
+          "zh": "Biff 和 Wilf hid 在……里一个门道。",
+          "startMs": 152830,
+          "endMs": 156060
+        },
+        {
+          "en": "The men kicked open a door.",
+          "zh": "这男人们踢打开一个门。",
+          "startMs": 156060,
+          "endMs": 158660
+        },
+        {
+          "en": "They ran inside one of the houses.",
+          "zh": "他们跑里面一的这房子。",
+          "startMs": 158660,
+          "endMs": 160900
+        },
+        {
+          "en": "\"I told you this place was scary,\" said Wilf.",
+          "zh": "我告诉你这个地方是可怕的， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 161800,
+          "endMs": 165900
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 145650,
+      "endMs": 166250
+    },
+    {
+      "sentences": [
+        {
+          "en": "A window opened upstairs.",
+          "zh": "一个窗户打开在楼上。",
+          "startMs": 168800,
+          "endMs": 169790
+        },
+        {
+          "en": "A woman climbed out.",
+          "zh": "一个女人爬出。",
+          "startMs": 169790,
+          "endMs": 172900
+        },
+        {
+          "en": "Then she jumped.",
+          "zh": "然后他们跳穿过。",
+          "startMs": 172900,
+          "endMs": 174660
+        },
+        {
+          "en": "Then she jumped She landed on an awning.",
+          "zh": "然后她跳她拥有大量土地的在……上一个凉篷。",
+          "startMs": 174660,
+          "endMs": 176900
+        },
+        {
+          "en": "She slid down it and dropped into the street.",
+          "zh": "她滑行向下它和掉下进入这街道。",
+          "startMs": 177960,
+          "endMs": 181290
+        },
+        {
+          "en": "The men looked out of the window.",
+          "zh": "这男人们看出的这窗户。",
+          "startMs": 181290,
+          "endMs": 183660
+        },
+        {
+          "en": "They shouted as the woman ran away.",
+          "zh": "他们喊像这女人跑离开。",
+          "startMs": 183660,
+          "endMs": 186900
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 168650,
+      "endMs": 187250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men ran out of the house and chased after the woman.",
+          "zh": "这男人们跑出的这房子和追赶在……之后这女人。",
+          "startMs": 187800,
+          "endMs": 191910
+        },
+        {
+          "en": "They didn't see Biff and Wilf.",
+          "zh": "他们没有看见 Biff 和 Wilf。",
+          "startMs": 191910,
+          "endMs": 193900
+        },
+        {
+          "en": "\"Why are they chasing that woman?\" Asked Biff.",
+          "zh": "为什么是他们追赶那个女人？ 问 Biff。 但是如何？ 问 Biff。",
+          "startMs": 194800,
+          "endMs": 198900
+        },
+        {
+          "en": "Wilf saw a little package lying in the street.",
+          "zh": "Wilf 看见一个小的包裹说谎在……里这街道。",
+          "startMs": 199800,
+          "endMs": 202500
+        },
+        {
+          "en": "He picked it up.",
+          "zh": "他挑选它向上。",
+          "startMs": 202500,
+          "endMs": 203900
+        },
+        {
+          "en": "\"What about this?\" He said.",
+          "zh": "什么做你想？ 我看见， 他说。",
+          "startMs": 204830,
+          "endMs": 207900
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 187650,
+      "endMs": 208250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf undid the package.",
+          "zh": "Wilf undid 这包裹。",
+          "startMs": 210800,
+          "endMs": 211470
+        },
+        {
+          "en": "Inside was a round blue stone.",
+          "zh": "里面是一个圆形的蓝色的石块。",
+          "startMs": 211470,
+          "endMs": 215900
+        },
+        {
+          "en": "It glowed as if it was on fire.",
+          "zh": "它光亮像如果它是在……上火。",
+          "startMs": 215900,
+          "endMs": 217900
+        },
+        {
+          "en": "Biff gasped.",
+          "zh": "Biff 喘气。",
+          "startMs": 217900,
+          "endMs": 219900
+        },
+        {
+          "en": "\"It's beautiful,\" She said.",
+          "zh": "它是非常美丽的。 我看见， 他说。",
+          "startMs": 220800,
+          "endMs": 223990
+        },
+        {
+          "en": "\"But what shall we do with it?",
+          "zh": "什么将我们做？",
+          "startMs": 223990,
+          "endMs": 226270
+        },
+        {
+          "en": "We can't keep it.\" \"No,\" \"No,\" said Wilf.",
+          "zh": "我们不能保持它。 现在！ 不， 说 Wilf。",
+          "startMs": 226270,
+          "endMs": 229500
+        },
+        {
+          "en": "\"Come on.",
+          "zh": "来在……上！",
+          "startMs": 229500,
+          "endMs": 230630
+        },
+        {
+          "en": "We must find the woman and give it back.\"",
+          "zh": "我们必须找到这女人和给它回来。",
+          "startMs": 230630,
+          "endMs": 233900
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 210650,
+      "endMs": 234250
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside the street was a market.",
+          "zh": "在这末尾的这街道是一个市场。",
+          "startMs": 235000,
+          "endMs": 236670
+        },
+        {
+          "en": "It looked very busy.",
+          "zh": "它看非常忙碌的。",
+          "startMs": 236670,
+          "endMs": 237900
+        },
+        {
+          "en": "\"There are so many stalls,\" \"No,\" said Wilf.",
+          "zh": "那里是所以许多货摊， 说 Wilf， 和所以许多人们。 不， 说 Wilf。",
+          "startMs": 238800,
+          "endMs": 241040
+        },
+        {
+          "en": "\"And so many people.\"",
+          "zh": "我已经从不看见所以许多人们。",
+          "startMs": 241040,
+          "endMs": 242900
+        },
+        {
+          "en": "\"Let's stay together,\" said Biff.",
+          "zh": "让我们停留一起， 说 Biff。 ， 说 Biff。",
+          "startMs": 243800,
+          "endMs": 245700
+        },
+        {
+          "en": "\"The people don't seem very friendly.\"",
+          "zh": "这人们不好像非常友好的。",
+          "startMs": 245700,
+          "endMs": 248900
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 234850,
+      "endMs": 249250
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked around the market.",
+          "zh": "他们看圆形的这市场。",
+          "startMs": 253800,
+          "endMs": 253900
+        },
+        {
+          "en": "The stalls had strange things.",
+          "zh": "这货摊有奇怪的东西。",
+          "startMs": 253900,
+          "endMs": 258000
+        },
+        {
+          "en": "Biff and Wilf had never seen things like them.",
+          "zh": "Biff 和 Wilf 有从不看见东西喜欢他们。",
+          "startMs": 258000,
+          "endMs": 261900
+        },
+        {
+          "en": "\"Look!",
+          "zh": "看。",
+          "startMs": 262830,
+          "endMs": 263650
+        },
+        {
+          "en": "\"Look, there's a snake charmer,\" said Biff.",
+          "zh": "看， 有一个蛇有魅力的人， 说 Biff。 ， 说 Biff。",
+          "startMs": 263650,
+          "endMs": 266900
+        },
+        {
+          "en": "Biff and Wilf looked for the woman, but they couldn't see her.",
+          "zh": "Biff 和 Wilf 看为了这女人， 但是他们不能看见她。",
+          "startMs": 267800,
+          "endMs": 271060
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 253650,
+      "endMs": 271410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Then someone pulled Biff's arm.",
+          "zh": "然后某人拉 Biff 臂。",
+          "startMs": 271060,
+          "endMs": 273900
+        },
+        {
+          "en": "Biff looked round and saw a man in a cloak.",
+          "zh": "Biff 看圆形的和看见一个男人在……里一个披风。",
+          "startMs": 274800,
+          "endMs": 278060
+        },
+        {
+          "en": "He looked very strange.",
+          "zh": "他看非常奇怪的。",
+          "startMs": 278060,
+          "endMs": 280900
+        },
+        {
+          "en": "Biff looked again.",
+          "zh": "Biff 看再一次。",
+          "startMs": 281800,
+          "endMs": 282900
+        },
+        {
+          "en": "It was not a man.",
+          "zh": "它是不一个男人。",
+          "startMs": 282900,
+          "endMs": 284450
+        },
+        {
+          "en": "It was the woman who had jumped out of the window.",
+          "zh": "它是这女人谁有跳出的这窗户。",
+          "startMs": 284450,
+          "endMs": 288900
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 271410,
+      "endMs": 289250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Who are you?\" Asked Biff.",
+          "zh": "谁是你？ 但是如何？ 问 Biff。",
+          "startMs": 292830,
+          "endMs": 294900
+        },
+        {
+          "en": "\"I am Princess Ayesha.",
+          "zh": "我是公主 Aisha。",
+          "startMs": 294900,
+          "endMs": 296910
+        },
+        {
+          "en": "If you have found the blue stone you are in danger,\" said the woman.",
+          "zh": "如果你有找到这蓝色的石块你是在……里单个儿， 说这女人。 什么一个狗！ 说这男人。",
+          "startMs": 296910,
+          "endMs": 301900
+        },
+        {
+          "en": "\"The stone belongs to my father,\" she went on.",
+          "zh": "这石块属于某人到我的爸爸， 她去在……上。",
+          "startMs": 302800,
+          "endMs": 304690
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 292680,
+      "endMs": 305040
+    },
+    {
+      "sentences": [
+        {
+          "en": "She went on.",
+          "zh": "这飞机去在……上。",
+          "startMs": 304690,
+          "endMs": 305970
+        },
+        {
+          "en": "\"It was stolen from my kingdom.",
+          "zh": "它是 stolen 从我的王国。",
+          "startMs": 305970,
+          "endMs": 307900
+        },
+        {
+          "en": "I came here to get it back.\"",
+          "zh": "我来这里到得到它回来。",
+          "startMs": 307900,
+          "endMs": 309900
+        },
+        {
+          "en": "\"The stone is called the Blue Eye,\" said Princess Aisha.",
+          "zh": "这石块是叫这蓝色的眼睛， 说公主 Aisha。 跑！ 说公主 Aisha。",
+          "startMs": 310800,
+          "endMs": 314980
+        },
+        {
+          "en": "\"Without it I cannot become Queen.\"",
+          "zh": "我 cannot 成为女王。",
+          "startMs": 314980,
+          "endMs": 317900
+        },
+        {
+          "en": "Suddenly there was a shout.",
+          "zh": "突然地那里是一个喊。",
+          "startMs": 319180,
+          "endMs": 321190
+        },
+        {
+          "en": "Some men began to run towards them.",
+          "zh": "一些男人们开始到跑向他们。",
+          "startMs": 321190,
+          "endMs": 323900
+        },
+        {
+          "en": "\"Quick!",
+          "zh": "快的！",
+          "startMs": 324800,
+          "endMs": 324930
+        },
+        {
+          "en": "Run!\" Said Princess Ayesha.",
+          "zh": "跑！ 说公主 Aisha。",
+          "startMs": 324930,
+          "endMs": 327410
+        },
+        {
+          "en": "\"These men are dangerous.\"",
+          "zh": "这些男人们是危险的。",
+          "startMs": 327410,
+          "endMs": 329900
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 305040,
+      "endMs": 330250
+    },
+    {
+      "sentences": [
+        {
+          "en": "They sprinted down the narrow streets.",
+          "zh": "他们短跑比赛向下这狭窄的街道。",
+          "startMs": 334800,
+          "endMs": 335770
+        },
+        {
+          "en": "The men chased after them.",
+          "zh": "这男人们追赶在……之后他们。",
+          "startMs": 335770,
+          "endMs": 339900
+        },
+        {
+          "en": "\"Come on,\" Called Princess Ayesha.",
+          "zh": "来在……上！ 来在……上， 叫公主 Aisha。",
+          "startMs": 340800,
+          "endMs": 342900
+        },
+        {
+          "en": "\"Go as fast as you can.\"",
+          "zh": "去像快的像你能。",
+          "startMs": 342900,
+          "endMs": 344900
+        },
+        {
+          "en": "Suddenly, Biff thought of the bag of marbles.",
+          "zh": "突然地， Biff 想的这包的大理石。",
+          "startMs": 346170,
+          "endMs": 349060
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 334650,
+      "endMs": 349410
+    },
+    {
+      "sentences": [
+        {
+          "en": "It gave her an idea.",
+          "zh": "它给她一个主意。",
+          "startMs": 349060,
+          "endMs": 350900
+        },
+        {
+          "en": "One man was catching them up.",
+          "zh": "一男人是抓住他们向上。",
+          "startMs": 350900,
+          "endMs": 353900
+        },
+        {
+          "en": "Biff threw some marbles along the ground.",
+          "zh": "Biff 扔一些大理石沿着这地面。",
+          "startMs": 354800,
+          "endMs": 356900
+        },
+        {
+          "en": "The man slipped on them and went crashing down.",
+          "zh": "这男人滑倒在……上他们和去锵锵作响向下。",
+          "startMs": 356900,
+          "endMs": 360670
+        },
+        {
+          "en": "The other men fell over him in a heap.",
+          "zh": "这其他男人们落下在……上方他在……里一个堆。",
+          "startMs": 360670,
+          "endMs": 363900
+        },
+        {
+          "en": "\"Well done,\" Called Princess Ayesha.",
+          "zh": "好做完， 说 Aisha。 来在……上， 叫公主 Aisha。",
+          "startMs": 364800,
+          "endMs": 367670
+        },
+        {
+          "en": "\"But keep running.\"",
+          "zh": "但是保持跑。",
+          "startMs": 367670,
+          "endMs": 369900
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 349410,
+      "endMs": 370250
+    },
+    {
+      "sentences": [
+        {
+          "en": "They raced down the narrow streets and little alleys.",
+          "zh": "他们速度竞赛向下这狭窄的街道和小的小巷。",
+          "startMs": 374960,
+          "endMs": 378060
+        },
+        {
+          "en": "Suddenly, Princess Ayesha gasped.",
+          "zh": "突然地公主 Aisha 喘气， 它是一个死的末尾。",
+          "startMs": 378060,
+          "endMs": 380900
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 374810,
+      "endMs": 381250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's a dead end!",
+          "zh": "它是一个破坏。",
+          "startMs": 381800,
+          "endMs": 382860
+        },
+        {
+          "en": "We're trapped.\"",
+          "zh": "我们是陷阱。",
+          "startMs": 382860,
+          "endMs": 385060
+        },
+        {
+          "en": "The men were very close to them.",
+          "zh": "这男人们是非常关上到他们。",
+          "startMs": 385060,
+          "endMs": 386900
+        },
+        {
+          "en": "Biff held up the big, blue marble.",
+          "zh": "Biff 拿着向上这大的， 蓝色的大理石。",
+          "startMs": 387800,
+          "endMs": 389750
+        },
+        {
+          "en": "It was the same size as the Blue Eye.",
+          "zh": "它是这同样的四则像这蓝色的眼睛。",
+          "startMs": 389750,
+          "endMs": 392900
+        },
+        {
+          "en": "\"You can have the Blue Eye!\" She shouted.",
+          "zh": "你能有这蓝色的眼睛！ 她喊。 帮助！ 她喊。",
+          "startMs": 393800,
+          "endMs": 398050
+        },
+        {
+          "en": "She threw the marble.",
+          "zh": "她扔这大理石。",
+          "startMs": 398050,
+          "endMs": 398900
+        },
+        {
+          "en": "It flew into the air.",
+          "zh": "它飞进入这空气。",
+          "startMs": 398900,
+          "endMs": 400900
+        },
+        {
+          "en": "The men died to catch it.",
+          "zh": "这男人们跳水到抓住它。",
+          "startMs": 400900,
+          "endMs": 402900
+        },
+        {
+          "en": "\"Quick!\" Yelled Biff.",
+          "zh": "快的！ 叫喊 Biff。",
+          "startMs": 403830,
+          "endMs": 406970
+        },
+        {
+          "en": "\"Run.\"",
+          "zh": "跑！",
+          "startMs": 406970,
+          "endMs": 407900
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 381650,
+      "endMs": 408250
+    },
+    {
+      "sentences": [
+        {
+          "en": "At first, they thought Biff's trick had fooled the men, but they began to chase them again.",
+          "zh": "在第一他们想 Biff 诡计有蠢人这男人们。",
+          "startMs": 410800,
+          "endMs": 417900
+        },
+        {
+          "en": "\"That blue marble didn't fool them for long,\" panted Wilf.",
+          "zh": "那个蓝色的大理石没有蠢人他们为了长的， 气喘 Wilf。",
+          "startMs": 418800,
+          "endMs": 422990
+        },
+        {
+          "en": "\"Come on,\" Called Princess Ayesha.",
+          "zh": "来在……上！ 来在……上， 叫公主 Aisha。",
+          "startMs": 422990,
+          "endMs": 425900
+        },
+        {
+          "en": "\"Get on this motorbike.\"",
+          "zh": "得到在……上这个摩托车。",
+          "startMs": 425900,
+          "endMs": 427900
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 410650,
+      "endMs": 428250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The motorbike roared away.",
+          "zh": "这摩托车咆哮离开。",
+          "startMs": 428830,
+          "endMs": 430840
+        },
+        {
+          "en": "Princess Ayesha drove towards some gates.",
+          "zh": "公主 Aisha 驾驶向一些大门。",
+          "startMs": 430840,
+          "endMs": 433900
+        },
+        {
+          "en": "\"Oh no!\" Shouted Biff.",
+          "zh": "哦不！ 喊 Biff。",
+          "startMs": 434800,
+          "endMs": 436660
+        },
+        {
+          "en": "\"Someone is closing the gates.\" \"Hold on tight!\" Yelled Princess Ayesha.",
+          "zh": "某人是关上这大门。 Chip 拿着在……上紧的。 我喜欢公主 Aisha。",
+          "startMs": 436660,
+          "endMs": 443680
+        },
+        {
+          "en": "\"And close your eyes.\"",
+          "zh": "和关上你的眼睛。",
+          "startMs": 443680,
+          "endMs": 445900
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 428680,
+      "endMs": 446250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The gates were almost shut.",
+          "zh": "这大门是几乎关上。",
+          "startMs": 449800,
+          "endMs": 450420
+        },
+        {
+          "en": "There was only a little gap left.",
+          "zh": "那里是只有一个小的空白处离开。",
+          "startMs": 450420,
+          "endMs": 454900
+        },
+        {
+          "en": "\"There is!\" Called Princess Ayesha.",
+          "zh": "这里是一个报偿。 来在……上， 叫公主 Aisha。",
+          "startMs": 455830,
+          "endMs": 459060
+        },
+        {
+          "en": "Suddenly, she tilted the motorbike onto its side.",
+          "zh": "突然地， 她倾斜的这摩托车在……上到它的私德。",
+          "startMs": 459060,
+          "endMs": 461900
+        },
+        {
+          "en": "\"Oh help!\" Shouted Wilf.",
+          "zh": "帮助！ 哦帮助！ 喊 Wilf。 哦帮助！ 喊 Wilf。",
+          "startMs": 462800,
+          "endMs": 471900
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 449650,
+      "endMs": 472250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The motorbike just got through the gap.",
+          "zh": "这摩托车刚刚得到穿过这空白处。",
+          "startMs": 471900,
+          "endMs": 472100
+        },
+        {
+          "en": "\"We made it!\"",
+          "zh": "我们做它！ 喊 Wilf。",
+          "startMs": 472100,
+          "endMs": 472300
+        },
+        {
+          "en": "The motorbike sped along the road.",
+          "zh": "这摩托车 sped 沿着这路。",
+          "startMs": 472300,
+          "endMs": 474900
+        },
+        {
+          "en": "After a few miles, Biff looked round.",
+          "zh": "在……之后一个很少英里， Biff 看圆形的。",
+          "startMs": 475800,
+          "endMs": 477720
+        },
+        {
+          "en": "There was a jeep behind them.",
+          "zh": "那里是一个吉普车在……后面他们。",
+          "startMs": 477720,
+          "endMs": 479900
+        },
+        {
+          "en": "\"Oh,.",
+          "zh": "哎哟！",
+          "startMs": 480800,
+          "endMs": 480900
+        },
+        {
+          "en": "No!\"",
+          "zh": "现在！",
+          "startMs": 480900,
+          "endMs": 481430
+        },
+        {
+          "en": "\"Oh no!\" said Biff.",
+          "zh": "哦不！ 说 Biff。",
+          "startMs": 481430,
+          "endMs": 482900
+        },
+        {
+          "en": "\"They are chasing us again.\"",
+          "zh": "他们是追赶我们再一次。",
+          "startMs": 482900,
+          "endMs": 484900
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 472250,
+      "endMs": 485250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The motorbike roared past a lorry.",
+          "zh": "这摩托车咆哮过一个卡车。",
+          "startMs": 486000,
+          "endMs": 489900
+        },
+        {
+          "en": "The lorry had a big load of hay.",
+          "zh": "这卡车有一个大的装载的干草。",
+          "startMs": 489900,
+          "endMs": 494900
+        },
+        {
+          "en": "\"Hang on!\" Shouted Princess Ayesha.",
+          "zh": "哦不！ 夯在……上， 喊公主 Aisha。",
+          "startMs": 495800,
+          "endMs": 499060
+        },
+        {
+          "en": "She slowed down.",
+          "zh": "她慢的向下。",
+          "startMs": 499060,
+          "endMs": 500900
+        },
+        {
+          "en": "Then she cut a rope on the side of the lorry.",
+          "zh": "然后她切一个绳索在……上这私德的这卡车。",
+          "startMs": 500900,
+          "endMs": 503900
+        },
+        {
+          "en": "All the hay fell out.",
+          "zh": "全部这干草落下出。",
+          "startMs": 504800,
+          "endMs": 506900
+        },
+        {
+          "en": "The hay filled into the road.",
+          "zh": "这干草溢出进入这路。",
+          "startMs": 506900,
+          "endMs": 508910
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 485850,
+      "endMs": 509260
+    },
+    {
+      "sentences": [
+        {
+          "en": "Most of it landed in the jeep.",
+          "zh": "最多的它拥有大量土地的在……里这吉普车。",
+          "startMs": 508910,
+          "endMs": 510880
+        },
+        {
+          "en": "It covered the men.",
+          "zh": "它有顶棚的这男人们。",
+          "startMs": 510880,
+          "endMs": 512900
+        },
+        {
+          "en": "\"Brilliant!\" Called Biff.",
+          "zh": "明亮的！ 说 Chip。 快的！ 叫喊 Biff。",
+          "startMs": 513830,
+          "endMs": 516190
+        },
+        {
+          "en": "\"That stopped them.\"",
+          "zh": "那是停他们。",
+          "startMs": 516190,
+          "endMs": 517900
+        },
+        {
+          "en": "Princess Ayesha pointed to an aeroplane.",
+          "zh": "公主 Aisha 尖的到一个飞机。",
+          "startMs": 518800,
+          "endMs": 520900
+        },
+        {
+          "en": "\"There's my plane,\" she said.",
+          "zh": "有我的飞机， 她说。",
+          "startMs": 520900,
+          "endMs": 523900
+        },
+        {
+          "en": "\"I hope I can start it.\" Said Princess Ayesha.",
+          "zh": "我希望我能开始它。 跑！ 说公主 Aisha。",
+          "startMs": 523900,
+          "endMs": 537310
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 509260,
+      "endMs": 537660
+    },
+    {
+      "sentences": [
+        {
+          "en": "They jumped off the motorbike and climbed into the aeroplane.",
+          "zh": "他们跳离开这摩托车和爬进入这飞机。",
+          "startMs": 537310,
+          "endMs": 537510
+        },
+        {
+          "en": "\"Get in the front,\" said Princess Aisha.",
+          "zh": "得到在……里这前面， 说公主 Aisha。",
+          "startMs": 537510,
+          "endMs": 537710
+        },
+        {
+          "en": "\"I'll try to start the engine.\"",
+          "zh": "TIl 尝试到开始这发动机。",
+          "startMs": 537710,
+          "endMs": 539900
+        },
+        {
+          "en": "The plane began to move.",
+          "zh": "这飞机开始到移动。",
+          "startMs": 541000,
+          "endMs": 543260
+        },
+        {
+          "en": "\"Be quick!\" Cried Biff.",
+          "zh": "快的！ 是快的！ 哭 Biff。",
+          "startMs": 543260,
+          "endMs": 545900
+        },
+        {
+          "en": "\"They're coming again!\" Called Princess Ayesha.",
+          "zh": "他们是来再一次！ 来在……上， 叫公主 Aisha。",
+          "startMs": 545900,
+          "endMs": 557060
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 537660,
+      "endMs": 557410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The men drove towards the plane.",
+          "zh": "这男人们驾驶向这飞机。",
+          "startMs": 557060,
+          "endMs": 557260
+        },
+        {
+          "en": "They tried to block its path.",
+          "zh": "他们经过考验的到大块它的小路。",
+          "startMs": 557260,
+          "endMs": 557460
+        },
+        {
+          "en": "\"Hold on to your seats,\" called Princess Aisha.",
+          "zh": "拿着在……上到你的椅子， 叫公主 Aisha。",
+          "startMs": 557460,
+          "endMs": 557660
+        },
+        {
+          "en": "The plane took off.",
+          "zh": "这飞机拿离开。",
+          "startMs": 557660,
+          "endMs": 558900
+        },
+        {
+          "en": "The men ducked as it flew over them.",
+          "zh": "这男人们鸭像它飞在……上方他们。",
+          "startMs": 558900,
+          "endMs": 561900
+        },
+        {
+          "en": "\"Hooray!\" Said Princess Ayesha.",
+          "zh": "它是一个门道。 跑！",
+          "startMs": 562800,
+          "endMs": 565300
+        },
+        {
+          "en": "\"We're safe.\" Princess Ayesha pointed.",
+          "zh": "我们是安全的。 公主 Aisha 尖的。",
+          "startMs": 565300,
+          "endMs": 571900
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 557410,
+      "endMs": 572250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look down there,\" she called.",
+          "zh": "看向下那里， 她叫。",
+          "startMs": 571900,
+          "endMs": 577040
+        },
+        {
+          "en": "\"That is my kingdom.\" Wilf didn't look.",
+          "zh": "那个是我的王国。 Wilf 没有看。",
+          "startMs": 577040,
+          "endMs": 582880
+        },
+        {
+          "en": "He had his eyes closed.",
+          "zh": "他有他的眼睛关上。",
+          "startMs": 582880,
+          "endMs": 585420
+        },
+        {
+          "en": "\"I don't like flying,\" he said.",
+          "zh": "我不喜欢飞， 他说。",
+          "startMs": 585420,
+          "endMs": 588900
+        },
+        {
+          "en": "\"It's time to land,\" called Princess Aisha.",
+          "zh": "它是时间到陆地， 叫公主 Aisha。 来在……上， 叫公主 Aisha。",
+          "startMs": 589800,
+          "endMs": 592530
+        },
+        {
+          "en": "\"Don't tell me,\" said Wilf.",
+          "zh": "不告诉我， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 592530,
+          "endMs": 594890
+        },
+        {
+          "en": "\"I don't like landing.\"",
+          "zh": "我不喜欢上岸。",
+          "startMs": 594890,
+          "endMs": 596900
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 572250,
+      "endMs": 597250
+    },
+    {
+      "sentences": [
+        {
+          "en": "People ran to meet Princess Ayesha.",
+          "zh": "人们跑到遇见公主 Aisha。",
+          "startMs": 598170,
+          "endMs": 600990
+        },
+        {
+          "en": "\"Have you brought back the Blue Eye?\" They called.",
+          "zh": "有你带来回来这蓝色的眼睛？ 他们叫。 帮助！ 她叫。",
+          "startMs": 600990,
+          "endMs": 604900
+        },
+        {
+          "en": "\"These children helped me,\" she said.",
+          "zh": "这些孩子们帮助我， 她说。",
+          "startMs": 605800,
+          "endMs": 607950
+        },
+        {
+          "en": "\"They were very brave.\" Everyone cheered.",
+          "zh": "他们是非常勇敢的。 每个人向。",
+          "startMs": 607950,
+          "endMs": 612900
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 598020,
+      "endMs": 613250
+    },
+    {
+      "sentences": [
+        {
+          "en": "The King arranged a big feast.",
+          "zh": "这国王整理一个大的盛宴。",
+          "startMs": 616800,
+          "endMs": 617420
+        },
+        {
+          "en": "Princess Ayesha put on special clothes.",
+          "zh": "公主 Aisha 放在……上特别的衣服。",
+          "startMs": 617420,
+          "endMs": 621900
+        },
+        {
+          "en": "She had the Blue Eye in her turban.",
+          "zh": "她有这蓝色的眼睛在……里她包头巾。",
+          "startMs": 622960,
+          "endMs": 625670
+        },
+        {
+          "en": "Biff and Wilf gasped when they saw her.",
+          "zh": "Biff 和 Wilf 喘气当……时他们看见她。",
+          "startMs": 625670,
+          "endMs": 628900
+        },
+        {
+          "en": "\"The Princess looks beautiful,\" said Biff.",
+          "zh": "这公主看美丽的， 说 Biff。 ， 说 Biff。",
+          "startMs": 629800,
+          "endMs": 633990
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 616650,
+      "endMs": 634340
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now I have the Blue Eye back I can become Queen,\" she said.",
+          "zh": "我有这蓝色的眼睛回来我能成为女王， 她说。",
+          "startMs": 633990,
+          "endMs": 637900
+        },
+        {
+          "en": "The key began to glow.",
+          "zh": "这钥匙开始到光亮。",
+          "startMs": 639800,
+          "endMs": 643060
+        },
+        {
+          "en": "It was time for the adventure to end.",
+          "zh": "它是时间为了这冒险到末尾。",
+          "startMs": 643060,
+          "endMs": 646900
+        },
+        {
+          "en": "\"Bye!\" Said Biff.",
+          "zh": "是。 ， 说 Biff。",
+          "startMs": 647830,
+          "endMs": 650190
+        },
+        {
+          "en": "\"This was an exciting adventure.\"",
+          "zh": "这个是一个令人激动的冒险。",
+          "startMs": 650190,
+          "endMs": 653900
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 634340,
+      "endMs": 654250
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" she said.",
+          "zh": "哦不！ 她说。",
+          "startMs": 653900,
+          "endMs": 654100
+        },
+        {
+          "en": "Biff and Wilf were sorry the adventure was over.",
+          "zh": "Biff 和 Wilf 是对不起这冒险是在……上方。",
+          "startMs": 666800,
+          "endMs": 671010
+        },
+        {
+          "en": "\"Well,\" \"Let's go outside and play with the marbles.\"",
+          "zh": "好， 他说。",
+          "startMs": 671010,
+          "endMs": 675900
+        },
+        {
+          "en": "She looked in the bag.",
+          "zh": "她看在……里这包。",
+          "startMs": 676970,
+          "endMs": 678900
+        },
+        {
+          "en": "\"Oh no!\" She said.",
+          "zh": "哦不！ 我看见， 他说。",
+          "startMs": 678900,
+          "endMs": 680850
+        },
+        {
+          "en": "\"There are only four left.\"",
+          "zh": "那里是只有四离开。",
+          "startMs": 680850,
+          "endMs": 683900
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 654250,
+      "endMs": 684250
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 684250,
+      "endMs": 684251
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 684251,
+      "endMs": 684252
+    }
+  ]
+}

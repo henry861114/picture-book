@@ -1,0 +1,225 @@
+{
+  "id": "L3-008",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kate came to stay.",
+          "zh": "Kate 来到停留。",
+          "startMs": 0,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum and Kate made a cake.",
+          "zh": "妈妈和 Kate 做一个蛋糕。",
+          "startMs": 13000,
+          "endMs": 16100
+        }
+      ],
+      "startMs": 12850,
+      "endMs": 16450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kate put little eggs on it.",
+          "zh": "Kate 放小的鸡蛋在……上它。",
+          "startMs": 16000,
+          "endMs": 20100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 20450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma looked at the little eggs.",
+          "zh": "Wilma 看在这小的鸡蛋。",
+          "startMs": 20450,
+          "endMs": 26100
+        }
+      ],
+      "startMs": 20300,
+      "endMs": 26450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She had an idea.",
+          "zh": "她有一个主意。",
+          "startMs": 26000,
+          "endMs": 30100
+        }
+      ],
+      "startMs": 25850,
+      "endMs": 30450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma went to the park.",
+          "zh": "Wilma 去到这公园。",
+          "startMs": 30000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She wanted to hide some eggs.",
+          "zh": "她想要到把一些鸡蛋。",
+          "startMs": 38000,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "mi.",
+          "zh": "咪。",
+          "startMs": 37648,
+          "endMs": 38499
+        },
+        {
+          "en": "She put them in the trees.",
+          "zh": "她放他们在……里这树。",
+          "startMs": 38499,
+          "endMs": 45873
+        }
+      ],
+      "startMs": 37648,
+      "endMs": 45873
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put them in the flowers.",
+          "zh": "她放他们在……里这花。",
+          "startMs": 51000,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 50850,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Kate came to the park.",
+          "zh": "Wilf 和 Kate 来到这公园。",
+          "startMs": 61430,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 61280,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You can look for eggs,\" said Wilma.",
+          "zh": "你能看为了鸡蛋， 说 Wilma。",
+          "startMs": 62000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 61850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kate looked for the eggs.",
+          "zh": "Kate 看为了这鸡蛋。",
+          "startMs": 69650,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 69500,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Where are they?\" she said.",
+          "zh": "哪里是他们？ 她说。",
+          "startMs": 78000,
+          "endMs": 87100
+        }
+      ],
+      "startMs": 77850,
+      "endMs": 87450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The squirrels had them.",
+          "zh": "这松鼠有他们。",
+          "startMs": 87000,
+          "endMs": 90100
+        }
+      ],
+      "startMs": 86850,
+      "endMs": 90450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Squirrels like eggs, \" said Kate.",
+          "zh": "松鼠喜欢鸡蛋， 说 Kate。",
+          "startMs": 87650,
+          "endMs": 97100
+        }
+      ],
+      "startMs": 87500,
+      "endMs": 97450
+    },
+    {
+      "sentences": [
+        {
+          "en": "I,\" she said.",
+          "zh": "我， 她说。",
+          "startMs": 99100,
+          "endMs": 105100
+        }
+      ],
+      "startMs": 98950,
+      "endMs": 105450
+    },
+    {
+      "sentences": [],
+      "startMs": 105380,
+      "endMs": 105880,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 105880,
+      "endMs": 105915,
+      "illustrationOnly": true
+    }
+  ]
+}

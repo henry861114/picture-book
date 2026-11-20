@@ -1,0 +1,105 @@
+{
+  "id": "L1-019",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Kipper.",
+          "zh": "它是 Kipper。",
+          "startMs": 0,
+          "endMs": 3100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 3450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it Biff?",
+          "zh": "是它 Biff？",
+          "startMs": 3000,
+          "endMs": 10100
+        }
+      ],
+      "startMs": 2850,
+      "endMs": 10450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Biff.",
+          "zh": "它是 Biff。",
+          "startMs": 10000,
+          "endMs": 13090
+        }
+      ],
+      "startMs": 9850,
+      "endMs": 13440
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it Chip?",
+          "zh": "是它 Chip？",
+          "startMs": 12990,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 12840,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It is Chip.",
+          "zh": "它是 Chip。",
+          "startMs": 19380,
+          "endMs": 23100
+        }
+      ],
+      "startMs": 19230,
+      "endMs": 23450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Is it Floppy?",
+          "zh": "是它 Floppy？",
+          "startMs": 23000,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 22850,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Yes.",
+          "zh": "是。",
+          "startMs": 31000,
+          "endMs": 33300
+        },
+        {
+          "en": "It is Floppy!",
+          "zh": "它是 Floppy！",
+          "startMs": 33200,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 30850,
+      "endMs": 38450
+    }
+  ]
+}

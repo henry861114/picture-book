@@ -1,0 +1,728 @@
+{
+  "id": "L6-011",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.0,
+        0.4866,
+        0.4586
+      ],
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Biff saw a notice.",
+          "zh": "Wilma 和 Biff 看到了一则通知。",
+          "startMs": 3860,
+          "endMs": 7250
+        },
+        {
+          "en": "It was about a go-kart race.",
+          "zh": "这是一则关于卡丁车比赛的通知。",
+          "startMs": 7250,
+          "endMs": 7450
+        },
+        {
+          "en": "Wilma had an idea.",
+          "zh": "Wilma 有个好主意。",
+          "startMs": 10510,
+          "endMs": 12800
+        },
+        {
+          "en": "She told Biff about it.",
+          "zh": "她把这件事告诉了 Biff。",
+          "startMs": 12830,
+          "endMs": 16750
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.4866,
+        0.0,
+        1.0,
+        0.4586
+      ],
+      "startMs": 3710,
+      "endMs": 17100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Wilma were excited.",
+          "zh": "Biff 和 Wilma 很兴奋。",
+          "startMs": 17510,
+          "endMs": 20200
+        },
+        {
+          "en": "They told Mum about the race.",
+          "zh": "他们把比赛的事告诉了妈妈。",
+          "startMs": 20200,
+          "endMs": 20400
+        },
+        {
+          "en": "\"We need a go-kart,\" \"Oh no!\" said Biff.",
+          "zh": "“我们需要一辆卡丁车。”",
+          "startMs": 20400,
+          "endMs": 21750
+        },
+        {
+          "en": "\"What about the old one?\"",
+          "zh": "“那辆旧的怎么样？”",
+          "startMs": 25680,
+          "endMs": 27370
+        },
+        {
+          "en": "Mum went to the shed.",
+          "zh": "妈妈去了棚屋。",
+          "startMs": 27870,
+          "endMs": 29970
+        },
+        {
+          "en": "She found the old go-kart, but it was broken and rusty.",
+          "zh": "她找到了那辆旧卡丁车，但它坏了，还生锈了。",
+          "startMs": 33650,
+          "endMs": 37750
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "“哎呀，不好了。” Biff 说道。",
+          "startMs": 37780,
+          "endMs": 39020
+        }
+      ],
+      "pdfPage": 0,
+      "rect": [
+        0.0,
+        0.4586,
+        1.0,
+        1.0
+      ],
+      "startMs": 17360,
+      "endMs": 39370
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff told Dad about the race.",
+          "zh": "Biff 把比赛的事告诉了爸爸。",
+          "startMs": 44530,
+          "endMs": 47190
+        },
+        {
+          "en": "Dad looked at the old go-kart.",
+          "zh": "爸爸看了看那辆旧卡丁车。",
+          "startMs": 47190,
+          "endMs": 47390
+        },
+        {
+          "en": "Biff \"This one is broken,\" he said.",
+          "zh": "Biff 这个一是打破， 他说。",
+          "startMs": 47390,
+          "endMs": 50140
+        },
+        {
+          "en": "Wilma \"But we can make a new one.\"",
+          "zh": "“但我们可以造一辆新的。”",
+          "startMs": 51540,
+          "endMs": 53840
+        },
+        {
+          "en": "The mums and dads made a new go-kart.",
+          "zh": "这妈妈和爸爸做一个新的卡丁车。",
+          "startMs": 54930,
+          "endMs": 57770
+        },
+        {
+          "en": "Everyone wanted to help.",
+          "zh": "每个人都想帮忙。",
+          "startMs": 58530,
+          "endMs": 59850
+        },
+        {
+          "en": "And Mum looked at the plans.",
+          "zh": "妈妈看在这计划。",
+          "startMs": 60880,
+          "endMs": 63310
+        },
+        {
+          "en": "Helped her dad.",
+          "zh": "Wilma 帮了她爸爸。",
+          "startMs": 63730,
+          "endMs": 66750
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4697
+      ],
+      "startMs": 44380,
+      "endMs": 67100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum painted the go-kart.",
+          "zh": "妈妈给卡丁车上漆。",
+          "startMs": 73650,
+          "endMs": 78200
+        },
+        {
+          "en": "Chip helped.",
+          "zh": "Chip 帮忙了。",
+          "startMs": 78200,
+          "endMs": 79530
+        },
+        {
+          "en": "He was good at painting.",
+          "zh": "他很擅长涂漆。",
+          "startMs": 80980,
+          "endMs": 82910
+        },
+        {
+          "en": "\"It looks brilliant,\" Said Biff.",
+          "zh": "“看起来真棒！” Biff 说道。",
+          "startMs": 83680,
+          "endMs": 86770
+        },
+        {
+          "en": "Everyone looked at the new go-kart.",
+          "zh": "大家都看着这辆新卡丁车。",
+          "startMs": 86800,
+          "endMs": 88750
+        },
+        {
+          "en": "Biff wanted a go, but Mum said she couldn't.",
+          "zh": "Biff 想去玩，但妈妈说她不能去。",
+          "startMs": 89650,
+          "endMs": 92770
+        },
+        {
+          "en": "The paint was still wet.",
+          "zh": "油漆还没干。",
+          "startMs": 93910,
+          "endMs": 95190
+        }
+      ],
+      "pdfPage": 1,
+      "rect": [
+        0.0,
+        0.4697,
+        1.0,
+        1.0
+      ],
+      "startMs": 73500,
+      "endMs": 95540
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took the children to a park.",
+          "zh": "妈妈带着孩子们去了一个公园。",
+          "startMs": 98650,
+          "endMs": 99980
+        },
+        {
+          "en": "There was a hill in the park.",
+          "zh": "公园里有一座小山。",
+          "startMs": 102380,
+          "endMs": 103920
+        },
+        {
+          "en": "It was a good place to try the new go-kart.",
+          "zh": "这里是试驾新卡丁车的好地方。",
+          "startMs": 104650,
+          "endMs": 107770
+        },
+        {
+          "en": "Wilma went first, but everyone had a go.",
+          "zh": "Wilma 先玩，但每个人都玩了一次。",
+          "startMs": 107800,
+          "endMs": 110750
+        },
+        {
+          "en": "Biff went last.",
+          "zh": "Biff 最后玩。",
+          "startMs": 111540,
+          "endMs": 113640
+        },
+        {
+          "en": "\"It's brilliant!\" She said.",
+          "zh": "但这太棒了！ 她说。",
+          "startMs": 119060,
+          "endMs": 121770
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.462
+      ],
+      "startMs": 98500,
+      "endMs": 122120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma saw another go-kart.",
+          "zh": "Wilma 看见了另一辆卡丁车。",
+          "startMs": 126790,
+          "endMs": 128610
+        },
+        {
+          "en": "\"It's Anneena,\" She said.",
+          "zh": "是 Anina。 她说。",
+          "startMs": 128640,
+          "endMs": 131610
+        },
+        {
+          "en": "\"She's got a go-kart too.\"",
+          "zh": "她也有一辆卡丁车。",
+          "startMs": 131650,
+          "endMs": 134750
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.0,
+        0.462,
+        0.4719,
+        1.0
+      ],
+      "startMs": 126640,
+      "endMs": 135100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at Anneena's go-kart.",
+          "zh": "大家都看着 Anneena 的卡丁车。",
+          "startMs": 136010,
+          "endMs": 139080
+        },
+        {
+          "en": "\"It looks fast,\" said Wilma.",
+          "zh": "它看快的， 说 Wilma。 Wilma 说道。",
+          "startMs": 139110,
+          "endMs": 141550
+        },
+        {
+          "en": "\"But I bet ours is faster.\"",
+          "zh": "我赌我们的是快的。",
+          "startMs": 141580,
+          "endMs": 143970
+        },
+        {
+          "en": "\"I bet it's not,\" said Anneena.",
+          "zh": "我赌它是不， 说 Anneena。 阿尼娜说。",
+          "startMs": 144650,
+          "endMs": 147750
+        }
+      ],
+      "pdfPage": 2,
+      "rect": [
+        0.4719,
+        0.462,
+        1.0,
+        1.0
+      ],
+      "startMs": 135860,
+      "endMs": 148100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma and Anneena had a race.",
+          "zh": "Wilma 和 Anneena 有一个速度竞赛。",
+          "startMs": 151650,
+          "endMs": 152100
+        },
+        {
+          "en": "The go-karts raced down the hill.",
+          "zh": "卡丁车疾驰下山。",
+          "startMs": 152130,
+          "endMs": 156750
+        },
+        {
+          "en": "Anneena was in front.",
+          "zh": "阿妮娜在前面。",
+          "startMs": 157760,
+          "endMs": 158950
+        },
+        {
+          "en": "\"Come on!\" Shouted Biff.",
+          "zh": "“快来！” Biff 喊道。",
+          "startMs": 160680,
+          "endMs": 163250
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.0,
+        0.5197,
+        0.4675
+      ],
+      "startMs": 151500,
+      "endMs": 163600
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a dog ran in front of Anneena.",
+          "zh": "突然，一只狗跑到阿妮娜前面。",
+          "startMs": 163280,
+          "endMs": 166790
+        },
+        {
+          "en": "Her go-kart crashed into a bush.",
+          "zh": "她的卡丁车撞进了灌木丛。",
+          "startMs": 167920,
+          "endMs": 169940
+        },
+        {
+          "en": "Wilma crashed into Anneena.",
+          "zh": "Wilma 锵锵作响进入 Anneena。",
+          "startMs": 174510,
+          "endMs": 177770
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.5197,
+        0.0,
+        1.0,
+        0.4675
+      ],
+      "startMs": 163600,
+      "endMs": 178120
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone looked at the go-karts.",
+          "zh": "所有人都看着卡丁车。",
+          "startMs": 185010,
+          "endMs": 187170
+        },
+        {
+          "en": "Wilma's front wheels were bent.",
+          "zh": "Wilma 的前轮弯曲了。",
+          "startMs": 187200,
+          "endMs": 189590
+        },
+        {
+          "en": "Anneena's go-kart was broken.",
+          "zh": "Anina 的卡丁车坏了。",
+          "startMs": 189590,
+          "endMs": 191750
+        },
+        {
+          "en": "Everyone was upset.",
+          "zh": "大家都感到很沮丧。",
+          "startMs": 193660,
+          "endMs": 194850
+        },
+        {
+          "en": "Chip looked at the broken go-karts.",
+          "zh": "Chip 看着坏掉的卡丁车。",
+          "startMs": 195650,
+          "endMs": 198170
+        },
+        {
+          "en": "He had an idea.",
+          "zh": "他有了一个主意。",
+          "startMs": 198200,
+          "endMs": 200030
+        },
+        {
+          "en": "He told Mum what the idea was.",
+          "zh": "他把自己的想法告诉了妈妈。",
+          "startMs": 200060,
+          "endMs": 202960
+        },
+        {
+          "en": "\"What a brilliant idea!\" Said Mum.",
+          "zh": "“真是个好主意！” 妈妈说道。",
+          "startMs": 203510,
+          "endMs": 207110
+        }
+      ],
+      "pdfPage": 3,
+      "rect": [
+        0.0,
+        0.4675,
+        1.0,
+        1.0
+      ],
+      "startMs": 184860,
+      "endMs": 207460
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mums and dads made a new go-kart.",
+          "zh": "这妈妈和爸爸做一个新的卡丁车。",
+          "startMs": 211930,
+          "endMs": 214750
+        },
+        {
+          "en": "They made one go-kart out of two.",
+          "zh": "他们用两辆卡丁车拼成了一辆。",
+          "startMs": 223650,
+          "endMs": 226770
+        },
+        {
+          "en": "They put the front of Anneena's go-kart on the back of Wilma's.",
+          "zh": "他们把阿尼娜的卡丁车前部装在了 Wilma 的卡丁车后部。",
+          "startMs": 226800,
+          "endMs": 231750
+        },
+        {
+          "en": "The children liked the new go-kart.",
+          "zh": "孩子们喜欢这辆新卡丁车。",
+          "startMs": 232920,
+          "endMs": 235770
+        },
+        {
+          "en": "They called it Silver Bullet.",
+          "zh": "他们管它叫“银色子弹”。",
+          "startMs": 235800,
+          "endMs": 237630
+        },
+        {
+          "en": "\"What about the race?\" Asked Biff.",
+          "zh": "“比赛怎么样？” Biff 问道。",
+          "startMs": 237930,
+          "endMs": 240930
+        },
+        {
+          "en": "\"I bet Silver Bullet will win.\"",
+          "zh": "“我敢打赌银色子弹会赢！”",
+          "startMs": 240960,
+          "endMs": 243300
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4865
+      ],
+      "startMs": 211780,
+      "endMs": 243650
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was the day of the race.",
+          "zh": "比赛的日子到了。",
+          "startMs": 246650,
+          "endMs": 247350
+        },
+        {
+          "en": "Everyone was excited.",
+          "zh": "大家都兴奋不已。",
+          "startMs": 249370,
+          "endMs": 251050
+        },
+        {
+          "en": "\"Look at all the go-karts,\" Said Biff.",
+          "zh": "“瞧，好多卡丁车啊！” Biff 说道。",
+          "startMs": 251540,
+          "endMs": 254720
+        },
+        {
+          "en": "Biff wanted to drive, but so did Wilma and Anneena.",
+          "zh": "他们想开车，Wilma 和阿妮娜也想。",
+          "startMs": 255010,
+          "endMs": 259750
+        },
+        {
+          "en": "In the end, Mum tossed the coin and Anneena won.",
+          "zh": "最后，妈妈抛硬币，阿妮娜赢了。",
+          "startMs": 259780,
+          "endMs": 263810
+        }
+      ],
+      "pdfPage": 4,
+      "rect": [
+        0.0,
+        0.4865,
+        1.0,
+        1.0
+      ],
+      "startMs": 246500,
+      "endMs": 264160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"One, two, three, go!\"",
+          "zh": "“一、二、三，开始！”",
+          "startMs": 270960,
+          "endMs": 274780
+        },
+        {
+          "en": "It was time for the race. Called the starter.",
+          "zh": "比赛开始了。 发令员喊道。",
+          "startMs": 274810,
+          "endMs": 277130
+        },
+        {
+          "en": "\"Come on, Anneena!\" Called Biff.",
+          "zh": "“加油，阿妮娜！” Biff 喊道。",
+          "startMs": 277160,
+          "endMs": 281750
+        },
+        {
+          "en": "The go-karts raced down the hill.",
+          "zh": "卡丁车疾驰下山。",
+          "startMs": 284650,
+          "endMs": 285830
+        },
+        {
+          "en": "Everyone shouted and cheered.",
+          "zh": "大家都喊着、欢呼着。",
+          "startMs": 288190,
+          "endMs": 289950
+        },
+        {
+          "en": "Anneena went fast.",
+          "zh": "Anneena 去快的。",
+          "startMs": 289980,
+          "endMs": 291750
+        },
+        {
+          "en": "Silver Bullet was in front.",
+          "zh": "银色子弹在前面。",
+          "startMs": 292650,
+          "endMs": 294410
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.0,
+        1.0,
+        0.4727
+      ],
+      "startMs": 270810,
+      "endMs": 294760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena didn't win.",
+          "zh": "Anneena 没有赢。",
+          "startMs": 297680,
+          "endMs": 299560
+        },
+        {
+          "en": "Two go-karts went faster.",
+          "zh": "有两辆卡丁车开得更快。",
+          "startMs": 299590,
+          "endMs": 302210
+        },
+        {
+          "en": "Silver Bullet came third.",
+          "zh": "银色子弹得了第三名。",
+          "startMs": 302240,
+          "endMs": 304570
+        },
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "“哎呀，不好了。” Biff 说道。",
+          "startMs": 309650,
+          "endMs": 310110
+        },
+        {
+          "en": "Anneena was upset.",
+          "zh": "Anneena 很沮丧。",
+          "startMs": 310140,
+          "endMs": 313740
+        },
+        {
+          "en": "\"I wanted to win,\" she said.",
+          "zh": "我想要到赢， 她说。",
+          "startMs": 313770,
+          "endMs": 319690
+        },
+        {
+          "en": "\"Don't worry,\" Said Biff.",
+          "zh": "“别担心，” Biff 说道。",
+          "startMs": 319720,
+          "endMs": 319950
+        },
+        {
+          "en": "\"Silver Bullet's still the best.\" \"Hooray!\"",
+          "zh": "“银色子弹还是最棒的。” 太棒了！",
+          "startMs": 319980,
+          "endMs": 328750
+        }
+      ],
+      "pdfPage": 5,
+      "rect": [
+        0.0,
+        0.4727,
+        1.0,
+        1.0
+      ],
+      "startMs": 297530,
+      "endMs": 329100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Silver Bullet did win a prize.",
+          "zh": "银色子弹确实赢得了奖品。",
+          "startMs": 328780,
+          "endMs": 331160
+        },
+        {
+          "en": "It was the best-looking go-kart \"Hooray!\" Everyone cheered.",
+          "zh": "它是最好看的卡丁车。 大家都欢呼起来。”",
+          "startMs": 331160,
+          "endMs": 333750
+        },
+        {
+          "en": "\"We said it was the best!\"",
+          "zh": "“我们说过它是最好的！”",
+          "startMs": 335510,
+          "endMs": 337610
+        }
+      ],
+      "pdfPage": 6,
+      "rect": [
+        0.0,
+        0.0,
+        0.5478,
+        1.0
+      ],
+      "startMs": 329100,
+      "endMs": 337960
+    },
+    {
+      "sentences": [],
+      "pdfPage": 6,
+      "rect": [
+        0.5478,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "startMs": 337960,
+      "endMs": 337961
+    }
+  ]
+}

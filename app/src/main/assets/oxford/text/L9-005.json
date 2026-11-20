@@ -1,0 +1,1358 @@
+{
+  "id": "L9-005",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I'm writing a story about a quest,\" Said Wilma.",
+          "zh": "我能， 说 Wilma。",
+          "startMs": 0,
+          "endMs": 7770
+        },
+        {
+          "en": "\"But I'm stuck.",
+          "zh": "Wilma， 但是我是 stuck。",
+          "startMs": 7770,
+          "endMs": 9210
+        },
+        {
+          "en": "I don't know what to put next.\"",
+          "zh": "我不知道什么到放下一个。",
+          "startMs": 9210,
+          "endMs": 11450
+        },
+        {
+          "en": "\"I don't know what a quest is,\" Said Biff.",
+          "zh": "我不知道什么到放下一个。 ， 说 Biff。",
+          "startMs": 11450,
+          "endMs": 14320
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 14670
+    },
+    {
+      "sentences": [],
+      "pdfPage": 3,
+      "startMs": 14670,
+      "endMs": 14671
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"So I don't think I can help you.\"",
+          "zh": "我不知道什么一个追寻是， 说 Biff， 所以我不想我能帮助你。",
+          "startMs": 14320,
+          "endMs": 16810
+        },
+        {
+          "en": "\"It's a journey that someone makes to look for something that's been lost,\" Said Wilma.",
+          "zh": "它是一个旅行那个某人做到看为了某物那是是丢失， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 16810,
+          "endMs": 23250
+        },
+        {
+          "en": "\"Long ago, and far away, there was a beautiful land called Ulm.",
+          "zh": "",
+          "startMs": 32190,
+          "endMs": 38650
+        },
+        {
+          "en": "Flowers grew everywhere.",
+          "zh": "那里是噪音到处。",
+          "startMs": 38650,
+          "endMs": 41010
+        },
+        {
+          "en": "Animals lived in the woods and forests.",
+          "zh": "",
+          "startMs": 41010,
+          "endMs": 44790
+        },
+        {
+          "en": "Everyone was happy there.",
+          "zh": "每个人是忙碌的。",
+          "startMs": 44790,
+          "endMs": 46850
+        },
+        {
+          "en": "\"In a big cave, deep underground, was the crystal bell of Ulm.",
+          "zh": "在……里一个大的洞穴， 深的地下的， 是这结晶体铃的 Ulm。",
+          "startMs": 46850,
+          "endMs": 52650
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 14671,
+      "endMs": 53000
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was very beautiful even in the dark cave.",
+          "zh": "它是非常美丽的。",
+          "startMs": 52650,
+          "endMs": 57050
+        },
+        {
+          "en": "It glowed like fire.",
+          "zh": "它光亮像如果它是在……上火。",
+          "startMs": 57050,
+          "endMs": 59160
+        },
+        {
+          "en": "When it rang, its note was like music.",
+          "zh": "当……时它嚷， 它的笔记是喜欢音乐。",
+          "startMs": 59160,
+          "endMs": 63530
+        },
+        {
+          "en": "The sound of the bell told every animal, every plant and every tree when it was spring or summer.",
+          "zh": "这声音的这铃告诉每个动物， 每个植物和每个树当……时它是春天或者夏天。",
+          "startMs": 63530,
+          "endMs": 74770
+        },
+        {
+          "en": "The evil Grimlock lived outside Ohm.",
+          "zh": "这邪恶的 Grimlock 住外面 Ulm。",
+          "startMs": 74770,
+          "endMs": 80890
+        },
+        {
+          "en": "He lived in the cold, black mountains of Grim.",
+          "zh": "他住在……里这冷的， 黑色的山的严肃的。",
+          "startMs": 80890,
+          "endMs": 84450
+        },
+        {
+          "en": "He wanted the crystal bell of Ulm, and he spent years looking for it.",
+          "zh": "他想要这结晶体铃的 Ulm， 和他花费年看为了它。",
+          "startMs": 84450,
+          "endMs": 90070
+        },
+        {
+          "en": "At last, Grimlock found the bell.",
+          "zh": "在最后的， Grimlock 找到这铃。",
+          "startMs": 90070,
+          "endMs": 94020
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 53000,
+      "endMs": 94370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Now it will be mine forever,\" He said.",
+          "zh": "'现在它将是我的为了在任何时候！' 他说。",
+          "startMs": 94020,
+          "endMs": 98850
+        },
+        {
+          "en": "\"Grimlock took the bell back to the land of Grim.",
+          "zh": "Grimlock 拿这铃回来到这陆地的严肃的。",
+          "startMs": 98850,
+          "endMs": 102050
+        },
+        {
+          "en": "He carried it through the forest.",
+          "zh": "他搬运它穿过这为了。",
+          "startMs": 102050,
+          "endMs": 104210
+        },
+        {
+          "en": "Then he crossed the rocky desert.",
+          "zh": "然后他交扰的这岩石的抛弃。",
+          "startMs": 104210,
+          "endMs": 106650
+        },
+        {
+          "en": "At last, he reached his castle high in the mountains.",
+          "zh": "在最后的， 他到达他的城堡高的在……里这山。",
+          "startMs": 106650,
+          "endMs": 110990
+        },
+        {
+          "en": "In the sunlight, the bell looked so beautiful that Grimlock could not bear to look at it.",
+          "zh": "在……里这阳光， 这铃看所以美丽的那个 Grimlock 能不承载到看在它。",
+          "startMs": 110990,
+          "endMs": 121490
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 94370,
+      "endMs": 121840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Without the bell, the land of Ohm became dark and gray.",
+          "zh": "没有这铃， 这陆地的 Ulm 成为黑暗的和灰色的。",
+          "startMs": 121490,
+          "endMs": 125650
+        },
+        {
+          "en": "Flowers grew in the winter and were killed by the frost.",
+          "zh": "花 grew 在……里这冬天和是杀死由这霜冻。",
+          "startMs": 125650,
+          "endMs": 130610
+        },
+        {
+          "en": "Snow fell in the summer.",
+          "zh": "雪落下在……里这夏天。",
+          "startMs": 130610,
+          "endMs": 132930
+        },
+        {
+          "en": "The people of Ulm were sad and unhappy.",
+          "zh": "这人们的 Ulm 是伤心的和痛苦的。",
+          "startMs": 132930,
+          "endMs": 136550
+        },
+        {
+          "en": "All the beauty had gone from the land and the days were cold and long.\"",
+          "zh": "全部这破坏有去了从这陆地和这一天是冷的和长的。",
+          "startMs": 136550,
+          "endMs": 146290
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 121840,
+      "endMs": 146640
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma looked at Biff.",
+          "zh": "Wilma 看在 Biff。",
+          "startMs": 146290,
+          "endMs": 147530
+        },
+        {
+          "en": "\"That is as far as I've got,\" she said.",
+          "zh": "那个是像远像我已经得到， 她说。",
+          "startMs": 147530,
+          "endMs": 150370
+        },
+        {
+          "en": "\"What do you think?\" \"It's brilliant!\" Said Biff.",
+          "zh": "什么做你想？ 它是明亮的！ 说 Biff。",
+          "startMs": 150370,
+          "endMs": 154490
+        },
+        {
+          "en": "\"So will someone go on a quest to try to get the bell back?\" \"That's right,\" Said Wilma.",
+          "zh": "所以将某人去在……上一个追寻到尝试到得到这铃回来？ 那是正确的， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 154490,
+          "endMs": 160330
+        },
+        {
+          "en": "\"But it will have to be someone brave, like a knight.\"",
+          "zh": "但是它将有到是某人勇敢的， 喜欢一个骑士。",
+          "startMs": 160330,
+          "endMs": 168610
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 146640,
+      "endMs": 168960
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad came into Biff's room.",
+          "zh": "爸爸来进入 Biff 房间。",
+          "startMs": 168610,
+          "endMs": 170720
+        },
+        {
+          "en": "Biff and Chip had to go to the dentist for a check-up.",
+          "zh": "Biff 和 Chip 有到去到这牙科医生为了一个体格检查。",
+          "startMs": 170720,
+          "endMs": 173570
+        },
+        {
+          "en": "\"I don't know how long I'll be at the dentist,\" said Biff.",
+          "zh": "我不知道如何长的我会是在这牙科医生， 说 Biff。 ， 说 Biff。",
+          "startMs": 173570,
+          "endMs": 177410
+        },
+        {
+          "en": "\"Do you want to go home, Wilma?\"",
+          "zh": "做你想要到去家， Wilma？",
+          "startMs": 177410,
+          "endMs": 179770
+        },
+        {
+          "en": "\"Do you mind if I stay and get on with my story?\" Asked Wilma.",
+          "zh": "做你头脑如果我停留和得到在……上和……一起我的故事？ 问 Wilma。 我能， 说 Wilma。",
+          "startMs": 179770,
+          "endMs": 184250
+        },
+        {
+          "en": "\"I've got an idea.\"",
+          "zh": "我已经得到一个主意。",
+          "startMs": 184250,
+          "endMs": 185770
+        },
+        {
+          "en": "After Biff had gone, Wilma picked up her pen and began to write her story about the quest.",
+          "zh": "",
+          "startMs": 185770,
+          "endMs": 192390
+        },
+        {
+          "en": "\"A girl should bring back the crystal bell,\" She thought.",
+          "zh": "哦不！ 他想。",
+          "startMs": 192390,
+          "endMs": 196540
+        },
+        {
+          "en": "\"Yes, a girl should go on the quest.\"",
+          "zh": "",
+          "startMs": 196540,
+          "endMs": 199790
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 168960,
+      "endMs": 200140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, the magic key began to glow and Wilma was taken into a magic adventure.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 199790,
+          "endMs": 218200
+        },
+        {
+          "en": "The magic took Wilma to the land of Ulm.",
+          "zh": "这魔法拿他们家。",
+          "startMs": 218200,
+          "endMs": 221310
+        },
+        {
+          "en": "The land was cold and bare.",
+          "zh": "这意思是狗是叫直角四边形或六面都是直角四边形的立体。",
+          "startMs": 221310,
+          "endMs": 223410
+        },
+        {
+          "en": "Grimlock was waiting for Wilma.",
+          "zh": "我能， 说 Wilma。",
+          "startMs": 223410,
+          "endMs": 226390
+        },
+        {
+          "en": "He was hiding behind a tree.",
+          "zh": "那里是一个吉普车在……后面他们。",
+          "startMs": 226390,
+          "endMs": 228920
+        },
+        {
+          "en": "He wanted to stop Wilma from going on the quest, so he turned himself into an old woman.",
+          "zh": "",
+          "startMs": 228920,
+          "endMs": 236370
+        },
+        {
+          "en": "As Wilma went by, Grimlock said, \"Hello, my dear.",
+          "zh": "",
+          "startMs": 236370,
+          "endMs": 241300
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 200140,
+      "endMs": 241650
+    },
+    {
+      "sentences": [
+        {
+          "en": "What are you doing in the forest?\"",
+          "zh": "什么是你做在……里我们的部分的城镇？",
+          "startMs": 241300,
+          "endMs": 244600
+        },
+        {
+          "en": "\"I can tell an old woman,\" Wilma thought.",
+          "zh": "我能， 说 Wilma。 好， 想 Floppy。",
+          "startMs": 244600,
+          "endMs": 248370
+        },
+        {
+          "en": "\"I'm going to rescue the crystal bell from the evil Grimlock,\" She said.",
+          "zh": "我看见， 他说。",
+          "startMs": 248370,
+          "endMs": 254650
+        },
+        {
+          "en": "Grimlock pointed.",
+          "zh": "Wilf 尖的。",
+          "startMs": 254650,
+          "endMs": 258120
+        },
+        {
+          "en": "\"Then go that way,\" He said.",
+          "zh": "去离开！ 我看见， 他说。",
+          "startMs": 258120,
+          "endMs": 263170
+        },
+        {
+          "en": "Wilma went along the path that Grimlock had shown her.",
+          "zh": "",
+          "startMs": 263170,
+          "endMs": 266460
+        },
+        {
+          "en": "Soon, the ground became wet and muddy.",
+          "zh": "很快他们来到一个死的末尾。",
+          "startMs": 266460,
+          "endMs": 269530
+        },
+        {
+          "en": "Wilma's feet sank into the mud.",
+          "zh": "",
+          "startMs": 269530,
+          "endMs": 272030
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 241650,
+      "endMs": 272380
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Is this really the right way?\" She wondered.",
+          "zh": "他们是全部这同样的。 任何事物是那个？ 她惊奇。",
+          "startMs": 272030,
+          "endMs": 275490
+        },
+        {
+          "en": "Suddenly, she sank into a muddy swamp.",
+          "zh": "突然地这钢琴来到一个停。",
+          "startMs": 275490,
+          "endMs": 278690
+        },
+        {
+          "en": "\"Oh, help.",
+          "zh": "帮助！",
+          "startMs": 278690,
+          "endMs": 280180
+        },
+        {
+          "en": "I'm sinking.",
+          "zh": "它是飞。",
+          "startMs": 280180,
+          "endMs": 281380
+        },
+        {
+          "en": "Help me somebody.\" Wilma was frightened.",
+          "zh": "帮助我， 某人。 Amy 是受惊的。",
+          "startMs": 281380,
+          "endMs": 285020
+        },
+        {
+          "en": "She was sinking deeper and deeper.",
+          "zh": "这空白处是得到宽阔的和宽阔的。",
+          "startMs": 285020,
+          "endMs": 287930
+        },
+        {
+          "en": "She couldn't get out of the swamp.",
+          "zh": "但是她不能找到她方式。",
+          "startMs": 287930,
+          "endMs": 290410
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 272380,
+      "endMs": 290760
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, she saw a white unicorn standing on the edge of the swamp.",
+          "zh": "突然地， 一些男人们跑向下这街道。",
+          "startMs": 290410,
+          "endMs": 295320
+        },
+        {
+          "en": "\"Don't be frightened,\" It said.",
+          "zh": "他不是受惊的在全部。 Chip 说。",
+          "startMs": 295320,
+          "endMs": 298240
+        },
+        {
+          "en": "\"Hang onto this branch and I'll pull you out.\"",
+          "zh": "",
+          "startMs": 298240,
+          "endMs": 302390
+        },
+        {
+          "en": "\"Quickly, jump on my back,\" Cried the unicorn.",
+          "zh": "",
+          "startMs": 302390,
+          "endMs": 309040
+        },
+        {
+          "en": "\"We must get away.\"",
+          "zh": "我们必须停这水。",
+          "startMs": 309040,
+          "endMs": 311930
+        },
+        {
+          "en": "As the unicorn galloped through the forest, Grimlock fired an arrow at Wilma.",
+          "zh": "",
+          "startMs": 311930,
+          "endMs": 317530
+        },
+        {
+          "en": "\"You'll never bring back the crystal bell,\" He shouted angrily.",
+          "zh": "帮助！ 喊 Amy。",
+          "startMs": 317530,
+          "endMs": 324320
+        },
+        {
+          "en": "\"You'll never get past the dragon.\"",
+          "zh": "",
+          "startMs": 324320,
+          "endMs": 328850
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 290760,
+      "endMs": 329200
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last, the unicorn stopped.",
+          "zh": "在最后的他找到它。",
+          "startMs": 328850,
+          "endMs": 331260
+        },
+        {
+          "en": "\"You must go on alone,\" It said.",
+          "zh": "你必须是有病的。 Chip 说。",
+          "startMs": 331260,
+          "endMs": 334190
+        },
+        {
+          "en": "\"This is as far as I can go.",
+          "zh": "那个是像远像我已经得到， 她说。",
+          "startMs": 334190,
+          "endMs": 336470
+        },
+        {
+          "en": "There is a ring tied to a ribbon round my neck.",
+          "zh": "",
+          "startMs": 336470,
+          "endMs": 340200
+        },
+        {
+          "en": "Take the ring.",
+          "zh": "但是保持跑。",
+          "startMs": 340200,
+          "endMs": 341570
+        },
+        {
+          "en": "It will only give you one wish, so don't waste it.\"",
+          "zh": "",
+          "startMs": 341570,
+          "endMs": 346260
+        },
+        {
+          "en": "Wilma took the ring and the unicorn galloped away.",
+          "zh": "",
+          "startMs": 346260,
+          "endMs": 354330
+        },
+        {
+          "en": "Wilma walked across the rocky desert.",
+          "zh": "然后他交扰的这岩石的抛弃。",
+          "startMs": 354330,
+          "endMs": 357090
+        },
+        {
+          "en": "She was hot and tired.",
+          "zh": "帮助！ 她喊。",
+          "startMs": 357090,
+          "endMs": 358700
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 329200,
+      "endMs": 359050
+    },
+    {
+      "sentences": [
+        {
+          "en": "She almost wished for a drink, but she stopped.",
+          "zh": "",
+          "startMs": 358700,
+          "endMs": 362110
+        },
+        {
+          "en": "She didn't want to waste her wish.",
+          "zh": "Chip 没有想要到毁掉这公园。",
+          "startMs": 362110,
+          "endMs": 365220
+        },
+        {
+          "en": "Then she heard a shout.",
+          "zh": "他们听见喊。",
+          "startMs": 365220,
+          "endMs": 367310
+        },
+        {
+          "en": "It was a gnome.",
+          "zh": "它是不一个男人。",
+          "startMs": 367310,
+          "endMs": 369100
+        },
+        {
+          "en": "\"Help me, someone,\" Shouted the gnome.",
+          "zh": "帮助我， 某人。 嗨！ 喊这大的男人。",
+          "startMs": 369100,
+          "endMs": 373310
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 359050,
+      "endMs": 373660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Be quick before it is too late.\"",
+          "zh": "",
+          "startMs": 373310,
+          "endMs": 376090
+        },
+        {
+          "en": "Wilma untied the gnome.",
+          "zh": "Wilma 开始他们离开。",
+          "startMs": 376090,
+          "endMs": 378410
+        },
+        {
+          "en": "\"Oh, thank you, thank you,\" He cried.",
+          "zh": "谢谢你， Gran。 极讨厌的？",
+          "startMs": 378410,
+          "endMs": 381890
+        },
+        {
+          "en": "\"I was tied up here by Grimlock.",
+          "zh": "停它！ 哭 Grimlock。",
+          "startMs": 381890,
+          "endMs": 384400
+        },
+        {
+          "en": "This is where he feeds his dragon.\"",
+          "zh": "",
+          "startMs": 384400,
+          "endMs": 387250
+        },
+        {
+          "en": "\"But why did he want to feed you to the dragon?\" Asked Wilma.",
+          "zh": "在明天， 我会给你两个都到这龙。 我能， 说 Wilma。",
+          "startMs": 387250,
+          "endMs": 392840
+        },
+        {
+          "en": "\"Because I burned his toast,\" Said the gnome.",
+          "zh": "哦亲爱的！ 说这土地神。",
+          "startMs": 392840,
+          "endMs": 400730
+        },
+        {
+          "en": "Suddenly, the gnome began to tremble.",
+          "zh": "突然地这钥匙开始到光亮。",
+          "startMs": 400730,
+          "endMs": 403310
+        },
+        {
+          "en": "\"Oh, no!\"",
+          "zh": "哦不！",
+          "startMs": 403310,
+          "endMs": 404170
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 373660,
+      "endMs": 404520
+    },
+    {
+      "sentences": [
+        {
+          "en": "He squeaked.",
+          "zh": "帮助！ 她叫。",
+          "startMs": 404170,
+          "endMs": 405120
+        },
+        {
+          "en": "\"The dragon's coming for his dinner.\" \"Oh, help,\" Said Wilma.",
+          "zh": "某人来， 他的 Biff。 帮助！ 我能， 说 Wilma。",
+          "startMs": 405120,
+          "endMs": 410420
+        },
+        {
+          "en": "She looked at the ring.",
+          "zh": "她看在……里这包。",
+          "startMs": 410420,
+          "endMs": 412610
+        },
+        {
+          "en": "\"Maybe I should use the wish to kill the dragon.\"",
+          "zh": "太太梅展示他们如何到拿着这蟹。",
+          "startMs": 412610,
+          "endMs": 416220
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 404520,
+      "endMs": 416570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The gnome gave her a lemon.",
+          "zh": "那些男人们将是这里很快。",
+          "startMs": 416220,
+          "endMs": 418160
+        },
+        {
+          "en": "\"Try this,\" \"Thank you!\" he said.",
+          "zh": "",
+          "startMs": 418160,
+          "endMs": 420200
+        },
+        {
+          "en": "\"Dragons hate lemons.",
+          "zh": "",
+          "startMs": 420200,
+          "endMs": 422140
+        },
+        {
+          "en": "They can't bear the smell.\"",
+          "zh": "他们是全部这同样的。",
+          "startMs": 422140,
+          "endMs": 424530
+        },
+        {
+          "en": "Wilma began to peel the lemon.",
+          "zh": "",
+          "startMs": 424530,
+          "endMs": 426850
+        },
+        {
+          "en": "\"Will the dragon run away?\" She asked.",
+          "zh": "我们将很快找到这马车火车。 她是乐趣。",
+          "startMs": 426850,
+          "endMs": 430010
+        },
+        {
+          "en": "\"I don't know,\" Said the gnome.",
+          "zh": "我不知道， 说 Biff。 哦亲爱的！ 说这土地神。",
+          "startMs": 430010,
+          "endMs": 432310
+        },
+        {
+          "en": "\"I've never tried it.",
+          "zh": "",
+          "startMs": 432310,
+          "endMs": 434040
+        },
+        {
+          "en": "This is a chance to find out.\"",
+          "zh": "这个是一个极讨厌的冒险， 他想。",
+          "startMs": 434040,
+          "endMs": 436640
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 416570,
+      "endMs": 436990
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Ah-choo!\" Went the dragon.",
+          "zh": "题额这绳索在……上。",
+          "startMs": 436640,
+          "endMs": 441730
+        },
+        {
+          "en": "It gave a terrible roar and flew away.",
+          "zh": "然后他给一个咆哮和跑离开。",
+          "startMs": 441730,
+          "endMs": 445970
+        },
+        {
+          "en": "\"Hooray!\" Shouted the gnome.",
+          "zh": "它是一个门道。 嗨！ 喊这大的男人。",
+          "startMs": 445970,
+          "endMs": 454900
+        },
+        {
+          "en": "\"You did it!\"",
+          "zh": "你能做它。",
+          "startMs": 454900,
+          "endMs": 455810
+        },
+        {
+          "en": "\"I was very frightened,\" Said Wilma.",
+          "zh": "Amy 是受惊的。 我能， 说 Wilma。",
+          "startMs": 455810,
+          "endMs": 458670
+        },
+        {
+          "en": "\"But the lemon worked.\"",
+          "zh": "但是如何？ 问 Biff。",
+          "startMs": 458670,
+          "endMs": 460730
+        },
+        {
+          "en": "The gnome handed Wilma a mirror.",
+          "zh": "当……时他有去了， Wilma 有一个主意。",
+          "startMs": 460730,
+          "endMs": 462890
+        },
+        {
+          "en": "\"Take this mirror.",
+          "zh": "陷阱喜欢这个是残忍的。",
+          "startMs": 462890,
+          "endMs": 464490
+        },
+        {
+          "en": "You'll need it to kill the basilisk.",
+          "zh": "你必须到看这部分， 说厕所。",
+          "startMs": 464490,
+          "endMs": 467490
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 436990,
+      "endMs": 467840
+    },
+    {
+      "sentences": [
+        {
+          "en": "The basilisk is even worse than the dragon.\" \"What's basilisk?\" Asked Wilma.",
+          "zh": "他们是拿一切在……里这马车。 是什么在……里这个包？ 她问。 我能， 说 Wilma。",
+          "startMs": 467490,
+          "endMs": 474010
+        },
+        {
+          "en": "\"And how can I kill it with a mirror?\"",
+          "zh": "",
+          "startMs": 474010,
+          "endMs": 477090
+        },
+        {
+          "en": "\"Its eyes can kill you,\" Said the gnome.",
+          "zh": "哦亲爱的！ 说这土地神。",
+          "startMs": 477090,
+          "endMs": 480470
+        },
+        {
+          "en": "\"When you see it, don't look into its eyes or you'll be turned to stone.",
+          "zh": "",
+          "startMs": 480470,
+          "endMs": 485930
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 467840,
+      "endMs": 486280
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hold up the mirror and let it look into its own eyes.\" \"Does it work?\" Asked Wilma.",
+          "zh": "它不工作。 我能， 说 Wilma。",
+          "startMs": 485930,
+          "endMs": 494610
+        },
+        {
+          "en": "\"I don't know,\" Said the gnome.",
+          "zh": "我不知道， 说 Biff。 哦亲爱的！ 说这土地神。",
+          "startMs": 494610,
+          "endMs": 498800
+        },
+        {
+          "en": "\"I've never tried it.",
+          "zh": "",
+          "startMs": 498800,
+          "endMs": 500530
+        },
+        {
+          "en": "This is a chance to find out.\"",
+          "zh": "这个是一个极讨厌的冒险， 他想。",
+          "startMs": 500530,
+          "endMs": 502840
+        },
+        {
+          "en": "Suddenly, with a great roar, the basilisk charged at them.",
+          "zh": "突然地， 这路开始到滑倒离开。",
+          "startMs": 502840,
+          "endMs": 507790
+        },
+        {
+          "en": "Wilma held up the mirror and the monster was killed by its own terrible eyes.",
+          "zh": "",
+          "startMs": 507790,
+          "endMs": 513130
+        },
+        {
+          "en": "\"Hooray!\" Called the gnome.",
+          "zh": "它是一个门道。 哦亲爱的！",
+          "startMs": 513130,
+          "endMs": 515810
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 486280,
+      "endMs": 516160
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"You did it!",
+          "zh": "你能做它。",
+          "startMs": 515810,
+          "endMs": 516950
+        },
+        {
+          "en": "See, it's turned to stone.\"",
+          "zh": "有不时间到浪费。",
+          "startMs": 516950,
+          "endMs": 519450
+        },
+        {
+          "en": "\"I was really frightened,\" Said Wilma.",
+          "zh": "Amy 是受惊的。 我能， 说 Wilma。",
+          "startMs": 519450,
+          "endMs": 522500
+        },
+        {
+          "en": "\"You are brave and good,\" Said the gnome.",
+          "zh": "哦亲爱的！ 说这土地神。",
+          "startMs": 522500,
+          "endMs": 526170
+        },
+        {
+          "en": "\"I've never met a brave good person before.",
+          "zh": "我已经从不看见狗和……一起外套在……上在……之前。",
+          "startMs": 526170,
+          "endMs": 529900
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 516160,
+      "endMs": 530250
+    },
+    {
+      "sentences": [
+        {
+          "en": "I am going to help you with your quest.\"",
+          "zh": "我是去到得到一喜欢这个。",
+          "startMs": 529900,
+          "endMs": 533180
+        },
+        {
+          "en": "The gnome took Wilma up the mountain to Grimlock's castle.",
+          "zh": "",
+          "startMs": 533180,
+          "endMs": 541290
+        },
+        {
+          "en": "They went up a steep path.",
+          "zh": "他们去到接来它。",
+          "startMs": 541290,
+          "endMs": 543570
+        },
+        {
+          "en": "The gnome knew a secret way to get into the castle.",
+          "zh": "",
+          "startMs": 543570,
+          "endMs": 546500
+        },
+        {
+          "en": "\"This way to the kitchen,\" Whispered the gnome.",
+          "zh": "她低语到 Hugh。",
+          "startMs": 546500,
+          "endMs": 549820
+        },
+        {
+          "en": "\"Come on, but don't make a sound.\" \"I'm frightened,\" Said Wilma.",
+          "zh": "不做一个声音。 Amy 是受惊的。 我能， 说 Wilma。",
+          "startMs": 549820,
+          "endMs": 555420
+        },
+        {
+          "en": "Wilma and the gnome didn't see anyone in the castle.",
+          "zh": "Wilma 和这土地神没有看见任何人在……里这城堡。",
+          "startMs": 555420,
+          "endMs": 559070
+        },
+        {
+          "en": "At last, they came to the room where the crystal bell was hanging.",
+          "zh": "在最后的， 他们来到这房间哪里这结晶体铃是绞死。",
+          "startMs": 559070,
+          "endMs": 562790
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 530250,
+      "endMs": 563140
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma gasped when she saw it.",
+          "zh": "Wilma 喘气当……时她看见它。",
+          "startMs": 562790,
+          "endMs": 564920
+        },
+        {
+          "en": "She couldn't believe how beautiful it was.",
+          "zh": "她不能相信如何美丽的它是。",
+          "startMs": 564920,
+          "endMs": 569870
+        },
+        {
+          "en": "\"I've been expecting you,\" Said Grimlock.",
+          "zh": "我已经是预计你， 说 Grimlock。 拿它！ 说 Grimlock。",
+          "startMs": 569870,
+          "endMs": 575050
+        },
+        {
+          "en": "\"You can spend the night here,\" Hissed Grimlock.",
+          "zh": "你能花费这夜晚这里， 他的 Grimlock。 拿它！ 说 Grimlock。",
+          "startMs": 575050,
+          "endMs": 579760
+        },
+        {
+          "en": "\"Tomorrow I'll feed you both to the dragon.\"",
+          "zh": "在明天， 我会给你两个都到这龙。",
+          "startMs": 579760,
+          "endMs": 583290
+        },
+        {
+          "en": "\"Oh dear, oh dear,\" Said the gnome.",
+          "zh": "哦亲爱的！ 哦亲爱的！ 说这土地神。",
+          "startMs": 583290,
+          "endMs": 588310
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 563140,
+      "endMs": 588660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What shall we do now?\"",
+          "zh": "什么将我们做现在？",
+          "startMs": 588310,
+          "endMs": 591610
+        },
+        {
+          "en": "Wilma looked at the magic ring.",
+          "zh": "Wilma 看在这魔法戒指。",
+          "startMs": 591610,
+          "endMs": 593700
+        },
+        {
+          "en": "\"It's time I made my wish,\" She said.",
+          "zh": "我做我的希望， 她说。",
+          "startMs": 593700,
+          "endMs": 597780
+        },
+        {
+          "en": "Wilma's wish started to work.",
+          "zh": "Wilma 希望开始到工作。",
+          "startMs": 597780,
+          "endMs": 599870
+        },
+        {
+          "en": "The bell began to ring.",
+          "zh": "这铃开始到戒指。",
+          "startMs": 599870,
+          "endMs": 601390
+        },
+        {
+          "en": "Its sound grew louder and louder.",
+          "zh": "它的声音 grew 大声的和大声的。",
+          "startMs": 601390,
+          "endMs": 604020
+        },
+        {
+          "en": "It rang so loudly through the castle that cups and saucers broke and the glass in the windows cracked.",
+          "zh": "它嚷所以大声地穿过这城堡那个杯子和茶托打破， 和这玻璃在……里这窗户有裂纹的。",
+          "startMs": 604020,
+          "endMs": 611010
+        },
+        {
+          "en": "Hour after hour, the bell rang.",
+          "zh": "小时在……之后小时， 这铃嚷。",
+          "startMs": 611010,
+          "endMs": 614130
+        },
+        {
+          "en": "Grimlock's ears hurt as the bell grew louder and louder.",
+          "zh": "Grimlock's 耳朵受伤像这铃 grew 大声的和大声的。",
+          "startMs": 614130,
+          "endMs": 621850
+        },
+        {
+          "en": "Grimlock could not bear the noise any longer.",
+          "zh": "Grimlock 能不承载这噪音任何长的。",
+          "startMs": 621850,
+          "endMs": 624210
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 588660,
+      "endMs": 624560
+    },
+    {
+      "sentences": [
+        {
+          "en": "He tried to smash the bell with a hammer, but it wouldn't break.",
+          "zh": "他经过考验的到击碎这铃和……一起一个锤子， 但是它不会打破。",
+          "startMs": 624210,
+          "endMs": 628730
+        },
+        {
+          "en": "\"Stop it!",
+          "zh": "停它！",
+          "startMs": 628730,
+          "endMs": 629590
+        },
+        {
+          "en": "Stop it!\" Cried Grimlock.",
+          "zh": "停它！ 哭 Grimlock。",
+          "startMs": 629590,
+          "endMs": 631930
+        },
+        {
+          "en": "\"I can't stand it.",
+          "zh": "我不能站它。",
+          "startMs": 631930,
+          "endMs": 633580
+        },
+        {
+          "en": "The sound of the bell will kill me.",
+          "zh": "这声音的这铃将杀死我。",
+          "startMs": 633580,
+          "endMs": 636150
+        },
+        {
+          "en": "I think my ears will burst.\"",
+          "zh": "我想我的耳朵将使破裂。",
+          "startMs": 636150,
+          "endMs": 638850
+        },
+        {
+          "en": "At last, Grimlock asked Wilma if she could make the bell stop ringing.",
+          "zh": "在最后的， Grimlock 问 Wilma 如果她能做这铃停清脆响亮的。",
+          "startMs": 638850,
+          "endMs": 644310
+        },
+        {
+          "en": "\"I can,\" Said Wilma.",
+          "zh": "我能， 说 Wilma。",
+          "startMs": 644310,
+          "endMs": 646020
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 624560,
+      "endMs": 646370
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"But you must let me take it back to home.",
+          "zh": "但是你必须让我拿它回来到 Ulm。",
+          "startMs": 646020,
+          "endMs": 649170
+        },
+        {
+          "en": "If you don't, it will begin to ring again, and it will never stop.\" \"Take it!\" Said Grimlock.",
+          "zh": "如果你不， 它将开始到戒指再一次， 和它将从不停。 我憎恶它。 拿它！ 说 Grimlock。",
+          "startMs": 649170,
+          "endMs": 655410
+        },
+        {
+          "en": "\"Take it back to home!\"",
+          "zh": "拿它回来到 Ulm。",
+          "startMs": 655410,
+          "endMs": 666370
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 646370,
+      "endMs": 666720
+    },
+    {
+      "sentences": [
+        {
+          "en": "So Wilma and the gnome took the bell back to home, and the quest was over.",
+          "zh": "Wilma 和这土地神拿这铃回来到 Ulm 和这追寻是在……上方。",
+          "startMs": 666370,
+          "endMs": 670930
+        },
+        {
+          "en": "When the bell returned, Beauty came back to the land of Ulm again.",
+          "zh": "当……时这铃返回， 破坏来回来到这陆地的 Ulm 再一次。",
+          "startMs": 670930,
+          "endMs": 676130
+        },
+        {
+          "en": "Birds sang, flowers bloomed, and new leaves grew on the branches of the trees.",
+          "zh": "鸟唱歌， 花花和新的叶子 grew 在……上这树枝的这树。",
+          "startMs": 676130,
+          "endMs": 682550
+        },
+        {
+          "en": "Everyone cheered Wilma and the gnome.",
+          "zh": "每个人向 Wilma 和这土地神。",
+          "startMs": 682550,
+          "endMs": 684730
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 684730,
+          "endMs": 686970
+        },
+        {
+          "en": "\"It's time for me to go,\" said Wilma.",
+          "zh": "它是时间为了我到去， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 686970,
+          "endMs": 691890
+        },
+        {
+          "en": "She gave the ring to the gnome.",
+          "zh": "她给这戒指到这土地神。",
+          "startMs": 691890,
+          "endMs": 694040
+        },
+        {
+          "en": "\"The magic is used up,\" She said.",
+          "zh": "这魔法是我们向上， 她说。 我看见， 他说。",
+          "startMs": 694040,
+          "endMs": 697130
+        },
+        {
+          "en": "\"But keep the ring to remember the quest.\"",
+          "zh": "但是保持这戒指到记得这追寻。",
+          "startMs": 697130,
+          "endMs": 699980
+        },
+        {
+          "en": "The gnome's eyes filled with tears.",
+          "zh": "这土地神眼睛充满和……一起撕。",
+          "startMs": 699980,
+          "endMs": 702530
+        },
+        {
+          "en": "\"Thank me,\" \"Thank you!\" he said.",
+          "zh": "谢谢你！ 他说。",
+          "startMs": 702530,
+          "endMs": 710170
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 666720,
+      "endMs": 710520
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I shall never forget you.\"",
+          "zh": "我将从不忘记你。",
+          "startMs": 710170,
+          "endMs": 722530
+        },
+        {
+          "en": "Biff came back from the dentist.",
+          "zh": "Biff 来回来从这牙科医生。",
+          "startMs": 722530,
+          "endMs": 724490
+        },
+        {
+          "en": "\"Sorry I was a long time,\" she said.",
+          "zh": "我是一个长的时间， 她说。",
+          "startMs": 724490,
+          "endMs": 727460
+        },
+        {
+          "en": "\"Did you finish your story?",
+          "zh": "做你结束你的故事？",
+          "startMs": 727460,
+          "endMs": 729310
+        },
+        {
+          "en": "Did they get the bell back?\"",
+          "zh": "做他们得到这铃回来？",
+          "startMs": 729310,
+          "endMs": 731530
+        },
+        {
+          "en": "Wilma gave Biff her book.",
+          "zh": "Wilma 给 Biff 她书。",
+          "startMs": 731530,
+          "endMs": 733290
+        },
+        {
+          "en": "\"Why don't you find out?\" Said Wilma.",
+          "zh": "为什么不你找到出？ 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 733290,
+          "endMs": 735900
+        },
+        {
+          "en": "\"You can read it if you like.\"",
+          "zh": "你能读它如果你喜欢。",
+          "startMs": 735900,
+          "endMs": 737650
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 710520,
+      "endMs": 738000
+    },
+    {
+      "sentences": [],
+      "pdfPage": 30,
+      "startMs": 738000,
+      "endMs": 738001
+    },
+    {
+      "sentences": [],
+      "pdfPage": 31,
+      "startMs": 738001,
+      "endMs": 738002
+    }
+  ]
+}

@@ -1,0 +1,1441 @@
+{
+  "id": "L9-010",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "Anneena came round to play with Biff and Chip.",
+          "zh": "Anneena 来圆形的到玩和……一起 Biff 和 Chip。",
+          "startMs": 0,
+          "endMs": 5870
+        },
+        {
+          "en": "Wilf and Wilma came too, and so did Nadim.",
+          "zh": "Wilf 和 Wilma 来也， 和所以做 Nadim。",
+          "startMs": 5870,
+          "endMs": 10870
+        },
+        {
+          "en": "\"I'm six next week,\" Kipper told them.",
+          "zh": "Kipper 告诉他们。",
+          "startMs": 11770,
+          "endMs": 14830
+        },
+        {
+          "en": "\"Do you want to come to my birthday?\" \"Six?",
+          "zh": "做你想要到来到我的生日？ 六？",
+          "startMs": 14830,
+          "endMs": 19320
+        },
+        {
+          "en": "You're catching up with me,\" said Wilma.",
+          "zh": "你是抓住向上和……一起我， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 19320,
+          "endMs": 25870
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 2,
+      "endMs": 26220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took Kipper to the shops.",
+          "zh": "妈妈拿 Kipper 到这商店。",
+          "startMs": 27000,
+          "endMs": 30100
+        },
+        {
+          "en": "When he had gone, Wilma had an idea.",
+          "zh": "当……时他有去了， Wilma 有一个主意。",
+          "startMs": 30100,
+          "endMs": 33870
+        },
+        {
+          "en": "\"Let's form a band.",
+          "zh": "让我们形状一个乐队。",
+          "startMs": 34770,
+          "endMs": 35760
+        },
+        {
+          "en": "Then we can play Happy Birthday to Kipper.\"",
+          "zh": "然后我们能玩快乐的生日到 Kipper。",
+          "startMs": 35760,
+          "endMs": 39870
+        },
+        {
+          "en": "\"But his birthday is next week,\" said Nadim.",
+          "zh": "但是他的生日是下一个星期， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 40770,
+          "endMs": 44870
+        },
+        {
+          "en": "\"We'll need the time to practice,\" Said Wilma.",
+          "zh": "我们会必须这时间到练习， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 45770,
+          "endMs": 48840
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 26850,
+      "endMs": 49190
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff liked the idea of forming a band.",
+          "zh": "Biff 喜欢这主意的形状一个乐队。",
+          "startMs": 48840,
+          "endMs": 51870
+        },
+        {
+          "en": "The boys were not so sure.",
+          "zh": "这男孩是不所以确信的。",
+          "startMs": 51870,
+          "endMs": 53870
+        },
+        {
+          "en": "\"We can't play instruments,\" said Wilf.",
+          "zh": "我们不能玩器械， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 54800,
+          "endMs": 57870
+        },
+        {
+          "en": "\"You and Chip can play the kazoo,\" said Biff.",
+          "zh": "你和 Chip 能玩这卡祖笛， 说 Biff。 ， 说 Biff。",
+          "startMs": 58770,
+          "endMs": 61840
+        },
+        {
+          "en": "\"Nadim can play the tambourine.\"",
+          "zh": "Nadim 能玩这铃鼓。",
+          "startMs": 61840,
+          "endMs": 64870
+        },
+        {
+          "en": "\"And we can all sing,\" said Anneena.",
+          "zh": "和我们能全部唱歌， 说 Anneena。 哦亲爱的， 说 Anneena。",
+          "startMs": 65770,
+          "endMs": 68870
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 49190,
+      "endMs": 69220
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last they were ready to play.",
+          "zh": "在最后的他们是准备好的到玩。",
+          "startMs": 72980,
+          "endMs": 76100
+        },
+        {
+          "en": "Wilma started them off.",
+          "zh": "Wilma 开始他们离开。",
+          "startMs": 76100,
+          "endMs": 78360
+        },
+        {
+          "en": "\"One, two, three,\" Two ... three,\" she said.",
+          "zh": "一。。 二。。。 三， 她说。",
+          "startMs": 78360,
+          "endMs": 81430
+        },
+        {
+          "en": "They began to play Happy Birthday.",
+          "zh": "他们开始到玩快乐的生日。",
+          "startMs": 81430,
+          "endMs": 84870
+        },
+        {
+          "en": "It sounded quite good.",
+          "zh": "它声音相当好的。",
+          "startMs": 85770,
+          "endMs": 86810
+        },
+        {
+          "en": "It sounded even better when they played it again.",
+          "zh": "它声音竟然更好的当……时他们玩它再一次。",
+          "startMs": 86810,
+          "endMs": 90870
+        },
+        {
+          "en": "Suddenly the magic key began to glow.",
+          "zh": "突然地这魔法钥匙开始到光亮。",
+          "startMs": 91770,
+          "endMs": 95870
+        },
+        {
+          "en": "\"Help!\"",
+          "zh": "帮助！",
+          "startMs": 102800,
+          "endMs": 104040
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 72830,
+      "endMs": 104390
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children on another adventure.",
+          "zh": "这魔法拿这孩子们在……上另一个冒险。",
+          "startMs": 104040,
+          "endMs": 104240
+        },
+        {
+          "en": "\"Help!\" called Anneena.",
+          "zh": "帮助！ 叫 Anneena。",
+          "startMs": 104240,
+          "endMs": 105830
+        },
+        {
+          "en": "\"We still have our instruments.\"",
+          "zh": "我们仍然有我们的器械。",
+          "startMs": 105830,
+          "endMs": 107870
+        },
+        {
+          "en": "\"I hope my guitar doesn't get broken,\" said Wilma.",
+          "zh": "我希望我的吉他不得到打破， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 108770,
+          "endMs": 112870
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 104390,
+      "endMs": 113220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took the children back in time.",
+          "zh": "这魔法拿这孩子们回来在……里时间。",
+          "startMs": 117770,
+          "endMs": 121080
+        },
+        {
+          "en": "It took them to the Middle Ages.",
+          "zh": "它拿他们到这中间年龄。",
+          "startMs": 121080,
+          "endMs": 123870
+        },
+        {
+          "en": "\"Who are those people?\" Asked Nadim.",
+          "zh": "谁是那些人们？ 问 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 124770,
+          "endMs": 127840
+        },
+        {
+          "en": "\"Why are they doing tricks?\"",
+          "zh": "为什么是他们做诡计？",
+          "startMs": 127840,
+          "endMs": 129870
+        },
+        {
+          "en": "\"They must be entertainers,\" said Anneena.",
+          "zh": "他们必须是表演者， 说 Anneena。 哦亲爱的， 说 Anneena。",
+          "startMs": 130800,
+          "endMs": 134290
+        },
+        {
+          "en": "\"I think they are practicing.\"",
+          "zh": "我想他们是虔诚的。",
+          "startMs": 134290,
+          "endMs": 136870
+        },
+        {
+          "en": "They went on practicing.",
+          "zh": "他们去在……上虔诚的。",
+          "startMs": 141760,
+          "endMs": 143870
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 117620,
+      "endMs": 144220
+    },
+    {
+      "sentences": [
+        {
+          "en": "At first the entertainers didn't see the children.",
+          "zh": "在第一这表演者没有看见这孩子们。",
+          "startMs": 143870,
+          "endMs": 144070
+        },
+        {
+          "en": "The juggler kept dropping the balls.",
+          "zh": "这抛接杂技演员保持掉下这球。",
+          "startMs": 144770,
+          "endMs": 148100
+        },
+        {
+          "en": "The girl on stilts held on to the tree.",
+          "zh": "这女孩在……上高跷拿着在……上到这树。",
+          "startMs": 148100,
+          "endMs": 150870
+        },
+        {
+          "en": "\"If they're entertainers, they're not very good,\" said Biff.",
+          "zh": "如果他们是表演者， 他们是不非常好的， 说 Biff。",
+          "startMs": 151770,
+          "endMs": 155630
+        },
+        {
+          "en": "\"No wonder they're practicing.\" \"My name's John,\" said Biff.",
+          "zh": "不惊奇他们是虔诚的。 我的名字是厕所， 他说。",
+          "startMs": 156770,
+          "endMs": 170700
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 144220,
+      "endMs": 171050
+    },
+    {
+      "sentences": [
+        {
+          "en": "One of the entertainers saw the children.",
+          "zh": "一的这表演者看见这孩子们。",
+          "startMs": 170700,
+          "endMs": 170900
+        },
+        {
+          "en": "He ran across to them.",
+          "zh": "他跑穿过到他们。",
+          "startMs": 170900,
+          "endMs": 171100
+        },
+        {
+          "en": "He said.",
+          "zh": "我看见， 他说。",
+          "startMs": 171100,
+          "endMs": 171420
+        },
+        {
+          "en": "\"You must be musicians.\"",
+          "zh": "你必须是音乐家。",
+          "startMs": 171420,
+          "endMs": 173870
+        },
+        {
+          "en": "\"We're not proper musicians,\" Said Wilma.",
+          "zh": "我们是不合适的音乐家。 我能， 说 Wilma。",
+          "startMs": 174770,
+          "endMs": 177640
+        },
+        {
+          "en": "\"I have a job for you,\" said the man.",
+          "zh": "我有一个工作为了你， 说这男人。 什么一个狗！ 说这男人。",
+          "startMs": 177640,
+          "endMs": 180870
+        },
+        {
+          "en": "\"But, but,\" said Biff.",
+          "zh": "但是。。。 但是。。。 ， 说 Biff。",
+          "startMs": 181770,
+          "endMs": 183700
+        },
+        {
+          "en": "He said.",
+          "zh": "我看见， 他说。",
+          "startMs": 189960,
+          "endMs": 190860
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 171050,
+      "endMs": 191210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man looked at Wilma's guitar.",
+          "zh": "这男人看在 Wilma 吉他。",
+          "startMs": 190860,
+          "endMs": 191060
+        },
+        {
+          "en": "\"What a strange instrument,\" he said.",
+          "zh": "什么一个奇怪的器械， 他说。",
+          "startMs": 191060,
+          "endMs": 191260
+        },
+        {
+          "en": "The girl looked at Biff's recorder.",
+          "zh": "这女孩看在 Biff 录音机。",
+          "startMs": 191260,
+          "endMs": 192870
+        },
+        {
+          "en": "\"What a strange pipe,\" she said.",
+          "zh": "什么一个奇怪的管子， 她说。",
+          "startMs": 193770,
+          "endMs": 196820
+        },
+        {
+          "en": "\"You look a bit young to be musicians,\" said John.",
+          "zh": "你看一个一小块年轻的到是音乐家， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 196820,
+          "endMs": 200870
+        },
+        {
+          "en": "\"You'd better play us a tune.\"",
+          "zh": "You'd 更好的玩我们一个曲调。",
+          "startMs": 200870,
+          "endMs": 203870
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 191210,
+      "endMs": 204220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly a man on a horse rode up.",
+          "zh": "突然地一个男人在……上一个马骑向上。",
+          "startMs": 207770,
+          "endMs": 209290
+        },
+        {
+          "en": "He looked very cross.",
+          "zh": "他看非常叉形。",
+          "startMs": 209290,
+          "endMs": 212870
+        },
+        {
+          "en": "\"Are you the entertainers?\" He shouted.",
+          "zh": "是你这表演者？ 他喊。 拉！ 他喊。",
+          "startMs": 213800,
+          "endMs": 216530
+        },
+        {
+          "en": "\"You should be at the castle by now.\"",
+          "zh": "你应该是在这城堡由现在。",
+          "startMs": 216530,
+          "endMs": 218870
+        },
+        {
+          "en": "\"The musicians were late,\" said John.",
+          "zh": "这音乐家是晚的， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 219770,
+          "endMs": 221940
+        },
+        {
+          "en": "\"But we are ready now.\"",
+          "zh": "但是我们是准备好的现在。",
+          "startMs": 221940,
+          "endMs": 223870
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 207620,
+      "endMs": 224220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Then hurry!\" Said the man.",
+          "zh": "然后急忙！ 说这男人。 什么一个狗！",
+          "startMs": 224770,
+          "endMs": 226060
+        },
+        {
+          "en": "\"The Duke hates to be kept waiting.\"",
+          "zh": "这公爵帽子到是保持等。",
+          "startMs": 226060,
+          "endMs": 228860
+        },
+        {
+          "en": "He peered at the children.",
+          "zh": "他仔细看在这孩子们。",
+          "startMs": 228860,
+          "endMs": 231870
+        },
+        {
+          "en": "\"Are these the musicians?\" He asked.",
+          "zh": "是这些这音乐家？ 他问。 这承载停。",
+          "startMs": 232770,
+          "endMs": 234890
+        },
+        {
+          "en": "\"They look very young.\"",
+          "zh": "他们看非常年轻的。",
+          "startMs": 234890,
+          "endMs": 236870
+        },
+        {
+          "en": "\"They are the finest in the land,\" said John.",
+          "zh": "他们是这罚款在……里这陆地， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 237800,
+          "endMs": 241850
+        },
+        {
+          "en": "\"But, but,\" stammered Wilma.",
+          "zh": "但是。。。 但是。。。 ， 结结巴巴地说话 Wilma。",
+          "startMs": 241850,
+          "endMs": 244870
+        },
+        {
+          "en": "\"Hurry,\" Said John.",
+          "zh": "是， 说先生约翰逊。",
+          "startMs": 261800,
+          "endMs": 263460
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 224620,
+      "endMs": 263810
+    },
+    {
+      "sentences": [
+        {
+          "en": "The man made everyone go to the castle.",
+          "zh": "这男人做每个人去到这城堡。",
+          "startMs": 263460,
+          "endMs": 263660
+        },
+        {
+          "en": "The children ran behind.",
+          "zh": "这孩子们跑在……后面。",
+          "startMs": 263660,
+          "endMs": 263860
+        },
+        {
+          "en": "\"How can we entertain the Duke?\" Biff said.",
+          "zh": "如何能我们使快乐这公爵？ Biff 说。",
+          "startMs": 263860,
+          "endMs": 264060
+        },
+        {
+          "en": "\"We're not proper musicians.\"",
+          "zh": "我们是不合适的音乐家。",
+          "startMs": 264060,
+          "endMs": 264260
+        },
+        {
+          "en": "\"I bet you can play something.",
+          "zh": "我赌你能玩某物。",
+          "startMs": 264260,
+          "endMs": 265720
+        },
+        {
+          "en": "You all have instruments.\" Said Nadim.",
+          "zh": "你全部有器械。 哦爸爸！ 说 Nadim。",
+          "startMs": 265720,
+          "endMs": 271300
+        },
+        {
+          "en": "\"I don't know it,\" Said John.",
+          "zh": "我不知道， 说 Biff。 是， 说先生约翰逊。",
+          "startMs": 276770,
+          "endMs": 278030
+        },
+        {
+          "en": "\"But it sounds perfect.",
+          "zh": "我不知道它， 说厕所， 但是它声音完美的。",
+          "startMs": 278030,
+          "endMs": 279860
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 263810,
+      "endMs": 280210
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can only play one song,\" said Nadim.",
+          "zh": "我们能只有玩一忪， 说 Nadim。",
+          "startMs": 279860,
+          "endMs": 280060
+        },
+        {
+          "en": "\"It's called Happy Birthday.",
+          "zh": "它是叫快乐的生日。",
+          "startMs": 280060,
+          "endMs": 280260
+        },
+        {
+          "en": "You only play it on someone's birthday.\"",
+          "zh": "你只有玩它在……上某人生日。",
+          "startMs": 280260,
+          "endMs": 280460
+        },
+        {
+          "en": "It is the Duke's birthday.",
+          "zh": "它是这公爵生日。",
+          "startMs": 280460,
+          "endMs": 281870
+        },
+        {
+          "en": "That's why we're going to entertain him.\" Whispered Wilf.",
+          "zh": "那是为什么我们是去到使快乐他。 哦不！ 低语 Chip。",
+          "startMs": 281870,
+          "endMs": 303870
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 280210,
+      "endMs": 304220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Duke was waiting with his wife and daughter.",
+          "zh": "这公爵是等和……一起他的妻子和女儿。",
+          "startMs": 303870,
+          "endMs": 304070
+        },
+        {
+          "en": "They looked at the entertainers.",
+          "zh": "他们看在这表演者。",
+          "startMs": 304070,
+          "endMs": 304270
+        },
+        {
+          "en": "The entertainers gave a low bow.",
+          "zh": "这表演者给一个低的弓。",
+          "startMs": 304270,
+          "endMs": 304470
+        },
+        {
+          "en": "The Duke's daughter looked surprised.",
+          "zh": "这公爵女儿看惊讶的。",
+          "startMs": 304470,
+          "endMs": 304670
+        },
+        {
+          "en": "\"We'd better bow as well,\" whispered Wilf.",
+          "zh": "We'd 更好的弓像好， 低语 Wilf。",
+          "startMs": 304670,
+          "endMs": 304870
+        },
+        {
+          "en": "\"It's not every day we meet a duke.\" He said.",
+          "zh": "它是不每个一天我们遇见一个公爵。 我看见， 他说。",
+          "startMs": 304870,
+          "endMs": 311870
+        },
+        {
+          "en": "\"They are the finest in the land,\" Said John.",
+          "zh": "他们是这罚款在……里这陆地。 是， 说先生约翰逊。",
+          "startMs": 311870,
+          "endMs": 318970
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 304220,
+      "endMs": 319320
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Duke peered at the children.",
+          "zh": "这公爵仔细看在这孩子们。",
+          "startMs": 318970,
+          "endMs": 319170
+        },
+        {
+          "en": "\"The musicians are very young,\" he said.",
+          "zh": "这音乐家是非常年轻的， 他说。",
+          "startMs": 319170,
+          "endMs": 319370
+        },
+        {
+          "en": "\"They had better be good,\" said the Duke.",
+          "zh": "他们有更好的是好的， 说这公爵。",
+          "startMs": 319370,
+          "endMs": 319570
+        },
+        {
+          "en": "\"I'm very fond of music.\"",
+          "zh": "我是非常深情的的音乐。",
+          "startMs": 319570,
+          "endMs": 320870
+        },
+        {
+          "en": "\"They have made up a song for you,\" said John.",
+          "zh": "他们有做向上一个忪为了你， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 320870,
+          "endMs": 324870
+        },
+        {
+          "en": "The entertainers went to practice.",
+          "zh": "这表演者去到练习。",
+          "startMs": 329770,
+          "endMs": 330140
+        },
+        {
+          "en": "\"They're terrible,\" Said Nadim.",
+          "zh": "他们是可怕的， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 333760,
+          "endMs": 336870
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 319320,
+      "endMs": 337220
+    },
+    {
+      "sentences": [
+        {
+          "en": "They were still not very good.",
+          "zh": "他们是仍然不非常好的。",
+          "startMs": 336870,
+          "endMs": 337070
+        },
+        {
+          "en": "\"I don't think they're proper entertainers.",
+          "zh": "我不想他们是合适的表演者。",
+          "startMs": 337070,
+          "endMs": 340010
+        },
+        {
+          "en": "Something funny is going on.\" \"Look out!",
+          "zh": "某物有趣的是去在……上。 看。",
+          "startMs": 340010,
+          "endMs": 343710
+        },
+        {
+          "en": "Here comes the duke's daughter,\" Said Wilf.",
+          "zh": "看出， 这里来这公爵女儿， 说 Wilf。 不， 说 Wilf。",
+          "startMs": 343710,
+          "endMs": 346860
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 337220,
+      "endMs": 347210
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Duke's daughter ran up to one of the entertainers.",
+          "zh": "这公爵女儿跑向上到一的这表演者。",
+          "startMs": 346860,
+          "endMs": 349860
+        },
+        {
+          "en": "She gave him a hug.",
+          "zh": "她给他一个拥抱。",
+          "startMs": 349860,
+          "endMs": 351870
+        },
+        {
+          "en": "\"Oh, Hugh, I'm so glad you're here,\" She said.",
+          "zh": "我是所以高兴的你是这里， 她说。 我看见， 他说。",
+          "startMs": 352770,
+          "endMs": 357870
+        },
+        {
+          "en": "\"I said I would find a way,\" said Hugh.",
+          "zh": "我说我会找到一个方式， 说 Hugh。 ， 说 Chip。",
+          "startMs": 357870,
+          "endMs": 361870
+        },
+        {
+          "en": "\"You see!\" Said Nadim.",
+          "zh": "看见！ 哦爸爸！ 说 Nadim。",
+          "startMs": 361870,
+          "endMs": 363890
+        },
+        {
+          "en": "\"I said something funny was going on.\" Said John.",
+          "zh": "我说某物有趣的是去在……上。 是， 说先生约翰逊。",
+          "startMs": 363890,
+          "endMs": 379870
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 347210,
+      "endMs": 380220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Duke's daughter was called Edith.",
+          "zh": "这公爵女儿是叫 Edith。",
+          "startMs": 379870,
+          "endMs": 380070
+        },
+        {
+          "en": "She and Hugh were in love.",
+          "zh": "她和 Hugh 是在……里爱。",
+          "startMs": 380070,
+          "endMs": 380270
+        },
+        {
+          "en": "\"We are not really entertainers,\" said John.",
+          "zh": "我们是不真的表演者， 说厕所。",
+          "startMs": 380270,
+          "endMs": 380470
+        },
+        {
+          "en": "\"We are here to help Edith.\"",
+          "zh": "我们是这里到帮助 Edith。",
+          "startMs": 380470,
+          "endMs": 381870
+        },
+        {
+          "en": "\"My father won't let me marry yet,\" Said Edith.",
+          "zh": "我的爸爸不会让我结婚还， 说 Edith， 所以我们想要到跑离开。 ， 说 Chip。",
+          "startMs": 382800,
+          "endMs": 387020
+        },
+        {
+          "en": "\"So we want to run away.\"",
+          "zh": "",
+          "startMs": 387020,
+          "endMs": 389180
+        },
+        {
+          "en": "\"Why pretend you are entertainers,\" Said Chip, \"when you are so terrible at it?\"",
+          "zh": "为什么假装你是表演者， 说 Chip， 当……时你是所以可怕的在它？",
+          "startMs": 389180,
+          "endMs": 396260
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 380220,
+      "endMs": 396610
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This was the only way we could get into the castle,\" said Hugh.",
+          "zh": "这个是这只有方式我们能得到进入这城堡， 说 Hugh。 ， 说 Chip。",
+          "startMs": 396260,
+          "endMs": 401870
+        },
+        {
+          "en": "\"Please help us,\" said John.",
+          "zh": "请帮助我们， 说厕所。",
+          "startMs": 401870,
+          "endMs": 402070
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 396610,
+      "endMs": 402420
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"All right,\" Said Anneena.",
+          "zh": "全部正确的！ 哦亲爱的， 说 Anneena。",
+          "startMs": 402800,
+          "endMs": 406570
+        },
+        {
+          "en": "Hugh gave Edith a bottle of sleeping mixture.",
+          "zh": "Hugh 给 Edith 一个瓶子的睡觉混合体。",
+          "startMs": 406570,
+          "endMs": 412870
+        },
+        {
+          "en": "\"Pour this mixture into the wine,\" he said.",
+          "zh": "倒出这个混合体进入这葡萄酒， 他说。",
+          "startMs": 412870,
+          "endMs": 416020
+        },
+        {
+          "en": "\"Do it before the feast begins tonight.\"",
+          "zh": "做它在……之前这盛宴开始今夜。",
+          "startMs": 416020,
+          "endMs": 418870
+        },
+        {
+          "en": "\"It will send everyone to sleep,\" said John.",
+          "zh": "它将发送每个人到睡觉， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 419800,
+          "endMs": 424440
+        },
+        {
+          "en": "\"Then we can get away safely.\"",
+          "zh": "然后我们能得到离开平安地。",
+          "startMs": 424440,
+          "endMs": 427490
+        },
+        {
+          "en": "Edith took the bottle.",
+          "zh": "Edith 拿这瓶子。",
+          "startMs": 427490,
+          "endMs": 429990
+        },
+        {
+          "en": "\"Leave it to me,\" she said.",
+          "zh": "离开它到我， 她说。",
+          "startMs": 429990,
+          "endMs": 431590
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 402650,
+      "endMs": 431940
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "我看见， 他说。",
+          "startMs": 431590,
+          "endMs": 432880
+        },
+        {
+          "en": "The entertainers made the children dress up.",
+          "zh": "这表演者做这孩子们连衣裙向上。",
+          "startMs": 432880,
+          "endMs": 433870
+        },
+        {
+          "en": "\"I feel silly, dressed like this,\" moaned Chip.",
+          "zh": "我感觉傻的， 连衣裙喜欢这个， 呻吟 Chip。 哦不！ 喘气 Chip。",
+          "startMs": 434770,
+          "endMs": 437640
+        },
+        {
+          "en": "\"You need to look the part,\" said John.",
+          "zh": "你必须到看这部分， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 437640,
+          "endMs": 440870
+        },
+        {
+          "en": "\"Won't everyone be asleep?\"",
+          "zh": "不会每个人是睡着的？ 问 Anneena。",
+          "startMs": 440870,
+          "endMs": 443500
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 431940,
+      "endMs": 443850
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Anneena.",
+          "zh": "Chip 和 Anneena。",
+          "startMs": 443500,
+          "endMs": 444870
+        },
+        {
+          "en": "\"We hope so,\" said John.",
+          "zh": "我们希望所以， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 444870,
+          "endMs": 447870
+        },
+        {
+          "en": "It was time for the Duke's feast.",
+          "zh": "它是时间为了这公爵盛宴。",
+          "startMs": 450770,
+          "endMs": 451520
+        },
+        {
+          "en": "Many people were there.",
+          "zh": "许多人们是那里。",
+          "startMs": 451520,
+          "endMs": 454290
+        },
+        {
+          "en": "Servants took in great dishes of food.",
+          "zh": "用人拿在……里很棒的盘子的食物。",
+          "startMs": 454290,
+          "endMs": 458560
+        },
+        {
+          "en": "There was plenty of wine for everyone to drink.",
+          "zh": "那里是大量的葡萄酒为了每个人到喝。",
+          "startMs": 458560,
+          "endMs": 463870
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 443850,
+      "endMs": 464220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Edith was worried.",
+          "zh": "Edith 是发愁的。",
+          "startMs": 464960,
+          "endMs": 466700
+        },
+        {
+          "en": "She had put the sleeping mixture into the wine, but no one had fallen asleep.",
+          "zh": "她有放这睡觉混合体进入这葡萄酒， 但是不一有落下睡着的。",
+          "startMs": 466700,
+          "endMs": 472800
+        },
+        {
+          "en": "Now it was time for the entertainment.",
+          "zh": "现在它是时间为了这娱乐。",
+          "startMs": 472800,
+          "endMs": 476100
+        },
+        {
+          "en": "\"This is not part of my plan,\" hissed John.",
+          "zh": "这个是不部分的我的计划， 他的厕所。",
+          "startMs": 476100,
+          "endMs": 479870
+        },
+        {
+          "en": "\"Why has no one fallen asleep?\"",
+          "zh": "为什么有不一落下睡着的？",
+          "startMs": 479870,
+          "endMs": 481870
+        },
+        {
+          "en": "\"The mixture isn't working,\" said Chip.",
+          "zh": "这混合体不是有工作的， 说 Chip。 ， 说 Chip。",
+          "startMs": 482800,
+          "endMs": 486740
+        },
+        {
+          "en": "\"What shall we do now?\"",
+          "zh": "什么将我们做现在？",
+          "startMs": 486740,
+          "endMs": 488940
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 464810,
+      "endMs": 489290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Asked Hugh.",
+          "zh": "",
+          "startMs": 488940,
+          "endMs": 490300
+        },
+        {
+          "en": "\"We'll just have to entertain them,\" said John.",
+          "zh": "我们会刚刚有到使快乐他们， 说厕所。 是， 说先生约翰逊。",
+          "startMs": 490300,
+          "endMs": 494870
+        },
+        {
+          "en": "The entertainers were terrible.",
+          "zh": "这表演者是可怕的。",
+          "startMs": 496000,
+          "endMs": 499100
+        },
+        {
+          "en": "Everyone began to shout and throw food at them.",
+          "zh": "每个人开始到喊和扔食物在他们。",
+          "startMs": 499100,
+          "endMs": 503340
+        },
+        {
+          "en": "The Duke was angry.",
+          "zh": "这公爵是生气的。",
+          "startMs": 503340,
+          "endMs": 505120
+        },
+        {
+          "en": "\"Entertainers?\" He shouted.",
+          "zh": "表演者？ 他喊。 拉！ 他喊。",
+          "startMs": 505120,
+          "endMs": 508020
+        },
+        {
+          "en": "\"You are terrible.",
+          "zh": "你是可怕的。",
+          "startMs": 508020,
+          "endMs": 509880
+        },
+        {
+          "en": "I'll put you in the dungeons.\" \"Wait!\" Begged John.",
+          "zh": "我会放你在……里这地牢。 等！ 乞讨厕所。",
+          "startMs": 509880,
+          "endMs": 513380
+        },
+        {
+          "en": "\"Please hear the musicians.",
+          "zh": "请听见这音乐家。",
+          "startMs": 513380,
+          "endMs": 514020
+        },
+        {
+          "en": "They are the finest in the land.\"",
+          "zh": "他们是这罚款在……里这陆地。",
+          "startMs": 514020,
+          "endMs": 514870
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 489290,
+      "endMs": 515220
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children got ready to play.",
+          "zh": "这孩子们得到准备好的到玩。",
+          "startMs": 516010,
+          "endMs": 519410
+        },
+        {
+          "en": "Wilma started them off.",
+          "zh": "Wilma 开始他们离开。",
+          "startMs": 519410,
+          "endMs": 522140
+        },
+        {
+          "en": "\"One, two, three,\" She said.",
+          "zh": "一。。 二。。。 三， 她说。",
+          "startMs": 522140,
+          "endMs": 525870
+        },
+        {
+          "en": "They began to play Happy Birthday.",
+          "zh": "他们开始到玩快乐的生日。",
+          "startMs": 525870,
+          "endMs": 526890
+        },
+        {
+          "en": "It sounded quite good.",
+          "zh": "它声音相当好的。",
+          "startMs": 526890,
+          "endMs": 529870
+        },
+        {
+          "en": "It sounded even better when they played it again.",
+          "zh": "它声音竟然更好的当……时他们玩它再一次。",
+          "startMs": 529870,
+          "endMs": 532690
+        },
+        {
+          "en": "The people clapped and cheered.",
+          "zh": "这人们鼓掌和向。",
+          "startMs": 532690,
+          "endMs": 535870
+        },
+        {
+          "en": "\"Excellent,\" \"Excellent,\" said the Duke.",
+          "zh": "极好的， 说这公爵。",
+          "startMs": 538800,
+          "endMs": 541840
+        }
+      ],
+      "pdfPage": 26,
+      "startMs": 515860,
+      "endMs": 542190
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Play it again.\"",
+          "zh": "玩它再一次。",
+          "startMs": 541840,
+          "endMs": 543800
+        },
+        {
+          "en": "Wilma had an idea.",
+          "zh": "Wilma 有一个主意。",
+          "startMs": 543800,
+          "endMs": 545450
+        },
+        {
+          "en": "She whispered to Hugh, \"Creep out now and take Edith.\"",
+          "zh": "悄悄行进出现在和拿 Edith。",
+          "startMs": 545450,
+          "endMs": 550920
+        },
+        {
+          "en": "Then she clapped her hands.",
+          "zh": "然后她鼓掌她手。",
+          "startMs": 550920,
+          "endMs": 552870
+        },
+        {
+          "en": "\"This time I am going to teach you the words,\" she said.",
+          "zh": "这个时间我是去到教你这单词， 她说。",
+          "startMs": 553800,
+          "endMs": 558800
+        },
+        {
+          "en": "\"You can all join in.\"",
+          "zh": "你能全部连接在……里。",
+          "startMs": 558800,
+          "endMs": 560490
+        }
+      ],
+      "pdfPage": 27,
+      "startMs": 542190,
+      "endMs": 560840
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma taught everyone the words to Happy Birthday.",
+          "zh": "Wilma taught 每个人这单词到快乐的生日。",
+          "startMs": 560490,
+          "endMs": 565320
+        },
+        {
+          "en": "Edith slipped away.",
+          "zh": "Edith 滑倒离开。",
+          "startMs": 565320,
+          "endMs": 567260
+        },
+        {
+          "en": "No one saw her go.",
+          "zh": "不一看见她去。",
+          "startMs": 567260,
+          "endMs": 568840
+        },
+        {
+          "en": "Everyone was singing loudly.",
+          "zh": "每个人是唱歌大声地。",
+          "startMs": 568840,
+          "endMs": 571870
+        },
+        {
+          "en": "\"You are the finest in the land,\" \"Excellent,\" said the Duke.",
+          "zh": "他们是这罚款在……里这陆地。",
+          "startMs": 572800,
+          "endMs": 577560
+        },
+        {
+          "en": "\"What other tunes can you play?\" \"Get married,\" Said Hugh.",
+          "zh": "什么其他曲调能你玩？ Edith 是发愁的。 ， 说 Chip。",
+          "startMs": 577560,
+          "endMs": 591540
+        }
+      ],
+      "pdfPage": 28,
+      "startMs": 560840,
+      "endMs": 591890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Hugh and Edith escaped from the castle.",
+          "zh": "Hugh 和 Edith 逃跑从这城堡。",
+          "startMs": 591540,
+          "endMs": 591740
+        },
+        {
+          "en": "There were some horses waiting for them.",
+          "zh": "那里是一些马等为了他们。",
+          "startMs": 591740,
+          "endMs": 591940
+        },
+        {
+          "en": "\"Do you think your father will give you his blessing?\"",
+          "zh": "做你想你的爸爸将给你他的福气？",
+          "startMs": 591940,
+          "endMs": 596580
+        },
+        {
+          "en": "\"Of course he will,\" Said Edith, \"when he sees how happy we are.\" Said the duke.",
+          "zh": "的进程我们是， 说 Wilma。",
+          "startMs": 596580,
+          "endMs": 604870
+        }
+      ],
+      "pdfPage": 29,
+      "startMs": 591890,
+      "endMs": 605220
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This note is from Edith,\" said the Duke.",
+          "zh": "这个笔记是从 Edith， 说这公爵。",
+          "startMs": 604870,
+          "endMs": 605070
+        },
+        {
+          "en": "\"She has run away to get married.",
+          "zh": "她有跑离开到得到已婚的。",
+          "startMs": 605070,
+          "endMs": 606870
+        },
+        {
+          "en": "I suppose we should chase after her.\"",
+          "zh": "我认为我们应该茶色在……之后她。",
+          "startMs": 607800,
+          "endMs": 612800
+        },
+        {
+          "en": "Suddenly the Duke gave a yawn.",
+          "zh": "突然地这公爵给一个打哈欠。",
+          "startMs": 612800,
+          "endMs": 615510
+        },
+        {
+          "en": "\"I feel very sleepy,\" he said.",
+          "zh": "我感觉非常困倦的， 他说。",
+          "startMs": 615510,
+          "endMs": 619120
+        },
+        {
+          "en": "\"Maybe I'll chase after her when I've had a snooze.\" Said Wilma.",
+          "zh": "也许我会茶色在……之后她当……时我已经有一个打盹儿。 我能， 说 Wilma。",
+          "startMs": 619120,
+          "endMs": 633080
+        }
+      ],
+      "pdfPage": 30,
+      "startMs": 605220,
+      "endMs": 633430
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Everyone is asleep,\" said Wilma.",
+          "zh": "每个人是睡着的， 说 Wilma。",
+          "startMs": 633080,
+          "endMs": 633280
+        },
+        {
+          "en": "\"So the sleeping mixture worked in the end.\"",
+          "zh": "所以这睡觉混合体工作在……里这末尾。",
+          "startMs": 633280,
+          "endMs": 636370
+        },
+        {
+          "en": "The magic key began to glow.",
+          "zh": "这魔法钥匙开始到光亮。",
+          "startMs": 636370,
+          "endMs": 638870
+        },
+        {
+          "en": "\"What a strange end to the adventure,\" said Chip.",
+          "zh": "什么一个奇怪的末尾到这冒险， 说 Chip。 ， 说 Chip。",
+          "startMs": 640770,
+          "endMs": 643010
+        },
+        {
+          "en": "\"There's no one left awake to say goodbye to.\"",
+          "zh": "有不一离开醒着的到说再见到。",
+          "startMs": 643010,
+          "endMs": 646870
+        },
+        {
+          "en": "The magic took them home.",
+          "zh": "这魔法拿他们家。",
+          "startMs": 658000,
+          "endMs": 659870
+        },
+        {
+          "en": "\"We don't need to practice happy birthday again,\" Said Nadim.",
+          "zh": "我们不必须到练习快乐的生日再一次， 说 Nadim。 哦爸爸！ 说 Nadim。",
+          "startMs": 659870,
+          "endMs": 663290
+        }
+      ],
+      "pdfPage": 31,
+      "startMs": 633430,
+      "endMs": 663640
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We're pretty good at it.\"",
+          "zh": "我们是漂亮的好的在它。",
+          "startMs": 663290,
+          "endMs": 664870
+        },
+        {
+          "en": "Ben Kipper came in.",
+          "zh": "然后 Kipper 来在……里。",
+          "startMs": 665770,
+          "endMs": 666700
+        },
+        {
+          "en": "\"What have you all been doing?\" He asked.",
+          "zh": "什么有你全部是做？ 他问。 这承载停。",
+          "startMs": 666700,
+          "endMs": 670580
+        },
+        {
+          "en": "\"Just messing about,\" said Biff.",
+          "zh": "刚刚脏乱关于， 说 Biff。 ， 说 Biff。",
+          "startMs": 670580,
+          "endMs": 673870
+        }
+      ],
+      "pdfPage": 32,
+      "startMs": 663640,
+      "endMs": 674220
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was Kipper's sixth birthday.",
+          "zh": "它是 Kipper 第六生日。",
+          "startMs": 677810,
+          "endMs": 680260
+        },
+        {
+          "en": "The band played Happy Birthday.",
+          "zh": "这乐队玩快乐的生日。",
+          "startMs": 680260,
+          "endMs": 682750
+        },
+        {
+          "en": "\"That was brilliant,\" said Kipper.",
+          "zh": "那个是明亮的， 说 Kipper。 全部正确的， 说 Kipper。",
+          "startMs": 682750,
+          "endMs": 685400
+        },
+        {
+          "en": "\"I didn't know you were such good musicians.\"",
+          "zh": "我没有知道你是这样的好的音乐家。",
+          "startMs": 685400,
+          "endMs": 688870
+        },
+        {
+          "en": "\"Of course we are,\" said Wilma.",
+          "zh": "的进程我们是， 说 Wilma。 我能， 说 Wilma。",
+          "startMs": 689770,
+          "endMs": 691450
+        },
+        {
+          "en": "\"We're the finest in the land.\"",
+          "zh": "我们是这罚款在……里这陆地。",
+          "startMs": 691450,
+          "endMs": 693870
+        }
+      ],
+      "pdfPage": 33,
+      "startMs": 677660,
+      "endMs": 694220
+    },
+    {
+      "sentences": [],
+      "pdfPage": 34,
+      "startMs": 694220,
+      "endMs": 694221
+    },
+    {
+      "sentences": [],
+      "pdfPage": 35,
+      "startMs": 694221,
+      "endMs": 694222
+    }
+  ]
+}

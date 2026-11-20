@@ -1,0 +1,213 @@
+{
+  "id": "L3-011",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went to the stream.",
+          "zh": "这孩子们去到这溪流。",
+          "startMs": 0,
+          "endMs": 6100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6450
+    },
+    {
+      "sentences": [],
+      "startMs": 8866,
+      "endMs": 9666,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf climbed on the swing.",
+          "zh": "Wilf 爬在……上这摆动。",
+          "startMs": 16590,
+          "endMs": 26100
+        }
+      ],
+      "startMs": 16440,
+      "endMs": 26450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip pushed Wilf.",
+          "zh": "Chip 推 Wilf。",
+          "startMs": 26000,
+          "endMs": 36100
+        }
+      ],
+      "startMs": 25850,
+      "endMs": 36450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy looked at the rope.",
+          "zh": "Floppy 看在这绳索。",
+          "startMs": 36000,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 35850,
+      "endMs": 40450
+    },
+    {
+      "sentences": [],
+      "startMs": 36924,
+      "endMs": 37724,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked and barked.",
+          "zh": "Floppy 吠叫和吠叫。",
+          "startMs": 52000,
+          "endMs": 61100
+        }
+      ],
+      "startMs": 51850,
+      "endMs": 61450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip climbed on the swing.",
+          "zh": "Chip 爬在……上这摆动。",
+          "startMs": 61000,
+          "endMs": 67100
+        }
+      ],
+      "startMs": 60850,
+      "endMs": 67450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy barked and barked and barked.",
+          "zh": "Floppy 吠叫和吠叫和吠叫。",
+          "startMs": 52000,
+          "endMs": 77100
+        }
+      ],
+      "startMs": 51850,
+      "endMs": 77450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went on the swing.",
+          "zh": "Kipper 去在……上这摆动。",
+          "startMs": 77000,
+          "endMs": 85100
+        }
+      ],
+      "startMs": 76850,
+      "endMs": 85450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a silly dog!\" said Kipper.",
+          "zh": "什么一个傻的狗！ 说 Kipper。",
+          "startMs": 85000,
+          "endMs": 95100
+        }
+      ],
+      "startMs": 84850,
+      "endMs": 95450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma went on too.",
+          "zh": "Wilma 去在……上也。",
+          "startMs": 95400,
+          "endMs": 98100
+        }
+      ],
+      "startMs": 95250,
+      "endMs": 98450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What a silly dog!\" said Wilma.",
+          "zh": "什么一个傻的狗！ 说 Wilma。",
+          "startMs": 98000,
+          "endMs": 105100
+        }
+      ],
+      "startMs": 97850,
+      "endMs": 105450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went home.",
+          "zh": "这孩子们去家。",
+          "startMs": 112000,
+          "endMs": 119100
+        }
+      ],
+      "startMs": 111850,
+      "endMs": 119450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy looked at the rope.",
+          "zh": "Floppy 看在这绳索。",
+          "startMs": 119590,
+          "endMs": 129100
+        }
+      ],
+      "startMs": 119440,
+      "endMs": 129450
+    },
+    {
+      "sentences": [
+        {
+          "en": "whi Splash!",
+          "zh": "whi 溅泼声！",
+          "startMs": 134324,
+          "endMs": 139142
+        },
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 139142,
+          "endMs": 141770
+        }
+      ],
+      "startMs": 134324,
+      "endMs": 141770
+    },
+    {
+      "sentences": [],
+      "startMs": 141770,
+      "endMs": 142270,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 142270,
+      "endMs": 142340,
+      "illustrationOnly": true
+    }
+  ]
+}

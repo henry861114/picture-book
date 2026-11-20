@@ -1,0 +1,279 @@
+{
+  "id": "L4-019",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was painting the back door.",
+          "zh": "爸爸是绘画这回来门。",
+          "startMs": 0,
+          "endMs": 4100
+        },
+        {
+          "en": "The children were outside.",
+          "zh": "这孩子们是外面。",
+          "startMs": 4000,
+          "endMs": 8100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 8450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy wanted to come in.",
+          "zh": "Floppy 想要到来在……里。",
+          "startMs": 22000,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 21850,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He jumped up.",
+          "zh": "他跳向上。",
+          "startMs": 24000,
+          "endMs": 26100
+        },
+        {
+          "en": "He put his paws on the paint.",
+          "zh": "他放他的爪在……上这油漆。",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 23850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad painted the door again.",
+          "zh": "爸爸油漆这门再一次。",
+          "startMs": 37000,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff kicked a ball.",
+          "zh": "Biff 踢一个球。",
+          "startMs": 45000,
+          "endMs": 47100
+        },
+        {
+          "en": "The ball hit the door.",
+          "zh": "这球击这门。",
+          "startMs": 49000,
+          "endMs": 52100
+        }
+      ],
+      "startMs": 44850,
+      "endMs": 52450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was painting the back door.",
+          "zh": "爸爸是绘画这回来门。",
+          "startMs": 46708,
+          "endMs": 57740
+        }
+      ],
+      "startMs": 46708,
+      "endMs": 57740
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper pushed the door.",
+          "zh": "Kipper 推这门。",
+          "startMs": 58810,
+          "endMs": 61100
+        },
+        {
+          "en": "He got paint on his hands.",
+          "zh": "他得到油漆在……上他的手。",
+          "startMs": 63000,
+          "endMs": 66100
+        }
+      ],
+      "startMs": 58660,
+      "endMs": 66450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was fed up.",
+          "zh": "爸爸是 fed 向上。",
+          "startMs": 69000,
+          "endMs": 71100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 71450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He painted the door again.",
+          "zh": "他油漆这门再一次。",
+          "startMs": 76000,
+          "endMs": 79100
+        },
+        {
+          "en": "\"What a job!\" said Dad.",
+          "zh": "什么一个工作！ 说爸爸。",
+          "startMs": 79000,
+          "endMs": 82100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 82450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff and Chip had a pillow fight.",
+          "zh": "Biff 和 Chip 有一个枕头打架。",
+          "startMs": 86500,
+          "endMs": 89100
+        }
+      ],
+      "startMs": 86350,
+      "endMs": 89450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The pillow split open.",
+          "zh": "这枕头切开打开。",
+          "startMs": 94000,
+          "endMs": 96100
+        },
+        {
+          "en": "\"Oh no!\" said Biff.",
+          "zh": "哦不！ 说 Biff。",
+          "startMs": 97000,
+          "endMs": 99500
+        }
+      ],
+      "startMs": 93850,
+      "endMs": 99850
+    },
+    {
+      "sentences": [
+        {
+          "en": "The wind blew.",
+          "zh": "这风 blew。",
+          "startMs": 104000,
+          "endMs": 106100
+        },
+        {
+          "en": "It blew the feathers.",
+          "zh": "它 blew 这羽毛。",
+          "startMs": 106000,
+          "endMs": 108100
+        }
+      ],
+      "startMs": 103850,
+      "endMs": 108450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Chip.",
+          "zh": "哦不！ 说 Chip。",
+          "startMs": 108000,
+          "endMs": 111100
+        },
+        {
+          "en": "\"Wet paint!\"",
+          "zh": "湿的油漆！",
+          "startMs": 111000,
+          "endMs": 113100
+        }
+      ],
+      "startMs": 107850,
+      "endMs": 113450
+    },
+    {
+      "sentences": [
+        {
+          "en": "There was no wet paint.",
+          "zh": "那里是不湿的油漆。",
+          "startMs": 117000,
+          "endMs": 119100
+        },
+        {
+          "en": "The door had gone.",
+          "zh": "这门有去了。",
+          "startMs": 119000,
+          "endMs": 121100
+        }
+      ],
+      "startMs": 116850,
+      "endMs": 121450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad had put up an old door.",
+          "zh": "爸爸有放向上一个旧的门。",
+          "startMs": 122000,
+          "endMs": 125100
+        }
+      ],
+      "startMs": 121850,
+      "endMs": 125450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The back door was inside.",
+          "zh": "这回来门是里面。",
+          "startMs": 128000,
+          "endMs": 131100
+        },
+        {
+          "en": "\"It's safe here,\" said Dad.",
+          "zh": "它是安全的这里， 说爸爸。",
+          "startMs": 132000,
+          "endMs": 135100
+        }
+      ],
+      "startMs": 127850,
+      "endMs": 135450
+    },
+    {
+      "sentences": [],
+      "startMs": 144790,
+      "endMs": 145290,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 145290,
+      "endMs": 145549,
+      "illustrationOnly": true
+    }
+  ]
+}

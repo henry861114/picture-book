@@ -1,0 +1,568 @@
+{
+  "id": "L5-004",
+  "pages": [
+    {
+      "sentences": [],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 1
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 1,
+      "endMs": 2
+    },
+    {
+      "sentences": [
+        {
+          "en": "A car came to the house.",
+          "zh": "一辆车开到了房子跟前。",
+          "startMs": 3860,
+          "endMs": 11560
+        },
+        {
+          "en": "The children ran to see.",
+          "zh": "孩子们跑过去看。",
+          "startMs": 11590,
+          "endMs": 13000
+        },
+        {
+          "en": "\"It's Gran!\" Said Kipper.",
+          "zh": "是 Gran。 Kipper 说道。",
+          "startMs": 13960,
+          "endMs": 19060
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 3710,
+      "endMs": 19410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come in!\" Said Mum.",
+          "zh": "“进来吧！” 妈妈说道。",
+          "startMs": 19960,
+          "endMs": 22660
+        },
+        {
+          "en": "\"Come in!\" Said Dad.",
+          "zh": "“进来吧！” 爸爸说道。",
+          "startMs": 23970,
+          "endMs": 26220
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 19810,
+      "endMs": 26570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped.",
+          "zh": "孩子们帮忙。",
+          "startMs": 26850,
+          "endMs": 28270
+        },
+        {
+          "en": "They took Gran's things.",
+          "zh": "他们拿走了 Gran 的东西。",
+          "startMs": 29250,
+          "endMs": 32060
+        },
+        {
+          "en": "\"What a lot of things!\" Said Kipper.",
+          "zh": "好多东西啊。 Kipper 说道。",
+          "startMs": 32820,
+          "endMs": 37080
+        }
+      ],
+      "pdfPage": 4,
+      "startMs": 26700,
+      "endMs": 37430
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children liked Gran and Gran liked the children.",
+          "zh": "孩子们喜欢 Gran，Gran 也喜欢孩子们。",
+          "startMs": 40820,
+          "endMs": 45880
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 40670,
+      "endMs": 46230
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come and see my toys,\" said Kipper.",
+          "zh": "“来瞧瞧我的玩具吧，”Kipper 说。 Kipper 说道。",
+          "startMs": 46960,
+          "endMs": 51060
+        },
+        {
+          "en": "\"Come and see my room,\" said Biff.",
+          "zh": "“来瞧瞧我的房间，”Biff 说。 Biff 说道。",
+          "startMs": 51990,
+          "endMs": 57060
+        },
+        {
+          "en": "\"Come and play,\" said Chip.",
+          "zh": "“来玩吧，”Chip 说。 Chip 说道。",
+          "startMs": 57060,
+          "endMs": 59060
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 46810,
+      "endMs": 59410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran played with the children.",
+          "zh": "Gran 和孩子们一起玩。",
+          "startMs": 61820,
+          "endMs": 64340
+        },
+        {
+          "en": "They played inside.",
+          "zh": "他们在屋里玩。",
+          "startMs": 64370,
+          "endMs": 67060
+        },
+        {
+          "en": "\"Oh no!\" Said Mum.",
+          "zh": "哎呀。 妈妈说道。",
+          "startMs": 68150,
+          "endMs": 71920
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 61670,
+      "endMs": 72270
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went outside and played football.",
+          "zh": "他们到外面去踢足球。",
+          "startMs": 71950,
+          "endMs": 74490
+        },
+        {
+          "en": "\"Oh no!\" Said Dad.",
+          "zh": "哎呀。 爸爸说道。",
+          "startMs": 80850,
+          "endMs": 83870
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 72270,
+      "endMs": 84220
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took the children out.",
+          "zh": "Gran 带着孩子们出去了。",
+          "startMs": 88820,
+          "endMs": 90920
+        },
+        {
+          "en": "They went in Gran's old car.",
+          "zh": "他们坐着 Gran 的老车去了。",
+          "startMs": 90950,
+          "endMs": 95440
+        },
+        {
+          "en": "Wilf and Wilma went too.",
+          "zh": "Wilf 和 Wilma 也去了。",
+          "startMs": 95470,
+          "endMs": 99060
+        }
+      ],
+      "pdfPage": 9,
+      "startMs": 88670,
+      "endMs": 99410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What an old car!\" Said Wilf.",
+          "zh": "这辆车真老旧。 Wilf 说道。",
+          "startMs": 99960,
+          "endMs": 104020
+        },
+        {
+          "en": "\"It's a good car,\" said Gran.",
+          "zh": "“这是一辆好车，”Gran 说。 Gran 说道。",
+          "startMs": 104050,
+          "endMs": 108060
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 99810,
+      "endMs": 108410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran took them to the fun park.",
+          "zh": "Gran 带他们去了游乐园。",
+          "startMs": 111380,
+          "endMs": 113360
+        },
+        {
+          "en": "\"Oh, this looks fun!\" Said Gran.",
+          "zh": "哦，这看起来很有趣。 Gran 说道。",
+          "startMs": 113780,
+          "endMs": 118060
+        },
+        {
+          "en": "\"Come on, everyone.\"",
+          "zh": "大家快来。",
+          "startMs": 118890,
+          "endMs": 120920
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 111230,
+      "endMs": 121270
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children began to run.",
+          "zh": "孩子们开始跑起来。",
+          "startMs": 120950,
+          "endMs": 124040
+        },
+        {
+          "en": "They wanted to go on everything.",
+          "zh": "他们想玩所有的游乐设施。",
+          "startMs": 125820,
+          "endMs": 128920
+        },
+        {
+          "en": "\"Come on, Gran,\" they called.",
+          "zh": "“快来呀，Gran，”他们喊道。",
+          "startMs": 128920,
+          "endMs": 131060
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 121270,
+      "endMs": 131410
+    },
+    {
+      "sentences": [
+        {
+          "en": "They called.",
+          "zh": "他们喊道。",
+          "startMs": 131090,
+          "endMs": 132920
+        },
+        {
+          "en": "\"Look at this!\" Said Kipper.",
+          "zh": "“你看这个！” Kipper 说道。",
+          "startMs": 135850,
+          "endMs": 139050
+        },
+        {
+          "en": "\"It's a castle.",
+          "zh": "这是一座城堡。",
+          "startMs": 139080,
+          "endMs": 141180
+        },
+        {
+          "en": "It's called Jumping Castle.\"",
+          "zh": "它叫“蹦蹦城堡”。",
+          "startMs": 141210,
+          "endMs": 143640
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 131410,
+      "endMs": 143990
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children went on the Jumping Castle.",
+          "zh": "孩子们玩起了充气城堡。",
+          "startMs": 145060,
+          "endMs": 148000
+        },
+        {
+          "en": "\"This is fun,\" called Wilma.",
+          "zh": "“这真好玩，”Wilma 喊道。 它叫 Wilma。",
+          "startMs": 148030,
+          "endMs": 153060
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 144910,
+      "endMs": 153410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children jumped and jumped, and bounced and bounced.",
+          "zh": "孩子们跳啊跳，蹦啊蹦。",
+          "startMs": 157820,
+          "endMs": 162560
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 157670,
+      "endMs": 162910
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh, Gran!\" They called.",
+          "zh": "“哎呀，格兰德。” 他们喊道。",
+          "startMs": 163990,
+          "endMs": 167420
+        },
+        {
+          "en": "Gran went on the castle.",
+          "zh": "Gran 走上了城堡。",
+          "startMs": 167540,
+          "endMs": 169280
+        },
+        {
+          "en": "She jumped and bounced.",
+          "zh": "她又蹦又跳。",
+          "startMs": 169310,
+          "endMs": 171920
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 163840,
+      "endMs": 172270
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Good old Gran!\" Called the children.",
+          "zh": "好心的 Gran。 她叫孩子们过来。",
+          "startMs": 175960,
+          "endMs": 181060
+        },
+        {
+          "en": "Gran made a hole in the castle.",
+          "zh": "Gran 在城堡上弄了个洞。",
+          "startMs": 192260,
+          "endMs": 194980
+        },
+        {
+          "en": "\"Oh no!\" Said the children.",
+          "zh": "哎呀。 孩子们说道。",
+          "startMs": 195010,
+          "endMs": 198220
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 175810,
+      "endMs": 198570
+    },
+    {
+      "sentences": [],
+      "pdfPage": 18,
+      "startMs": 198570,
+      "endMs": 198571
+    },
+    {
+      "sentences": [
+        {
+          "en": "The castle began to go down.",
+          "zh": "城堡开始塌陷。",
+          "startMs": 198820,
+          "endMs": 202920
+        },
+        {
+          "en": "A man ran up.",
+          "zh": "一个男人跑了过来。",
+          "startMs": 209960,
+          "endMs": 210060
+        },
+        {
+          "en": "He was cross with Gran.",
+          "zh": "他对 Gran 很生气。",
+          "startMs": 211820,
+          "endMs": 213680
+        },
+        {
+          "en": "\"Look at my castle,\" he yelled.",
+          "zh": "“看看我的城堡，”他大喊道。",
+          "startMs": 213920,
+          "endMs": 216060
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 198670,
+      "endMs": 216410
+    },
+    {
+      "sentences": [
+        {
+          "en": "He yelled.",
+          "zh": "他大喊道。",
+          "startMs": 216090,
+          "endMs": 217060
+        },
+        {
+          "en": "\"Go home!\" Yelled the man.",
+          "zh": "回家吧。 那男人喊道。",
+          "startMs": 218330,
+          "endMs": 221950
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 216410,
+      "endMs": 222300
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"And don't come back!\"",
+          "zh": "别再回来了。",
+          "startMs": 221980,
+          "endMs": 223520
+        },
+        {
+          "en": "Gran took the children home.",
+          "zh": "Gran 带着孩子们回家了。",
+          "startMs": 223820,
+          "endMs": 226800
+        },
+        {
+          "en": "Biff told Mum about the castle.",
+          "zh": "Biff 把城堡的事告诉了妈妈。",
+          "startMs": 231820,
+          "endMs": 234920
+        },
+        {
+          "en": "Mum was cross with Gran.",
+          "zh": "妈妈对 Gran 很生气。",
+          "startMs": 235360,
+          "endMs": 238060
+        },
+        {
+          "en": "Gran was sad.",
+          "zh": "Gran 很伤心。",
+          "startMs": 238090,
+          "endMs": 241060
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 222300,
+      "endMs": 241410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran was in Chip's room.",
+          "zh": "Gran 在 Chip 的房间里。",
+          "startMs": 242330,
+          "endMs": 244830
+        },
+        {
+          "en": "She looked at the magic key.",
+          "zh": "她看着那把魔法钥匙。",
+          "startMs": 244860,
+          "endMs": 247290
+        },
+        {
+          "en": "The key was glowing.",
+          "zh": "钥匙在发光。",
+          "startMs": 249820,
+          "endMs": 252920
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 242180,
+      "endMs": 253270
+    },
+    {
+      "sentences": [
+        {
+          "en": "Gran picked up the key and ran into Biff's room.",
+          "zh": "Gran 拿起钥匙，跑进了 Biff 的房间。",
+          "startMs": 258860,
+          "endMs": 262920
+        },
+        {
+          "en": "\"Look at this,\" she said.",
+          "zh": "“你看这个，”她说。",
+          "startMs": 266990,
+          "endMs": 269190
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 258710,
+      "endMs": 269540
+    },
+    {
+      "sentences": [
+        {
+          "en": "She said.",
+          "zh": "她说。",
+          "startMs": 269220,
+          "endMs": 271050
+        },
+        {
+          "en": "\"Oh no!\" Said Kipper.",
+          "zh": "哎呀。 Kipper 说道。",
+          "startMs": 271080,
+          "endMs": 274020
+        },
+        {
+          "en": "\"It's the magic.",
+          "zh": "“这是魔法。",
+          "startMs": 274050,
+          "endMs": 275920
+        },
+        {
+          "en": "The magic is working.\"",
+          "zh": "魔法起作用了！",
+          "startMs": 275950,
+          "endMs": 278220
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 269540,
+      "endMs": 278570
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic took them to a new adventure.",
+          "zh": "魔法把他们带入了一场新的冒险。",
+          "startMs": 282820,
+          "endMs": 286920
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 282670,
+      "endMs": 287270
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 287270,
+      "endMs": 287271
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 287271,
+      "endMs": 287272
+    }
+  ]
+}

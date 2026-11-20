@@ -1,0 +1,267 @@
+{
+  "id": "L4-027",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were by the stream.",
+          "zh": "这孩子们是由这溪流。",
+          "startMs": 0,
+          "endMs": 5100
+        },
+        {
+          "en": "Wilf had an idea.",
+          "zh": "Wilf 有一个主意。",
+          "startMs": 6170,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf found some sticks.",
+          "zh": "Wilf 找到一些枝条。",
+          "startMs": 10080,
+          "endMs": 14100
+        }
+      ],
+      "startMs": 9930,
+      "endMs": 14450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's make a den,\" he said.",
+          "zh": "让我们做一个扽， 他说。",
+          "startMs": 14000,
+          "endMs": 18750
+        },
+        {
+          "en": "\"Put the sticks like this.\"",
+          "zh": "放这枝条喜欢这个。",
+          "startMs": 18650,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They all found some sticks.",
+          "zh": "他们全部找到一些枝条。",
+          "startMs": 22000,
+          "endMs": 26100
+        }
+      ],
+      "startMs": 21850,
+      "endMs": 26450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip found lots of branches and Wilma found some straw.",
+          "zh": "Chip 找到许多的树枝和 Wilma 找到一些禾秆。",
+          "startMs": 30000,
+          "endMs": 37100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 37450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff found some logs.",
+          "zh": "Biff 找到一些原木。",
+          "startMs": 37000,
+          "endMs": 40100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 40450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We can sit on them inside the den,\" she said.",
+          "zh": "我们能坐在……上他们里面这扽， 她说。",
+          "startMs": 40000,
+          "endMs": 48100
+        }
+      ],
+      "startMs": 39850,
+      "endMs": 48450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children sat in the den but it began to rain.",
+          "zh": "这孩子们坐在……里这扽但是它开始到雨。",
+          "startMs": 48000,
+          "endMs": 53100
+        }
+      ],
+      "startMs": 47850,
+      "endMs": 53450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The rain splashed into the den.",
+          "zh": "这雨溅泼声进入这扽。",
+          "startMs": 53080,
+          "endMs": 56100
+        },
+        {
+          "en": "\"I'm getting wet,\" said Kipper.",
+          "zh": "我是得到湿的， 说 Kipper。",
+          "startMs": 56000,
+          "endMs": 64100
+        }
+      ],
+      "startMs": 52930,
+      "endMs": 64450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"We're all getting wet,\" said Dad.",
+          "zh": "我们是全部得到湿的， 说爸爸。",
+          "startMs": 64000,
+          "endMs": 67100
+        },
+        {
+          "en": "\"It's time to go.\"",
+          "zh": "它是时间到去。",
+          "startMs": 67000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 63850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Can we come back soon?\" asked Biff.",
+          "zh": "能我们来回来很快？ 问 Biff。",
+          "startMs": 69000,
+          "endMs": 76100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 76450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It rained all week.",
+          "zh": "它雨全部星期。",
+          "startMs": 76000,
+          "endMs": 78090
+        },
+        {
+          "en": "The children couldn't go out to play.",
+          "zh": "这孩子们不能去出到玩。",
+          "startMs": 77990,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 75850,
+      "endMs": 81450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They wanted the rain to stop.",
+          "zh": "他们想要这雨到停。",
+          "startMs": 81380,
+          "endMs": 84200
+        },
+        {
+          "en": "They wanted to go back to the den.",
+          "zh": "他们想要到去回来到这扽。",
+          "startMs": 84100,
+          "endMs": 90100
+        }
+      ],
+      "startMs": 81230,
+      "endMs": 90450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The rain stopped.",
+          "zh": "这雨停。",
+          "startMs": 90000,
+          "endMs": 92090
+        },
+        {
+          "en": "The children went back to the den.",
+          "zh": "这孩子们去回来到这扽。",
+          "startMs": 91990,
+          "endMs": 98100
+        }
+      ],
+      "startMs": 89850,
+      "endMs": 98450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Wilma.",
+          "zh": "哦不！ 说 Wilma。",
+          "startMs": 98000,
+          "endMs": 101100
+        },
+        {
+          "en": "\"We can't play in the den!\"",
+          "zh": "我们不能玩在……里这扽！",
+          "startMs": 101000,
+          "endMs": 107100
+        }
+      ],
+      "startMs": 97850,
+      "endMs": 107450
+    },
+    {
+      "sentences": [
+        {
+          "en": "said Wilf.",
+          "zh": "说 Wilf。",
+          "startMs": 99180,
+          "endMs": 99880
+        }
+      ],
+      "startMs": 99030,
+      "endMs": 100230
+    },
+    {
+      "sentences": [],
+      "startMs": 114720,
+      "endMs": 114646,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 115220,
+      "endMs": 114646,
+      "illustrationOnly": true
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "id": "L5-003",
+  "pages": [
+    {
+      "sentences": [
+        {
+          "en": "Kipper was looking at a book.",
+          "zh": "Kipper 正在找一本书。",
+          "startMs": 29,
+          "endMs": 6600
+        }
+      ],
+      "pdfPage": 0,
+      "startMs": 0,
+      "endMs": 6950
+    },
+    {
+      "sentences": [],
+      "pdfPage": 1,
+      "startMs": 6950,
+      "endMs": 6951
+    },
+    {
+      "sentences": [
+        {
+          "en": "The book was about a dragon.",
+          "zh": "这本书是关于一条龙的。",
+          "startMs": 7030,
+          "endMs": 8940
+        }
+      ],
+      "pdfPage": 2,
+      "startMs": 6951,
+      "endMs": 9290
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff didn't want to read it.",
+          "zh": "Biff 不想读。",
+          "startMs": 15840,
+          "endMs": 20300
+        },
+        {
+          "en": "She didn't like dragons.",
+          "zh": "她不喜欢龙。",
+          "startMs": 20840,
+          "endMs": 22940
+        }
+      ],
+      "pdfPage": 3,
+      "startMs": 15690,
+      "endMs": 23290
+    },
+    {
+      "sentences": [],
+      "pdfPage": 4,
+      "startMs": 23290,
+      "endMs": 23291
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went into Chip's room.",
+          "zh": "Kipper 走进 Chip 的房间。",
+          "startMs": 23900,
+          "endMs": 26960
+        },
+        {
+          "en": "\"I like dragons!\"",
+          "zh": "我不喜欢龙！”",
+          "startMs": 34240,
+          "endMs": 35820
+        },
+        {
+          "en": "\"Oh no!\" said Chip.",
+          "zh": "“哎呀，不好了！”Chip 说道。",
+          "startMs": 50610,
+          "endMs": 53310
+        },
+        {
+          "en": "Something was glowing.",
+          "zh": "有东西在发光。",
+          "startMs": 53340,
+          "endMs": 54080
+        },
+        {
+          "en": "It was the magic key.",
+          "zh": "那是魔法钥匙。",
+          "startMs": 54080,
+          "endMs": 54280
+        }
+      ],
+      "pdfPage": 5,
+      "startMs": 23750,
+      "endMs": 54630
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Chip.",
+          "zh": "哎呀。 Chip 说道。",
+          "startMs": 54280,
+          "endMs": 54480
+        }
+      ],
+      "pdfPage": 6,
+      "startMs": 54630,
+      "endMs": 54830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked out the box.",
+          "zh": "Biff 和 Chip 看了看盒子。",
+          "startMs": 55000,
+          "endMs": 60060
+        },
+        {
+          "en": "He ran into Biff's room.",
+          "zh": "他跑进了 Biff 的房间。",
+          "startMs": 60090,
+          "endMs": 62140
+        },
+        {
+          "en": "\"The magic is working,\" he said.",
+          "zh": "“魔法起作用了，”他说。",
+          "startMs": 62140,
+          "endMs": 67080
+        },
+        {
+          "en": "Biff picked up the key.",
+          "zh": "Biff 捡起了钥匙。",
+          "startMs": 68150,
+          "endMs": 70220
+        }
+      ],
+      "pdfPage": 7,
+      "startMs": 54850,
+      "endMs": 70570
+    },
+    {
+      "sentences": [
+        {
+          "en": "They looked at the magic house.",
+          "zh": "他们看着魔法小屋。",
+          "startMs": 71060,
+          "endMs": 72950
+        },
+        {
+          "en": "\"The door is open,\" said Biff.",
+          "zh": "“门开了，”Biff 说。 Biff 说道。",
+          "startMs": 72980,
+          "endMs": 77110
+        }
+      ],
+      "pdfPage": 8,
+      "startMs": 70910,
+      "endMs": 77460
+    },
+    {
+      "sentences": [],
+      "pdfPage": 9,
+      "startMs": 77460,
+      "endMs": 77461
+    },
+    {
+      "sentences": [
+        {
+          "en": "The magic was working.",
+          "zh": "魔法起作用了。",
+          "startMs": 77140,
+          "endMs": 79970
+        },
+        {
+          "en": "It took the children inside.",
+          "zh": "它把孩子们带进了屋里。",
+          "startMs": 89310,
+          "endMs": 95350
+        },
+        {
+          "en": "It took Floppy too.",
+          "zh": "它也把 Floppy 带了进去。",
+          "startMs": 95380,
+          "endMs": 98520
+        }
+      ],
+      "pdfPage": 10,
+      "startMs": 77461,
+      "endMs": 98870
+    },
+    {
+      "sentences": [
+        {
+          "en": "It took them to a wood.",
+          "zh": "它把他们带到了一片树林里。",
+          "startMs": 101840,
+          "endMs": 107310
+        },
+        {
+          "en": "Floppy didn't like the wood.",
+          "zh": "Floppy 不喜欢这片树林。",
+          "startMs": 107340,
+          "endMs": 109700
+        },
+        {
+          "en": "He was frightened.",
+          "zh": "他很害怕。",
+          "startMs": 110840,
+          "endMs": 114140
+        },
+        {
+          "en": "Biff pulled Floppy.",
+          "zh": "Biff 拉了拉 Floppy。",
+          "startMs": 115210,
+          "endMs": 120310
+        }
+      ],
+      "pdfPage": 11,
+      "startMs": 101690,
+      "endMs": 120660
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" She said.",
+          "zh": "来吧。 她说。",
+          "startMs": 122630,
+          "endMs": 124940
+        }
+      ],
+      "pdfPage": 12,
+      "startMs": 122480,
+      "endMs": 125290
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Don't be silly.\"",
+          "zh": "“别傻了！”",
+          "startMs": 126860,
+          "endMs": 128470
+        },
+        {
+          "en": "An owl flew out of a tree.",
+          "zh": "一只猫头鹰从树上飞了出来。",
+          "startMs": 128500,
+          "endMs": 130900
+        },
+        {
+          "en": "Floppy didn't like the owl.",
+          "zh": "Floppy 不喜欢猫头鹰。",
+          "startMs": 135310,
+          "endMs": 139210
+        },
+        {
+          "en": "He ran away.",
+          "zh": "他跑掉了。",
+          "startMs": 139500,
+          "endMs": 140660
+        },
+        {
+          "en": "Floppy ran out of the wood.",
+          "zh": "Floppy 跑出了树林。",
+          "startMs": 144840,
+          "endMs": 150760
+        }
+      ],
+      "pdfPage": 13,
+      "startMs": 126710,
+      "endMs": 151110
+    },
+    {
+      "sentences": [
+        {
+          "en": "Called Biff.",
+          "zh": "Biff 喊道。",
+          "startMs": 154030,
+          "endMs": 160110
+        },
+        {
+          "en": "It was no good.",
+          "zh": "没用。",
+          "startMs": 160140,
+          "endMs": 161970
+        }
+      ],
+      "pdfPage": 14,
+      "startMs": 153880,
+      "endMs": 162320
+    },
+    {
+      "sentences": [
+        {
+          "en": "Come back!\"",
+          "zh": "“回来！”",
+          "startMs": 162000,
+          "endMs": 163720
+        },
+        {
+          "en": "Floppy ran and ran.",
+          "zh": "Floppy 跑啊跑。",
+          "startMs": 163720,
+          "endMs": 164030
+        },
+        {
+          "en": "\"Help!\"",
+          "zh": "“救命！”",
+          "startMs": 166420,
+          "endMs": 167260
+        },
+        {
+          "en": "\"Oh help!\" said Biff.",
+          "zh": "“哎呀，救命！”Biff 说道。",
+          "startMs": 174510,
+          "endMs": 185080
+        },
+        {
+          "en": "The children looked for Floppy.",
+          "zh": "孩子们在找 Floppy。",
+          "startMs": 185080,
+          "endMs": 185390
+        },
+        {
+          "en": "They called and called.",
+          "zh": "他们一遍又一遍地呼唤。",
+          "startMs": 185390,
+          "endMs": 185630
+        }
+      ],
+      "pdfPage": 15,
+      "startMs": 162320,
+      "endMs": 185980
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Floppy, come back!\" They called.",
+          "zh": "“Floppy，回来！” 他们喊道。",
+          "startMs": 185630,
+          "endMs": 186080
+        },
+        {
+          "en": "The children came to a tree.",
+          "zh": "孩子们来到一棵树下。",
+          "startMs": 187320,
+          "endMs": 190080
+        }
+      ],
+      "pdfPage": 16,
+      "startMs": 185980,
+      "endMs": 190430
+    },
+    {
+      "sentences": [
+        {
+          "en": "It was called \"The Dragon Tree\".",
+          "zh": "它被称为龙树。",
+          "startMs": 190110,
+          "endMs": 193330
+        },
+        {
+          "en": "A dragon lived under the tree.",
+          "zh": "一条龙住在树下。",
+          "startMs": 193360,
+          "endMs": 196400
+        },
+        {
+          "en": "The dragon had Floppy.",
+          "zh": "Floppy 在龙的肚子里。",
+          "startMs": 207440,
+          "endMs": 210470
+        },
+        {
+          "en": "He wanted Floppy for supper.",
+          "zh": "他想把 Floppy 当晚餐。",
+          "startMs": 210500,
+          "endMs": 211130
+        },
+        {
+          "en": "Floppy was frightened.",
+          "zh": "Floppy 吓坏了。",
+          "startMs": 212400,
+          "endMs": 213730
+        }
+      ],
+      "pdfPage": 17,
+      "startMs": 190430,
+      "endMs": 214080
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" Said Biff.",
+          "zh": "哎呀。 Biff 说道。",
+          "startMs": 218560,
+          "endMs": 221940
+        },
+        {
+          "en": "\"What a nasty dragon!",
+          "zh": "“真是一条讨厌的龙！",
+          "startMs": 221970,
+          "endMs": 223940
+        },
+        {
+          "en": "I don't like dragons!\"",
+          "zh": "我不喜欢龙！”",
+          "startMs": 223970,
+          "endMs": 226540
+        }
+      ],
+      "pdfPage": 18,
+      "startMs": 218410,
+      "endMs": 226890
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff looked at the dragon's tail.",
+          "zh": "Biff 看着龙的尾巴。",
+          "startMs": 231000,
+          "endMs": 236430
+        },
+        {
+          "en": "She took off her belt.",
+          "zh": "她解下了腰带。",
+          "startMs": 236460,
+          "endMs": 238290
+        }
+      ],
+      "pdfPage": 19,
+      "startMs": 230850,
+      "endMs": 238640
+    },
+    {
+      "sentences": [
+        {
+          "en": "She put it round the tail.",
+          "zh": "她把它绕在尾巴上。",
+          "startMs": 239870,
+          "endMs": 245160
+        },
+        {
+          "en": "Chip helped her.",
+          "zh": "Chip 帮了她。",
+          "startMs": 245960,
+          "endMs": 250080
+        }
+      ],
+      "pdfPage": 20,
+      "startMs": 239720,
+      "endMs": 250430
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper went inside the tree.",
+          "zh": "Kipper 进了树里。",
+          "startMs": 251230,
+          "endMs": 254100
+        },
+        {
+          "en": "He pulled Floppy out.",
+          "zh": "他把 Floppy 拉了出来。",
+          "startMs": 254130,
+          "endMs": 257260
+        },
+        {
+          "en": "Chip helped him.",
+          "zh": "Chip 帮了他。",
+          "startMs": 257290,
+          "endMs": 258680
+        }
+      ],
+      "pdfPage": 21,
+      "startMs": 251080,
+      "endMs": 259030
+    },
+    {
+      "sentences": [
+        {
+          "en": "The dragon was cooking.",
+          "zh": "龙正在做饭。",
+          "startMs": 263030,
+          "endMs": 265160
+        },
+        {
+          "en": "It didn't see them.",
+          "zh": "它没有看见他们。",
+          "startMs": 265190,
+          "endMs": 266290
+        }
+      ],
+      "pdfPage": 22,
+      "startMs": 262880,
+      "endMs": 266640
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Come on!\" Called Chip.",
+          "zh": "来吧。 Chip 喊道。",
+          "startMs": 269840,
+          "endMs": 274700
+        },
+        {
+          "en": "They ran and ran.",
+          "zh": "他们跑啊跑。",
+          "startMs": 274730,
+          "endMs": 276940
+        },
+        {
+          "en": "The key was glowing. Called Biff.",
+          "zh": "钥匙在发光。 Biff 喊道。",
+          "startMs": 276980,
+          "endMs": 290190
+        }
+      ],
+      "pdfPage": 23,
+      "startMs": 269690,
+      "endMs": 290540
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"The key is glowing,\" called Biff.",
+          "zh": "“钥匙在发光，”Biff 喊道。",
+          "startMs": 290220,
+          "endMs": 292600
+        },
+        {
+          "en": "\"It's time to go home.\" Said Chip.",
+          "zh": "“是时候回家了！” Chip 说道。",
+          "startMs": 292600,
+          "endMs": 292800
+        }
+      ],
+      "pdfPage": 24,
+      "startMs": 290540,
+      "endMs": 293150
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"What an adventure!\"",
+          "zh": "“真是一场冒险！”",
+          "startMs": 296940,
+          "endMs": 299070
+        },
+        {
+          "en": "\"I don't like dragons!\" Said Biff.",
+          "zh": "我不喜欢龙！” Biff 说道。",
+          "startMs": 299590,
+          "endMs": 303730
+        }
+      ],
+      "pdfPage": 25,
+      "startMs": 296790,
+      "endMs": 304080
+    },
+    {
+      "sentences": [],
+      "pdfPage": 26,
+      "startMs": 304080,
+      "endMs": 304081
+    },
+    {
+      "sentences": [],
+      "pdfPage": 27,
+      "startMs": 304081,
+      "endMs": 304082
+    }
+  ]
+}

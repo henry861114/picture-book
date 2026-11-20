@@ -1,0 +1,213 @@
+{
+  "id": "L4-002",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam had a new car.",
+          "zh": "亚当有一个新的汽车。",
+          "startMs": 0,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He saw a car on television.",
+          "zh": "他看见一个汽车在……上电视。",
+          "startMs": 7000,
+          "endMs": 11100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 11450
+    },
+    {
+      "sentences": [
+        {
+          "en": "It looked like his car.",
+          "zh": "它看喜欢他的汽车。",
+          "startMs": 11000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 10850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [],
+      "startMs": 16870,
+      "endMs": 17670,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam had an idea.",
+          "zh": "亚当有一个主意。",
+          "startMs": 19900,
+          "endMs": 27100
+        }
+      ],
+      "startMs": 19750,
+      "endMs": 27450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went to the flour bin.",
+          "zh": "他去到这面粉邠。",
+          "startMs": 27000,
+          "endMs": 31100
+        }
+      ],
+      "startMs": 26850,
+      "endMs": 31450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He put flour on the car.",
+          "zh": "他放面粉在……上这汽车。",
+          "startMs": 31000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 30850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He dropped the car.",
+          "zh": "他掉下这汽车。",
+          "startMs": 38000,
+          "endMs": 42100
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 42450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Oh no!\" said Adam.",
+          "zh": "哦不！ 说亚当。",
+          "startMs": 42020,
+          "endMs": 51100
+        }
+      ],
+      "startMs": 41870,
+      "endMs": 51450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He looked in the flour.",
+          "zh": "他看在……里这面粉。",
+          "startMs": 51000,
+          "endMs": 53450
+        }
+      ],
+      "startMs": 50850,
+      "endMs": 53800
+    },
+    {
+      "sentences": [
+        {
+          "en": "He couldn't find the car.",
+          "zh": "他不能找到这汽车。",
+          "startMs": 55000,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 54850,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The bin fell over.",
+          "zh": "这邠落下在……上方。",
+          "startMs": 62000,
+          "endMs": 66100
+        }
+      ],
+      "startMs": 61850,
+      "endMs": 66450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The flour went everywhere.",
+          "zh": "这面粉去到处。",
+          "startMs": 52800,
+          "endMs": 74100
+        }
+      ],
+      "startMs": 52650,
+      "endMs": 74450
+    },
+    {
+      "sentences": [],
+      "startMs": 71720,
+      "endMs": 72520,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was cross.",
+          "zh": "妈妈是叉形。",
+          "startMs": 74000,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 73850,
+      "endMs": 81450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Adam was sorry.",
+          "zh": "亚当是对不起。",
+          "startMs": 73963,
+          "endMs": 77880
+        },
+        {
+          "en": "1 Printed in China by Imago",
+          "zh": "1 印刷的在……里瓷由 Imago",
+          "startMs": 77880,
+          "endMs": 84930
+        }
+      ],
+      "startMs": 73963,
+      "endMs": 84930
+    },
+    {
+      "sentences": [],
+      "startMs": 84930,
+      "endMs": 86169,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 86169,
+      "endMs": 86468,
+      "illustrationOnly": true
+    }
+  ]
+}

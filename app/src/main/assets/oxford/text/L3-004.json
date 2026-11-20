@@ -1,0 +1,243 @@
+{
+  "id": "L3-004",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf and Dad went to the ice rink.",
+          "zh": "Wilf 和爸爸去到这冰溜冰场。",
+          "startMs": 0,
+          "endMs": 3480
+        },
+        {
+          "en": "They put skates on.",
+          "zh": "他们放冰鞋在……上。",
+          "startMs": 3380,
+          "endMs": 7480
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7830
+    },
+    {
+      "sentences": [
+        {
+          "en": "They went on to the ice.",
+          "zh": "他们去在……上到这冰。",
+          "startMs": 10380,
+          "endMs": 13480
+        }
+      ],
+      "startMs": 10230,
+      "endMs": 13830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Hold my hand,\" said Dad.",
+          "zh": "拿着我的手， 说爸爸。",
+          "startMs": 13380,
+          "endMs": 18480
+        }
+      ],
+      "startMs": 13230,
+      "endMs": 18830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf held Dad's hand.",
+          "zh": "Wilf 拿着爸爸手。",
+          "startMs": 24180,
+          "endMs": 27480
+        }
+      ],
+      "startMs": 24030,
+      "endMs": 27830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This is fun,\" said Wilf.",
+          "zh": "这个是乐趣， 说 Wilf。",
+          "startMs": 27380,
+          "endMs": 31400
+        }
+      ],
+      "startMs": 27230,
+      "endMs": 31750
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf let go of his Dad's hand.",
+          "zh": "Wilf 让去的他的爸爸手。",
+          "startMs": 41450,
+          "endMs": 49480
+        }
+      ],
+      "startMs": 41300,
+      "endMs": 49830
+    },
+    {
+      "sentences": [
+        {
+          "en": "He began to skate.",
+          "zh": "他开始到冰鞋。",
+          "startMs": 49380,
+          "endMs": 51480
+        }
+      ],
+      "startMs": 49230,
+      "endMs": 51830
+    },
+    {
+      "sentences": [
+        {
+          "en": "Whoops!",
+          "zh": "哎哟！",
+          "startMs": 52012,
+          "endMs": 54962
+        },
+        {
+          "en": "Wilf sat down with a bump.",
+          "zh": "Wilf 坐向下和……一起一个撞。",
+          "startMs": 54962,
+          "endMs": 65920
+        }
+      ],
+      "startMs": 52012,
+      "endMs": 65920
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"This ice is cold,\" said Wilf.",
+          "zh": "这个冰是冷的， 说 Wilf。",
+          "startMs": 58450,
+          "endMs": 62200
+        }
+      ],
+      "startMs": 58300,
+      "endMs": 62550
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad began to skate.",
+          "zh": "爸爸开始到冰鞋。",
+          "startMs": 67380,
+          "endMs": 70430
+        }
+      ],
+      "startMs": 67230,
+      "endMs": 70780
+    },
+    {
+      "sentences": [
+        {
+          "en": "He went round the rink.",
+          "zh": "他去圆形的这溜冰场。",
+          "startMs": 70330,
+          "endMs": 73480
+        }
+      ],
+      "startMs": 70180,
+      "endMs": 73830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me spin!\" said Dad.",
+          "zh": "看在我快速转动！ 说爸爸。",
+          "startMs": 80380,
+          "endMs": 84480
+        }
+      ],
+      "startMs": 80230,
+      "endMs": 84830
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look at me jump!\"",
+          "zh": "看在我跳！",
+          "startMs": 89380,
+          "endMs": 91480
+        }
+      ],
+      "startMs": 89230,
+      "endMs": 91830
+    },
+    {
+      "sentences": [
+        {
+          "en": "FOoD SANDWICH ...",
+          "zh": "食物三明治。。。",
+          "startMs": 98600,
+          "endMs": 103951
+        },
+        {
+          "en": "Dad got some cold drinks.",
+          "zh": "爸爸得到一些冷的喝。",
+          "startMs": 103951,
+          "endMs": 111820
+        }
+      ],
+      "startMs": 98600,
+      "endMs": 111820
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Look out, Dad,\" said Wilf.",
+          "zh": "看出， 爸爸， 说 Wilf。",
+          "startMs": 106720,
+          "endMs": 110950
+        }
+      ],
+      "startMs": 106570,
+      "endMs": 111300
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 116380,
+          "endMs": 117850
+        },
+        {
+          "en": "A banana skin.",
+          "zh": "一个香蕉皮肤。",
+          "startMs": 117750,
+          "endMs": 120480
+        }
+      ],
+      "startMs": 116230,
+      "endMs": 120830
+    },
+    {
+      "sentences": [],
+      "startMs": 122830,
+      "endMs": 123336,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 123336,
+      "endMs": 123636,
+      "illustrationOnly": true
+    }
+  ]
+}

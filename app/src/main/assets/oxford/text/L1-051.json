@@ -1,0 +1,111 @@
+{
+  "id": "L1-051",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum was a scarecrow.",
+          "zh": "妈妈是一个稻草人。",
+          "startMs": 0,
+          "endMs": 6600
+        }
+      ],
+      "startMs": 0,
+      "endMs": 6950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff was a pirate.",
+          "zh": "Biff 是一个海盗。",
+          "startMs": 10500,
+          "endMs": 13600
+        }
+      ],
+      "startMs": 10350,
+      "endMs": 13950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip was a pirate.",
+          "zh": "Chip 是一个海盗。",
+          "startMs": 14500,
+          "endMs": 16600
+        }
+      ],
+      "startMs": 14350,
+      "endMs": 16950
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was an angel.",
+          "zh": "Kipper 是一个天使。",
+          "startMs": 20500,
+          "endMs": 23600
+        }
+      ],
+      "startMs": 20350,
+      "endMs": 23950
+    },
+    {
+      "sentences": [],
+      "startMs": 27040,
+      "endMs": 27840,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad was a chicken.",
+          "zh": "爸爸是一个鸡。",
+          "startMs": 27860,
+          "endMs": 29600
+        }
+      ],
+      "startMs": 27710,
+      "endMs": 29950
+    },
+    {
+      "sentences": [],
+      "startMs": 32440,
+      "endMs": 34625,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was happy.",
+          "zh": "每个人是快乐的。",
+          "startMs": 36500,
+          "endMs": 38600
+        }
+      ],
+      "startMs": 36350,
+      "endMs": 38950
+    },
+    {
+      "sentences": [],
+      "startMs": 41767,
+      "endMs": 42267,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 42267,
+      "endMs": 42518,
+      "illustrationOnly": true
+    }
+  ]
+}

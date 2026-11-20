@@ -1,0 +1,207 @@
+{
+  "id": "L2-024",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "sentences": [],
+      "startMs": 800,
+      "endMs": 3000
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff's spade was no good.",
+          "zh": "Biff 锹是不好的。",
+          "startMs": 3000,
+          "endMs": 11142
+        }
+      ],
+      "startMs": 3000,
+      "endMs": 11142
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a big spade.",
+          "zh": "爸爸得到一个大的锹。",
+          "startMs": 11142,
+          "endMs": 19101
+        }
+      ],
+      "startMs": 11142,
+      "endMs": 19101
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let me dig a hole,\" he said.",
+          "zh": "让我掘一个洞， 他说。",
+          "startMs": 19101,
+          "endMs": 30730
+        }
+      ],
+      "startMs": 19101,
+      "endMs": 30730
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad dug a hole.",
+          "zh": "爸爸 dug 一个洞。",
+          "startMs": 40960,
+          "endMs": 50060
+        }
+      ],
+      "startMs": 40810,
+      "endMs": 50410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children helped.",
+          "zh": "这孩子们帮助。",
+          "startMs": 21810,
+          "endMs": 22230
+        }
+      ],
+      "startMs": 21660,
+      "endMs": 22580
+    },
+    {
+      "sentences": [
+        {
+          "en": "The hole got bigger... and bigger,",
+          "zh": "这洞得到大的。。。 和大的，",
+          "startMs": 44568,
+          "endMs": 55580
+        }
+      ],
+      "startMs": 44568,
+      "endMs": 55580
+    },
+    {
+      "sentences": [
+        {
+          "en": "and deeper ... and deeper.",
+          "zh": "和深的。。。 和深的。",
+          "startMs": 77960,
+          "endMs": 81060
+        }
+      ],
+      "startMs": 77810,
+      "endMs": 81410
+    },
+    {
+      "sentences": [
+        {
+          "en": "All the children came.",
+          "zh": "全部这孩子们来。",
+          "startMs": 90960,
+          "endMs": 93090
+        }
+      ],
+      "startMs": 90810,
+      "endMs": 93440
+    },
+    {
+      "sentences": [
+        {
+          "en": "They played in the hole.",
+          "zh": "他们玩在……里这洞。",
+          "startMs": 93960,
+          "endMs": 97060
+        }
+      ],
+      "startMs": 93810,
+      "endMs": 97410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water came in.",
+          "zh": "这水来在……里。",
+          "startMs": 102960,
+          "endMs": 106060
+        }
+      ],
+      "startMs": 102810,
+      "endMs": 106410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can't stop it,\" said Dad.",
+          "zh": "我不能停它， 说爸爸。",
+          "startMs": 109960,
+          "endMs": 113060
+        }
+      ],
+      "startMs": 109810,
+      "endMs": 113410
+    },
+    {
+      "sentences": [
+        {
+          "en": "The tide came in.",
+          "zh": "这潮来在……里。",
+          "startMs": 115960,
+          "endMs": 118060
+        }
+      ],
+      "startMs": 115810,
+      "endMs": 118410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad's spade was in the hole.",
+          "zh": "爸爸锹是在……里这洞。",
+          "startMs": 122270,
+          "endMs": 124060
+        }
+      ],
+      "startMs": 122120,
+      "endMs": 124410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next day, the hole had gone.",
+          "zh": "下一个一天， 这洞有去了。",
+          "startMs": 128960,
+          "endMs": 132060
+        }
+      ],
+      "startMs": 128810,
+      "endMs": 132410
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad's spade was under the sand.",
+          "zh": "爸爸锹是在……下方这沙。",
+          "startMs": 132530,
+          "endMs": 137060
+        }
+      ],
+      "startMs": 132380,
+      "endMs": 137410
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's dig,\" said Dad.",
+          "zh": "让我们掘， 说爸爸。",
+          "startMs": 141960,
+          "endMs": 144060
+        }
+      ],
+      "startMs": 141810,
+      "endMs": 144410
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "L3-025",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge fell off his bike.",
+          "zh": "蠓落下离开他的自行车。",
+          "startMs": 0,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7450
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 1390,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "The ambulance came.",
+          "zh": "这救护车来。",
+          "startMs": 7000,
+          "endMs": 10100
+        },
+        {
+          "en": "The man looked at Midge's foot.",
+          "zh": "这男人看在蠓脚。",
+          "startMs": 10000,
+          "endMs": 18100
+        }
+      ],
+      "startMs": 6850,
+      "endMs": 18450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They took Midge to hospital.",
+          "zh": "他们拿蠓到医院。",
+          "startMs": 18000,
+          "endMs": 23100
+        }
+      ],
+      "startMs": 17850,
+      "endMs": 23450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge was frightened.",
+          "zh": "蠓是受惊的。",
+          "startMs": 23020,
+          "endMs": 26100
+        },
+        {
+          "en": "He didn't want to go to hospital.",
+          "zh": "他没有想要到去到医院。",
+          "startMs": 26000,
+          "endMs": 33100
+        }
+      ],
+      "startMs": 22870,
+      "endMs": 33450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A doctor looked at Midge's foot.",
+          "zh": "一个医生看在蠓脚。",
+          "startMs": 33000,
+          "endMs": 38100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 38450
+    },
+    {
+      "sentences": [
+        {
+          "en": "A doctor gave Midge a sweet.",
+          "zh": "一个医生给蠓一个含糖的。",
+          "startMs": 38000,
+          "endMs": 46100
+        }
+      ],
+      "startMs": 37850,
+      "endMs": 46450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge's mum came to see him.",
+          "zh": "蠓妈妈来到看见他。",
+          "startMs": 46000,
+          "endMs": 50100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 50450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She gave him a toy.",
+          "zh": "她给他一个玩具。",
+          "startMs": 51060,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 50910,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midges nan came to see him.",
+          "zh": "蠓囡来到看见他。",
+          "startMs": 58690,
+          "endMs": 62100
+        }
+      ],
+      "startMs": 58540,
+      "endMs": 62450
+    },
+    {
+      "sentences": [
+        {
+          "en": "She gave him some fruit.",
+          "zh": "她给他一些水果。",
+          "startMs": 62000,
+          "endMs": 69100
+        }
+      ],
+      "startMs": 61850,
+      "endMs": 69450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Midge's friends came to see him.",
+          "zh": "蠓朋友们来到看见他。",
+          "startMs": 69000,
+          "endMs": 74100
+        }
+      ],
+      "startMs": 68850,
+      "endMs": 74450
+    },
+    {
+      "sentences": [
+        {
+          "en": "They gave him some books.",
+          "zh": "他们给他一些书。",
+          "startMs": 75060,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 74910,
+      "endMs": 81450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"It's not so bad in hospital,\" said Midge.",
+          "zh": "它是不所以坏的在……里医院， 说蠓。",
+          "startMs": 81000,
+          "endMs": 91100
+        }
+      ],
+      "startMs": 80850,
+      "endMs": 91450
+    },
+    {
+      "sentences": [],
+      "startMs": 79290,
+      "endMs": 81445,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "WELLOME HOME MIDGE Printed in China by Imago \"It's good to be home.\"",
+          "zh": "WELLOME 家蠓印刷的在……里瓷由 Imago 它是好的到是家。",
+          "startMs": 88930,
+          "endMs": 93100
+        }
+      ],
+      "startMs": 88780,
+      "endMs": 93450
+    },
+    {
+      "sentences": [],
+      "startMs": 94340,
+      "endMs": 95839,
+      "illustrationOnly": true
+    }
+  ]
+}

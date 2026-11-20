@@ -1,0 +1,219 @@
+{
+  "id": "L2-029",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children were in the pool.",
+          "zh": "这孩子们是在……里这池塘。",
+          "startMs": 0,
+          "endMs": 14355
+        }
+      ],
+      "startMs": 0,
+      "endMs": 14355
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilma climbed on the duck.",
+          "zh": "Wilma 爬在……上这鸭。",
+          "startMs": 14355,
+          "endMs": 28240
+        }
+      ],
+      "startMs": 14355,
+      "endMs": 28240
+    },
+    {
+      "sentences": [],
+      "startMs": 28240,
+      "endMs": 29040,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said Wilma.",
+          "zh": "得到在……上， 说 Wilma。",
+          "startMs": 54260,
+          "endMs": 56320
+        }
+      ],
+      "startMs": 54110,
+      "endMs": 56670
+    },
+    {
+      "sentences": [
+        {
+          "en": "Wilf climbed on.",
+          "zh": "Wilf 爬在……上。",
+          "startMs": 46910,
+          "endMs": 48500
+        }
+      ],
+      "startMs": 46760,
+      "endMs": 48850
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said Wilf.",
+          "zh": "得到在……上， 说 Wilf。",
+          "startMs": 66080,
+          "endMs": 70180
+        }
+      ],
+      "startMs": 65930,
+      "endMs": 70530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip climbed on.",
+          "zh": "Chip 爬在……上。",
+          "startMs": 73080,
+          "endMs": 76180
+        }
+      ],
+      "startMs": 72930,
+      "endMs": 76530
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said Chip.",
+          "zh": "得到在……上， 说 Chip。",
+          "startMs": 78080,
+          "endMs": 82180
+        }
+      ],
+      "startMs": 77930,
+      "endMs": 82530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff climbed on.",
+          "zh": "Biff 爬在……上。",
+          "startMs": 84080,
+          "endMs": 86180
+        }
+      ],
+      "startMs": 83930,
+      "endMs": 86530
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said Biff.",
+          "zh": "得到在……上， 说 Biff。",
+          "startMs": 90080,
+          "endMs": 94180
+        }
+      ],
+      "startMs": 89930,
+      "endMs": 94530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper couldn't get on.",
+          "zh": "Kipper 不能得到在……上。",
+          "startMs": 98080,
+          "endMs": 102180
+        }
+      ],
+      "startMs": 97930,
+      "endMs": 102530
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said everyone.",
+          "zh": "得到在……上， 说每个人。",
+          "startMs": 106080,
+          "endMs": 110180
+        }
+      ],
+      "startMs": 105930,
+      "endMs": 110530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper couldn't get on.",
+          "zh": "Kipper 不能得到在……上。",
+          "startMs": 98080,
+          "endMs": 102180
+        }
+      ],
+      "startMs": 97930,
+      "endMs": 102530
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Get on,\" said everyone.",
+          "zh": "得到在……上， 说每个人。",
+          "startMs": 122080,
+          "endMs": 126180
+        }
+      ],
+      "startMs": 121930,
+      "endMs": 126530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper climbed on.",
+          "zh": "Kipper 爬在……上。",
+          "startMs": 130080,
+          "endMs": 134180
+        }
+      ],
+      "startMs": 129930,
+      "endMs": 134530
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 142080,
+          "endMs": 144180
+        },
+        {
+          "en": "♪♪.",
+          "zh": "",
+          "startMs": -1,
+          "endMs": -1
+        }
+      ],
+      "startMs": 141930,
+      "endMs": 144530
+    },
+    {
+      "sentences": [],
+      "startMs": 146870,
+      "endMs": 147212,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 147370,
+      "endMs": 147212,
+      "illustrationOnly": true
+    }
+  ]
+}

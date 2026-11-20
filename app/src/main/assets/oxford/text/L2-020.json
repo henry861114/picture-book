@@ -1,0 +1,207 @@
+{
+  "id": "L2-020",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy was not well.",
+          "zh": "Floppy 是不好。",
+          "startMs": 0,
+          "endMs": 7100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 7450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He lay on his bed.",
+          "zh": "他安放在……上他的床。",
+          "startMs": 14000,
+          "endMs": 17100
+        }
+      ],
+      "startMs": 13850,
+      "endMs": 17450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"He looks bad,\" said Kipper.",
+          "zh": "他看坏的， 说 Kipper。",
+          "startMs": 17960,
+          "endMs": 24100
+        }
+      ],
+      "startMs": 17810,
+      "endMs": 24450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff wanted Floppy to get well.",
+          "zh": "Biff 想要 Floppy 到得到好。",
+          "startMs": 30000,
+          "endMs": 34100
+        }
+      ],
+      "startMs": 29850,
+      "endMs": 34450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper was sad.",
+          "zh": "Kipper 是伤心的。",
+          "startMs": 34000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 33850,
+      "endMs": 39450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took Floppy to the vet.",
+          "zh": "妈妈拿 Floppy 到这兽医。",
+          "startMs": 46000,
+          "endMs": 52100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 52450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip went, too.",
+          "zh": "Chip 去， 也。",
+          "startMs": 52000,
+          "endMs": 57100
+        }
+      ],
+      "startMs": 51850,
+      "endMs": 57450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip looked at the pets.",
+          "zh": "Chip 看在这宠物。",
+          "startMs": 60000,
+          "endMs": 68100
+        }
+      ],
+      "startMs": 59850,
+      "endMs": 68450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"I can see six cats,\" he said.",
+          "zh": "我能看见六猫， 他说。",
+          "startMs": 68000,
+          "endMs": 75100
+        }
+      ],
+      "startMs": 67850,
+      "endMs": 75450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy just looked at the cats.",
+          "zh": "Floppy 刚刚看在这猫。",
+          "startMs": 75000,
+          "endMs": 81100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 81450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He was not well.",
+          "zh": "他是不好。",
+          "startMs": 81000,
+          "endMs": 88100
+        }
+      ],
+      "startMs": 80850,
+      "endMs": 88450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The vet looked at Floppy.",
+          "zh": "这兽医看在 Floppy。",
+          "startMs": 88290,
+          "endMs": 94100
+        }
+      ],
+      "startMs": 88140,
+      "endMs": 94450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Give him some pills,\" she said.",
+          "zh": "给他一些药丸， 她说。",
+          "startMs": 94000,
+          "endMs": 102100
+        }
+      ],
+      "startMs": 93850,
+      "endMs": 102450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum took Floppy home.",
+          "zh": "妈妈拿 Floppy 家。",
+          "startMs": 102450,
+          "endMs": 105100
+        }
+      ],
+      "startMs": 102300,
+      "endMs": 105450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy had some pills.",
+          "zh": "Floppy 有一些药丸。",
+          "startMs": 105000,
+          "endMs": 116100
+        }
+      ],
+      "startMs": 104850,
+      "endMs": 116450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Floppy was soon better.",
+          "zh": "Floppy 是很快更好的。",
+          "startMs": 116290,
+          "endMs": 126100
+        }
+      ],
+      "startMs": 116140,
+      "endMs": 126218
+    }
+  ]
+}

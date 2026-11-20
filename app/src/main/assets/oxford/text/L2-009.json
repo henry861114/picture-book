@@ -1,0 +1,219 @@
+{
+  "id": "L2-009",
+  "pages": [
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [],
+      "startMs": 0,
+      "endMs": 100
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone was hot.",
+          "zh": "每个人是热的。",
+          "startMs": 0,
+          "endMs": 2100
+        }
+      ],
+      "startMs": 0,
+      "endMs": 2450
+    },
+    {
+      "sentences": [
+        {
+          "en": "The children wanted to go swimming.",
+          "zh": "这孩子们想要到去游泳。",
+          "startMs": 6000,
+          "endMs": 9100
+        }
+      ],
+      "startMs": 5850,
+      "endMs": 9450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad said \"No!\"",
+          "zh": "爸爸说不！",
+          "startMs": 10000,
+          "endMs": 12100
+        }
+      ],
+      "startMs": 9850,
+      "endMs": 12450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Biff got the paddling pool.",
+          "zh": "Biff 得到这短桨池塘。",
+          "startMs": 16000,
+          "endMs": 19100
+        }
+      ],
+      "startMs": 15850,
+      "endMs": 19450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Kipper filled it with water.",
+          "zh": "Kipper 充满它和……一起水。",
+          "startMs": 20000,
+          "endMs": 22100
+        }
+      ],
+      "startMs": 19850,
+      "endMs": 22450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Chip pushed Biff in the water.",
+          "zh": "Chip 推 Biff 在……里这水。",
+          "startMs": 33000,
+          "endMs": 35100
+        }
+      ],
+      "startMs": 32850,
+      "endMs": 35450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He grabbed the hose.",
+          "zh": "他抓住这软管。",
+          "startMs": 37000,
+          "endMs": 39100
+        }
+      ],
+      "startMs": 36850,
+      "endMs": 39450
+    },
+    {
+      "sentences": [],
+      "startMs": 56340,
+      "endMs": 57140,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [
+        {
+          "en": "They had a water fight.",
+          "zh": "他们有一个水打架。",
+          "startMs": 46000,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 45850,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mum got wet.",
+          "zh": "妈妈得到湿的。",
+          "startMs": 63975,
+          "endMs": 68253
+        },
+        {
+          "en": "Danielle Steel",
+          "zh": "Danielle 钢",
+          "startMs": 68253,
+          "endMs": 73243
+        }
+      ],
+      "startMs": 63975,
+      "endMs": 73243
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Stop it!\" said Dad.",
+          "zh": "停它！ 说爸爸。",
+          "startMs": 67000,
+          "endMs": 70100
+        }
+      ],
+      "startMs": 66850,
+      "endMs": 70450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad got a bucket of water.",
+          "zh": "爸爸得到一个桶的水。",
+          "startMs": 75000,
+          "endMs": 78100
+        }
+      ],
+      "startMs": 74850,
+      "endMs": 78450
+    },
+    {
+      "sentences": [
+        {
+          "en": "He chased Chip.",
+          "zh": "他追赶 Chip。",
+          "startMs": 82000,
+          "endMs": 84100
+        }
+      ],
+      "startMs": 81850,
+      "endMs": 84450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Dad threw the water at Chip.",
+          "zh": "爸爸扔这水在 Chip。",
+          "startMs": 90000,
+          "endMs": 92100
+        }
+      ],
+      "startMs": 89850,
+      "endMs": 92450
+    },
+    {
+      "sentences": [
+        {
+          "en": "Oh no!",
+          "zh": "哦不！",
+          "startMs": 95000,
+          "endMs": 96100
+        }
+      ],
+      "startMs": 94850,
+      "endMs": 96450
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Sorry!\" said Dad.",
+          "zh": "对不起！ 说爸爸。",
+          "startMs": 101000,
+          "endMs": 103100
+        }
+      ],
+      "startMs": 100850,
+      "endMs": 103450
+    },
+    {
+      "sentences": [],
+      "startMs": 112031,
+      "endMs": 112531,
+      "illustrationOnly": true
+    },
+    {
+      "sentences": [],
+      "startMs": 112531,
+      "endMs": 112717,
+      "illustrationOnly": true
+    }
+  ]
+}
