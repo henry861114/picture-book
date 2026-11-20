@@ -1,13 +1,22 @@
 #!/bin/bash
 set -euo pipefail
 
-# 从完整副本(默认 ../magic-tool-for-english)同步二进制资产到本仓库,
-# 使本仓库可以直接 ./build_level_app.sh N 编译。
-# 用法: ./sync_assets.sh            (默认源)
+# 从完整副本同步二进制资产到本仓库,使本仓库可以直接 ./build_level_app.sh N 编译。
+# 依次尝试: 命令行参数 > ../magic-tool-for-english > ../英语/GreenIslandAndroid
+# 用法: ./sync_assets.sh            (自动找源)
 #       ./sync_assets.sh /path/to/full/copy
 
-SRC="${1:-$(cd "$(dirname "$0")" && pwd)/../magic-tool-for-english}"
 DST="$(cd "$(dirname "$0")" && pwd)"
+SRC="${1:-}"
+if [ -z "$SRC" ]; then
+    for cand in "$DST/../magic-tool-for-english" "$DST/../英语/GreenIslandAndroid"; do
+        if [ -d "$cand/app/src/main/assets/oxford/pdf" ]; then
+            SRC="$cand"
+            break
+        fi
+    done
+fi
+SRC="${SRC%/}"
 
 if [ ! -d "$SRC/app/src/main/assets/oxford/pdf" ]; then
     echo "错误: $SRC 下没有 app/src/main/assets/oxford/pdf — 请传入完整副本路径"

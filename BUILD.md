@@ -12,9 +12,18 @@
 /Users/henry/code/app/magic-tool-for-english
 ```
 
+(备用源:`/Users/henry/code/app/英语/GreenIslandAndroid` 同样含全部资产。)
+
 ```bash
 cd /Users/henry/code/app/magic-tool-for-english
 ./build_level_app.sh 6        # 产物: dist/绘本英语-L6.apk
+```
+
+**从 GitHub 新克隆本仓库后**,先运行(自动从上述完整副本同步二进制资产):
+
+```bash
+./sync_assets.sh
+./build_level_app.sh 6        # 之后即可正常编译
 ```
 
 ## 同步方式
